@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Vizualizētājs</string>
+    <string name="wallpaper_vis2">Viļņu forma</string>
+    <string name="wallpaper_vis3">Spektrs</string>
+    <string name="wallpaper_vis4">Skaļuma mērītājs</string>
+    <string name="wallpaper_vis5">Daudz</string>
+    <string name="wallpapers">Mūzikas vizualizācijas fona attēli</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Zīmē jebkura pašlaik atskaņotā mūzikas ieraksta skaņas vilni.</string>
+    <string name="vis3_desc">Rāda jebkura pašlaik atskaņotā mūzikas ieraksta frekvenču spektru.</string>
+    <string name="vis4_desc">Simulē analago skaņas mērītāju.</string>
+    <string name="vis5_desc">Visas mūzikas vizualizācijas kopā lēnām telpiski griežas.</string>
+</resources>

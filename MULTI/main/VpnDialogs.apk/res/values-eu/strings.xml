@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s aplikazioa VPN konexioa sortzeko eskatzen ari da.</string>
+    <string name="warning">Aurrera eginez gero, aplikazioari sareko trafiko guztia atzemateko baimena ematen diozu. <b>EZ onartu aplikazioaz fidatzen ez bazara.</b> Bestela, software gaizto batek zure datuak arriskuan jar ditzake.</string>
+    <string name="accept">Aplikazio honetaz fidatzen naiz.</string>
+    <string name="legacy_title">VPN konektatuta dago</string>
+    <string name="configure">Konfiguratu</string>
+    <string name="disconnect">Deskonektatu</string>
+    <string name="session">Saioa:</string>
+    <string name="duration">Iraupena:</string>
+    <string name="data_transmitted">Bidalita:</string>
+    <string name="data_received">Jasota:</string>
+    <string name="data_value_format">%1$s byte / %2$s pakete</string>
+</resources>

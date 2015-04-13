@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schlüsselbund</string>
+    <string name="title_no_certs">Keine Zertifikate gefunden</string>
+    <string name="title_select_cert">Zertifikat auswählen</string>
+    <string name="requesting_application">Die App %s hat ein Zertifikat angefordert. Durch das Auswählen eines Zertifikats wird der App die Möglichkeit erteilt, diese Identität jetzt und künftig auf Servern zu verwenden.</string>
+    <string name="requesting_server">Die App hat den anfordernden Server als %s identifiziert, jedoch sollten Sie der App nur Zugriff auf das Zertifikat erteilen, wenn Sie sie als vertrauenswürdig ansehen.</string>
+    <string name="install_new_cert_message">Sie können Zertifikate aus einer PKCS#12-Datei mit der Erweiterung %1$s oder %2$s, die sich im externen Speicher befinden, installieren.</string>
+    <string name="install_new_cert_button_label">Installieren</string>
+    <string name="allow_button">Zulassen</string>
+    <string name="deny_button">Ablehnen</string>
+</resources>

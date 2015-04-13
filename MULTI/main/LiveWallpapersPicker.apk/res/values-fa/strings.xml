@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Live Wallpaper Picker</string>
+    <string name="live_wallpaper_picker_title">انتخاب تصویرزمینه زنده</string>
+    <string name="live_wallpaper_picker_label">تصویر زمینه متحرک</string>
+    <string name="live_wallpaper_preview_title">پیش نمایش تصویر زمینه زنده</string>
+    <string name="configure_wallpaper">تنظیمات</string>
+    <string name="wallpaper_instructions">تنظیم تصویرزمینه</string>
+    <string name="live_wallpaper_empty">تصویرزمینه زنده ای وجود ندارد</string>
+    <string name="set_live_wallpaper">تنظیم تصویرزمینه</string>
+    <string name="wallpaper_title_and_author">%1$s توسط %2$s</string>
+    <string name="live_wallpaper_loading">درحال بارگیری تصویرزمینه زنده...</string>
+    <string name="wallpaper_cancel">لغو</string>
+</resources>

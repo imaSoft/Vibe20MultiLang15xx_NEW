@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Толық қосалқы көшірме</string>
+    <string name="restore_confirm_title">Толық қосалық көшірме</string>
+    <string name="backup_confirm_text">"Жалғанған жұмыс үстелі компьютеріне бүкіл деректердің толық қосалқы көшірмесін жасау сұралды. Мұны орындауға рұқсат ету керек пе?
+
+Егер қосалқы көшірме жасауды өзіңіз сұрамасаңыз, әрекетті жалғастыруға рұсқат етпеңіз."</string>
+    <string name="allow_backup_button_label">Деректердің қосалқы көшірмесін жасау</string>
+    <string name="deny_backup_button_label">Қосалқы көшірме жасамау</string>
+    <string name="restore_confirm_text">"Қосылған жұмыс үстелі компьютерінен бүкіл деректерді толығымен қалпына келтіру сұралды. Мұның орын алуына рұқсат ету керек пе?
+
+Егер қалпына келтіруді өзіңіз сұрамасаңыз, әрекеттің жалғасуына рұқсат етпеңіз. Бұл құрылғыда қазіргі уақытта бар бүкіл деректерді ауыстырады!"</string>
+    <string name="allow_restore_button_label">Деректерді қалпына келтіру</string>
+    <string name="deny_restore_button_label">Қалпына келтірмеу</string>
+    <string name="current_password_text">Төменде ағымдағы қосалқы көшірме кілтсөзін енгізіңіз:</string>
+    <string name="device_encryption_restore_text">Төменде құрылғының шифрлау кілтсөзін енгізіңіз.</string>
+    <string name="device_encryption_backup_text">Төменде құрылғыны шифрлау кілтсөзін енгізіңіз. Ол, сонымен бірге, қосалқы көшірме мұрағатын шифрлау үшін пайдаланылады.</string>
+    <string name="backup_enc_password_text">Толық қосалқы көшірме деректерін шифрлау үшін пайдаланатын кілтсөзді енгізіңіз. Бос қалдырсаңыз, ағымдағы қосалқы көшірме жасау кілтсөзі пайдаланылады:</string>
+    <string name="backup_enc_password_optional">Егер толық қосалқы көшірме деректерін шифрлау керек болса, төменде кілтсөзді енгізіңіз:</string>
+    <string name="restore_enc_password_text">Егер қалпына келтіру деректері шифрланған болса, төменде кілтсөзді енгізіңіз:</string>
+    <string name="toast_backup_started">Қосалқы көшірме жасау басталуда...</string>
+    <string name="toast_backup_ended">Қосалқы көшірме жасау аяқталды</string>
+    <string name="toast_restore_started">Қалпына келтіруді бастау...</string>
+    <string name="toast_restore_ended">Қалпына келтіру аяқталды</string>
+    <string name="toast_timeout">Әрекетті күту уақыты бітті</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paketli o‘rnatuvchi</string>
+    <string name="next">Keyingi</string>
+    <string name="install">O‘rnatish</string>
+    <string name="done">Bajarildi</string>
+    <string name="security_settings_desc">Ushbu ilovaga quyidagi uchun ruxsat beradi</string>
+    <string name="cancel">Bekor q.</string>
+    <string name="unknown">Noma’lum</string>
+    <string name="installing">O‘rnatilmoqda…</string>
+    <string name="install_done">Ilova o‘rnatildi</string>
+    <string name="install_confirm_question">Ushbu ilovani o‘rnatmoqchimisiz?</string>
+    <string name="install_failed">Ilova o‘rnatilmadi</string>
+    <string name="install_failed_invalid_apk">Paket zararlangan</string>
+    <string name="install_failed_inconsistent_certificates">Ushbu nomga, lekin boshqa imzoga ega paket avvalroq o‘rnatilgan</string>
+    <string name="install_failed_older_sdk">Paket Androidning yangiroq versiyasida ishlaydi</string>
+    <string name="install_failed_file_not_found">"O‘rnatish yakunlanmasdan avval paket o'chirib tashlandi"</string>
+    <string name="install_failed_verify_failed">Paket tekshiruvdan o‘tmadi va uni o‘rnatib bo‘lmaydi</string>
+    <string name="install_failed_msg">%sni ushbu telefonga o‘rnatib bo‘lmadi</string>
+    <string name="launch">Ochish</string>
+    <string name="unknown_apps_dlg_title">O‘rnatish bloklandi</string>
+    <string name="unknown_apps_dlg_text">Xavfsizlik maqsadlarida ayni vaqtda qurilmangiz Play Storedan olinmagan ilovalar o‘rnatilishini bloklaydigan qilib sozlangan. Buni o‘zgartirish uchun Parametrlar > Xavfsizlik > Noma’lum manbalarga o‘ting.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Parametrlar</string>
+    <string name="allow_source_dlg_title">Ilovalar uchun yangi manbaga ruxsat berilsinmi?</string>
+    <string name="allow_source_dlg_text">%1$s boshqa qurilmalarni o‘rnatmoqchi. Buning uchun hozir va kelajakda ruxsat berilsinmi?</string>
+    <string name="manage_applications">Ilovalarni boshqarish</string>
+    <string name="dlg_app_replacement_title">Ilovani almashtirish</string>
+    <string name="dlg_app_replacement_statement">"O‘rnatilayotgan ilova boshqasining o‘rniga qo‘yiladi.
+
+Barcha foydalanuvchi ma’lumotlari saqlanadi"</string>
+    <string name="dlg_sys_app_replacement_statement">"Bu tizim ilovasi. Hali ham almashtirmoqchimisiz?
+
+Foydalanuvchining barcha avvalgi ma’lumotlari saqlanadi"</string>
+    <string name="out_of_space_dlg_title">Xotira yetarli emas</string>
+    <string name="out_of_space_dlg_text">"%sni o‘rnatib bo‘lmaydi. Ba’zi elementlarni o'chiring va qayta urinib ko‘ring"</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Ilova topilmadi</string>
+    <string name="app_not_found_dlg_text">Ilova o‘rnatilgan ilovalar ro‘yxatida topilmadi.</string>
+    <string name="uninstall_application_title">Ilovani olib tashlash</string>
+    <string name="uninstall_application_text">Ushbu ilova olib tashlansinmi?</string>
+    <string name="uninstall_update_text">Ilova ishlab chiqauvchi versiyasi bilan almashtiriladi.</string>
+    <string name="uninstalling">Olib tashlanmoqda…</string>
+    <string name="uninstall_done">Olib tashlash yakunlandi!</string>
+    <string name="uninstall_failed">Olib tashlash bajarilmadi</string>
+    <string name="uninstall_failed_device_policy_manager">"Olib tashlab bo‘lmadi: paket qurilmaning faol ma'muri hisoblanadi"</string>
+    <string name="manage_device_administrators">"Qurilma ma'murlarini boshqarish"</string>
+    <string name="uninstall_failed_msg">%sni o‘rnatib bo‘lmaydi</string>
+    <string name="Parse_error_dlg_title">Xatoni tahlil qilish</string>
+    <string name="Parse_error_dlg_text">Paketni tahlil qilishda muammo yuzaga keldi</string>
+    <string name="newPerms">Yangi</string>
+    <string name="allPerms">BARCHASI</string>
+    <string name="privacyPerms">Maxfiylik</string>
+    <string name="devicePerms">Qurilmaga kirish</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Очищення SD-карти</string>
+    <string name="loading_please_wait">Йде завантаження, зачекайте</string>
+    <string name="white_list_not_found">Помилка очищення внутрішньої SD-карти: не знайдено білого списку</string>
+    <string name="sdcard_not_available">Помилка очищення внутрішньої SD-карти: Немає SD-карти</string>
+    <string name="clearSDcardFailed">Помилка очищення внутрішньої SD-карти</string>
+    <string name="deleteFileFailed">Не вдалося видалити файл</string>
+    <string name="fileNotFoud">У файлі не виявлено аномалій</string>
+    <string name="clear_start">Почати очищення внутрішньої SD-карти з використанням журналу</string>
+    <string name="clear_success">Очищення успішно завершено, все готово до перезапуску</string>
+    <string name="clearing">Зараз йде очищення внутрішньої SD-карти</string>
+    <string name="checking">Перевірка заданих ресурсів</string>
+    <string name="check_file">Перегляд заданих ресурсів</string>
+    <string name="check_sucess">Перевірку заданих ресурсів завершено</string>
+    <string name="check_fail">Не вистачає заданих ресурсів. Завершити очищення SD-карти?</string>
+</resources>

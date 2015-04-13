@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">הורדות</string>
+    <string name="cancel">ביטול</string>
+    <string name="ok">אישור</string>
+    <string name="download_file_already_exist">הקובץ כבר קיים. לדרוס אותו?</string>
+    <string name="notification_download_complete_op01">הקובץ נשמר במיקום:</string>
+    <string name="app_label">מנהל ההורדות</string>
+    <string name="permlab_downloadManager">קבל גישה למנהל ההורדות</string>
+    <string name="permdesc_downloadManager">הרשאה זו מאפשרת ליישום לגשת למנהל ההורדות ולהשתמש בו לצורך הורדת קבצים. יישומים זדוניים עלולים לנצל אפשרות זו כדי לשבש הורדות ולגשת למידע פרטי.</string>
+    <string name="permlab_downloadManagerAdvanced">פונקציות מתקדמות של מנהל ההורדות.</string>
+    <string name="permdesc_downloadManagerAdvanced">הרשאה זו מאפשרת ליישום לגשת לפונקציות המתקדמות של מנהל ההורדות. יישומים זדוניים עלולים לנצל אפשרות זו כדי לשבש הורדות ולגשת למידע פרטי.</string>
+    <string name="permlab_downloadCompletedIntent">שלח חיוויים על הורדה</string>
+    <string name="permdesc_downloadCompletedIntent">הרשאה זו מאפשרת ליישום לשלוח התראות לגבי הורדות שהסתיימו. יישומים זדוניים עלולים לנצל אפשרות זו כדי לבלבל יישומים אחרים המורידים קבצים.</string>
+    <string name="permlab_seeAllExternal">ראה את כל ההורדות לכרטיס SD</string>
+    <string name="permdesc_seeAllExternal">הרשאה זו מאפשרת ליישום לראות את כל ההורדות לכרטיס ה-SD, בלי קשר ליישום שהוריד אותן.</string>
+    <string name="permlab_downloadCacheNonPurgeable">שמור מקום במטמון ההורדה</string>
+    <string name="permdesc_downloadCacheNonPurgeable">הרשאה זו מאפשרת ליישום להוריד קבצים לזיכרון המטמון של ההורדות, שלא ניתן למחוק באופן אוטומטי כאשר למנהל ההורדות נחוץ שטח נוסף.</string>
+    <string name="permlab_downloadWithoutNotification">הורד קבצים ללא חיווי</string>
+    <string name="permdesc_downloadWithoutNotification">הרשאה זו מאפשרת ליישום להוריד קבצים דרך מנהל ההורדות מבלי להציג התראות כלשהן בפני המשתמש.</string>
+    <string name="permlab_accessAllDownloads">קבל גישה לכל הורדות המערכת</string>
+    <string name="permdesc_accessAllDownloads">מאפשר ליישום להציג ולשנות את כל ההורדות שהופעלו על ידי יישום כלשהו במערכת.</string>
+    <string name="download_unknown_title">&lt;ללא שם></string>
+    <string name="notification_download_complete">ההורדה הסתיימה.</string>
+    <string name="notification_download_failed">ההורדה נכשלה.</string>
+    <string name="notification_need_wifi_for_size">גודל ההורדה מחייב חיבור Wi-Fi</string>
+    <string name="notification_paused_in_background">מושהה ברקע.</string>
+    <string name="wifi_required_title">ההורדה גדולה מדי עבור מפעיל הרשת</string>
+    <string name="wifi_required_body" formatted="false">"עליך להשתמש ב-Wi-Fi כדי להשלים את ההורדה שגודלה %s . 
+
+גע ב-%s כדי להפעיל את ההורדה בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
+    <string name="wifi_recommended_title">להמתין בתור להורדה מאוחר יותר?</string>
+    <string name="wifi_recommended_body" formatted="false">"הפעלת הורדה זו (%s ) עשויה לקצר את חיי הסוללה שלך ו/או לגרום לניצול מופרז של חיבור הנתונים הנייד שלך, אשר עשוי להיות כרוך בחיוב מצד ספק השירות הנייד שלך, בהתאם לתוכנית הנתונים הרלוונטית.
+
+גע ב-%s כדי להתחיל בהורדה בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
+    <string name="button_queue_for_wifi">תור</string>
+    <string name="button_cancel_download">ביטול</string>
+    <string name="button_start_now">התחל כעת</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s נותרו</string>
+    <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
+    <string name="root_downloads">הורדות</string>
+    <string name="download_queued">בתור</string>
+    <string name="download_running">מתבצע</string>
+    <string name="download_error">נכשל</string>
+    <string name="download_running_percent">מתבצע, %d%%</string>
+</resources>

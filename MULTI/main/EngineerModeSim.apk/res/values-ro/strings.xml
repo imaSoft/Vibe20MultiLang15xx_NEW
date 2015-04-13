@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">EM SIM ME Lock</string>
+    <string name="simmelock_name">SIM ME Lock</string>
+    <string name="strInputPassword">Introduceţi parola:</string>
+    <string name="strConfirm">Terminare</string>
+    <string name="strCancel">Anulaţi</string>
+    <string name="strInputChancesleft">Anulări rămase:</string>
+    <string name="strMCCMNC">MCC+MNC:</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR:</string>
+    <string name="strGID1">GID1:</string>
+    <string name="strGID2">GID2:</string>
+    <string name="strInputPasswordAgain">Introduceţi parola din nou:</string>
+    <string name="strIMSI">IMSI:</string>
+    <string name="strAttention">Atenţie</string>
+    <string name="strConfirmRemove">Chiar eliminaţi?</string>
+    <string name="srtConfirmPermanUnlock">Chiar doriţi să deblocaţi permanent?</string>
+    <string name="strYes">Da</string>
+    <string name="strLockFail">Blocare nereuşită!</string>
+    <string name="strLockSucceed">Blocare reuşită!</string>
+    <string name="strUnlockFail">Deblocare nereuşită!</string>
+    <string name="strUnlockSucceed">Deblocare reuşită!</string>
+    <string name="strUserInput">Introducere utilizator</string>
+    <string name="strInputMode">Introduceţi după utilizator?</string>
+    <string name="strLockNameNetwork">Personalizare reţea</string>
+    <string name="strLockNameNetworkSub">Personalizare subset reţea</string>
+    <string name="strLockNameService">Personalizare furnizor de servicii</string>
+    <string name="strLockNameCorporate">Personalizare companie</string>
+    <string name="strLockNameSIM">Personalizare SIM</string>
+    <string name="strActionNameLock">Blocaţi</string>
+    <string name="strActionNameUnlock">Deblocaţi</string>
+    <string name="strActionNameAddLock">Adăugare</string>
+    <string name="strActionNameRemoveLock">Eliminaţi</string>
+    <string name="strActionNamePermanentUnlock">Deblocare permanentă</string>
+    <string name="strPasswordLengthIncorrect">4 – 8 cifre!</string>
+    <string name="strQueryFailed">Interogare nereuşită!</string>
+    <string name="strAddLockFail">Adăugare nereuşită!</string>
+    <string name="strAddLockSucceed">Adăugare reuşită!</string>
+    <string name="strMCCMNCLengthIncorrect">MCC+MNC nevalid!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">MCC+MNC+HLR nevalid!</string>
+    <string name="strIMSILengthIncorrect">IMSI nevalid!</string>
+    <string name="strGID1WRONG">GID1 nevalid!</string>
+    <string name="strGID2WRONG">GID2 nevalid!</string>
+    <string name="str_simme_passwords_dont_match">Parolele nu corespund</string>
+</resources>

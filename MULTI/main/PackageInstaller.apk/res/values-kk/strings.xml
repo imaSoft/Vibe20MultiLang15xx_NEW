@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Бума орнатушысы</string>
+    <string name="next">Келесі</string>
+    <string name="install">Орнату</string>
+    <string name="done">Дайын</string>
+    <string name="security_settings_desc">Қолданбаның келесі әрекетті жасауына рұқсат беру:</string>
+    <string name="cancel">Бас тарту</string>
+    <string name="unknown">Белгісіз</string>
+    <string name="installing">Орнатылуда...</string>
+    <string name="install_done">Бағдарлама орнатылды</string>
+    <string name="install_confirm_question">Бұл қолданбаны орнатқыңыз келеді ме? Ол мыналарға кіре алады:</string>
+    <string name="install_confirm_question_no_perms">Бұл қолданбаны орнатқыңыз келеді ме? Ол арнайы кіруді талап етпейді.</string>
+    <string name="install_confirm_question_update">Бар қолданбаға жаңарту орнатуды қалайсыз ба? Сіздің деректеріңіз жойылмайды. Жаңартылған қолданба мыналарға кіре алады:</string>
+    <string name="install_confirm_question_update_system">Бекітілген қолданбаға жаңарту орнатуды қалайсыз ба? Сіздің деректеріңіз жойылмайды. Жаңартылған қолданба мыналарға кіре алады:</string>
+    <string name="install_confirm_question_update_no_perms">Бұрыннан бар қолданбаға жаңартуды орнатқыңыз келе ме? Бұрыннан бар деректер жоғалады. Ол үшін қандай да бір арнайы кіру рұқсаты қажет емес.</string>
+    <string name="install_confirm_question_update_system_no_perms">Бұл ендірілген қолданбаға жаңартуды орнатқыңыз келе ме? Бұрыннан бар деректер жоғалады. Ол үшін қандай да бір арнайы кіру рұқсаты қажет емес.</string>
+    <string name="install_failed">Бағдарлама орнатылмады</string>
+    <string name="install_failed_invalid_apk">Бума бүлінген.</string>
+    <string name="install_failed_inconsistent_certificates">Қайшылығы бар қолтаңбасы бар дәл осы атты бар бума әлдеқашан орнатылған.</string>
+    <string name="install_failed_older_sdk">Бұл бума тек жаңарақ Android нұсқаларында жұмыс істейді.</string>
+    <string name="install_failed_cpu_abi_incompatible">Бұл қолданба телефоныңызбен үйлесімді емес.</string>
+    <string name="install_failed_file_not_found">Көрсетілген бума орнатуды аяқтау алдында жойылды.</string>
+    <string name="install_failed_verify_failed">Бұл бума тексеруден өтпеді және оны орнату мүмкін емес.</string>
+    <string name="install_failed_verify_timeout">Осы буманы тексеру әрекеті кезінде күту уақыты бітті. Оны орнату әрекетін кейінірек қайталаңыз.</string>
+    <string name="install_failed_msg">%1$s осы телефонда орнату мүмкін болмады.</string>
+    <string name="launch">Ашық</string>
+    <string name="unknown_apps_dlg_title">Орнату бұғатталды</string>
+    <string name="unknown_apps_dlg_text">Қауіпсіздік үшін, телефоныңыз белгісіз көздерден алынған қолданбалар орнатуларын блоктауға орнатылған.</string>
+    <string name="ok">ОК</string>
+    <string name="settings">Параметрлер</string>
+    <string name="allow_source_dlg_title">Қолданбалар үшін жаңа көз</string>
+    <string name="allow_source_dlg_text">"%1$s басқа бағдарламаларды орнатқысы келіп жатыр.
+
+Бұған қазір және болашақта рұқсат ету керек пе?"</string>
+    <string name="manage_applications">Бағдарламаларды басқару</string>
+    <string name="dlg_app_replacement_title">Қолданбаны алмастыру керек пе?</string>
+    <string name="dlg_app_replacement_statement">"Орнатып жатқан қолданбаңыз басқа қолданбаны орнын басады.
+
+Барлық алдыңғы пайдаланушы деректері сақталады."</string>
+    <string name="dlg_sys_app_replacement_statement">Бұл жүйелік қолданба. Барлық алдыңғы пайдаланушы деректері сақталады.</string>
+    <string name="out_of_space_dlg_title">Кеңістіктен тыс</string>
+    <string name="out_of_space_dlg_text">%1$s қолд-н орнату мүмкін болмады. Біраз кеңістікті босатып, әрекетті қайталаңыз.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Бағдарлама табылмады</string>
+    <string name="app_not_found_dlg_text">Бағдарлама орнатылған бағдарламалар тізімінде табылмады.</string>
+    <string name="uninstall_application_title">Бағдарламаны жою</string>
+    <string name="uninstall_update_title">Жаңартуды жою</string>
+    <string name="uninstall_activity_text">%1$s – келесі бағдарламаның бөлігі:</string>
+    <string name="uninstall_application_text">Бұл қолданбаны жою керек пе?</string>
+    <string name="uninstall_application_text_all_users"><b>Барлық</b> пайдаланушылар үшін бұл қолданбаны жойғыңыз келе ме? Қолданба мен оның деректері құрылғыдағы <b>барлық</b> пайдаланушылардан алынып тасталады.</string>
+    <string name="uninstall_update_text">Бұл қолданбаны зауыттық нұсқасымен алмастырғыңыз келеді ме?</string>
+    <string name="uninstalling">Жойылуда...</string>
+    <string name="uninstall_done">Жою аяқталды</string>
+    <string name="uninstall_failed">Жою сәтсіз болды</string>
+    <string name="uninstall_failed_device_policy_manager">Жою мүмкін емес, себебі бұл жиынтық белсенді құрылғы әкімшісі болып табылады.</string>
+    <string name="manage_device_administrators">Құрылғы әкімшілерін басқару</string>
+    <string name="uninstall_failed_msg">%1$s жою мүмкін емес.</string>
+    <string name="Parse_error_dlg_title">Талдау қатесі</string>
+    <string name="Parse_error_dlg_text">Жиынтықты талдау кезінде ақау туындады.</string>
+    <string name="newPerms">Жаңа</string>
+    <string name="allPerms">Барлығы</string>
+    <string name="privacyPerms">Құпиялылық</string>
+    <string name="devicePerms">Құрылғыға кіру</string>
+    <string name="no_new_perms">Бұл жаңарту ешқандай жаңа рұқсаттардыв талап етпейді.</string>
+    <string name="grant_confirm_question">Келесі рұқсаттарды беру керек пе? Ол мынаған қатынас алады:</string>
+</resources>

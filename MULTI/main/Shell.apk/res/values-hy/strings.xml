@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Վահանակ</string>
+    <string name="bugreport_finished_title">Վրիպակների զեկույցը լուսանկարվեց</string>
+    <string name="bugreport_finished_text">Հպեք՝ վրիպակների զեկույցը համօգտագործելու համար</string>
+    <string name="bugreport_confirm">Վրիպակների զեկույցները պարունակում են համակարգի տարբեր մատյանի ֆայլերից ստացված տվյալներ, այդ թվում նաև անձնական և գաղտնի տեղեկատվություն: Վրիպակների զեկույցները համօգտագործեք միայն այն աշխատածրագրերի և մարդկանց հետ, որոնց վստահում եք:</string>
+    <string name="bugreport_confirm_repeat">Ցուցադրել այս հաղորդագրությունը հաջորդ անգամ</string>
+</resources>

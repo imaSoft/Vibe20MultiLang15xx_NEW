@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Anullo</string>
+    <string name="ok">OK</string>
+    <string name="app_label">Shkarkimet</string>
+    <string name="download_title_sorted_by_date">Shkarkimet - Radhitur sipas datës</string>
+    <string name="download_title_sorted_by_size">Shkarkimet - Radh. sipas madhës.</string>
+    <string name="no_downloads">Nuk ka shkarkime.</string>
+    <string name="missing_title">&lt;I panjohur></string>
+    <string name="button_sort_by_size">Rendit sipas madhësisë</string>
+    <string name="button_sort_by_date">Rendit sipas datës</string>
+    <string name="download_queued">I radhitur</string>
+    <string name="download_running">Në zhvillim e sipër</string>
+    <string name="download_success">Përfundoi</string>
+    <string name="download_error">I pasuksesshëm</string>
+    <string name="dialog_title_not_available">Nuk mund të shkarkohej</string>
+    <string name="dialog_failed_body">Dëshironi ta provoni më vonë shkarkimin e skedarit apo të fshihet nga radhitja?</string>
+    <string name="dialog_title_queued_body">Skedari në radhë</string>
+    <string name="dialog_queued_body">Ky skedar është në radhë për shkarkim në të ardhmen, kështu që nuk është ende i disponueshëm.</string>
+    <string name="dialog_file_missing_body">Skedari i shkarkuar nuk mund të gjendet.</string>
+    <string name="dialog_insufficient_space_on_external">Shkarkimi nuk mund të përfundojë. Nuk ka hapësirë të mjaftueshme në hapësirën ruajtëse të jashtme.</string>
+    <string name="dialog_insufficient_space_on_cache">Shkarkimi nuk mund të mbarojë. Nuk ka hapësirë të mjaftueshme në arkivin e brendshëm të shkarkimit.</string>
+    <string name="dialog_cannot_resume">Shkarkimi u ndërpre dhe nuk mund të vazhdojë.</string>
+    <string name="dialog_file_already_exists">Nuk mund të shkarkohet. Skedari i destinacionit tashmë ekziston.</string>
+    <string name="dialog_media_not_found">Nuk mund të shkarkohet. Mediat e jashtme nuk janë të disponueshme.</string>
+    <string name="download_no_application_title">Skedari nuk mund të hapet</string>
+    <string name="remove_download">Hiq</string>
+    <string name="delete_download">Fshi</string>
+    <string name="keep_queued_download">Mbaj</string>
+    <string name="cancel_running_download">Anulo</string>
+    <string name="retry_download">Riprovo</string>
+    <string name="deselect_all">Shpërzgjidh të gjitha</string>
+    <string name="select_all">Përzgjidh të gjitha</string>
+    <string name="selected_count">U përzgjodhën %1$d nga %2$d</string>
+    <string name="download_share_dialog">Përndaj nëpërmjet</string>
+</resources>

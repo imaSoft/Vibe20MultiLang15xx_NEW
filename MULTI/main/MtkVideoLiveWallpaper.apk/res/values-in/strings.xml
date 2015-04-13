@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">MTK Live Wallpapers</string>
+    <string name="vlw">Wallpaper Video</string>
+    <string name="vlw_desc">Tetapkan video sebagai wallpaper langsung.</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">Maaf, video ini tidak valid untuk streaming ke perangkat ini.</string>
+    <string name="VideoScene_error_text_unknown">Maaf, video ini tidak dapat diputar.</string>
+    <string name="VideoScene_error_media_removed">File media dihapus</string>
+    <string name="VideoScene_error_sdcard_unmounted">Kartu SD dikeluarkan</string>
+    <string name="VideoScene_info_wait_sdcard">Menunggu persiapan kartu SD</string>
+    <string name="VideoScene_error_media_not_found">File media tidak ada saat ini</string>
+    <string name="VideoScene_error_be_set">Maaf, video tidak dapat ditetapkan sebagai wallpaper video</string>
+    <string name="VideoEditor_error_title">Tidak dapat memutar video</string>
+    <string name="VideoEditor_error_button">OK</string>
+    <string name="VideoEditor_error_no_video_selected">Tidak ada video yang dipilih</string>
+    <string name="VideoEditor_warning_limited_duration">Pilih video berdurasi minimal 1 detik untuk diputar</string>
+    <string name="VideoScene_reload_after_mount">Memuat video dari kartu SD, tunggu beberapa saat.</string>
+    <string name="select_video">Kartu SD</string>
+    <string name="select_default">Default</string>
+    <string name="select">Pilih Video</string>
+    <string name="set_wallpaper">Tetapkan</string>
+    <string name="title">Wallpaper Video</string>
+    <string name="default_title">Video Default</string>
+    <string name="capture_video">kamera</string>
+    <string name="menu_item_add_item">Pilih video dari kartu SD</string>
+    <string name="group_video">Pilih satu video</string>
+    <string name="group_folder">Pilih folder</string>
+    <string name="folder_info">video &lt;br>dari&lt;br></string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">लाइव्ह वॉलपेपर वेचक</string>
+    <string name="live_wallpaper_picker_title">लाइव्ह वॉलपेपर्स निवडा</string>
+    <string name="live_wallpaper_picker_label">लाइव्ह वॉलपेपर्स</string>
+    <string name="live_wallpaper_preview_title">लाइव्ह वॉलपेपर पूर्वावलोकन</string>
+    <string name="configure_wallpaper">सेटिंग्ज...</string>
+    <string name="wallpaper_instructions">वॉलपेपर सेट करा</string>
+    <string name="live_wallpaper_empty">लाइव्ह वॉलपेपर्स नाहीत.</string>
+    <string name="set_live_wallpaper">वॉलपेपर सेट करा</string>
+    <string name="wallpaper_title_and_author">%1$s by %2$s</string>
+    <string name="live_wallpaper_loading">लाइव्ह वॉलपेपर लोड करीत आहे...</string>
+    <string name="wallpaper_cancel">रद्द करा</string>
+</resources>

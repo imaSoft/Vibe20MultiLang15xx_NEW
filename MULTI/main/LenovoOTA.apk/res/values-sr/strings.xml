@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nadogr. sistema</string>
+    <string name="exit">Izađi</string>
+    <string name="update_failed">Žao nam je. Instaliranje novog firmvera nije uspelo.</string>
+    <string name="btn_ok">U redu</string>
+    <string name="btn_cancel">Otkaži</string>
+    <string name="notification_content_title">Nadogr. firmvera</string>
+    <string name="notification_content_text_completed">Preuzimanje uspešno</string>
+    <string name="error_not_specify_network_title">Preuzimajte preko WLAN mreže</string>
+    <string name="error_not_specify_network_content">Preporučujemo da preuzimate preko WLAN mreže, preuzimanje preko mobilne mreže može izazvati ozbiljne izmene</string>
+    <string name="btn_setting_network">Podesi odmah</string>
+    <string name="btn_keep_download">Dalje za preuzimanje</string>
+    <string name="retry">Pokušaj ponovo</string>
+    <string name="redo_backup">Ponovo napravi rezervnu kopiju</string>
+    <string name="contact">Kontakti</string>
+    <string name="sms">Poruka</string>
+    <string name="calllog">Evidencija poziva</string>
+    <string name="btn_backup">Rezervna kopija</string>
+    <string name="has_not_backup">Nema rezervne kopije</string>
+    <string name="countSms">poruke</string>
+    <string name="countContact">kontakti</string>
+    <string name="countCalllog">evidencije poziva</string>
+    <string name="nodata">Nema podataka</string>
+    <string name="backup_data_ing">Ažuriraju se kontakti i sl. ...</string>
+    <string name="backup_data_finish">Uspešno kopiranje podataka!</string>
+    <string name="data_usage_warning_title">Upozorenje</string>
+    <string name="data_usage_warning">Poštovani korisniče, za korišćenje ove aplikacije obavezan je pristup internetu. Želite li da nastavite?</string>
+    <string name="data_usage_confirm">Sledeći put bez upita</string>
+    <string name="ndf_install_finish_p">Odmah</string>
+    <string name="ndf_install_finish_n">Kasnije</string>
+    <string name="ndf_lowpower_title">Nizak napon baterije</string>
+    <string name="toast_install_fail">Instaliranje nije uspelo, naznačena putanja: %s, ne postoji.</string>
+    <string name="network_error">Neuspela mrežna veza</string>
+    <string name="notification_new_rom_come">Sistem može da se ažurira na najnoviju verziju</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Nakon %d sekundi, sistem mora da instalira novu verziju!</string>
+    <string name="backup_data">Rez. podaci</string>
+    <string name="restore_data">Obnova podat.</string>
+    <string name="battery_tip">Baterija na izmaku, povežite punjač za nastavak nadogradnje</string>
+</resources>

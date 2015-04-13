@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Sjónarspil</string>
+    <string name="wallpaper_vis2">Bylgjur</string>
+    <string name="wallpaper_vis3">Litróf</string>
+    <string name="wallpaper_vis4">Hljóðstyrksmælir</string>
+    <string name="wallpaper_vis5">Margt</string>
+    <string name="wallpapers">Veggfóður tónlistarsjónarspils</string>
+    <string name="vis2_desc">Sýnir hljóðbylgjur tónlistar í spilun.</string>
+    <string name="vis3_desc">Sýnir tíðnisvið tónlistar í spilun.</string>
+    <string name="vis4_desc">Hermir eftir hliðrænum hljóðmæli.</string>
+    <string name="vis5_desc">Allar myndskreytingar tónlistar snúast hægt í þrívídd.</string>
+</resources>

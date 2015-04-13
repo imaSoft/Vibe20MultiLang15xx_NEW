@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pakete instalatzailea</string>
+    <string name="next">Hurrengoa</string>
+    <string name="install">Instalatu</string>
+    <string name="done">Eginda</string>
+    <string name="security_settings_desc">Baimendu aplikazioari hau egitea:</string>
+    <string name="cancel">Utzi</string>
+    <string name="unknown">Ezezaguna</string>
+    <string name="installing">Instalatzen...</string>
+    <string name="install_done">Aplikazioa instalatu da</string>
+    <string name="install_confirm_question">Aplikazioa instalatu nahi duzu? Honetarako sarbidea izango du:</string>
+    <string name="install_confirm_question_no_perms">Aplikazioa instalatu nahi duzu? Ez du sarbide berezirik eskatzen.</string>
+    <string name="install_confirm_question_update">Lehendik dagoen aplikazioaren eguneratzea instalatu nahi duzu? Lehendik dauden datuak galduko dira. Eguneratutako aplikazioak honetarako sarbidea izango du:</string>
+    <string name="install_confirm_question_update_system">Aplikazio barneratuaren eguneratzea instalatu nahi duzu? Lehendik dauden datuak galduko dira. Eguneratutako aplikazioak honetarako sarbidea izango du:</string>
+    <string name="install_confirm_question_update_no_perms">Aplikazio honi eguneratze bat instalatu nahi al diozu? Oraingo datuak ez zaizkizu galduko. Ez da sarbide berezirik behar.</string>
+    <string name="install_confirm_question_update_system_no_perms">Aplikazio integratu honi eguneratze bat instalatu nahi al diozu? Oraingo datuak ez zaizkizu galduko. Ez da sarbide berezirik behar.</string>
+    <string name="install_failed">Aplikazioa ez dago instalatuta</string>
+    <string name="install_failed_invalid_apk">Paketea hondatua dagoela dirudi.</string>
+    <string name="install_failed_inconsistent_certificates">Izen bera eta sinadura gatazkatsua dituen pakete bat dagoeneko instalatuta dago.</string>
+    <string name="install_failed_older_sdk">Pakete honek Android bertsio berriagoetan soilik funtzionatzen du.</string>
+    <string name="install_failed_cpu_abi_incompatible">Aplikazioa ez da telefonoarekin bateragarria.</string>
+    <string name="install_failed_file_not_found">Zehaztutako paketea ezabatu da instalazioa osatu baino lehen.</string>
+    <string name="install_failed_verify_failed">Pakete honek ez du egiaztapena gainditu eta ezin da instalatu.</string>
+    <string name="install_failed_verify_timeout">Denbora muga gainditu da paketea egiaztatzean. Saiatu berriro instalatzen geroago.</string>
+    <string name="install_failed_msg">Ezin izan da %1$s telefono honetan instalatu</string>
+    <string name="launch">Ireki</string>
+    <string name="unknown_apps_dlg_title">Instalazioa blokeatuta</string>
+    <string name="unknown_apps_dlg_text">Segurtasun arrazoiengatik, aplikazio ezezagunen instalazioa blokeatzeko konfiguratuta dago telefonoa.</string>
+    <string name="ok">Ados</string>
+    <string name="settings">Ezarpenak</string>
+    <string name="allow_source_dlg_title">Aplikazioen iturburu berria</string>
+    <string name="allow_source_dlg_text">"%1$s aplikazioak beste aplikazio batzuk instalatu nahi ditu.
+
+Orain eta etorkizunean baimendu?"</string>
+    <string name="manage_applications">Kudeatu aplikazioak</string>
+    <string name="dlg_app_replacement_title">Aplikazioa ordeztu?</string>
+    <string name="dlg_app_replacement_statement">"Instalatzen ari zaren aplikazioak beste bat ordeztuko du.
+
+Erabiltzailearen aurreko datu guztiak gordeko dira."</string>
+    <string name="dlg_sys_app_replacement_statement">"Sistemako aplikazioa da hau.
+
+Aurreko erabiltzaile datu guztiak gordeko dira."</string>
+    <string name="out_of_space_dlg_title">Ez dago tokirik</string>
+    <string name="out_of_space_dlg_text">Ezin izan da %1$s instalatu. Egin lekua eta saiatu berriro.</string>
+    <string name="dlg_ok">Ados</string>
+    <string name="app_not_found_dlg_title">Aplikazioa ez da aurkitu</string>
+    <string name="app_not_found_dlg_text">Aplikazioa ez da aurkitu instalatutako aplikazioen zerrendan.</string>
+    <string name="uninstall_application_title">Desinstalatu aplikazioa</string>
+    <string name="uninstall_update_title">Instalatu eguneratzea</string>
+    <string name="uninstall_activity_text">%1$s aplikazio honen atal da:</string>
+    <string name="uninstall_application_text">Aplikazioa desinstalatu nahi duzu?</string>
+    <string name="uninstall_application_text_all_users">Aplikazio hau erabiltzaile <b>guztientzako</b> desinstalatu nahi al duzu? Aplikazioa eta bertako datuak kendu egingo zaizkie gailuaren erabiltzaile <b>guztiei</b>.</string>
+    <string name="uninstall_update_text">Aplikazioa jatorrizko bertsioarengatik ordezkatu nahi duzu?</string>
+    <string name="uninstalling">Desinstalatzen…</string>
+    <string name="uninstall_done">Desinstalatzea amaitu da</string>
+    <string name="uninstall_failed">Ez da behar bezala desinstalatu</string>
+    <string name="uninstall_failed_device_policy_manager">Ezin da desinstalatu, paketea gailu administratzaile aktiboa delako.</string>
+    <string name="manage_device_administrators">Kudeatu gailu administratzaileak</string>
+    <string name="uninstall_failed_msg">Ezin izan da %1$s desinstalatu.</string>
+    <string name="Parse_error_dlg_title">Analisi errorea</string>
+    <string name="Parse_error_dlg_text">Arazo bat izan da paketea analizatzean.</string>
+    <string name="newPerms">Berria</string>
+    <string name="allPerms">Guztiak</string>
+    <string name="privacyPerms">Pribatutasuna</string>
+    <string name="devicePerms">Gailurako sarbidea</string>
+    <string name="no_new_perms">Eguneratzeak ez du baimen berririk behar.</string>
+    <string name="grant_confirm_question">Baimen hauek eman nahi dituzu? Hauetarako sarbidea izango du:</string>
+</resources>

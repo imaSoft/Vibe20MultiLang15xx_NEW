@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistem yükseltme</string>
+    <string name="exit">Çıkış</string>
+    <string name="update_failed">Üzgünüz. Yeni sabit yazılım kurulamadı</string>
+    <string name="btn_ok">Tamam</string>
+    <string name="btn_cancel">İptal</string>
+    <string name="notification_content_title">Bellenim arabirimi yükseltme</string>
+    <string name="notification_content_text_completed">İndirme işlemi başarılı</string>
+    <string name="error_not_specify_network_title">Lütfen indirme işlemini WLAN ağı üzerinden yapın.</string>
+    <string name="error_not_specify_network_content">İndirme işlemlerinizi mobil ağ üzerinden yapmanız çok yüksek ücretlere yol açabileceğinden, indirme işlemlerinizi WLAN ağı üzerinden yapmanız özellikle önerilir.</string>
+    <string name="btn_setting_network">Hemen ayarla</string>
+    <string name="btn_keep_download">İndirmeye devam et</string>
+    <string name="retry">Yeniden Dene</string>
+    <string name="redo_backup">Yeniden yedekle</string>
+    <string name="contact">Kişiler</string>
+    <string name="sms">Mesaj</string>
+    <string name="calllog">Arama günlüğü</string>
+    <string name="btn_backup">Yedekle</string>
+    <string name="has_not_backup">Yedeklenmedi</string>
+    <string name="countSms">mesaj</string>
+    <string name="countContact">kişi</string>
+    <string name="countCalllog">arama günlüğü</string>
+    <string name="nodata">Veri yok</string>
+    <string name="backup_data_ing">Kişiler ve diğer veriler yedekleniyor...</string>
+    <string name="backup_data_finish">Veri yedekleme başarılı!</string>
+    <string name="data_usage_warning_title">Uyarı</string>
+    <string name="data_usage_warning">"Değerli kullanıcılar, bu uygulamanın İnternet'e erişmesi gerekiyor, devam etmek istiyor musunuz?"</string>
+    <string name="data_usage_confirm">Tekrar sorma</string>
+    <string name="ndf_install_finish_p">Hemen</string>
+    <string name="ndf_install_finish_n">Daha sonra</string>
+    <string name="ndf_lowpower_title">Düşük pil</string>
+    <string name="toast_install_fail">Yüklenemedi, belirtilen yol: %s, mevcut değil.</string>
+    <string name="network_error">Ağ bağlantısı kurulamadı.</string>
+    <string name="notification_new_rom_come">Sisteminiz en son sürüme güncellenebilir</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">%d saniye sonra sistemin yeni sürümü yüklemesi gerekiyor!</string>
+    <string name="backup_data">Verileri Yedekle</string>
+    <string name="restore_data">Veri Geriyükleme</string>
+    <string name="battery_tip">Düşük pil. Lütfen yükseltme işlemine devam etmek için cihazınızı şarja takın.</string>
+</resources>

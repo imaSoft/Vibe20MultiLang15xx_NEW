@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">Control vocal pentru cameră</string>
+    <string name="voice_ui_phone_command_title">Control vocal pentru telefon</string>
+    <string name="voice_ui_alarm_command_title">Control vocal pentru alarmă</string>
+    <string name="app_name">Comandă vocală</string>
+    <string name="voice_ui_title">Comandă vocală</string>
+    <string name="voice_ui_app_category">pentru aplicaţii</string>
+    <string name="voice_ui_setting_category">Setări</string>
+    <string name="voice_ui_language_title">Limbă pentru control vocal</string>
+    <string name="incoming_call_app_name">Apel primit</string>
+    <string name="alarm_app_name">Alarme</string>
+    <string name="camera_app_name">Camera</string>
+    <string name="music_app_name">Muzică</string>
+    <string name="incomming_command_summary_format">Puteţi spune %1$s sau %2$s pentru a răspunde sau a respinge apelurile primite.</string>
+    <string name="alarm_command_summary_format">Puteţi spune %1$s sau %2$s pentru a amâna sau opri alarma.</string>
+    <string name="camera_command_summary_format">Puteţi spune %1$s sau %2$s pentru a captura.</string>
+    <string name="music_command_summary_format">Puteţi spune %1$s şi %2$s pentru a controla redarea muzicii.</string>
+    <string name="playback_failed">Imposibil de deschis.</string>
+    <string name="voice_ui_commands">comenzile</string>
+</resources>

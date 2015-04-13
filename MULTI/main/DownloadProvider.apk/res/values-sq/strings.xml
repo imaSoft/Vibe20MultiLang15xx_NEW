@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Menaxhuesi i shkarkimit</string>
+    <string name="permlab_downloadManager">Hyr te menaxheri i shkarkimit.</string>
+    <string name="permdesc_downloadManager">"Lejon aplikacionin të qaset te menaxhuesi i shkarkimeve dhe ta përdorë atë për të shkarkuar skedarë. Aplikacionet keqdashëse mund ta përdorin këtë për të ndërprerë shkarkimet  dhe për t'u qasur në informacionet private."</string>
+    <string name="permlab_downloadManagerAdvanced">Funksionet e përparuara të menaxhuesit të shkarkimit.</string>
+    <string name="permdesc_downloadManagerAdvanced">"Lejon aplikacionin të qaset te funksionet e përparuara të menaxhuesit të shkarkimeve. Aplikacionet keqdashëse mund ta përdorin këtë për të ndërprerë shkarkimet  dhe për t'u qasur në informacionet private."</string>
+    <string name="permlab_downloadCompletedIntent">Dërgoni njoftimet e shkarkimit.</string>
+    <string name="permdesc_downloadCompletedIntent">Lejon aplikacionin të dërgojë njoftime për aplikacionet e përfunduara. Aplikacionet keqdashëse mund ta përdorin këtë për të çrregulluar aplikacionet e tjera që shkarkojnë skedarë.</string>
+    <string name="permlab_seeAllExternal">Shiko të gjitha shkarkimet në kartën SD</string>
+    <string name="permdesc_seeAllExternal">Lejon aplikacionin të shohë të gjitha shkarkimet në kartën SD, pavarësisht se cilat aplikacione i kanë shkarkuar.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezervon hapësirën në kujtesën e fshehtë të shkarkimit</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Lejon aplikacionin të shkarkojë skedarë në kujtesën e fshehtë të shkarkimeve, të cilat nuk mund të fshihen automatikisht kur menaxhuesit të shkarkimeve i duhet më shumë hapësirë.</string>
+    <string name="permlab_downloadWithoutNotification">shkarko skedarët pa njoftuar</string>
+    <string name="permdesc_downloadWithoutNotification">Lejon aplikacionin të shkarkojë skedarë nëpërmjet menaxhuesit të shkarkimeve pa i afishuar njoftime përdoruesit.</string>
+    <string name="permlab_accessAllDownloads">Qasja në të gjitha shkarkimet e sistemit</string>
+    <string name="permdesc_accessAllDownloads">Lejon aplikacionin të shohë dhe modifikojë të gjitha shkarkimet e filluara nga çdo aplikacion në sistem.</string>
+    <string name="download_unknown_title">&lt;Pa titull></string>
+    <string name="notification_download_complete">Shkarkimi përfundoi.</string>
+    <string name="notification_download_failed">Shkarkimi i pasuksesshëm.</string>
+    <string name="notification_need_wifi_for_size">Madhësia e shkarkimit kërkon Wi-Fi.</string>
+    <string name="notification_paused_in_background">I ndërprerë në sfond.</string>
+    <string name="wifi_required_title">Shkarkimi shumë i madh për rrjetin e operatorit</string>
+    <string name="wifi_required_body" formatted="false">"Duhet të përdorni Wi-Fi për të përfunduar këtë shkarkim %s . 
+
+Prekni %s për ta filluar këtë shkarkim herën tjetër që do jeni të lidhur me një rrjet Wi-Fi."</string>
+    <string name="wifi_recommended_title">"Të radhitet për t'u shkarkuar më vonë?"</string>
+    <string name="wifi_recommended_body" formatted="false">"Nisja e këtij shkarkimi %s tani mund të shkurtojë kohëzgjatjen e baterisë suaj dhe/ose të shkaktojë përdorimin e tepërt të lidhjes së të dhënave celulare, që mund të çojë në faturimin nga operatori juaj celular, në varësi të planit tuaj për të dhënat.
+
+Prekni %s më poshtë për ta filluar këtë shkarkim herën tjetër që do jeni të lidhur me një rrjet Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Radhit</string>
+    <string name="button_cancel_download">Anulo</string>
+    <string name="button_start_now">Nis tani</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Mbetën %s</string>
+    <string name="download_no_application_title">Skedari nuk mund të hapet</string>
+    <string name="root_downloads">Shkarkimet</string>
+    <string name="download_queued">Në radhë</string>
+    <string name="download_running">Në zhvillim</string>
+    <string name="download_error">Shkarkimi nuk përfundoi</string>
+    <string name="download_running_percent">Në zhvillim, %d%%</string>
+</resources>

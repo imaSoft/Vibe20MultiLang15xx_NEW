@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Limpiador de tarjeta SD</string>
+    <string name="loading_please_wait">Cargando, espere…</string>
+    <string name="white_list_not_found">Error de limpieza de tarjeta SD interna: no se encontró la lista blanca</string>
+    <string name="sdcard_not_available">Error de limpieza de tarjeta SD interna: tarjeta SD no disponible</string>
+    <string name="clearSDcardFailed">Error de limpieza de tarjeta SD interna</string>
+    <string name="deleteFileFailed">Error al eliminar archivo</string>
+    <string name="fileNotFoud">Ninguna anormalidad encontrada en el archivo</string>
+    <string name="clear_start">Iniciar limpieza de registro de uso de tarjeta SD interna</string>
+    <string name="clear_success">Limpieza completada exitosamente. Listo para reiniciar</string>
+    <string name="clearing">Limpiando tarjeta SD interna</string>
+    <string name="checking">Comprobando recursos preestablecidos</string>
+    <string name="check_file">Examen de recursos preestablecidos</string>
+    <string name="check_sucess">Se comprobaron los recursos preestablecidos</string>
+    <string name="check_fail">Recursos preestablecidos incompletos. ¿Desea terminar de limpiar la tarjeta SD?</string>
+</resources>

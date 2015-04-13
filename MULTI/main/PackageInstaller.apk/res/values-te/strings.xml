@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ప్యాకేజీ ఇన్‌స్టాలర్</string>
+    <string name="next">తదుపరి</string>
+    <string name="install">ఇన్‌స్టాల్ చేయి</string>
+    <string name="done">పూర్తయింది</string>
+    <string name="security_settings_desc">వీటిని చేయడానికి అప్లికేషన్‌ను అనుమతించండి:</string>
+    <string name="cancel">రద్దు చేయి</string>
+    <string name="unknown">తెలియని</string>
+    <string name="installing">ఇన్‌స్టాల్ అవుతోంది…</string>
+    <string name="install_done">అప్లికేషన్ ఇన్‌స్టాల్ చేయబడింది.</string>
+    <string name="install_confirm_question">ఈ అప్లికేషన్‌ను మీరు ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా? ఇది వీటికి ప్రాప్యతను పొందుతుంది:</string>
+    <string name="install_confirm_question_no_perms">ఈ అప్లికేషన్‌ను మీరు ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా? దీనికి ప్రత్యేకమైన ప్రాప్యత అవసరం లేదు.</string>
+    <string name="install_confirm_question_update">ఇప్పటికే ఉన్న ఈ అప్లికేషన్‌కు మీరు అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా? ఇప్పటికే ఉన్న మీ డేటాను కోల్పోరు. అప్‌డేట్ చేయబడిన అప్లికేషన్‌ వీటికి ప్రాప్యతను పొందుతుంది:</string>
+    <string name="install_confirm_question_update_system">ఈ అంతర్నిర్మిత అప్లికేషన్‌కు మీరు అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా? ఇప్పటికే ఉన్న మీ డేటాను కోల్పోరు. అప్‌డేట్ చేయబడిన అప్లికేషన్‌ వీటికి ప్రాప్యతను పొందుతుంది:</string>
+    <string name="install_confirm_question_update_no_perms">ఈ ఉనికిలోని అప్లికేషన్‌కు అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా? మీ ఉనికిలోని డేటాను కోల్పోతారు. దీనికి ప్రత్యేక యాక్సెస్ అవసరం లేదు.</string>
+    <string name="install_confirm_question_update_system_no_perms">ఈ అంతర్నిర్మిత అప్లికేషన్‌కు అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా? మీ ఉనికిలోని డేటాను కోల్పోతారు. దీనికి ప్రత్యేక యాక్సెస్ అవసరం లేదు.</string>
+    <string name="install_failed">అప్లికేషన్ ఇన్‌స్టాల్ చేయబడలేదు.</string>
+    <string name="install_failed_invalid_apk">ప్యాకేజ్ పాడైనట్లు కనిపిస్తోంది.</string>
+    <string name="install_failed_inconsistent_certificates">ఉనికిలోని ప్యాకేజ్ వైరుధ్య సంతకంతో అదే పేరుతో ఇప్పటికే ఇన్‌స్టాల్ చేయబడింది.</string>
+    <string name="install_failed_older_sdk">Android యొక్క సరిక్రొత్త వర్షన్‌లలో మాత్రమే ప్యాకేజ్ పనిచేస్తుంది.</string>
+    <string name="install_failed_cpu_abi_incompatible">ఈ అప్లికేషన్‌కు మీ ఫోన్‌తో అనుకూలత లేదు.</string>
+    <string name="install_failed_file_not_found">ఇన్‌స్టాల్ చేయడం పూర్తి కావడానికి ముందు పేర్కొన్న ప్యాకేజ్ తొలగించబడింది.</string>
+    <string name="install_failed_verify_failed">ప్యాకేజ్ వెరిఫికేషన్‌ను దాటలేదు మరియు ఇన్‌స్టాల్ చేయబడదు.</string>
+    <string name="install_failed_verify_timeout">ఈ ప్యాకేజ్‌ను సరిచూడటానికి ప్రయత్నిస్తున్నప్పుడు సమయం ముగిసింది. తర్వాత మళ్ళీ దాన్ని ఇన్‌స్టాల్ చేయడానికి ప్రయత్నించండి.</string>
+    <string name="install_failed_msg">%1$s మీ ఫోన్‌లో ఇన్‌స్టాల్ చేయబడలేదు.</string>
+    <string name="launch">తెరువు</string>
+    <string name="unknown_apps_dlg_title">ఇన్‌స్టాల్ బ్లాక్ చేయబడింది</string>
+    <string name="unknown_apps_dlg_text">భద్రత కోసం, మీ ఫోన్‌లో తెలియని మూలాల నుండి అప్లికేషన్‌ల యొక్క ఇన్‌స్టాల్ బ్లాక్ చేయబడింది.</string>
+    <string name="ok">సరే</string>
+    <string name="settings">సెట్టింగ్‌లు</string>
+    <string name="allow_source_dlg_title">అప్లికేషన్ల కోసం క్రొత్త మూలం</string>
+    <string name="allow_source_dlg_text">"%1$sకు ఇతర అప్లికేషన్‌లను ఇన్‌స్టాల్ చేయాలి.
+
+దీన్ని ఇప్పుడు మరియు భవిష్యత్తులో అనుమతించాలా?"</string>
+    <string name="manage_applications">అప్లికేషన్‌లను నిర్వహించు</string>
+    <string name="dlg_app_replacement_title">అప్లికేషన్‌ను భర్తీ చేయాలా?</string>
+    <string name="dlg_app_replacement_statement">"మీరు ఇన్‌స్టాల్‌ చేస్తున్న అప్లికేషన్‌, మరో అప్లికేషన్‌ను భర్తీ చేస్తుంది.
+
+మీ మునుపటి వినియోగదారు డేటా మొత్తం సేవ్‌ చేయబడుతుంది."</string>
+    <string name="dlg_sys_app_replacement_statement">"ఇది సిస్టమ్‌ అప్లికేషన్.
+
+మీ మునుపటి వినియోగదారు డేటా మొత్తం చేయబడుతుంది."</string>
+    <string name="out_of_space_dlg_title">ఖాళీ లేదు</string>
+    <string name="out_of_space_dlg_text">%1$s ఇన్‌స్టాల్ చేయబడలేదు. దయచేసి కొంత నిల్వను ఖాళీ చేసి మళ్ళీ ప్రయత్నించండి.</string>
+    <string name="dlg_ok">సరే</string>
+    <string name="app_not_found_dlg_title">అప్లికేషన్ కనుగొనబడలేదు</string>
+    <string name="app_not_found_dlg_text">అప్లికేషన్ ఇన్‌స్టాల్ చేసిన అప్లికేషన్‌ల జాబితాలో కనుగొనబడలేదు.</string>
+    <string name="uninstall_application_title">అప్లికేషన్‌ను అన్‌ఇన్‌స్టాల్ చేయి</string>
+    <string name="uninstall_update_title">అప్‌డేట్‌ను అన్‌ఇన్‌స్టాల్ చేయి</string>
+    <string name="uninstall_activity_text">%1$s ఈ క్రింది అప్లికేషన్ యొక్క ఒక భాగం:</string>
+    <string name="uninstall_application_text">మీరు ఈ అప్లికేషన్‌ను అన్‌ఇన్‌స్టాల్ చేయాలానుకుంటున్నారా?</string>
+    <string name="uninstall_application_text_all_users">ఈ యాప్‌ను <b>మొత్తం</b> వినియోగదారులు కోసం అన్ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా? అప్లికేషన్ మరియు దాని డేటా పరికరంలోని <b>మొత్తం</b> వినియోగదారులు నుండి తొలగించబడుతుంది.</string>
+    <string name="uninstall_update_text">ఫ్యాక్టరీ వర్షన్‌తో మీరు ఈ అప్లికేషన్‌ను భర్తీ చేయాలనుకుంటున్నారా?</string>
+    <string name="uninstalling">అన్‌ఇన్‌స్టాల్ అవుతోంది…</string>
+    <string name="uninstall_done">అన్‌ఇన్‌స్టాల్ చేయడం పూర్తయింది.</string>
+    <string name="uninstall_failed">అన్‌ఇన్‌స్టాల్ చేయడం విఫలమైంది.</string>
+    <string name="uninstall_failed_device_policy_manager">ఈ ప్యాకేజ్ ఒక సక్రియ పరికర నిర్వాహిణి కాబట్టి అన్‌ఇన్‌ల్టాల్ చేయడం సాధ్యం కాదు.</string>
+    <string name="manage_device_administrators">పరికర నిర్వాహకులను నిర్వహించు</string>
+    <string name="uninstall_failed_msg">%1$s అన్‌ఇన్‌స్టాల్ చేయబడలేదు.</string>
+    <string name="Parse_error_dlg_title">విశ్లేషణ లోపం</string>
+    <string name="Parse_error_dlg_text">ప్యాకేజ్‌ను విశ్లేషించడంలో సమస్య.</string>
+    <string name="newPerms">క్రొత్తది</string>
+    <string name="allPerms">అన్నీ</string>
+    <string name="privacyPerms">గోప్యత</string>
+    <string name="devicePerms">పరికర ప్రాప్యత</string>
+    <string name="no_new_perms">ఈ అప్‌డేట్‌కు క్రొత్త అనుమతలు అవసరం లేదు.</string>
+    <string name="grant_confirm_question">క్రింది అనుమతులను మీరు మంజూరు చెయ్యాలనుకుంటున్నారా? ఇది దీనికి యాక్సెస్ చేస్తోంది:</string>
+</resources>

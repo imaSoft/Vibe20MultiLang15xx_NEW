@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_arkanoid_newgame">ÚJRAINDÍTÁS</string>
+    <string name="lenovo_arkanoid_quit">KILÉPÉS</string>
+    <string name="lenovo_arkanoid_share">MEGOSZTÁS</string>
+    <string name="lenovo_arkanoid_countdown">Idő:</string>
+    <string name="lenovo_arkanoid_history">Előzmények:</string>
+    <string name="lenovo_arkanoid_score">pontszám</string>
+    <string name="share_text">ez fantasztikus</string>
+    <string name="share_title">MEGOSZTÁS</string>
+</resources>

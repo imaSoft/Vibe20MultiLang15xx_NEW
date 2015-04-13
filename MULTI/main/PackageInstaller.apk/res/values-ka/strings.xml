@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">პაკეტის საინსტალაციო</string>
+    <string name="next">შემდეგი</string>
+    <string name="install">დაინსტალირება</string>
+    <string name="done">შესრულდა</string>
+    <string name="security_settings_desc">ამ პროგრამამ შეძლოს:</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="unknown">უცნობი</string>
+    <string name="installing">ინსტალირდება…</string>
+    <string name="install_done">პროგრამა დაინსტალირდა</string>
+    <string name="install_confirm_question">გსურთ ამ პროგრამის დაინსტალირება?</string>
+    <string name="install_failed">პროგრამა არაა დაინსტალირებული</string>
+    <string name="install_failed_invalid_apk">პაკეტი დაზიანებულია</string>
+    <string name="install_failed_inconsistent_certificates">ამ სახელისა და სხვა ხელმოწერის მქონე პაკეტი უკვე დაინსტალირებულია</string>
+    <string name="install_failed_older_sdk">პაკეტი მუშაობს მხოლოდ Android-ის ახალ ვერსიაზე</string>
+    <string name="install_failed_file_not_found">პაკეტი წაიშალა, სანამ ინსტალაცია დასრულდებოდა</string>
+    <string name="install_failed_verify_failed">პაკეტმა ვერ გაიარა შემოწმება და ვერ დაინსტალირდება</string>
+    <string name="install_failed_msg">%s ვერ დაინსტალირდება ამ ტელეფონში</string>
+    <string name="launch">გახსნა</string>
+    <string name="unknown_apps_dlg_title">ინსტალაცია დაბლოკილია</string>
+    <string name="unknown_apps_dlg_text">უსაფრთხოების მიზნით, ამჟამად თქვენს აპარატში დაბლოკილია იმ პროგრამების დაინსტალირება, რომელთა მომწოდებელი არ არის Play Store. ამის შესაცვლელად, გახსენით პარამეტრები > უსაფრთხოება > უცნობი წყაროები.</string>
+    <string name="ok">კი</string>
+    <string name="settings">პარამეტრები</string>
+    <string name="allow_source_dlg_title">დართავთ ახალი წყაროს გამოყენების ნებას პროგრამებისთვის?</string>
+    <string name="allow_source_dlg_text">%1$s გამოთქვამს სურვილს დააინსტალიროს სხვა პროგრამები. დართავთ ნებას ახლა და მომავალში?</string>
+    <string name="manage_applications">პროგრამების მართვა</string>
+    <string name="dlg_app_replacement_title">შეცვალეთ პროგრამა</string>
+    <string name="dlg_app_replacement_statement">"პროგრამა, რომელსაც აინსტალირებთ, შეცვლის სხვა პროგრამას.
+
+მომხმარებლის ყველა ადრინდელი მონაცემი შეინახება"</string>
+    <string name="dlg_sys_app_replacement_statement">"ეს არის სისტემური პროგრამა. კვლავ გსურთ მისი გამოცვლა?
+
+მომხმარებლის ყველა ადრინდელი მონაცემი შეინახება"</string>
+    <string name="out_of_space_dlg_title">ადგილი არ ყოფნის</string>
+    <string name="out_of_space_dlg_text">%s ვერ ინსტალირდება. წაშალეთ ზოგიერთი ელემენტი და ისევ ცადეთ</string>
+    <string name="dlg_ok">კი</string>
+    <string name="app_not_found_dlg_title">პროგრამა ვერ მოიძებნა</string>
+    <string name="app_not_found_dlg_text">პროგრამა ვერ მოიძებნა დაინტალირებულ პროგრამებში.</string>
+    <string name="uninstall_application_title">აპის დეინსტალაცია</string>
+    <string name="uninstall_application_text">ამოინსტალირდეს ეს პროგრამა?</string>
+    <string name="uninstall_update_text">პროგრამა შეიცვლება ქარხნული ვერსიით.</string>
+    <string name="uninstalling">მიმდინარეობს დეინსტალაცია…</string>
+    <string name="uninstall_done">დეინსტალაცია დასრულდა!</string>
+    <string name="uninstall_failed">დეინსტალაცია ვერ შესრულდა</string>
+    <string name="uninstall_failed_device_policy_manager">დაინსტალირება შეუძლებელია: პაკეტი არის აქტიური მოწყობილობის მმართველი</string>
+    <string name="manage_device_administrators">მართეთ აპარატის ადმინისტრატორები</string>
+    <string name="uninstall_failed_msg">%s ვერ ინსტალირდება</string>
+    <string name="Parse_error_dlg_title">ანალიზის შეცდომა</string>
+    <string name="Parse_error_dlg_text">პაკეტის ანალიზის დროს ადგილი ჰქონდა პრობლემას</string>
+    <string name="newPerms">ახალი</string>
+    <string name="allPerms">ყველა</string>
+    <string name="privacyPerms">პირადი</string>
+    <string name="devicePerms">აპარატის წვდომა</string>
+</resources>

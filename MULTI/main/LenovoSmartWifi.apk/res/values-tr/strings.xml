@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanKonumKaydetme</string>
+    <string name="setting_activity">WLAN konum kaydetme</string>
+    <string name="dialog_title">WLAN etkinleştirilsin?</string>
+    <string name="dialog_text">"Veri bağlantısı etkinleştirildi. Veri ücretleri uygulanabilir. Kullanılabilir WLAN'a bağlanılsın mı?"</string>
+    <string name="disable_dialog_title">"WLAN'ı devre dışı bırak?"</string>
+    <string name="disable_dialog_text">Mevcut konum AP menzilinin dışında kalıyor, WLAN devre dışı bırakılsın mı?</string>
+    <string name="show_dialog">Bana hatırlatma</string>
+    <string name="disable_show_dialog">Bana hatırlatma</string>
+    <string name="wifi_enable_text">Erişim Noktası Seçenekleri</string>
+    <string name="wifi_enable_summary">Telefon 3G veri ile bağlandığında WLAN bağlantısının onay alınarak mı yoksa otomatik olarak mı yapılacağını seçin.</string>
+    <string name="wifi_disable_text">Menzil Dışı Seçenekleri</string>
+    <string name="wifi_disable_summary">Erişim noktası menzil dışındaysa WLAN bağlantısının onay alınarak mı yoksa otomatik olarak mı devre dışı bırakılacağını seçin.</string>
+    <string name="wifi_setting_summary">3G veri bağlantısı yerine WLAN bağlantısını öncelikli hale getirmek için bu özelliği otomatik olarak etkinleştirir.</string>
+    <string name="wifi_popup_tip">Açılır pencere mesajı</string>
+    <string name="wifi_auto_enable">"WLAN'a otomatik olarak bağlan"</string>
+    <string name="wifi_auto_disable">"WLAN'ı otomatik olarak devre dışı bırak"</string>
+    <string name="wifi_popup_0">"Bağlı AP'yi kaydet ve bir dahaki sefer aynı alana girerken açılır pencere görüntülenecek"</string>
+    <string name="wifi_popup_1">"Bağlı AP'yi kaydet ve bir dahaki sefer aynı alana girerken otomatik olarak etkinleşecek"</string>
+    <string name="wifi_popup_2">Bana hatırlatma</string>
+    <string name="confirm_yes">Evet</string>
+    <string name="confirm_no">Hayır</string>
+    <string name="enable_wifi_hint">GPRS bağlantısı ile ağa erişim sağladığınız saptandı. Veri trafiğini kaydetmek için kablosuz ağa konum tabanlı WLAN ile erişim sağlayabilirsiniz</string>
+    <string name="disable_wifi_hint">Konum tabanlı WLAN bekleme durumunda gözüküyor ve enerji tasarrufu için kapatılacak</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Jedna stranica po strani</item>
+        <item>Dvije stranice po strani</item>
+        <item>Četiri stranice po strani</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Okomito</item>
+        <item>Vodoravno</item>
+        <item>Obrnuto vodoravno</item>
+        <item>Obrnuto okomito</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>okomito</item>
+        <item>vodoravno</item>
+        <item>obrnuto vodoravno</item>
+        <item>obrnuto okomito</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Jednostrano</item>
+        <item>Obostrano, dugi rub</item>
+        <item>Obostrano, kratki rub</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>jednostrano</item>
+        <item>obostrano, dugi rub</item>
+        <item>obostrano, kratki rub</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Podijeli kontakte u grupi</item>
+        <item>Dohvati kontakt</item>
+        <item>Exchange kontakti</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Sve prikazano</item>
+        <item>Kontakti s brojem telefona</item>
+        <item>Označeni zvjezdicom u sustavu Android</item>
+    </string-array>
+</resources>

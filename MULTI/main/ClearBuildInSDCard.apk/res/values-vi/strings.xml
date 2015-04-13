@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bộ lọc thẻ SD</string>
+    <string name="loading_please_wait">Đang tải, hãy đợi</string>
+    <string name="white_list_not_found">Không thể xóa dữ liệu thẻ SD trong: không tìm thấy d.sách trắng</string>
+    <string name="sdcard_not_available">Ko thể xóa dữ liệu thẻ SD trong: Thẻ SD không có sẵn</string>
+    <string name="clearSDcardFailed">Không thể xóa dữ liệu thẻ SD trong</string>
+    <string name="deleteFileFailed">Không thể xóa file</string>
+    <string name="fileNotFoud">Không tìm thấy bất thường trong file</string>
+    <string name="clear_start">Bắt đầu xóa nhật ký sử dụng thẻ SD trong</string>
+    <string name="clear_success">Đã xóa thành công, sẵn sàng khởi động lại</string>
+    <string name="clearing">Đang xóa dữ liệu thẻ SD trong</string>
+    <string name="checking">Đang kiểm tra tài nguyên đặt trước</string>
+    <string name="check_file">Kiểm tra tài nguyên đặt trước</string>
+    <string name="check_sucess">Đã kiểm tra tài nguyên đặt trước</string>
+    <string name="check_fail">Tài nguyên đặt trước không đầy đủ. Bạn có muốn kết thúc việc xóa thẻ SD không?</string>
+</resources>

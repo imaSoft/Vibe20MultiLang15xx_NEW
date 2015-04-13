@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Viena lappuse katrā pusē</item>
+        <item>Divas lappuses katrā pusē</item>
+        <item>Četras lappuses katrā pusē</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Portrets</item>
+        <item>Ainava</item>
+        <item>Apvērsta ainava</item>
+        <item>Apvērsts portrets</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>portrets</item>
+        <item>ainava</item>
+        <item>apvērsta ainava</item>
+        <item>apvērsts portrets</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Vienpusēja</item>
+        <item>Abpusēja, garākā mala</item>
+        <item>Abpusēja, īsākā mala</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>vienpusēja</item>
+        <item>abpusēja, garākā mala</item>
+        <item>abpusēja, īsākā mala</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Kopīgot grupas kontaktus</item>
+        <item>Iegūt kontaktu</item>
+        <item>Apmainīt kontaktus</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Viss parādīts</item>
+        <item>Kontakti ar tālruņu numuriem</item>
+        <item>Atzīm. ar zvaig. sist. Android</item>
+    </string-array>
+</resources>

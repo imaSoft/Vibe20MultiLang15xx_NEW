@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Implicit</item>
+        <item>Aleatoriu</item>
+        <item>Scară</item>
+        <item>Rotire</item>
+        <item>Nivelare</item>
+        <item>Săritură</item>
+        <item>Moară de vânt</item>
+        <item>Cub</item>
+        <item>Sinusoidă</item>
+        <item>Undă</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Niciunul</item>
+        <item>Afişare meniu Lansator</item>
+        <item>Afişare aplicații utilizate recent</item>
+        <item>Afişare bară de notificări</item>
+    </string-array>
+</resources>

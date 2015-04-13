@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pembaruan sistem</string>
+    <string name="exit">Keluar</string>
+    <string name="update_failed">Maaf. Gagal menginstal firmware baru</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="notification_content_title">Upgrade firmware</string>
+    <string name="notification_content_text_completed">Download berhasil</string>
+    <string name="error_not_specify_network_title">Download melalui jaringan WLAN</string>
+    <string name="error_not_specify_network_content">Anda sangat disarankan untuk men-download melalui jaringan WLAN, download melalui jaringan GPRS akan menggunakan data lebih besar</string>
+    <string name="btn_setting_network">Segera tetapkan</string>
+    <string name="btn_keep_download">Lanjutkan untuk men-ownload</string>
+    <string name="retry">Coba lagi</string>
+    <string name="redo_backup">Cadangkan lagi</string>
+    <string name="contact">Kontak</string>
+    <string name="sms">Pesan</string>
+    <string name="calllog">Log panggilan</string>
+    <string name="btn_backup">Cadangkan</string>
+    <string name="has_not_backup">Tidak dicadangkan</string>
+    <string name="countSms">pesan</string>
+    <string name="countContact">kontak</string>
+    <string name="countCalllog">log panggilan</string>
+    <string name="nodata">Tak ada data</string>
+    <string name="backup_data_ing">Mencadangkan kontak, dsb...</string>
+    <string name="backup_data_finish">Pencadangan data berhasil!</string>
+    <string name="data_usage_warning_title">Peringatan</string>
+    <string name="data_usage_warning">Helo pengguna, aplikasi ini membutuhkan akses ke Internet, lanjutkan?</string>
+    <string name="data_usage_confirm">Jangan tanyakan kali berikutnya</string>
+    <string name="ndf_install_finish_p">Segera</string>
+    <string name="ndf_install_finish_n">Nanti</string>
+    <string name="ndf_lowpower_title">Baterai lemah</string>
+    <string name="toast_install_fail">Gagal menginstal, jalur yang ditentukan: %s, tidak ada.</string>
+    <string name="network_error">Sambungan jaringan gagal</string>
+    <string name="notification_new_rom_come">Sistem Anda dapat diperbarui ke versi terbaru</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Setelah %d detik, sistem harus menginstal versi baru!</string>
+    <string name="backup_data">Cadangkan data</string>
+    <string name="restore_data">Kembalikan data</string>
+    <string name="battery_tip">Daya baterai lemah, sambungkan pengisi daya untuk melanjutkan pembaruan</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android динамикалық фон суреттері</string>
+    <string name="wallpaper_walkaround">Артқы жағын көру</string>
+    <string name="wallpaper_walkaround_desc">"Құрылғыңыз арқылы көріп, сәтсіз жағдайлар қаупінсіз жүріңіз. "</string>
+    <string name="wallpaper_grass">Шөп</string>
+    <string name="wallpaper_grass_desc">Шөп күннің алдында немесе түнгі аспанда жайлап қимылдайды.</string>
+    <string name="wallpaper_galaxy">Галактика</string>
+    <string name="wallpaper_galaxy_desc">Баяу иірімді құрайтын жұлдыздардан тұратын галактика.</string>
+    <string name="wallpaper_fall">Су</string>
+    <string name="wallpaper_fall_desc">Күзгі жапырақ түсуі&lt;br> Төмендегі шымырланған тоғанға:&lt;br> сұйық фон Дзен</string>
+    <string name="wallpaper_clock">Polar clock</string>
+    <string name="wallpaper_clock_desc">Күн мен уақытты сағат доғалары рет-де көрсе-ді: ай, күн, сағат, минут және секунд.</string>
+    <string name="wallpaper_nexus">Нексус</string>
+    <string name="wallpaper_nexus_desc">Жүйке жүйесінің ішіне қарау.</string>
+    <string name="clock_settings">Polar clock параметрлері</string>
+    <string name="show_seconds">Секунд көрсету</string>
+    <string name="variable_line_width">Әртүрлі сақина ендері</string>
+    <string name="palette">Түс жиынтығы</string>
+    <string name="palette_gray">Темір</string>
+    <string name="palette_violet">Түн ортасы</string>
+    <string name="palette_matrix">Жасыл экран</string>
+    <string name="palette_white_c">Ақ аю (динамикалық)</string>
+    <string name="palette_black_c">Қара тесік (динамикалық)</string>
+    <string name="palette_halloween">Pumpkin Pie</string>
+    <string name="palette_zenburn">Alien Fruit Salad</string>
+    <string name="palette_oceanic">Blue Laser</string>
+</resources>

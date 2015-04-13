@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">Tinangka ng %s na lumikha ng isang VPN na koneksyon.</string>
+    <string name="warning">Sa pamamagitan ng pagpapatuloy, binibigyan mo ng pahintulot ang application na harangin ang lahat ng trapiko ng network. <b>HUWAG tanggapin maliban kung nagtitiwala ka sa application.</b> Kung hindi man, may peligro kang makompromiso ng nakakapahamak na software ang iyong data.</string>
+    <string name="accept">Nagtitiwala ako sa application na ito.</string>
+    <string name="legacy_title">Nakakonekta ang VPN</string>
+    <string name="configure">I-configure</string>
+    <string name="disconnect">Idiskonekta</string>
+    <string name="session">Session:</string>
+    <string name="duration">Tagal:</string>
+    <string name="data_transmitted">Ipinadala:</string>
+    <string name="data_received">Natanggap:</string>
+    <string name="data_value_format">%1$s (na) byte / %2$s (na) packet</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instaluesi i paketës</string>
+    <string name="next">Tjetër</string>
+    <string name="install">Instalo</string>
+    <string name="done">U krye</string>
+    <string name="security_settings_desc">Lejoje këtë aplikacion të:</string>
+    <string name="cancel">Anulo</string>
+    <string name="unknown">E panjohur</string>
+    <string name="installing">Duke instaluar…</string>
+    <string name="install_done">Aplikacioni u instalua</string>
+    <string name="install_confirm_question">Dëshironi të instaloni këtë aplikacion? Ai do të qaset në:</string>
+    <string name="install_confirm_question_no_perms">Dëshironi të instaloni këtë aplikacion? Ai nuk kërkon ndonjë qasje të veçantë.</string>
+    <string name="install_confirm_question_update">Dëshironi të instaloni një përditësim për këtë aplikacion ekzistues? Të dhënat ekzistuese nuk do të humbin. Aplikacioni i përditësuar do të ketë qasje në:</string>
+    <string name="install_confirm_question_update_system">Dëshironi të instaloni një përditësim për këtë aplikacion të trupëzuar? Të dhënat ekzistuese nuk do të humbin. Aplikacioni i përditësuar do të ketë qasje në:</string>
+    <string name="install_confirm_question_update_no_perms">Dëshironi të instaloni një përditësim për këtë aplikacion ekzistues? Të dhënat ekzistuese nuk do të humbasin. Nuk kërkon qasje të veçantë.</string>
+    <string name="install_confirm_question_update_system_no_perms">Dëshironi të instaloni një përditësim për këtë aplikacion të trupëzuar? Të dhënat ekzistuese nuk do të humbasin. Nuk kërkon qasje të veçantë.</string>
+    <string name="install_failed">Aplikacioni nuk u instalua</string>
+    <string name="install_failed_invalid_apk">Paketa duket të jetë e dëmtuar.</string>
+    <string name="install_failed_inconsistent_certificates">Tashmë është instaluar një paketë ekzistuese me të njëjtin emër me një nënshkrim kontradiktor.</string>
+    <string name="install_failed_older_sdk">"Paketa punon vetëm në versionet më të reja të  Android."</string>
+    <string name="install_failed_cpu_abi_incompatible">Ky aplikacion nuk përputhet me telefonin tuaj.</string>
+    <string name="install_failed_file_not_found">Paketa e specifikuar ishte fshirë para se instalimi të përfundonte.</string>
+    <string name="install_failed_verify_failed">Paketa nuk e kaloi verifikimin dhe nuk mund të instalohet.</string>
+    <string name="install_failed_verify_timeout">Gjatë përpjekjes për të verifikuar këtë paketë ndodhi një kalim afati. Provojeni ta instaloni përsëri më vonë.</string>
+    <string name="install_failed_msg">%1$s nuk mund të instalohej në këtë telefon.</string>
+    <string name="launch">Hap</string>
+    <string name="unknown_apps_dlg_title">Instalimi u bllokua.</string>
+    <string name="unknown_apps_dlg_text">Për siguri, telefoni juaj është cilësuar që të bllokojë instalimin e aplikacioneve të marra nga burime të panjohura.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Cilësimet</string>
+    <string name="allow_source_dlg_title">Burim i ri për aplikacionet</string>
+    <string name="allow_source_dlg_text">"%1$s dëshiron të instalojë aplikacione të tjera.
+
+Të lejohet tani dhe në të ardhmen?"</string>
+    <string name="manage_applications">Aplikacionet e menaxhimit</string>
+    <string name="dlg_app_replacement_title">Të zëvendësohet aplikacioni?</string>
+    <string name="dlg_app_replacement_statement">"Aplikacioni që po instaloni do të zëvendësojë një aplikacion tjetër.
+
+Të gjitha të dhënat e mëparshme të përdoruesit do të ruhen."</string>
+    <string name="dlg_sys_app_replacement_statement">"Ky është një aplikacion sistemi.
+
+Të gjitha të dhënat tuaja të mëparshme të përdoruesit do të ruhen."</string>
+    <string name="out_of_space_dlg_title">Nuk ka hapësirë</string>
+    <string name="out_of_space_dlg_text">%1$s nuk mundi të instalohet. Lironi pak hapësirë dhe provojeni përsëri.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Aplikacioni nuk u gjet</string>
+    <string name="app_not_found_dlg_text">Aplikacioni nuk u gjet në listën e aplikacioneve të instaluara.</string>
+    <string name="uninstall_application_title">Çinstalo aplikacionin</string>
+    <string name="uninstall_update_title">Çinstalo përditësimin</string>
+    <string name="uninstall_activity_text">%1$s është pjesë e aplikacionit në vijim:</string>
+    <string name="uninstall_application_text">Dëshironi ta çinstaloni këtë aplikacion?</string>
+    <string name="uninstall_application_text_all_users">Dëshironi ta çinstaloni këtë aplikacion për <b>të gjithë</b> përdoruesit? Aplikacioni dhe të dhënat e tij do të hiqen nga <b>të gjithë</b> përdoruesit në pajisje.</string>
+    <string name="uninstall_update_text">Dëshironi ta zëvendësoni këtë aplikacion me versionin e fabrikës?</string>
+    <string name="uninstalling">Duke çinstaluar...</string>
+    <string name="uninstall_done">Çinstalimi përfundoi</string>
+    <string name="uninstall_failed">Çinstalimi ishte i pasuksesshëm</string>
+    <string name="uninstall_failed_device_policy_manager">Nuk mund të çinstalohet sepse kjo paketë është një administrator aktiv i pajisjes.</string>
+    <string name="manage_device_administrators">Menaxho administratorët e pajisjes</string>
+    <string name="uninstall_failed_msg">%1$s nuk mund të çinstalohej.</string>
+    <string name="Parse_error_dlg_title">Gabim analizimi</string>
+    <string name="Parse_error_dlg_text">Kishte një problem me analizimin e paketës.</string>
+    <string name="newPerms">Të reja</string>
+    <string name="allPerms">Të gjitha</string>
+    <string name="privacyPerms">Privatësia</string>
+    <string name="devicePerms">Qasja në pajisje</string>
+    <string name="no_new_perms">Ky përditësim nuk kërkon leje të reja.</string>
+    <string name="grant_confirm_question">Dëshironi të jepni lejet në vijim? Do të mund të qaset te:</string>
+</resources>

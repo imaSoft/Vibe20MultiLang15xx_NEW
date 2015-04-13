@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Skjöl</string>
+    <string name="title_open">Opna frá</string>
+    <string name="title_save">Vista í</string>
+    <string name="menu_create_dir">Búa til möppu</string>
+    <string name="menu_grid">Töfluform</string>
+    <string name="menu_list">Listaform</string>
+    <string name="menu_sort">Raða eftir</string>
+    <string name="menu_search">Leita</string>
+    <string name="menu_settings">Stillingar</string>
+    <string name="menu_open">Opna</string>
+    <string name="menu_save">Vista</string>
+    <string name="menu_share">Deila</string>
+    <string name="menu_delete">Eyða</string>
+    <string name="mode_selected_count">%1$d valin</string>
+    <string name="sort_name">Eftir heiti</string>
+    <string name="sort_date">Eftir breytingardagsetningu</string>
+    <string name="sort_size">Eftir stærð</string>
+    <string name="drawer_open">Sýna rætur</string>
+    <string name="drawer_close">Fela rætur</string>
+    <string name="save_error">Tókst ekki að vista skjal</string>
+    <string name="create_error">Tókst ekki að búa til möppu</string>
+    <string name="query_error">Tókst ekki að leita að skjölum</string>
+    <string name="root_recent">Nýlegt</string>
+    <string name="root_available_bytes">%1$s laus</string>
+    <string name="root_type_service">Geymsluþjónustur</string>
+    <string name="root_type_shortcut">Flýtileiðir</string>
+    <string name="root_type_device">Tæki</string>
+    <string name="root_type_apps">Fleiri forrit</string>
+    <string name="pref_advanced_devices">Birta geymslutæki</string>
+    <string name="pref_file_size">Birta skráarstærð</string>
+    <string name="pref_device_size">Birta stærð tækis</string>
+    <string name="empty">Engin atriði</string>
+    <string name="toast_no_application">Get ekki opnað skrá</string>
+    <string name="toast_failed_delete">Get ekki eytt einhverjum skjölum</string>
+    <string name="share_via">Deila í gegnum</string>
+</resources>

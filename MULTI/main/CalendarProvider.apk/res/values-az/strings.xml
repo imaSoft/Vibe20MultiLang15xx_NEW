@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Təqvim yaddaşı</string>
+    <string name="upgrade_msg">Təqvim yenilənir…</string>
+    <string name="calendar_default_name">İlkin təyin olunan</string>
+    <string name="calendar_info">Təqvim məlumatı</string>
+    <string name="calendar_info_error">Xəta</string>
+    <string name="calendar_info_no_calendars">Təqvim yoxdur</string>
+    <string name="calendar_info_events">Hadisələr: %d</string>
+    <string name="calendar_info_events_dirty">Hadisələr: %1$d, Sinxronlaşmayıb: %2$d</string>
+    <string name="provider_label">Təqvim</string>
+    <string name="debug_tool_delete_button">Faylı sil</string>
+    <string name="debug_tool_start_button">Başla</string>
+    <string name="debug_tool_message">Siz təqviminizin nüsxəsini SD kart/USB yaddaşında saxlamaq üzrəsiniz, və bu istənilən proqram tərəfindən oxunaraq e-poçt ilə göndərilə bilər. Cihazdan köçürdükdən və ya e-poçt aldıqdan sonra dərhal onu silməyi unutmayın.</string>
+    <string name="debug_tool_email_sender_picker">Faylınızı göndərmək üçün proqram seçin</string>
+    <string name="debug_tool_email_subject">Təqvim DB faylı əlavə edildi</string>
+    <string name="debug_tool_email_body">Bütün görüş və şəxsi məlumatımın olduğu təqvimim əlavə olunub. Lütfən diqqətlə davranın.</string>
+</resources>

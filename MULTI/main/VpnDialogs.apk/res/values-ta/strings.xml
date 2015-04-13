@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">ஒரு VPN இணைப்பை உருவாக்க %s முயற்சிக்கும்.</string>
+    <string name="warning">தொடர்வதன் மூலம், அனைத்து வலையமைப்புப் போக்குவரத்தையும் தலையிட பயன்பாட்டு அனுமதியை வழங்குகிறீர்கள். <b>நீங்கள் பயன்பாட்டை நம்பும்வரை ஏற்றுக்கொள்ள வேண்டாம்.</b> இல்லாவிட்டால், நீங்கள் ஒரு தீங்குதரும் மென்பொருளால் தொகுக்கப்படும் உங்கள் தரவைப் எடுத்துக்கொள்ளும் ஆபத்தை இயக்குகிறீர்கள்.</string>
+    <string name="accept">நான் இப்பயன்பாட்டை நம்புகிறேன்.</string>
+    <string name="legacy_title">VPN இணைக்கப்பட்டது</string>
+    <string name="configure">உள்ளமை</string>
+    <string name="disconnect">துண்டி</string>
+    <string name="session">அமர்வு:</string>
+    <string name="duration">காலஅளவு:</string>
+    <string name="data_transmitted">அனுப்பப்பட்டது:</string>
+    <string name="data_received">பெறப்பட்டது:</string>
+    <string name="data_value_format">%1$s bytes / %2$s தொகுப்புகள்</string>
+</resources>

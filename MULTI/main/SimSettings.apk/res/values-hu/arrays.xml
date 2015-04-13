@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Amerikai</item>
+        <item>Európa</item>
+        <item>Afrika</item>
+        <item>Asia</item>
+        <item>Ausztrália</item>
+        <item>Csendes-óceáni</item>
+        <item>Minden</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Soha nem</item>
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Azonnal</item>
+        <item>5 másodperc</item>
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Kicsi</item>
+        <item>Normál</item>
+        <item>Nagy</item>
+        <item>Hatalmas</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Nagyon lassú</item>
+        <item>Lassú</item>
+        <item>Normál</item>
+        <item>Gyors</item>
+        <item>Gyorsabb</item>
+        <item>Nagyon gyors</item>
+        <item>Villám</item>
+        <item>Villámnál is gyorsabb</item>
+        <item>Leggyorsabb</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Nagyon alacsony</item>
+        <item>Alacsony</item>
+        <item>Normál</item>
+        <item>Magas</item>
+        <item>Nagyon magas</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>1 óra</item>
+        <item>Soha nincs időtúllépés</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Szegény</item>
+        <item>Tisztességes</item>
+        <item>jó</item>
+        <item>Kiváló</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Mindig</item>
+        <item>Csak mikor csatlakoztatva van</item>
+        <item>Soha (növeli az adat használatot)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Mindig</item>
+        <item>Csak mikor csatlakoztatva van</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Rövid</item>
+        <item>Közepes</item>
+        <item>Hosszú</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Nagyon kicsi</item>
+        <item>Kicsi</item>
+        <item>Normál</item>
+        <item>Nagy</item>
+        <item>Nagyon nagy</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Fehér-fekete</item>
+        <item>Fekete-fehér</item>
+        <item>Sárga-fekete</item>
+        <item>Sárga-kék</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Egyszer</item>
+        <item>Mindig</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="saturation">
+        <item>Puha</item>
+        <item>Alapértelmezett</item>
+        <item>Világos</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Alapértelmezett</item>
+        <item>Magas</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Hideg</item>
+        <item>Alapértelmezett</item>
+        <item>Meleg</item>
+    </string-array>
+</resources>

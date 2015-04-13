@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aktualizace systému</string>
+    <string name="exit">Ukončit</string>
+    <string name="update_failed">Je nám líto. Instalace nového firmwaru se nezdařila</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Zrušit</string>
+    <string name="notification_content_title">Upgrade firmwaru</string>
+    <string name="notification_content_text_completed">Úspěšně staženo</string>
+    <string name="error_not_specify_network_title">Stáhněte data přes síť WLAN</string>
+    <string name="error_not_specify_network_content">Důrazně se doporučuje stáhnout data přes síť WLAN, stažení přes mobilní síť může mít za následek vysoké poplatky</string>
+    <string name="btn_setting_network">Nastavit okamžitě</string>
+    <string name="btn_keep_download">Pokračovat ve stahování</string>
+    <string name="retry">Opakovat</string>
+    <string name="redo_backup">Znovu zálohovat</string>
+    <string name="contact">Kontakty</string>
+    <string name="sms">Zpráva</string>
+    <string name="calllog">Protokol volání</string>
+    <string name="btn_backup">Zálohovat</string>
+    <string name="has_not_backup">Nezálohováno</string>
+    <string name="countSms">zprávy</string>
+    <string name="countContact">kontakty</string>
+    <string name="countCalllog">protokoly volání</string>
+    <string name="nodata">Žádná data</string>
+    <string name="backup_data_ing">Zálohování kontaktů atd.</string>
+    <string name="backup_data_finish">Zálohování dat bylo úspěšné!</string>
+    <string name="data_usage_warning_title">Varování</string>
+    <string name="data_usage_warning">Vážení uživatelé, použití této aplikace vyžaduje přístup k internetu. Chcete pokračovat?</string>
+    <string name="data_usage_confirm">Příště již nezobrazovat</string>
+    <string name="ndf_install_finish_p">Okamžitě</string>
+    <string name="ndf_install_finish_n">Později</string>
+    <string name="ndf_lowpower_title">Nízký stav baterie</string>
+    <string name="toast_install_fail">Instalace se nezdařila, uvedená cesta %s neexistuje.</string>
+    <string name="network_error">Chyba připojení k síti</string>
+    <string name="notification_new_rom_come">Váš systém může být aktualizován na nejnovější verzi.</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Po uplynutí %d sekund musí systém nainstalovat novou verzi!</string>
+    <string name="backup_data">Zálohovat data</string>
+    <string name="restore_data">Obnovení dat</string>
+    <string name="battery_tip">Nízké napětí baterie, připojte nabíječku, aby bylo možné pokračovat v upgradu</string>
+</resources>

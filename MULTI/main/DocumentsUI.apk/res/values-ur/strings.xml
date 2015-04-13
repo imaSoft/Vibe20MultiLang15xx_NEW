@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">دستاویزات</string>
+    <string name="title_open">سے کھولیں</string>
+    <string name="title_save">میں محفوظ کریں</string>
+    <string name="menu_create_dir">فولڈر بنائیں</string>
+    <string name="menu_grid">گرڈ ویو</string>
+    <string name="menu_list">لسٹ ویو</string>
+    <string name="menu_sort">ترتیب دیں بذریعہ</string>
+    <string name="menu_search">تلاش کریں</string>
+    <string name="menu_settings">سیٹنگز</string>
+    <string name="menu_open">کھولیں</string>
+    <string name="menu_save">محفوظ کریں</string>
+    <string name="menu_share">حصہ داری</string>
+    <string name="menu_delete">مٹانا</string>
+    <string name="sort_name">نام سے</string>
+    <string name="sort_date">تبدیلی کی تاریخ سے</string>
+    <string name="sort_size">سائز سے</string>
+    <string name="save_error">دستاویز محفوظ کرنے میں ناکام۔</string>
+    <string name="create_error">فولڈر بنانے میں ناکام۔</string>
+    <string name="query_error">فولڈر اختراع کرنے سے قاصر۔</string>
+    <string name="root_recent">تازہ ترین</string>
+    <string name="root_available_bytes">%1$s مفت</string>
+    <string name="root_type_shortcut">شارٹ کٹ</string>
+    <string name="root_type_device">آلات</string>
+    <string name="root_type_apps">مزید ایپلیکیشنز</string>
+    <string name="pref_advanced_devices">آلے کی ایڈوانسڈ ترتیبات دکھائیں</string>
+    <string name="pref_file_size">فائل سائز دکھائیں</string>
+    <string name="pref_device_size">آلے کے اسٹورج کا سائز دکھائیں</string>
+    <string name="empty">کوئی آئٹمز نہیں ہیں</string>
+    <string name="share_via">شراکت کریں براستہ</string>
+</resources>

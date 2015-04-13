@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">సర్టిఫికేట్ ఇన్‌స్టాలర్</string>
+    <string name="pick_file_title">సర్టిఫికేట్‌ను ఎంచుకోండి</string>
+    <string name="pkcs12_password_dialog_title">సర్టిఫికేట్‌ను సంగ్రహించు</string>
+    <string name="extracting_pkcs12">సంగ్రహిస్తోంది...</string>
+    <string name="pkcs12_file_password_dialog_title">%s నుండి సంగ్రహించు</string>
+    <string name="name_credential_dialog_title">సర్టిఫికేట్‌కు పేరు పెట్టండి</string>
+    <string name="credential_name">సర్టిఫికేట్ పేరు:</string>
+    <string name="credential_password">సర్టిఫికేట్లను సంగ్రహించడానికి పాస్‌వర్డ్‌ను టైప్ చేయండి.</string>
+    <string name="credential_info">ప్యాకేజీలో ఇవి ఉంటాయి:</string>
+    <string name="p12_description">PKCS12 కీస్టోర్‌లోని సర్టిఫికేట్‌లు.</string>
+    <string name="one_userkey">ఒక వినియోగదారు కీ</string>
+    <string name="one_usercrt">ఒక వినియోగదారు సర్టిఫికేట్</string>
+    <string name="one_cacrt">ఒక CA సర్టిఫికేట్</string>
+    <string name="n_cacrts">%d CA సర్టిఫికేట్‌లు</string>
+    <string name="password_error">సరైన పాస్‌వర్డ్‌ను టైప్ చేయండి.</string>
+    <string name="password_empty_error">పాస్‌వర్డ్‌ను టైప్ చేయండి.</string>
+    <string name="name_empty_error">పేరును టైప్ చేయండి.</string>
+    <string name="name_char_error">అక్షరాలు మరియు సంఖ్యలను మాత్రమే కలిగి ఉన్న పేరును టైప్ చేయండి.</string>
+    <string name="storage_error">సర్టిఫికేట్‌ను సేవ్ చేయడం సాధ్యం కాలేదు. మళ్ళీ ప్రయత్నించడానికి సరేను టచ్ చేయండి.</string>
+    <string name="unable_to_save_cert">సర్టిఫికేట్‌ను సేవ్ చేయడం సాధ్యం కాలేదు. క్రెడెన్షియల్ స్టోరేజీ ఎనేబుల్ చేయబడలేదు లేదా సరిగ్గా ప్రారంభించబడలేదు.</string>
+    <string name="cert_not_saved">సర్టిఫికేట్ ఇన్‌స్టాల్ కాలేదు.</string>
+    <string name="no_cert_to_saved">ఇన్‌స్టాల్ చేయడానికి సర్టిఫికేట్ లేదు.</string>
+    <string name="invalid_cert">సర్టిఫికేట్ చెల్లనిది.</string>
+    <string name="cert_is_added">%s ఇన్‌స్టాల్ చేయబడింది.</string>
+    <string name="cert_too_large_error">సర్టిఫికేట్ పరిమాణం చాలా పెద్దగా ఉండటంతో ఇన్‌స్టాల్ చేయడం సాధ్యం కాలేదు.</string>
+    <string name="cert_missing_error">సర్టిఫికేట్ ఫైల్‌ను గుర్తించలేకపోవడంతో, ఇన్‌స్టాల్ చేయడం సాధ్యం కాలేదు.</string>
+    <string name="cert_read_error">సర్టిఫికేట్ ఫైల్‌ను చదవడం సాధ్యం కాలేకపోవడంతో ఇన్‌స్టాల్ చేయడం సాధ్యం కాలేదు.</string>
+    <string name="no_cert_file_found">అంతర్గత నిల్వలో సర్టిఫికేట్ ఫైల్ కనుగొనబడలేదు.</string>
+    <string name="sdcard_not_present">SD కార్డ్ లేదు.</string>
+    <string name="only_primary_user_allowed">ఈ పరికరం యొక్క యజమాని మాత్రమే సర్టిఫికేట్‌లను ఇన్‌స్టాల్ చేయగలరు.</string>
+    <string name="credential_usage_label">క్రెడెన్షియల్ ఉపయోగం:</string>
+</resources>

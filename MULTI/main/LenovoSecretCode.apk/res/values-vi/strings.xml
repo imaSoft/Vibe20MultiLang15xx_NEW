@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">Số serial</string>
+    <string name="factory_wipe_data">Xóa dữ liệu người dùng ở chế độ gốc</string>
+    <string name="factory_wipe_data_warning">Nhấp nút OK sẽ xóa mọi dữ liệu người dùng, nhưng vẫn giữ lại các ứ.dụng đã cài đặt, vì vậy đề nghị người dùng thường xuyên không nên dùng nó để tránh làm mất dữ liệu trong điện thoại</string>
+    <string name="factory_wipe_data_cancel">hủy</string>
+    <string name="sdcard_not_found">không thể xóa dữ liệu gốc</string>
+    <string name="sdcard_not_found_tip">"Tính năng này cần hỗ trợ từ thẻ SD,
+        đảm bảo đã lắp thẻ SD khả dụng"</string>
+    <string name="sdcard_out_of_space">Thẻ SD không đủ dung lượng</string>
+    <string name="sdcard_out_of_space_tip">"Thẻ SD chỉ còn lại %1$sM dùng lượng khả dụng, nhưng 
+các tính năng này yêu cầu thẻ SD có %2$sM dung lượng khả dụng"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Ko hợp lệ</string>
+</resources>

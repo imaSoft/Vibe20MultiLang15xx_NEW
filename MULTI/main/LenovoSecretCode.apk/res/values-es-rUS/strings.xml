@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="factory_wipe_data">eliminar datos de usuario a través de modo de fábrica</string>
+    <string name="factory_wipe_data_warning">Al hacer clic en el botón Aceptar, se eliminarán todos los datos del usuario, pero se conservarán las aplicaciones instaladas. Se recomienda que los usuarios principiantes no utilicen esta función a fin de evitar perder datos almacenados en el teléfono.</string>
+    <string name="factory_wipe_data_cancel">cancelar</string>
+    <string name="sdcard_not_found">error de eliminación de datos de fábrica</string>
+    <string name="sdcard_not_found_tip">"Esta función requiere la compatibilidad con la tarjeta SD.
+        Asegúrese de que esté insertada la tarjeta SD disponible."</string>
+    <string name="sdcard_out_of_space">Tarjeta SD sin espacio suficiente</string>
+    <string name="sdcard_out_of_space_tip">"SD sólo con espacio disponible de %1$sM restante, pero estas 
+funciones requieren una tarjeta SD con %2$sM de espacio disponible"</string>
+    <string name="imei_invalid">No válido</string>
+</resources>

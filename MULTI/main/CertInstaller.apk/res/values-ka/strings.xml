@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">სერთიფიკატის დამაინსტალირებელი</string>
+    <string name="pick_file_title">აიღეთ სერთიფიკატი</string>
+    <string name="pkcs12_password_dialog_title">სერთიფიკატის მიღება</string>
+    <string name="extracting_pkcs12">სრულდება არქივიდან ამოღება...</string>
+    <string name="pkcs12_file_password_dialog_title">მიღება ადგილიდან: %s</string>
+    <string name="name_credential_dialog_title">სერთიფიკატის სახელი</string>
+    <string name="credential_info">პაკეტში შედის:</string>
+    <string name="p12_description">სერთიფიკატები PKCS12 კოდების მაღაზიაში</string>
+    <string name="one_userkey">ერთი მომხმარებლის კოდი</string>
+    <string name="one_usercrt">ერთი მომხმარებლის სერთიფიკატი</string>
+    <string name="one_cacrt">ავტორიზაციის ერთი სერთიფიკატი</string>
+    <string name="n_cacrts">%d CA სერთიფიკატები</string>
+    <string name="password_error">ჩაწერეთ სწორი პაროლი</string>
+    <string name="storage_error">სერთიფიკატი ვერ შეინახა. დააკაკუნეთ OK-ზე და ისევ ცადეთ</string>
+    <string name="unable_to_save_cert">სერთიფიკატი ვერ შეინახა. ავტორიზაციის პარამეტრები არ ინახება ან შესაბამისი მეხსიერება არ არის დაკავშირებული</string>
+    <string name="cert_not_saved">სერთიფიკატი არ არის დაინსტალირებული</string>
+    <string name="no_cert_to_saved">სერთიფიკატი არ არის, რომ დაინსტალირდეს</string>
+    <string name="cert_is_added">%s დაინსტალირებულია</string>
+    <string name="cert_too_large_error">ვერ დაინსტალირდა. სერთიფიკატი ძალზე დიდია</string>
+    <string name="cert_missing_error">ვერ დაინსტალირდა. სერთიფიკატი ვერ მოიძებნა</string>
+    <string name="cert_read_error">ვერ დაინსტალირდა. სერთიფიკატი ვერ წაიკითხა</string>
+    <string name="no_cert_file_found">სერთიფიკატის ფაილი ვერ მოიძებნა აპარატის შიდა მეხსიერებაში</string>
+    <string name="sdcard_not_present">აპარატის შიდა მეხსიერება მიუწვდომელია</string>
+</resources>

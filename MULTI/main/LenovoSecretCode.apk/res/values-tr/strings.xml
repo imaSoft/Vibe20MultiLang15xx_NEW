@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="factory_wipe_data">Fabrika kipiyle kullanıcı verilerini sil</string>
+    <string name="factory_wipe_data_warning">TAMAM tuşuna tıklatıldığında bütün kullanıcı verileri silinir ancak önceden ayarlanan uygulamalar kalır, telefonda veri kaybı olmaması için normal kullanıcıların bunu kullanması önerilmez</string>
+    <string name="factory_wipe_data_cancel">iptal</string>
+    <string name="sdcard_not_found">fabrika verilerine döndürme başarısız</string>
+    <string name="sdcard_not_found_tip">"Bu işlev SD kart desteği gerektirir,
+        kullanılabilir SD kartının takıldığını kontrol edin"</string>
+    <string name="sdcard_out_of_space">SD kartta yeterli boş alan yok</string>
+    <string name="sdcard_out_of_space_tip">SD içinde sadece %1$sM kullanılabilir alan kaldı ancak bu işlev SD kart içinde %2$sM kullanılabilir alan olmasını gerektiriyor</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Geçersiz</string>
+</resources>

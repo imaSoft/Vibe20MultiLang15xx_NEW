@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mise à jour du système</string>
+    <string name="exit">Quitter</string>
+    <string name="update_failed">"Désolé. Impossible d'installer le nouveau microprogramme"</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="notification_content_title">Mise à Jour du firmware</string>
+    <string name="notification_content_text_completed">Téléchargement réussi</string>
+    <string name="error_not_specify_network_title">Veuillez télécharger via un réseau WLAN</string>
+    <string name="error_not_specify_network_content">Il est fortement recommandé de télécharger via un réseau WLAN, télécharger via un réseau GPRS consommera plus de données</string>
+    <string name="btn_setting_network">Régler immédiatement</string>
+    <string name="btn_keep_download">Continuer pour télécharger</string>
+    <string name="retry">Réessayer</string>
+    <string name="redo_backup">Sauvegarder de nouveau</string>
+    <string name="contact">Contacts</string>
+    <string name="sms">Message</string>
+    <string name="calllog">"Journal d'appels"</string>
+    <string name="btn_backup">Sauvegarde</string>
+    <string name="has_not_backup">Non sauvegardé</string>
+    <string name="countSms">message(s)</string>
+    <string name="countContact">contact(s)</string>
+    <string name="countCalllog">"journal(aux) d'appels"</string>
+    <string name="nodata">Aucune donnée</string>
+    <string name="backup_data_ing">Copie de sauvegarde des contacts, etc.</string>
+    <string name="backup_data_finish">Sauvegarde des données réussie !</string>
+    <string name="data_usage_warning_title">Avertissement</string>
+    <string name="data_usage_warning">Cher utilisateur, cette application nécessite un accès Internet. Voulez-vous continuer ?</string>
+    <string name="data_usage_confirm">Ne plus demander la prochaine fois</string>
+    <string name="ndf_install_finish_p">Immédiatement</string>
+    <string name="ndf_install_finish_n">Plus tard</string>
+    <string name="ndf_lowpower_title">Batterie faible</string>
+    <string name="toast_install_fail">"Echec de l'installation. Le chemin d'accès spécifié %s n'existe pas."</string>
+    <string name="network_error">Échec de connexion réseau</string>
+    <string name="notification_new_rom_come">Vous pouvez mettre votre système à jour avec la dernière version</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Après %d secondes, le système doit installer la nouvelle version !</string>
+    <string name="backup_data">Sauvegarder les données</string>
+    <string name="restore_data">Restauration des données</string>
+    <string name="battery_tip">Batterie faible, veuillez brancher le chargeur pour continuer la mise à niveau</string>
+</resources>

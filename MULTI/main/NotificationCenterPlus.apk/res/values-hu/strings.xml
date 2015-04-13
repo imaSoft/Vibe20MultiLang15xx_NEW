@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationCenterPlus</string>
+    <string name="flashlight_notification_title">Vaku kikapcsolása</string>
+    <string name="flashlight_notification_text">Nyomja le a Vaku kikapcsolása opciót</string>
+    <string name="app_notification_manager_title">Alkalmazás értesítések engedélyezése</string>
+    <string name="app_notification_optimized_title">Alkalmazás értesítések priorizálása</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Nem engedélyezett alkalmazás</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Engedélyezett alkalmazás</string>
+    <string name="lenovo_progress_dialog_message">Betöltés...</string>
+    <string name="app_disable_notifications_dlg_title">Értesítések kikapcsolása?</string>
+    <string name="app_disable_notifications_dlg_text">Ha kikapcsolja az értesítéseket, lemaradhat fontos riasztásokról és eseményekről.</string>
+    <string name="app_add_optimized_notifications_title">Elő nyben nem részesített alkalmazás</string>
+    <string name="app_del_optimized_notifications_title">Előnyben részesített alkalmazás</string>
+    <string name="app_vip_notifications_title">VIP alkalmazás</string>
+    <string name="app_close_optimized_notifications_title">Lezárt alkalmazási értesítés</string>
+    <string name="app_close_optimized_notifications_summary">>Az alkalmazások csak azt követően tehetők kedvenccé, hogy az értesítéseket engedélyezte az alkalmazás értesítéskezelőjében</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">Elsődlegessé tett \"%1$s\" értesítések</string>
+    <string name="lenovo_app_add_notification_toast_text">Engedélyezett értesítések \"%1$s\" részére</string>
+    <string name="lenovo_no_app_nofitication">Nincs alkalmazás</string>
+    <string name="app_del_optimized_notifications_dlg_title">Megszünteti a kedvenc állapotot?</string>
+    <string name="app_del_optimized_notifications_dlg_text">Ha megváltoztatja az értesítési állapotukat, lemaradhat fontos riasztásokról vagy eseményekről.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">Nem elsőbbségi \"%1$s\" értesítések</string>
+    <string name="lenovo_app_delete_notification_toast_text">Értesítések letiltva \"%1$s\" részére</string>
+    <string name="lenovo_flashlight_error_notification_title">Cannot turn on the flash light now</string>
+    <string name="lenovo_flashlight_error_camera_in_use">The camera is now in use, cannot turn the flash light on</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Top edge of the screen covered, unable to turn on the flash light</string>
+    <string name="lenovo_flashlight_error_low_power">Low power! Flash light not supported</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nâng cấp hệ thống</string>
+    <string name="exit">Thoát</string>
+    <string name="update_failed">Rất tiếc. Không cài đặt chương trình cơ sở mới được</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="notification_content_title">Nâng cấp firmware</string>
+    <string name="notification_content_text_completed">Tải về thành công</string>
+    <string name="error_not_specify_network_title">Hãy tải về qua mạng WLAN</string>
+    <string name="error_not_specify_network_content">Bạn cần phải tải về gói nâng cấp qua mạng WLAN, tải về qua mạng GPRS sẽ sử dụng nhiều dữ liệu hơn</string>
+    <string name="btn_setting_network">Hãy cài đặt ngay</string>
+    <string name="btn_keep_download">Tiếp tục tải về</string>
+    <string name="retry">Thử lại</string>
+    <string name="redo_backup">Sao lưu lại</string>
+    <string name="contact">Danh bạ</string>
+    <string name="sms">Tin nhắn</string>
+    <string name="calllog">Nhật ký cuộc gọi</string>
+    <string name="btn_backup">Sao lưu</string>
+    <string name="has_not_backup">Chưa sao lưu</string>
+    <string name="countSms">tin nhắn</string>
+    <string name="countContact">số liên lạc</string>
+    <string name="countCalllog">nhật ký cuộc gọi</string>
+    <string name="nodata">Không có dữ liệu</string>
+    <string name="backup_data_ing">Đang sao lưu số liên lạc...</string>
+    <string name="backup_data_finish">Sao lưu dữ liệu thành công!</string>
+    <string name="data_usage_warning_title">Cảnh báo</string>
+    <string name="data_usage_warning">Kính gửi người dùng, ứng dụng này yêu cầu truy cập Internet, tiếp tục ？</string>
+    <string name="data_usage_confirm">Không nhắc lần sau</string>
+    <string name="ndf_install_finish_p">Ngay lập tức</string>
+    <string name="ndf_install_finish_n">Sau</string>
+    <string name="ndf_lowpower_title">Pin yếu</string>
+    <string name="toast_install_fail">Không cài đặt được, đường dẫn chỉ định: %s, không tồn tại.</string>
+    <string name="network_error">Không thể kết nối mạng</string>
+    <string name="notification_new_rom_come">Hệ thống của bạn có thể cập nhật phiên bản mới nhất</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Sau %d giây, hệ thống phải cài đặt phiên bản mới!</string>
+    <string name="backup_data">Sao lưu dữ liệu</string>
+    <string name="restore_data">Phục hồi dữ liệu</string>
+    <string name="battery_tip">Pin yếu, hãy cắm bộ sạc vào để tiếp tục tiến trình nâng cấp</string>
+</resources>

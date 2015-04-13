@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пернелер тізбегі</string>
+    <string name="title_no_certs">Сертификаттар табылмады</string>
+    <string name="title_select_cert">Сертификатты таңдау</string>
+    <string name="requesting_application">%s бағдарламасы сертификатты сұрады. Сертификатты таңдау бағдарламаға қазір және болашақта осы сәйкестік куәлігін серверлерде пайдалануға мүмкіндік береді.</string>
+    <string name="requesting_server">Бағдарлама сұрап жатқан серверді %s ретінде анықтады, бірақ бағдарламаға сертификатқа қатынасты бағдарламаға сенсеңіз ғана беруіңіз керек.</string>
+    <string name="install_new_cert_message">Сертификаттарды сыртқы қоймада орналасқан %1$s немесе %2$s қосалқы бағдарламасы бар PKCS#12 файлынан орнатуға болады.</string>
+    <string name="install_new_cert_button_label">Орнату</string>
+    <string name="allow_button">Рұқсат ету</string>
+    <string name="deny_button">Бас тарту</string>
+</resources>

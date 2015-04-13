@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_arkanoid_gamename">Buborék</string>
+    <string name="lenovo_arkanoid_newgame">ÚJRAINDÍTÁS</string>
+    <string name="lenovo_arkanoid_quit">KILÉPÉS</string>
+    <string name="lenovo_arkanoid_share">MEGOSZTÁS</string>
+    <string name="lenovo_arkanoid_countdown">Idő:</string>
+    <string name="lenovo_arkanoid_history">Előzmények:</string>
+    <string name="lenovo_arkanoid_score">pontszám</string>
+    <string name="share_text">ez a buborék!</string>
+    <string name="share_title">MEGOSZTÁS</string>
+    <string name="msg_exit">Tényleg kilép a játékból?</string>
+    <string name="msg_game_help">Játék Segítség</string>
+    <string name="msg_game_fast">gyors</string>
+    <string name="msg_game_slow">lassú</string>
+    <string name="msg_game_coefficient">Érzékenység beállítása</string>
+</resources>

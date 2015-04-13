@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Fondos en movemento de Android</string>
+    <string name="wallpaper_walkaround">Mirar a través</string>
+    <string name="wallpaper_walkaround_desc">"Mire a través do seu dispositivo e camiñe sen risco de accidentes. "</string>
+    <string name="wallpaper_grass">Herba</string>
+    <string name="wallpaper_grass_desc">Follas de herba ondeando suavemente no día ou na noite.</string>
+    <string name="wallpaper_galaxy">Galaxia</string>
+    <string name="wallpaper_galaxy_desc">Galaxia composta por un remuíño lento de estrelas.</string>
+    <string name="wallpaper_fall">Auga</string>
+    <string name="wallpaper_fall_desc">Caída de follas no outono&lt;br> No murmurio do estanque:&lt;br> Fondo líquido Zen</string>
+    <string name="wallpaper_clock">Reloxo polar</string>
+    <string name="wallpaper_clock_desc">Presenta a data e a hora en aneis no sentido das agullas do reloxo: mes, día, h, m e s.</string>
+    <string name="wallpaper_nexus">Nexus</string>
+    <string name="wallpaper_nexus_desc">Unha ollada no interior da rede neural.</string>
+    <string name="clock_settings">Axustes do reloxo polar</string>
+    <string name="show_seconds">Amosar segundos</string>
+    <string name="variable_line_width">Variar ancho de anel</string>
+    <string name="palette">Gama de cores</string>
+    <string name="palette_gray">Ferro</string>
+    <string name="palette_violet">Medianoite</string>
+    <string name="palette_matrix">Pantalla verde</string>
+    <string name="palette_white_c">Oso polar (dinámico)</string>
+    <string name="palette_black_c">Buraco negro (dinámico)</string>
+    <string name="palette_halloween">Pastel de cabaza</string>
+    <string name="palette_zenburn">Macedonia de froitas exóticas</string>
+    <string name="palette_oceanic">Láser azul</string>
+</resources>

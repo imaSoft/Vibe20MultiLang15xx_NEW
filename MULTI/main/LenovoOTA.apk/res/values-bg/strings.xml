@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">системен ъпгрейд</string>
+    <string name="exit">Изход</string>
+    <string name="update_failed">Съжаляваме. Инсталирането на новия фърмуер е неуспешно.</string>
+    <string name="btn_ok">ОК</string>
+    <string name="btn_cancel">Отмяна</string>
+    <string name="notification_content_title">Актуал. фърмуер</string>
+    <string name="notification_content_text_completed">Успешно сваляне</string>
+    <string name="error_not_specify_network_title">Моля, сваляйте през WLAN мрежа</string>
+    <string name="error_not_specify_network_content">Препоръчително е свалянето през WLAN мрежа. Свалянето през мобилна мрежа може да доведе до преразход.</string>
+    <string name="btn_setting_network">Задай веднага</string>
+    <string name="btn_keep_download">Продълж. свалянето</string>
+    <string name="retry">Повторен опит</string>
+    <string name="redo_backup">Повторно архивиране</string>
+    <string name="contact">Контакти</string>
+    <string name="sms">Съобщение</string>
+    <string name="calllog">Регистър на обажданията</string>
+    <string name="btn_backup">Архивиране</string>
+    <string name="has_not_backup">Не е архивирано</string>
+    <string name="countSms">съобщение(я)</string>
+    <string name="countContact">контакт(и)</string>
+    <string name="countCalllog">регистър(ри) на обажданията</string>
+    <string name="nodata">Няма данни</string>
+    <string name="backup_data_ing">Архивиране на контакти и др.</string>
+    <string name="backup_data_finish">Архивирането на данните е успешно!</string>
+    <string name="data_usage_warning_title">Предупреждение</string>
+    <string name="data_usage_warning">Уважаеми потребители, необходима е връзка с интернет, за да използвате приложението. Искате ли да продължите?</string>
+    <string name="data_usage_confirm">Без подкана следващия път</string>
+    <string name="ndf_install_finish_p">Незабавно</string>
+    <string name="ndf_install_finish_n">По-късно</string>
+    <string name="ndf_lowpower_title">Изтощена батерия</string>
+    <string name="toast_install_fail">Неуспешно инсталиране, указаният път %s не съществува.</string>
+    <string name="network_error">Неусп. свързване с мреж.</string>
+    <string name="notification_new_rom_come">Системата ви може да бъде актуализирана до най-новата версия</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">След %d секунди системата трябва да инсталира новата версия!</string>
+    <string name="backup_data">Арх. данни</string>
+    <string name="restore_data">Възст. данни</string>
+    <string name="battery_tip">Нисък заряд. Свържете зарядното, за да продължи актуализ.</string>
+</resources>

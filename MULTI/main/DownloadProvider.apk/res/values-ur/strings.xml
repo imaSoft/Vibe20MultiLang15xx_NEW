@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">ڈاؤن لوڈ</string>
+    <string name="cancel">منسوخ کرنا</string>
+    <string name="ok">اوکے</string>
+    <string name="download_file_already_exist">یہ فائل پہلے سے موجود ہے،اوررائٹ کریں یا نہیں؟</string>
+    <string name="notification_download_complete_op01">فائل محفوظ ہوگئی در:</string>
+    <string name="app_label">ڈاؤن لوڈ مینیجر</string>
+    <string name="permlab_downloadManager">ڈاؤن لوڈ مینیجر پر رسائی کریں</string>
+    <string name="permdesc_downloadManager">ایپلیکیشن کو فائلیں ڈاؤن لوڈ کرنے کے لئے ڈاؤن لوڈ مینیجر پر رسائی کرنے کی اجازت دیتا ہے۔ اگر اجازت دی گئی، تو بدنیت ایپلیکیشنز ڈاؤن لوڈز میں مداخلت، اور شخصی معلومات پر رسائی کرسکتی ہیں</string>
+    <string name="permlab_downloadManagerAdvanced">اعلی ڈاؤن لوڈ مینیجر فنکشنز</string>
+    <string name="permdesc_downloadManagerAdvanced">ایپلیکیشن کو ڈاؤن لوڈ مینیجر کے اعلی فنکشنوں پر رسائی کرنے کی اجازت دیتا ہے۔ اگر اجازت دی گئی، تو بدنیت ایپلیکیشنز ڈاؤن لوڈز میں مداخلت، اور شخصی معلومات پر رسائی کرسکتی ہیں</string>
+    <string name="permlab_downloadCompletedIntent">ڈاؤن لوڈ اعلانات بھیجیں</string>
+    <string name="permdesc_downloadCompletedIntent">ایپلیکیشن کو مکمل شدہ ڈاؤن لوڈز کے متعلق اعلانات بھیجنے کی اجازت دیتا ہے۔ اگر اجازت دی گئی، تو بدنیت ایپلیکیشنز دیگر ایپلی کیشنوں کو جو فائلیں ڈاؤن لوڈ کرتی ہیں منتشر کرسکتی ہیں</string>
+    <string name="permlab_seeAllExternal">SD کارڈ کے سب ڈاؤن لوڈ دیکھیں</string>
+    <string name="permdesc_seeAllExternal">کسی ایپلیکیشن کو SD کارڈ کے سب ڈاؤن لوڈز دیکھنے کی اجازت دیتا ہے، بلا تفریق کہ کونسی ایپلیکیشن نے ان کو ڈاؤن لوڈ کیا ہے</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reserve space in the download cache</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Allows the application to download files to the download cache which cannot be automatically deleted when the download manager needs more space</string>
+    <string name="permlab_downloadWithoutNotification">بنا اعلان فائلیں ڈاؤن لوڈ کریں</string>
+    <string name="permdesc_downloadWithoutNotification">کسی ایپلیکیشن کو صارف کو کوئی اعلامیہ دکھائے بغیر فائلیں ڈاؤن لوڈ کرنے کے لئے ڈاؤن لوڈ مینیجر پر رسائی کی اجازت دیتا ہے</string>
+    <string name="permlab_accessAllDownloads">Access all system downloads</string>
+    <string name="permdesc_accessAllDownloads">Allows the application to view and modify all initiated by any application on the system</string>
+    <string name="download_unknown_title">&lt;بنا ٹائٹل></string>
+    <string name="notification_download_complete">ڈاؤن لوڈ مکمل۔</string>
+    <string name="notification_download_failed">ڈاؤن لوڈ ناکامیاب۔</string>
+    <string name="notification_need_wifi_for_size">ڈاؤن لوڈ کا سائز بہت بڑا ہے۔ Wi-Fi درکار ہے۔</string>
+    <string name="notification_paused_in_background">پس منظر میں وقفہ دیا گيا</string>
+    <string name="wifi_required_title">آپریٹر نیٹ ورک کے لئے ڈاؤن لوڈ سائز بہت بڑا ہے</string>
+    <string name="wifi_required_body" formatted="false">"اس ڈاؤن لوڈ %s کو مکمل کرنے کیلئے Wi-Fi استعمال کرنا ضروری ہے۔ 
+
+اگلی بار جب آپ Wi-Fi سے مربوط ہوں تو یہ ڈاؤن لوڈ شروع کرنے کیلئے %s کو چھوئیں۔"</string>
+    <string name="wifi_recommended_title">بعد میں ڈاؤن لوڈ کے لئے قطار میں لگائیں؟</string>
+    <string name="wifi_recommended_body" formatted="false">"اس %s ڈاؤن لوڈ کو ابھی شروع کرنے سے آپ کی بیٹری کی زندگی مختصر ہوسکتی ہے اور/ یا آپ کے موبائل ڈیٹا کنکشن کا حد سے زیادہ استعمال ہوسکتا ہے، جس کے سبب آپ کے ڈیٹا پلان کے لحاظ سے آپ کا موبائل آپریٹر معاوضہ عائد کرسکتا ہے۔
+
+ اگلی بار جب آپ Wi-Fi نیٹ ورک سے مربوط ہوں تو یہ ڈاؤن لوڈ شروع کرنے کیلئے %s کو چھوئیں۔"</string>
+    <string name="button_queue_for_wifi">قطار میں</string>
+    <string name="button_cancel_download">منسوخ</string>
+    <string name="button_start_now">اب شروع کریں</string>
+    <string name="download_percent">%d %%</string>
+    <string name="download_remaining">%s باقی</string>
+    <string name="download_no_application_title">فائل نہیں کھول سکتا۔</string>
+    <string name="root_downloads">ڈاؤن لوڈز</string>
+</resources>

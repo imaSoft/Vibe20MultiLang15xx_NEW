@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Val á Live-veggfóðri</string>
+    <string name="live_wallpaper_picker_title">Veldu live-veggfóður</string>
+    <string name="live_wallpaper_picker_label">Live-veggfóður</string>
+    <string name="live_wallpaper_preview_title">Sýnishorn af live-veggfóðri</string>
+    <string name="configure_wallpaper">Stillingar</string>
+    <string name="wallpaper_instructions">Velja veggfóður</string>
+    <string name="live_wallpaper_empty">Ekkert live-veggfóður.</string>
+    <string name="set_live_wallpaper">Velja veggfóður</string>
+    <string name="wallpaper_title_and_author">%1$s eftir %2$s</string>
+    <string name="live_wallpaper_loading">Hleð live-veggfóður...</string>
+    <string name="wallpaper_cancel">Hætta við</string>
+</resources>

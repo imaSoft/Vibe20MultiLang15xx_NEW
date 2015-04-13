@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">रद्द</string>
+    <string name="ok">ठीक</string>
+    <string name="app_label">डाऊनलोड्स</string>
+    <string name="download_title_sorted_by_date">डाउनलोड - तारखेनुसार विल्हेवारी लावलेले</string>
+    <string name="download_title_sorted_by_size">डाउनलोड - आकारानुसार विल्हेवारी लावलेले</string>
+    <string name="no_downloads">कोणतेही डाऊनलोड्स नाहीत.</string>
+    <string name="missing_title">&lt;अज्ञात></string>
+    <string name="button_sort_by_size">आकारानुसार विल्हेवारी लावा</string>
+    <string name="button_sort_by_date">तारखेनुसार विल्हेवारी लावा</string>
+    <string name="download_queued">रांग लावली</string>
+    <string name="download_running">काम चालू</string>
+    <string name="download_success">पूर्ण करा</string>
+    <string name="download_error">अयशस्वी</string>
+    <string name="dialog_title_not_available">डाऊनलोड करता आले नाही</string>
+    <string name="dialog_failed_body">आपण फाइल नंतर डाऊनलोड करण्याचा पुन्हा प्रयत्न करू इच्छिता की तिला रांगेतून हटवू इच्छिता?</string>
+    <string name="dialog_title_queued_body">फाइल रांगेत आहे</string>
+    <string name="dialog_queued_body">ही फाइल भावी डाऊनलोडसाठी रांगेत आहे, म्हणून अद्याप उपलब्ध नाही.</string>
+    <string name="dialog_file_missing_body">डाऊनलोड केलेली फाइल सापडत नाही.</string>
+    <string name="dialog_insufficient_space_on_external">डाऊनलोड समाप्त करता येत नाही. बाह्य डाऊनलोड संग्रहात पुरेशी जागा नाही.</string>
+    <string name="dialog_insufficient_space_on_cache">डाऊनलोड समाप्त करता येत नाही. अंतर्गत डाऊनलोड संग्रहात पुरेशी जागा नाही.</string>
+    <string name="dialog_cannot_resume">डाऊनलोडमध्ये व्यत्यय आला होता आणि ते परत करता येणार नाही.</string>
+    <string name="dialog_file_already_exists">डाऊनलोड करणे शक्य नाही. गंतव्य फाइल आधीपासून अस्तित्वात आहे.</string>
+    <string name="dialog_media_not_found">डाऊनलोड समाप्त करता येत नाही. बाह्य माध्यमे उपलब्ध नाहीत.</string>
+    <string name="download_no_application_title">फाइल उघडता येत नाही</string>
+    <string name="remove_download">दूर करा</string>
+    <string name="delete_download">हटवा</string>
+    <string name="keep_queued_download">ठेवा</string>
+    <string name="cancel_running_download">रद्द करा</string>
+    <string name="retry_download">पुन्हा प्रयत्न करा</string>
+    <string name="deselect_all">सर्वांची निवड रद्द करा</string>
+    <string name="select_all">सर्व निवडा</string>
+    <string name="selected_count">%1$d पैकी %2$d निवडले</string>
+    <string name="download_share_dialog">यामार्फत शेअर करा</string>
+</resources>

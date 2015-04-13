@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ਦਸਤਾਵੇਜ਼</string>
+    <string name="title_open">ਇਸ ਤੋਂ ਖੋਲ੍ਹੋ</string>
+    <string name="title_save">ਇਸ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="menu_create_dir">ਫੋਲਡਰ ਬਣਾਉ</string>
+    <string name="menu_grid">ਗ੍ਰਿਡ ਦ੍ਰਿਸ਼</string>
+    <string name="menu_list">ਸੂਚੀ ਦ੍ਰਿਸ਼</string>
+    <string name="menu_sort">ਇਸਦੇ ਮੁਤਾਬਕ ਸ਼ੌਰਟ ਕਰੋ</string>
+    <string name="menu_search">ਲੱਭੋ</string>
+    <string name="menu_settings">ਸੈੱਟਿੰਗਸ</string>
+    <string name="menu_open">ਖੋਲ੍ਹੋ</string>
+    <string name="menu_save">ਸੁਰੱਖਿਅਤ</string>
+    <string name="menu_share">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="menu_delete">ਮਿਟਾਓ</string>
+    <string name="sort_name">ਨਾਂ ਦੇ ਅਨੁਸਾਰ</string>
+    <string name="sort_date">ਸੰਸ਼ੋਧਨ ਮਿਤੀ ਦੇ ਅਨੁਸਾਰ</string>
+    <string name="sort_size">ਆਕਾਰ ਦੇ ਅਨੁਸਾਰ</string>
+    <string name="save_error">ਦਸਤਾਵੇਜ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।</string>
+    <string name="create_error">ਫੋਲਡਰ ਬਣਾਉਣ ਵਿੱਚ ਅਸਫਲ।</string>
+    <string name="query_error">ਫੋਲਡਰ ਤਿਆਰ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।</string>
+    <string name="root_recent">ਹਾਲ ਹੀ ਦੇ</string>
+    <string name="root_available_bytes">%1$s ਮੁਫ਼ਤ</string>
+    <string name="root_type_shortcut">ਸ਼ੌਰਟਕੱਟ</string>
+    <string name="root_type_device">ਡਿਵਾਈਸਾਂ</string>
+    <string name="root_type_apps">ਹੋਰ ਅਨੁਪ੍ਰਯੋਗ</string>
+    <string name="pref_advanced_devices">ਉੱਨਤ ਡਿਵਾਈਸ ਔਪਟ ਦਿਖਾਉ</string>
+    <string name="pref_file_size">ਪ੍ਰਦਰਸ਼ਨ ਫਾਈਲ ਅਕਾਰ</string>
+    <string name="pref_device_size">ਡਿਵਾਈਸ ਸਟੋਰੇਜ ਆਕਾਰ ਦਿਖਾਉ</string>
+    <string name="empty">ਕੋਈ ਆਈਟਮ ਨਹੀਂ</string>
+    <string name="share_via">ਇਸਦੇ ਰਾਹੀਂ ਸਾਂਝਾ ਕਰੋ</string>
+</resources>

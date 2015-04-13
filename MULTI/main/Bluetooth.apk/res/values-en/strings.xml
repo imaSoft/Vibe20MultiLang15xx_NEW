@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_bluetoothWhitelist">Whitelist Bluetooth device access.</string>
+    <string name="permdesc_bluetoothWhitelist">Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
+    <string name="permdesc_handoverStatus">Allows receiving handover transfer status information from Bluetooth.</string>
+    <string name="airplane_error_msg">"You can't use Bluetooth in Airplane mode"</string>
+    <string name="incoming_file_confirm_timeout_content">There was a timeout whilst accepting an incoming file from \"%1$s\"</string>
+    <string name="incoming_file_toast_msg">Incoming file from another device. Confirm you want to receive this file.</string>
+    <string name="download_line1">From: \"%1$s\"</string>
+    <string name="download_line5">Receiving file…</string>
+    <string name="upload_line1">To: \"%1$s\"</string>
+    <string name="upload_line5">Sending file…</string>
+    <string name="upload_fail_line1">"The file wasn't sent to \"%1$s\"."</string>
+    <string name="unknown_file_desc">"There's no app to handle this type of file. 
+"</string>
+    <string name="not_exist_file_desc">"The file doesn't exist. 
+"</string>
+    <string name="enabling_progress_title">Please wait…</string>
+    <string name="enabling_progress_content">Turning on Bluetooth…</string>
+    <string name="bt_toast_3">Stopped receiving file from \"%1$s\"</string>
+    <string name="bt_toast_4">Sending file to \"%1$s\"</string>
+    <string name="bt_toast_5">Sending %1$s files to \"%2$s\"</string>
+    <string name="bt_toast_6">Stopped sending file to \"%1$s\"</string>
+    <string name="status_canceled">Transfer cancelled by user.</string>
+    <string name="download_success">%1$s Received complete.</string>
+    <string name="upload_success">%1$s Sent complete.</string>
+    <string name="noti_caption">%1$s successful, %2$s unsuccessful.</string>
+    <string name="map_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
+</resources>

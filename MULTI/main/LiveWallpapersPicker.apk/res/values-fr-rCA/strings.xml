@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Sélectionneur de papiers peints animés</string>
+    <string name="live_wallpaper_picker_title">Sélectionner un papier peint animé</string>
+    <string name="live_wallpaper_picker_label">Papiers peints animés</string>
+    <string name="live_wallpaper_preview_title">Aperçu du papier peint en direct</string>
+    <string name="configure_wallpaper">Paramètres</string>
+    <string name="wallpaper_instructions">Définir le papier peint</string>
+    <string name="live_wallpaper_empty">Aucun papier peint en direct</string>
+    <string name="set_live_wallpaper">Définir le papier peint</string>
+    <string name="wallpaper_title_and_author">%1$s par %2$s</string>
+    <string name="live_wallpaper_loading">Chargement du papier peint en direct…</string>
+    <string name="wallpaper_cancel">Annuler</string>
+</resources>

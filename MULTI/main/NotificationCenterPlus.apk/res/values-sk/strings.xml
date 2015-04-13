@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationCenterPlus</string>
+    <string name="flashlight_notification_title">Zatvorte baterku</string>
+    <string name="flashlight_notification_text">Ťuknutím zatvorte baterku</string>
+    <string name="app_notification_manager_title">Aktivovať oznámenia aplikácií</string>
+    <string name="app_notification_optimized_title">Oznámenia prioritných aplikácií</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Blokované oznámenia aplikácií</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Povolené oznámenia aplikácií</string>
+    <string name="lenovo_progress_dialog_message">Načítava sa…</string>
+    <string name="app_disable_notifications_dlg_title">Vypnúť oznámenia?</string>
+    <string name="app_disable_notifications_dlg_text">Môžete zmeškať dôležité upozornenia a udalosti, ak oznámenia o nich vypnete.</string>
+    <string name="app_add_optimized_notifications_title">Oznámenia aplikácií bez priority</string>
+    <string name="app_del_optimized_notifications_title">Oznámenia aplikácií s prioritou</string>
+    <string name="app_vip_notifications_title">Aplikácia VIP</string>
+    <string name="app_close_optimized_notifications_title">Oznámenie o zatvorení aplikácie</string>
+    <string name="app_close_optimized_notifications_summary">Aplikácie možno nastaviť ako preferované až po povolení ich oznámení v položke správy oznámení aplikácií</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">Oznámenia \"%1$s\" nastavené ako prioritné</string>
+    <string name="lenovo_app_add_notification_toast_text">Povolené oznámenia pre \"\"%1$s\"\"</string>
+    <string name="lenovo_no_app_nofitication">Žiadne aplikácie</string>
+    <string name="app_del_optimized_notifications_dlg_title">Zrušiť uprednostňovaný stav?</string>
+    <string name="app_del_optimized_notifications_dlg_text">Môžete prehliadnuť dôležité upozornenia alebo udalosti, ak zmeníte stav ich oznámení.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">Oznámenia \"%1$s\" bez priority</string>
+    <string name="lenovo_app_delete_notification_toast_text">Vypnuté oznámenia \"%1$s\"</string>
+    <string name="lenovo_flashlight_error_notification_title">Cannot turn on the flash light now</string>
+    <string name="lenovo_flashlight_error_camera_in_use">The camera is now in use, cannot turn the flash light on</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Top edge of the screen covered, unable to turn on the flash light</string>
+    <string name="lenovo_flashlight_error_low_power">Low power! Flash light not supported</string>
+</resources>

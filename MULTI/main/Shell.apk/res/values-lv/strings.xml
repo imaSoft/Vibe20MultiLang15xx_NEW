@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Čaula</string>
+    <string name="bugreport_finished_title">Kļūdu atskaite tverta</string>
+    <string name="bugreport_finished_text">Pieskarieties, lai kopīgotu kļūdu atskaiti</string>
+    <string name="bugreport_confirm">Kļūdu atskaitēs ir dati no dažādiem sistēmas žurnālfailiem, ieskaitot personisku un privātu informāciju. Kļūdu atskaites kopīgojiet tikai ar uzticamām lietotnēm un personām.</string>
+    <string name="bugreport_confirm_repeat">Rādīt šo ziņu nākamreiz</string>
+</resources>

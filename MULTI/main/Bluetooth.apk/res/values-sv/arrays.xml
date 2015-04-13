@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>En sida per sida</item>
+        <item>Två sidor per sida</item>
+        <item>Fyra sidor per sida</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Porträtt</item>
+        <item>Landskap</item>
+        <item>Vänd landskap</item>
+        <item>Vänd porträtt</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>porträtt</item>
+        <item>landskap</item>
+        <item>vänd landskap</item>
+        <item>vänd porträtt</item>
+    </string-array>
+    <string-array name="sides">
+        <item>En sida</item>
+        <item>Två sidor, långsida</item>
+        <item>Två sidor, kortsida</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>en sida</item>
+        <item>två sidor, långsida</item>
+        <item>två sidor, kortsida</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Dela kontakter i grupp</item>
+        <item>Hämta kontakt</item>
+        <item>Utbyt kontakter</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Alla visade</item>
+        <item>Kontakter med telefonnummer</item>
+        <item>Stjärnmärkta i Android</item>
+    </string-array>
+</resources>

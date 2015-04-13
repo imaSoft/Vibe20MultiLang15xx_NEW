@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">VPN కనెక్షన్‌ను సృష్టించడానికి %s ప్రయత్నాలు.</string>
+    <string name="warning">కొనసాగించడం ద్వారా, అన్ని నెట్‌వర్క్ ట్రాఫిక్‌లో అంతరాయం కలిగించడానికి అప్లికేషన్‌ను మీరు అనుమతిస్తున్నారు. <b>మీరు అప్లికేషన్‌ను విశ్వసించే వరకు అంగీకరించవద్దు.</b> లేదంటే, హానికర సాఫ్ట్‌వేర్ ద్వారా మీ డేటాకు ముప్పు ఏర్పడే అవకాశం ఉంది.</string>
+    <string name="accept">నేను ఈ అప్లికేషన్‌ను విశ్వసిస్తున్నాను.</string>
+    <string name="legacy_title">VPN కనెక్ట్ చేయబడింది</string>
+    <string name="configure">కన్ఫిగర్ చేయి</string>
+    <string name="disconnect">డిస్‌కనెక్ట్ చేయి</string>
+    <string name="session">సెషన్:</string>
+    <string name="duration">వ్యవధి:</string>
+    <string name="data_transmitted">పంపినవి:</string>
+    <string name="data_received">అందుకోబడింది:</string>
+    <string name="data_value_format">%1$s bytes / %2$s ప్యాకెట్‌లు</string>
+</resources>

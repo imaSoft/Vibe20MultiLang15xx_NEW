@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dialog_items">
+        <item>Partilhar contactos em grupo</item>
+        <item>Obter contacto</item>
+        <item>Trocar contactos</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Apresentar tudo</item>
+        <item>Contactos com n.º de telefone</item>
+        <item>Com estrelas no Android</item>
+    </string-array>
+</resources>

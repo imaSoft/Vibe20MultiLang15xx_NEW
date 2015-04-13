@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ಕಡತಗಳು</string>
+    <string name="title_open">ರಿಂದ ತೆರೆಯಿರಿ</string>
+    <string name="title_save">ಗೆ ಉಳಿಸಿ</string>
+    <string name="menu_create_dir">ಫೋಲ್ಡರ್ ರಚಿಸಿ</string>
+    <string name="menu_grid">ಗ್ರಿಡ್ ನೋಟ</string>
+    <string name="menu_list">ಪಟ್ಟಿ ನೋಟ</string>
+    <string name="menu_sort">ಹೀಗೆ ವಿಂಗಡಿಸಿ</string>
+    <string name="menu_search">ಹುಡುಕಿ</string>
+    <string name="menu_settings">ಹೊಂದಿಕೆಗಳು</string>
+    <string name="menu_open">ತೆರೆಯಿರಿ</string>
+    <string name="menu_save">ಉಳಿಸಿ</string>
+    <string name="menu_share">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="menu_delete">ಅಳಿಸಿ</string>
+    <string name="mode_selected_count">%1$d ಆರಿಸಲಾಗಿದೆ</string>
+    <string name="sort_name">ಹೆಸರಿನಿಂದ</string>
+    <string name="sort_date">ಬದಲಾಯಿಸಿದ ದಿನಾಂಕದಿಂದ</string>
+    <string name="sort_size">ಗಾತ್ರದಿಂದ</string>
+    <string name="drawer_open">ಬೇರುಗಳನ್ನು ತೋರಿಸಿ</string>
+    <string name="drawer_close">ಬೇರುಗಳನ್ನು ಮರೆಮಾಡಿ</string>
+    <string name="save_error">ಕಡತ ಉಳಿಸಲಾಗಲಿಲ್ಲ</string>
+    <string name="create_error">ಫೋಲ್ಡರ್ ರಚಿಸಲಾಗಲಿಲ್ಲ</string>
+    <string name="query_error">ದಾಖಲೆಗಳಿಗಾಗಿ ಹುಡುಕಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="root_recent">ಇತ್ತೀಚಿನ</string>
+    <string name="root_available_bytes">%1$s ಉಚಿತ</string>
+    <string name="root_type_service">ಶೇಖರಣಾ ಸೇವೆಗಳು</string>
+    <string name="root_type_shortcut">ಶಾರ್ಟ್ ಕಟ್ ಗಳು</string>
+    <string name="root_type_device">ಸಾಧನಗಳು</string>
+    <string name="root_type_apps">ಇನ್ನಷ್ಟು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು</string>
+    <string name="pref_advanced_devices">ಮುಂದುವರಿದ ಸಾಧನಗಳನ್ನು ತೋರಿಸಿ</string>
+    <string name="pref_file_size">ಕಡತದ ಗಾತ್ರ ಪ್ರದರ್ಶಿಸಿ</string>
+    <string name="pref_device_size">ಸಾಧನದ ಗಾತ್ರ ಪ್ರದರ್ಶಿಸಿ</string>
+    <string name="empty">ಯಾವುದೇ ವಸ್ತುಗಳಿಲ್ಲ</string>
+    <string name="toast_no_application">ಫೈಲ್ ತೆರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="toast_failed_delete">ಕೆಲವು ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="share_via">ಹೀಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+</resources>

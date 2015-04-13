@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Copia de seguridade completa</string>
+    <string name="restore_confirm_title">Restablecemento completo</string>
+    <string name="backup_confirm_text">"Solicitouse a realización dunha copia de seguridade completa de todos os datos nun equipo de sobremesa conectado. Quere permitir esta acción?
+
+Se non solicitou vostede mesmo a copia de seguridade, non permita que se inicie a operación."</string>
+    <string name="allow_backup_button_label">Efectuar copia de seguridade dos meus datos</string>
+    <string name="deny_backup_button_label">Non efectuar copia de seguridade</string>
+    <string name="restore_confirm_text">"Solicitouse unha restauración completa de todos os datos desde un equipo de sobremesa conectado. Quere permitilo?
+
+Se non solicitou a restauración vostede mesmo, non permita que continúe a operación. Esta acción substituirá todos os datos que se atopan actualmente no dispositivo!"</string>
+    <string name="allow_restore_button_label">Restaurar os meus datos</string>
+    <string name="deny_restore_button_label">Non restaurar</string>
+    <string name="current_password_text">Escriba a continuación o seu contrasinal actual para a copia de seguridade:</string>
+    <string name="device_encryption_restore_text">Escriba a continuación o contrasinal de encriptación do dispositivo.</string>
+    <string name="device_encryption_backup_text">Insira a continuación o contrasinal de encriptación do dispositivo. Usarase tamén para encriptar o arquivo de copia de seguridade.</string>
+    <string name="backup_enc_password_text">Insira un contrasinal para usalo para encriptar os datos da copia de seguridade completa. Se deixa baleiro este campo, usarase o seu contrasinal actual para copias de seguridade:</string>
+    <string name="backup_enc_password_optional">Se desexa encriptar os datos da copia de seguridade completa, insira un contrasinal a continuación:</string>
+    <string name="restore_enc_password_text">Se os datos restaurados están encriptados, insira o contrasinal a continuación:</string>
+    <string name="toast_backup_started">Iniciando copia de seguridade…</string>
+    <string name="toast_backup_ended">Copia de seguridade finalizada</string>
+    <string name="toast_restore_started">Iniciando restauración...</string>
+    <string name="toast_restore_ended">Restauración finalizada</string>
+    <string name="toast_timeout">Esgotouse o tempo de espera para a operación</string>
+</resources>

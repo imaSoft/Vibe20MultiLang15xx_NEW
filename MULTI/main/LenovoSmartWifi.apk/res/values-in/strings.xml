@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">Pengaitan lokasi WLAN</string>
+    <string name="dialog_title">Aktifkan WLAN?</string>
+    <string name="dialog_text">Lokasi ini telah tersambung aplikasi, aktifkan WLAN?</string>
+    <string name="disable_dialog_title">Nonaktifkan WLAN?</string>
+    <string name="disable_dialog_text">Lokasi ini jauh dari lokasi aplikasi tersambung, nonaktifkan WLAN?</string>
+    <string name="show_dialog">Jangan ingatkan saya</string>
+    <string name="disable_show_dialog">Jangan ingatkan saya</string>
+    <string name="wifi_enable_text">Buka lokasi, pertanyaan muncul di layar</string>
+    <string name="wifi_enable_summary">Bila memasuki lokasi aplikasi tersambung dan tersedia data GPRS, aktifkan WLAN</string>
+    <string name="wifi_disable_text">Lokasi jauh, pertanyaan muncul di layar</string>
+    <string name="wifi_disable_summary">Bila lokasi jauh dari aplikasi tersambung, nonaktifkan WLAN</string>
+    <string name="wifi_setting_summary">Bila memasuki lokasi aplikasi tersambung dan tersedia data GPRS, aktifkan WLAN</string>
+    <string name="wifi_popup_tip">Pertanyaan muncul</string>
+    <string name="wifi_auto_enable">Aktifkan otomatis</string>
+    <string name="wifi_auto_disable">Nonaktifkan otomatis</string>
+    <string name="wifi_popup_0">Mengaitkan aplikasi tersambung. Bila memasuki lokasi ini, pertanyaan akan muncul di layar.</string>
+    <string name="wifi_popup_1">Mengaitkan aplikasi tersambung. Bila memasuki lokasi ini, aktifkan secara otomatis.</string>
+    <string name="wifi_popup_2">Jangan ingatkan saya</string>
+    <string name="confirm_yes">Ya</string>
+    <string name="confirm_no">Tidak</string>
+    <string name="enable_wifi_hint">Perekaman WLAN sekarang menghubungkan ke jaringan WLAN untuk menghemat aliran data Anda</string>
+    <string name="disable_wifi_hint">Perekaman WLAN sekarang menonaktifkan WLAN untuk menghemat daya</string>
+</resources>

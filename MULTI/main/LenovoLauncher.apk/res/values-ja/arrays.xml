@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>デフォルト</item>
+        <item>回転</item>
+        <item>ブルドーザー (押し進む)</item>
+        <item>風車</item>
+        <item>立方体</item>
+        <item>正弦波</item>
+        <item>シリンダ</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>なし</item>
+        <item>Launcherメニューを表示</item>
+        <item>最近使われたアプリケーションを表示</item>
+        <item>通知バーを表示</item>
+    </string-array>
+</resources>

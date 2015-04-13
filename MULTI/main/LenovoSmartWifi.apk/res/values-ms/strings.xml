@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">WLAN mengikat lokasi</string>
+    <string name="dialog_title">Dayakan WLAN?</string>
+    <string name="dialog_text">Lokasi ini telah disambungkan ke aplikasi, dayakan WLAN?</string>
+    <string name="disable_dialog_title">Nyahdayakan WLAN?</string>
+    <string name="disable_dialog_text">Lokasi ini berada jauh daripada lokasi aplikasi yang disambungkan, nyahdayakan WLAN?</string>
+    <string name="show_dialog">Jangan ingatkan saya</string>
+    <string name="disable_show_dialog">Jangan ingatkan saya</string>
+    <string name="wifi_enable_text">Masukkan lokasi, pop timbul menggesa</string>
+    <string name="wifi_enable_summary">Semasa memasukkan lokasi aplikasi yang disambungkan dan mempunyai data GPRS, dayakan WLAN</string>
+    <string name="wifi_disable_text">Lokasi jauh, pop timbul menggesa</string>
+    <string name="wifi_disable_summary">Apabila lokasi aplikasi yang disambungkan berada jauh, nyahdayakan WLAN</string>
+    <string name="wifi_setting_summary">Semasa memasukkan lokasi aplikasi yang disambungkan dan mempunyai data GPRS, dayakan WLAN</string>
+    <string name="wifi_popup_tip">Gesaan pop timbul</string>
+    <string name="wifi_auto_enable">Dayakan secara automatik</string>
+    <string name="wifi_auto_disable">Nyahdayakan secara automatik</string>
+    <string name="wifi_popup_0">Mengikat aplikasi yang disambungkan. Semasa memasukkan lokasi ini, pop timbul menggesa</string>
+    <string name="wifi_popup_1">Mengikat aplikasi yang disambungkan. Semasa memasukkan lokasi ini, auto dayakan</string>
+    <string name="wifi_popup_2">Jangan ingatkan saya</string>
+    <string name="confirm_yes">Ya</string>
+    <string name="confirm_no">Tidak</string>
+    <string name="enable_wifi_hint">Rakaman WLAN kini menyambung ke rangkaian WLAN untuk menyimpan aliran data anda</string>
+    <string name="disable_wifi_hint">Rakaman WLAN kini mematikan WLAN untuk menjimatkan kuasa</string>
+</resources>

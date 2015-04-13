@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">நேரலை வால்பேப்பர் தேர்வி</string>
+    <string name="live_wallpaper_picker_title">லைவ் வால்பேப்பர் தேர்வுசெய்க</string>
+    <string name="live_wallpaper_picker_label">லைவ் வால்பேப்பர்கள்</string>
+    <string name="live_wallpaper_preview_title">லைவ் வால்பேப்பர் முன்பார்வை</string>
+    <string name="configure_wallpaper">அமைப்புகள்...</string>
+    <string name="wallpaper_instructions">வால்பேப்பரை அமைக்கவும்</string>
+    <string name="live_wallpaper_empty">லைவ் வால்பேப்பர்கள் இல்லை.</string>
+    <string name="set_live_wallpaper">வால்பேப்பரை அமைக்கவும்</string>
+    <string name="wallpaper_title_and_author">%2$s இன் %1$s</string>
+    <string name="live_wallpaper_loading">லைவ் வால்பேப்பர்களை ஏற்றுகிறது...</string>
+    <string name="wallpaper_cancel">ரத்து</string>
+</resources>

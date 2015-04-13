@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">دانلودها</string>
+    <string name="cancel">لغو</string>
+    <string name="ok">تایید</string>
+    <string name="download_file_already_exist">فايل تکراری است؛ رونويسی شود يا خير؟</string>
+    <string name="notification_download_complete_op01">فایل در این مسیر ذخیره شد:</string>
+    <string name="app_label">Download Manager</string>
+    <string name="permlab_downloadManager">دسترسی به مدیر دانلود</string>
+    <string name="permdesc_downloadManager">به برنامه اجازه می دهد تا به مدیر دانلود دسترسی داشته باشد و از آن برای دانلود فایل ها استفاده کند. برنامه های مضر می توانند از این امکان استفاده کرده و برای دانلودها مشکل ایجاد کنند و به اطلاعات خصوصی دسترسی داشته باشند.</string>
+    <string name="permlab_downloadManagerAdvanced">عملکردهای پیشرفته مدیر دانلود</string>
+    <string name="permdesc_downloadManagerAdvanced">به برنامه اجازه می دهد تا به عملکردهای پیشرفته مدیر دانلود دسترسی داشته باشد. برنامه های مضر میتوانند از این امکان استفاده کرده و برای دانلودها مشکل ایجاد کنند و به اطلاعات خصوصی دسترسی داشته باشند.</string>
+    <string name="permlab_downloadCompletedIntent">ارسال اعلانهای دانلود</string>
+    <string name="permdesc_downloadCompletedIntent">به برنامه اجازه می دهد اعلان های مربوط به دانلودهای کامل شده را ارسال کند. برنامه های مضر می توانند از این امکان استفاده کرده و برای سایر برنامه هایی که فایل ها را دانلود میکنند، مشکلاتی را ایجاد کنند.</string>
+    <string name="permlab_seeAllExternal">مشاهده همه دانلودها در کارت SD</string>
+    <string name="permdesc_seeAllExternal">به برنامه اجازه می دهد بدون در نظر گرفتن اینکه کدام برنامه دانلود را انجام داده است، تمام دانلودهای موجود در کارت SD را مشاهده کند.</string>
+    <string name="permlab_downloadCacheNonPurgeable">فضایی را در حافظه پنهان بارگیری اختصاص دهید</string>
+    <string name="permdesc_downloadCacheNonPurgeable">به برنامه اجازه می دهد فایل ها را در حافظه پنهان دانلود کند، تا هنگامی که مدیر دانلود به فضای بیشتری احتیاج دارد، بطور خودکار حذف نشوند.</string>
+    <string name="permlab_downloadWithoutNotification">بارگیری فایل ها بدون اعلام</string>
+    <string name="permdesc_downloadWithoutNotification">به برنامه اجازه می دهد فایل ها را از طریق مدیر دانلود، بدون نمایش اعلان به کاربر دانلود کند.</string>
+    <string name="permlab_accessAllDownloads">دسترسی به همه بارگیری های سیستم</string>
+    <string name="permdesc_accessAllDownloads">به برنامه اجازه می دهد تمام دانلودهای شروع شده توسط هر برنامه‌ای را در سیستم مشاهده کرده و تغییر دهد.</string>
+    <string name="download_unknown_title">&lt;بدون عنوان></string>
+    <string name="notification_download_complete">دانلود کامل شد.</string>
+    <string name="notification_download_failed">دانلود ناموفق بود.</string>
+    <string name="notification_need_wifi_for_size">برای این حجم از دانلود به Wi-Fi نیاز است.</string>
+    <string name="notification_paused_in_background">در پس زمینه موقتاً متوقف شد.</string>
+    <string name="wifi_required_title">بارگیری برای شبکه اپراتور بسیار بزرگ است</string>
+    <string name="wifi_required_body" formatted="false">"برای تکمیل این دانلود %s باید از Wi-Fi استفاده کنید. در اتصال بعدی به شبکه Wi-Fi و برای شروع دانلود، 
+
+%s را لمس کنید."</string>
+    <string name="wifi_recommended_title">در صف قرار داده شود تا بعدا بارگیری گردد؟</string>
+    <string name="wifi_recommended_body" formatted="false">"شروع دانلود %s سبب کم شدن طول عمر باتری و/یا استفاده بیش از حد از اتصال داده تلفن همراه میشود که بسته به قرارداد ارائه داده شما ممکن است از طرف اپراتور تلفن هزینه‌هایی برای شما در نظر گرفته شود. 
+
+%s را لمس کنید تا در اتصال بعدی به شبکه Wi-Fi، این دانلود شروع شود."</string>
+    <string name="button_queue_for_wifi">صف</string>
+    <string name="button_cancel_download">لغو</string>
+    <string name="button_start_now">اکنون شروع شود</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s باقیمانده</string>
+    <string name="download_no_application_title">فایل باز نمی‌شود</string>
+    <string name="root_downloads">دانلودها</string>
+    <string name="download_queued">در صف</string>
+    <string name="download_running">در حال انجام</string>
+    <string name="download_error">ناموفق</string>
+    <string name="download_running_percent">در حال انجام، %d%%</string>
+</resources>

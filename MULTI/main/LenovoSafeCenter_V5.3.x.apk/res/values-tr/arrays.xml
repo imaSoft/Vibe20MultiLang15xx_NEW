@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Annemin adı?</item>
+        <item>En sevdiğim meyve?</item>
+        <item>Babamın doğum günü?</item>
+        <item>En sevdiğim şarkı?</item>
+        <item>Evcil hayvanımın adı?</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Ayarlar</item>
+        <item>Güncelle</item>
+        <item>Hakkında</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Arama Geçmişinden al</item>
+        <item>SMS Geçmişinden al</item>
+        <item>Kişilerden al</item>
+        <item>Elle ekle</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Yalnızca Kara Listeyi engelle</item>
+        <item>Yalnızca Kişilere izin ver</item>
+        <item>Yalnızca Beyaz Listeye izin ver</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Meşgul tonu döndür</item>
+        <item>Güç Kapalı döndür</item>
+        <item>Kapatma döndür</item>
+        <item>Sahipsiz Numara döndür</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Yalnızca kişiler</item>
+        <item>Yalnızca Beyaz Liste</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Gelen Aramalardan Al</item>
+        <item>SMS Geçmişinden al</item>
+        <item>Kişilerden al</item>
+        <item>Elle ekle</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Yanıtla</item>
+        <item>Reddet</item>
+        <item>SMS ile reddet</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Arama Geçmişinden al</item>
+        <item>SMS Geçmişinden al</item>
+        <item>Kişilerden al</item>
+        <item>Elle ekle</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Uyarı yok</item>
+        <item>Bildirim çubuğu uyarısı</item>
+        <item>Bildirim çubuğu uyarısı + uyarı tonu</item>
+        <item>Bildirim çubuğu uyarısı + titreşim</item>
+    </string-array>
+</resources>

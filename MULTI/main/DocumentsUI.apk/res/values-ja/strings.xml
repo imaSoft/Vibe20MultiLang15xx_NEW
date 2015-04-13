@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ドキュメント</string>
+    <string name="title_open">開く</string>
+    <string name="title_save">保存:</string>
+    <string name="menu_create_dir">フォルダを作成</string>
+    <string name="menu_grid">グリッド表示</string>
+    <string name="menu_list">リスト表示</string>
+    <string name="menu_sort">並べ替え</string>
+    <string name="menu_search">検索</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_open">開く</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_share">共有</string>
+    <string name="menu_delete">削除</string>
+    <string name="mode_selected_count">%1$d件選択済み</string>
+    <string name="sort_name">名前順</string>
+    <string name="sort_date">更新日順</string>
+    <string name="sort_size">サイズ順</string>
+    <string name="drawer_open">ルートを表示する</string>
+    <string name="drawer_close">ルートを非表示にする</string>
+    <string name="save_error">ドキュメントを保存できませんでした</string>
+    <string name="create_error">フォルダを作成できませんでした</string>
+    <string name="query_error">ドキュメントの検索に失敗しました</string>
+    <string name="root_recent">最近</string>
+    <string name="root_available_bytes">空き容量: %1$s</string>
+    <string name="root_type_service">ストレージサービス</string>
+    <string name="root_type_shortcut">ショートカット</string>
+    <string name="root_type_device">機器</string>
+    <string name="root_type_apps">その他のアプリ</string>
+    <string name="pref_advanced_devices">機器の詳細設定を表示</string>
+    <string name="pref_file_size">ファイルのサイズを表示</string>
+    <string name="pref_device_size">機器のサイズを表示</string>
+    <string name="empty">アイテムがありません</string>
+    <string name="toast_no_application">ファイルを開けません</string>
+    <string name="toast_failed_delete">一部のドキュメントを削除できません</string>
+    <string name="share_via">共有</string>
+</resources>

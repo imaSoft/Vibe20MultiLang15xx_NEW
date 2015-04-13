@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Шууд дэлгэцийн зураг сонгогч</string>
+    <string name="live_wallpaper_picker_title">Хөдөлгөөнт ханын цаас</string>
+    <string name="live_wallpaper_preview_title">Хөдөлгөөнт ханын цаасыг урьдчилан үзэх</string>
+    <string name="configure_wallpaper">Тохиргоо</string>
+    <string name="wallpaper_instructions">Дэлгэцийн зураг болгох</string>
+    <string name="live_wallpaper_empty">Хөдөлгөөнт ханын цаас байхгүй</string>
+    <string name="live_wallpaper_loading">Хөдөлгөөнт ханын цаасыг ачаалж байна…</string>
+</resources>

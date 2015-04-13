@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ஓர் டெவலப்பர் ஆவதிலிருந்து நீங்கள் இப்பொழுது %d படிநிலைகள் பின்தங்கியுள்ளீர்கள்.</item>
+        <item quantity="one">உருவாக்குனராய் இருப்பதிலிருந்து இப்போது 1 படி தொலைவில் இருக்கிறீர்கள்.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">கடவுச்சொல்லில் %d எழுத்துகள் இருக்க வேண்டும்</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தபட்சம் 1 எழுத்து இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தபட்சம் %d சிறிய எழுத்துகள் இருக்க வேண்டும்</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தபட்சம் 1 சிறிய எழுத்து இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தபட்சம் %d பெரிய எழுத்துக்கள் இருக்க வேண்டும்</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தபட்சம் 1 பெரிய எழுத்து இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தபட்சம் %d எண் இலக்கங்கள் இருக்க வேண்டும்</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தபட்சம் 1 எண் இலக்கம் இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">கடவுச்சொல்லில் குறைந்தபட்சம் %d சிறப்பு சின்னங்கள் இருக்க வேண்டும்</item>
+        <item quantity="one">கடவுச்சொல்லில் குறைந்தபட்சம் 1 சிறப்பு சின்னம் இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">எழுத்து அல்லாத %d எழுத்துக்குறிகளை கடவுச்சொல் கொண்டிருக்க வேண்டும்</item>
+        <item quantity="one">எழுத்து அல்லாத 1 எழுத்துக்குறிகளை கடவுச்சொல் கொண்டிருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d பயன்பாடுகள் அறிவிப்புகளைப் படிக்கும்</item>
+        <item quantity="one">%d பயன்பாடு அறிவிப்புகளைப் படிக்கும்</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">தவறான சிம் PIN குறியீடு, உங்களிடம் %d முயற்சிகள் மீதமுள்ளன.</item>
+        <item quantity="one">தவறான சிம் PIN குறியீடு, உங்கள் சாதனத்தை பூட்டுநீக்கம் செய்வதற்காக உங்கள் கேரியரை தொடர்புகொள்ளும் முன்பு உங்களிடம் %d முயற்சி மீதமுள்ளன.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s அச்சுப்பொறிகள் கண்டறியப்பட்டன</item>
+        <item quantity="one">%1$s அச்சுப்பொறி கண்டறியப்பட்டது</item>
+    </plurals>
+</resources>

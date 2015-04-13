@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Canlı divar kağızı seçicisi</string>
+    <string name="live_wallpaper_picker_title">Canlı divar kağızları</string>
+    <string name="live_wallpaper_preview_title">Canlı divar kağızına ilkin baxış</string>
+    <string name="configure_wallpaper">Parametrlər</string>
+    <string name="wallpaper_instructions">Divar kağızını qurun</string>
+    <string name="live_wallpaper_empty">Canlı divar kağızı yoxdur</string>
+    <string name="live_wallpaper_loading">Canlı divar kağızı yüklənir…</string>
+</resources>

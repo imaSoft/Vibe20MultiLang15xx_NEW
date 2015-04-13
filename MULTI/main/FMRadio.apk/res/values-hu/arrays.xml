@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ster_mon_entries">
+        <item>Sztereó</item>
+        <item>Mono</item>
+    </string-array>
+    <string-array name="record_durations_entries">
+        <item>5 perc</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>Amíg leállítod</item>
+    </string-array>
+    <string-array name="sleep_duration_values">
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>45 perc</item>
+        <item>1 óra</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Átnevezése</item>
+        <item>Automatikus kiválasztás</item>
+        <item>Törlés</item>
+    </string-array>
+    <string-array name="auto_off_delay_summary">
+        <item>Ki</item>
+        <item>30 perc után</item>
+        <item>1 óra múlva</item>
+        <item>2 óra múlva</item>
+    </string-array>
+    <string-array name="auto_off_delay_entries">
+        <item>Ki</item>
+        <item>30 perc után</item>
+        <item>1 óra múlva</item>
+        <item>2 óra után</item>
+    </string-array>
+    <string-array name="auto_off_delay_message">
+        <item>Automatikus kikapcsolás letiltása</item>
+        <item>Rádió 30 perc után kikapcsol</item>
+        <item>Rádió 1 óra múlva kikapcsol</item>
+        <item>Rádió 2 óra múlva kikapcsol</item>
+    </string-array>
+    <string-array name="colors">
+        <item>narancs</item>
+        <item>zöld</item>
+        <item>lila</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Інструменти USIM</string>
+    <string name="activity_not_found">USIM-картка не встановлена або ця функція не підтримується.</string>
+    <string name="simlock_toolkit">Інструменти USIM</string>
+    <string name="no_sim_card_inserted">Вставте USIM-карту, щоб запустити USIM Інструментарій.</string>
+    <string name="airplane_mode_on">Неможливо запустити USIM інструментарій, оскільки увімкнений режим У літаку.</string>
+    <string name="lable_sim_not_ready">Пакет USIM не готовий або не підтримується</string>
+</resources>

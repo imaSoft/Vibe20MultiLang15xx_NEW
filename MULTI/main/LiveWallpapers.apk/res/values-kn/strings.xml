@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android ಲೈವ್ ವಾಲ್ ಪೇಪರ್‌ಗಳು</string>
+    <string name="wallpaper_walkaround">ಪಾರದರ್ಶಕ</string>
+    <string name="wallpaper_walkaround_desc">"ನಿಮ್ಮ ಸಾಧನದ ಮೂಲಕವಾಗಿ ನೋಡಿ ಮತ್ತು ಅಪಘಾತಗಳ ಅಪಾಯವಿಲ್ಲದೇ ಸುತ್ತಾಡಿ. "</string>
+    <string name="wallpaper_grass">ಹುಲ್ಲು</string>
+    <string name="wallpaper_grass_desc">"ಹಗಲು ಮತ್ತು ರಾತ್ರಿಯ ಆಕಾಶದ ಎದುರು ಹುಲ್ಲಿನ ಎಲೆಗಳು ನಿಧಾನವಾಗಿ ಅಲೆಅಲೆಯಾಗಿ ತೇಲುತ್ತವೆ. "</string>
+    <string name="wallpaper_galaxy">ಆಕಾಶಗಂಗೆ</string>
+    <string name="wallpaper_galaxy_desc">"ನಿಧಾನವಾಗಿ ಸುರುಳಿ ಸುತ್ತುವ ನಕ್ಷತ್ರಗಳಿಂದ ಮಾಡಲಾದ ಆಕಾಶಗಂಗೆ. "</string>
+    <string name="wallpaper_fall">ನೀರು</string>
+    <string name="wallpaper_fall_desc">"ಶರತ್ಕಾಲದಲ್ಲಿ ಎಲೆಗಳ ಉದುರುವಿಕೆ&lt;br> ಕೆಳಗಿರುವ ಕಿರು ಅಲೆಗಳಿರುವ ಕೊಳಕ್ಕೆ:&lt;br> ದ್ರವ ಹಿನ್ನೆಲೆಯ ಜೆನ್ "</string>
+    <string name="wallpaper_clock">ಪೋಲಾರ್ ಗಡಿಯಾರ</string>
+    <string name="wallpaper_clock_desc">"ಪ್ರದಕ್ಷಿಣಾಕಾರದ ಕಮಾನಿನಂತೆ ದಿನಾಂಕ, ಸಮಯವನ್ನು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತದೆ: ತಿಂಗಳು, ದಿನ, ಗಂಟೆ, ನಿಮಿಷ ಮತ್ತು ಸೆಕೆಂಡು. "</string>
+    <string name="wallpaper_nexus">ನೆಕ್ಸಸ್</string>
+    <string name="wallpaper_nexus_desc">"ನರ ಸಮೂಹದ ಒಳಗೊಂದು ಪಕ್ಷಿ ನೋಟ. "</string>
+    <string name="clock_settings">ಪೋಲಾರ್ ಗಡಿಯಾರ ಸಂಯೋಜನೆ</string>
+    <string name="show_seconds">ಸೆಕೆಂಡುಗಳನ್ನು ತೋರಿಸಿ</string>
+    <string name="variable_line_width">ವೃತ್ತದ ಅಗಲಗಳನ್ನು ಬದಲಾಯಿಸಿ</string>
+    <string name="palette">ವರ್ಣ ಫಲಕ</string>
+    <string name="palette_gray">ಕಬ್ಬಿಣ</string>
+    <string name="palette_violet">ಮಧ್ಯರಾತ್ರಿ</string>
+    <string name="palette_matrix">ಹಸಿರು ಪರದೆ</string>
+    <string name="palette_white_c">ಹಿಮ ಕರಡಿ (ಡೈನಮಿಕ್)</string>
+    <string name="palette_black_c">ಕರಿ ರಂಧ್ರ (ಡೈನಮಿಕ್)</string>
+    <string name="palette_halloween">ಪಂಪ್‌ಕಿನ್ ಪೈ</string>
+    <string name="palette_zenburn">ಏಲಿಯನ್ ಫ್ರುಟ್ ಸಲಾಡ್</string>
+    <string name="palette_oceanic">ನೀಲಿ ಲೇಸರ್</string>
+</resources>

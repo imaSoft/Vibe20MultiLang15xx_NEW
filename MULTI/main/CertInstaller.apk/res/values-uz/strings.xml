@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sertifikat o‘rnatuvchi</string>
+    <string name="pick_file_title">Sertifikatni tanlang</string>
+    <string name="pkcs12_password_dialog_title">Sertifikatni chiqarib olish</string>
+    <string name="extracting_pkcs12">Chiqarib olish...</string>
+    <string name="pkcs12_file_password_dialog_title">%sdan chiqarib olish</string>
+    <string name="name_credential_dialog_title">Sertifikat nomi</string>
+    <string name="credential_info">Paket tarkibi:</string>
+    <string name="p12_description">PKCS12 kalitlar omboridagi sertifikatlar</string>
+    <string name="one_userkey">Bir foydalanuvchi kaliti</string>
+    <string name="one_usercrt">Bir foydalanuvchi sertifikati</string>
+    <string name="one_cacrt">Bir CA sertifikati</string>
+    <string name="n_cacrts">%d CA sertifikati</string>
+    <string name="password_error">To‘g‘ri parol kiriting</string>
+    <string name="storage_error">Sertifikatni saqlab bo‘lmadi. Qayta urinish uchun, OKni cherting</string>
+    <string name="unable_to_save_cert">"Sertifikatni saqlab bo‘lmaydi. Hisob ma'lumotlari ombori mavjud emas yoki unga ulanib bo‘lmaydi"</string>
+    <string name="cert_not_saved">Sertifikat o‘rnatilmagan</string>
+    <string name="no_cert_to_saved">O‘rnatish uchun sertifikatlar yo‘q</string>
+    <string name="cert_is_added">%s o‘rnatildi</string>
+    <string name="cert_too_large_error">O‘rnatish bajarilmadi. Sertifikat juda katta</string>
+    <string name="cert_missing_error">O‘rnatish bajarilmadi. Sertifikatni topib bo‘lmadi</string>
+    <string name="cert_read_error">O‘rnatish bajarilmadi. Sertifikatni o‘qib bo‘lmadi</string>
+    <string name="no_cert_file_found">USB-ichki xotirada sertifikat fayli topilmadi</string>
+    <string name="sdcard_not_present">USB-ichki xotira yo‘q</string>
+</resources>

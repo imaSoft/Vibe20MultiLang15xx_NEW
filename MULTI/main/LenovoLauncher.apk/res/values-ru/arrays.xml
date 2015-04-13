@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Set as default city</item>
+        <item>Delete this city</item>
+    </string-array>
+    <string-array name="previewname">
+        <item>Экран блокировки</item>
+        <item>Лаунчер</item>
+        <item>Иконки</item>
+        <item>Обои</item>
+        <item>Интерфейс</item>
+        <item>ideafriend</item>
+        <item>Экран звонка</item>
+        <item>Виджет</item>
+        <item>Анимация</item>
+        <item>Шрифт</item>
+    </string-array>
+    <array name="preview">
+        <item>@drawable/themepreview</item>
+        <item>@drawable/themepreview_1</item>
+    </array>
+    <string-array name="pref_icon_size_values">
+        <item>57</item>
+        <item>48</item>
+    </string-array>
+    <string-array name="pref_slide_effect_values">
+        <item>ПО УМОЛЧАНИЮ</item>
+        <item>ПОВОРОТ</item>
+        <item>БУЛЬДОЗЕР</item>
+        <item>ВЕТРЯНАЯ МЕЛЬНИЦА</item>
+        <item>КУБ</item>
+        <item>ВОЛНА</item>
+        <item>ЦИЛИНДР</item>
+    </string-array>
+    <string-array name="pref_gesture_values">
+        <item>По умолчанию</item>
+        <item>Меню</item>
+        <item>Последние приложения</item>
+        <item>Уведомления</item>
+        <item>Позиционирование</item>
+        <item>Экран блокировки</item>
+    </string-array>
+    <string-array name="pref_icon_text_size_values">
+        <item>15</item>
+        <item>12</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="pref_title_color_values">
+        <item>Тема</item>
+        <item>Черная</item>
+        <item>Белая</item>
+    </string-array>
+    <string-array name="special_download_packages">
+        <item>com.tencent.mm</item>
+    </string-array>
+    <string-array name="recommend_apps">
+        <item>com.qiyi.video</item>
+        <item>com.mt.mtxx.mtxx</item>
+        <item>com.netease.newsreader.activity</item>
+        <item>com.taobao.taobao</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>По умолчанию</item>
+        <item>Поворот</item>
+        <item>Бульдозер</item>
+        <item>Ветряная мельница</item>
+        <item>Куб</item>
+        <item>Синусоида</item>
+        <item>Цилиндр</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Не использовать</item>
+        <item>Меню Лаунчера</item>
+        <item>Запущенные приложения</item>
+        <item>Панель уведомлений</item>
+        <item>Поиск иконки</item>
+        <item>Блокировка экрана</item>
+    </string-array>
+    <string-array name="pref_select_desktop_layout_choices">
+        <item>4x5</item>
+        <item>4x4</item>
+    </string-array>
+</resources>

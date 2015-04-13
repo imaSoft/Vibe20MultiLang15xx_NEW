@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schlüsselkette</string>
+    <string name="title_no_certs">Keine Zertifikate gefunden</string>
+    <string name="title_select_cert">Zertifikat auswählen</string>
+    <string name="requesting_application">Die Anwendung %s hat ein Zertifikat angefordert. Die Auswahl eines Zertifikats gibt der Anwendung die Fähigkeit, diese Identität mit Servern jetzt und in Zukunft zu benutzen.</string>
+    <string name="requesting_server">Die Anwendung hat den anfordernden Server als %s identifiziert. Sie sollten aber der Anwendung den Zugriff auf das Zertifikat nur erlauben, wenn Sie der Anwendung vertrauen.</string>
+    <string name="install_new_cert_message">Sie können Zertifikate von einer PKCS#12 -Datei mit einer Dateinamenserweiterung %1$s oder %2$s von einem externen Speicherort installieren.</string>
+    <string name="install_new_cert_button_label">Installieren</string>
+    <string name="allow_button">Zulassen</string>
+    <string name="deny_button">Zurückweisen</string>
+</resources>

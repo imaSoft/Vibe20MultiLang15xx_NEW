@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">СН</string>
+    <string name="factory_wipe_data">Cтерти дані користувача до заводських параметрів</string>
+    <string name="factory_wipe_data_warning">При натисканні кнопку ОК будуть видалені всі дані користувача, але збережені встановлені програми, рекомендуємо Звичайному користувачеві не вибирати цей режим, щоб уникнути втрати даних телефону</string>
+    <string name="factory_wipe_data_cancel">скасувати</string>
+    <string name="sdcard_not_found">не вдалося стерти заводські дані</string>
+    <string name="sdcard_not_found_tip">"Ця послуга потребує підтримки SD-карти,
+        переконайтеся, що є доступна SD-карта"</string>
+    <string name="sdcard_out_of_space">На SD-картці не має достатньо місця</string>
+    <string name="sdcard_out_of_space_tip">"На SD-картці залишилось тільки %1$sM доступного місця, але ця 
+функція потребує %2$sM місця на SD-карті"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Недійсний</string>
+</resources>

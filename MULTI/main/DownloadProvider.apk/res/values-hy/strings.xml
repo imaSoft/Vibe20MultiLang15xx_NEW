@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ներբեռնումների կառավարիչ</string>
+    <string name="permlab_downloadManager">Մատչել ներբեռնման կառավարիչին:</string>
+    <string name="permdesc_downloadManager">Ծրագրային հավելվածին թույլ է տալիս մուտք գործել ներբեռնման կառավարիչ և օգտագործել այն ֆայլեր ներբեռնելու նպատակով: Վնասարար ծրագրային հավելվածները կարող են օգտագործել այդ հանգամանքը՝ ներբեռնումները խափանելու և գաղտնի տվյալներ մուտք գործելու համար:</string>
+    <string name="permlab_downloadManagerAdvanced">Ներբեռնման կառավարիչի բարելավված գործառույթներ:</string>
+    <string name="permdesc_downloadManagerAdvanced">Ծրագրային հավելվածին թույլ է տալիս մուտք գործել ներբեռնման կառավարչի լրացուցիչ յուրահատկություններ: Վնասարար ծրագրային հավելվածները կարող են օգտագործել այդ հանգամանքը՝ ներբեռնումները խափանելու և գաղտնի տվյալներ մուտք գործելու համար:</string>
+    <string name="permlab_downloadCompletedIntent">Ուղարկել ներբեռնման ծանուցումներ:</string>
+    <string name="permdesc_downloadCompletedIntent">Ծրագրային հավելվածին թույլ է տալիս ուղարկել ծանուցումներ ավարտված ներբեռնումների մասին: Վնասարար ծրագրային հավելվածները կարող են օգտագործել այդ հանգամանքը՝ ֆայլեր ներբեռնող այլ ծրագրային հավելվածներին շփոթմունքի մեջ գցելու նպատակով:</string>
+    <string name="permlab_seeAllExternal">Տեսնել SD քարտում արված բոլոր ներբեռնումները</string>
+    <string name="permdesc_seeAllExternal">Ծրագրային հավելվածին թույլ է տալիս տեսնել SD քարտում կատարված բոլոր ներբեռնումները՝ անկախ նրանից, թե որ ծրագրային հավելվածն է դրանք կատարել:</string>
+    <string name="permlab_downloadCacheNonPurgeable">Հետադարձել տեղը ներբեռնման հիշապահեստում</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Ծրգ հավելվածին թույլ է տալիս ներբեռնել ֆայլերը ներբեռնման հիշապահեստ, որը չի կարող ինքնաշխատ ջնջվել, եթե ներբեռնման կառավարիչը պահանջում է ավելի շատ ազատ տարածք:</string>
+    <string name="permlab_downloadWithoutNotification">ներբեռնել նիշքերը առանց ծանուցման</string>
+    <string name="permdesc_downloadWithoutNotification">Ծրագրային հավելվածին թույլ է տալիս ներբեռնել ֆայլեր ներբեռնման կառավարչի միջոցով՝ օգտագործողին որևէ ծանուցում ցույց չտալով:</string>
+    <string name="permlab_accessAllDownloads">Մատչել համակարգի բոլոր ներբեռնումներին</string>
+    <string name="permdesc_accessAllDownloads">Թույլ է տալիս ծրագրային հավելվածին դիտել և փոփոխել բոլոր ներբեռնումները, որոնք ցանկացած ծրագրային հավելվածի կողմից տեղադրվել են համակարգում:</string>
+    <string name="download_unknown_title">&lt;Չանվանված></string>
+    <string name="notification_download_complete">Ներբեռնումը ավարտվեց:</string>
+    <string name="notification_download_failed">Ներբեռնման անհաջող փորձ:</string>
+    <string name="notification_need_wifi_for_size">Նրբռն չփը պհնջմ է Wi-Fi:</string>
+    <string name="notification_paused_in_background">Դադարեցված է ետին պլանում:</string>
+    <string name="wifi_required_title">Ներբեռնումը շատ մեծ է օպերատորի ցանցի համար</string>
+    <string name="wifi_required_body" formatted="false">"Այս %s -ի ներբեռնումը դուք պետք է ավարտեք օգտագործելով Wi-Fi ցանցը:
+
+Հպեք %s , որպեսզի այս ներբեռնումը մեկնարկի հաջորդ անգամ Wi-Fi ցանցին միանալուց հետո:"</string>
+    <string name="wifi_recommended_title">Հերթագրե՞լ ավելի ուշ ներբեռնելու համար:</string>
+    <string name="wifi_recommended_body" formatted="false">"Եթե մեկնարկեք այս %s -ի նրբռնումը հիմա, դա կարող է նվզցնլ ձեր մրտկցի լիցքը և/կամ առջցնլ շրժկան տվյալների չափից ավելի օգտգրծմ և բջջային օպերատորի կողմից գանձվող գմրներ՝ կախված ձեր սակագնային պլանից:
+
+Հպեք %s, որպեսզի այս ներբեռնումը մեկնարկի հաջորդ անգամ Wi-Fi ցանցին միանալուց հետո:"</string>
+    <string name="button_queue_for_wifi">Հերթագրել</string>
+    <string name="button_cancel_download">Չեղարկել</string>
+    <string name="button_start_now">Մեկնարկել հիմա</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Մնացել է %s</string>
+    <string name="download_no_application_title">Հնարավոր չէ բացել նիշքը</string>
+    <string name="root_downloads">Ներբեռնումներ</string>
+    <string name="download_queued">Հերթագրված է</string>
+    <string name="download_running">Ընթացքում է</string>
+    <string name="download_error">Ներբեռնումը չի ավարտվել</string>
+    <string name="download_running_percent">Ընթացքում է, %d%%</string>
+</resources>

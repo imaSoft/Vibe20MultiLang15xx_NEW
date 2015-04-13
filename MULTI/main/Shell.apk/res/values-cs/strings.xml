@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Rozhraní</string>
+    <string name="bugreport_finished_title">Chybová sestava byla zachycena</string>
+    <string name="bugreport_finished_text">Dotykem provedete sdílení chybové sestavy.</string>
+    <string name="bugreport_confirm">Chybové sestavy obsahují data z různých souborů protokolu systému a obsahují i osobní a soukromé informace. Chybové sestavy sdílejte pouze s aplikacemi a osobami, kterým důvěřujete.</string>
+    <string name="bugreport_confirm_repeat">Zobrazit tuto zprávu příště</string>
+</resources>

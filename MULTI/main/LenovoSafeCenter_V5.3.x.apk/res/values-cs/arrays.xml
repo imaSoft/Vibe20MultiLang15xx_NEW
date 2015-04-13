@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Jméno mé matky?</item>
+        <item>Moje nejoblíbenější ovoce?</item>
+        <item>Narozeniny mého otce?</item>
+        <item>Moje nejoblíbenější píseň?</item>
+        <item>Jméno mého domácího mazlíčka?</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Nastavení</item>
+        <item>Aktualizace</item>
+        <item>O produktu</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Importovat z historie volání</item>
+        <item>Importovat z historie SMS</item>
+        <item>Importovat z kontaktů</item>
+        <item>Přidat ručně</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Blokovat pouze seznam zakázaných položek</item>
+        <item>Povolit pouze kontakty</item>
+        <item>Povolit pouze seznam výjimek</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Přejít zpět na obsazovací tón</item>
+        <item>Přejít zpět na vypnutí</item>
+        <item>Přejít zpět na ukončení</item>
+        <item>Přejít zpět na volné číslo</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Pouze kontakty</item>
+        <item>Pouze seznam výjimek</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Importovat z příchozích hovorů</item>
+        <item>Importovat z historie SMS</item>
+        <item>Importovat z kontaktů</item>
+        <item>Přidat ručně</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Odpovědět</item>
+        <item>Odmítnout</item>
+        <item>Odmítnout hovor pomocí SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Importovat z historie volání</item>
+        <item>Importovat z historie SMS</item>
+        <item>Importovat z kontaktů</item>
+        <item>Přidat ručně</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Žádná výstraha</item>
+        <item>Výstraha na ozn. pruhu</item>
+        <item>Výstraha na ozn. pruhu + tón výstr</item>
+        <item>Výstraha na ozn. pruhu + vibrace</item>
+    </string-array>
+</resources>

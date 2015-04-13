@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USIM Toolkit</string>
+    <string name="activity_not_found">Carte USIM pas prête ou pas supportée par cette fonction.</string>
+    <string name="simlock_toolkit">Carte USIM</string>
+    <string name="no_sim_card_inserted">Veuillez insérer la carte USIM pour lancer USIM Toolkit.</string>
+    <string name="airplane_mode_on">Impossible de lancer USIM Toolkit puisque le mode Avion est activé.</string>
+    <string name="lable_sim_not_ready">"La boîte à outils USIM n'est pas prête ou pas prise en charge"</string>
+</resources>

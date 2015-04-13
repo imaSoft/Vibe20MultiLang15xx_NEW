@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Mainīgo fonu atlasītājs</string>
+    <string name="live_wallpaper_picker_title">Mainīga fona atlasīšana</string>
+    <string name="live_wallpaper_picker_label">Mainīgi foni</string>
+    <string name="live_wallpaper_preview_title">Reāllaika fona apskatīšana</string>
+    <string name="configure_wallpaper">Iestatījumi</string>
+    <string name="wallpaper_instructions">Iestatīt fonu</string>
+    <string name="live_wallpaper_empty">Nav reāllaika fona attēlu.</string>
+    <string name="set_live_wallpaper">Iestatīt fonu</string>
+    <string name="wallpaper_title_and_author">%1$s, autors: %2$s</string>
+    <string name="live_wallpaper_loading">Ielādē reāllaika fonu…</string>
+    <string name="wallpaper_cancel">Atcelt</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Една страница от всяка страна</item>
+        <item>Две страници от всяка страна</item>
+        <item>Четири страници от всяка страна</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Портрет</item>
+        <item>Пейзаж</item>
+        <item>Обърнат пейзаж</item>
+        <item>Обърнат портрет</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>портрет</item>
+        <item>пейзаж</item>
+        <item>обърнат-пейзаж</item>
+        <item>обърнат-портрет</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Едностранно</item>
+        <item>Двустранно по дължина</item>
+        <item>Двустранно по ширина</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>едностранно</item>
+        <item>двустранно-по-дължина</item>
+        <item>двустранно-по-ширина</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Споделяне на контакти в група</item>
+        <item>Получаване на контакт</item>
+        <item>Размяна на контакти</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Всички показани</item>
+        <item>Контакти с телефонни номера</item>
+        <item>Със звездичка в Android</item>
+    </string-array>
+</resources>

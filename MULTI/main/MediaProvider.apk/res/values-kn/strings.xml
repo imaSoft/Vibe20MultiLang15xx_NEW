@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">ಮಾಧ್ಯಮ</string>
+    <string name="app_label">ಮಾಧ್ಯಮ ಸಂಗ್ರಹಣೆ</string>
+    <string name="upgrade_msg">ಮಾಧ್ಯಮ ಡೇಟಾಬೇಸ್ ಅನ್ನು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ.</string>
+    <string name="artist_label">ಕಲಾಕಾರ</string>
+    <string name="ringtone_default">ಪೂರ್ವನಿಯೋಜಿತ ರಿಂಗ್‌ಟೋನ್‌</string>
+    <string name="notification_sound_default">ಪೂರ್ವನಿಯೋಜಿತ ಸೂಚನಾ ಧ್ವನಿ</string>
+    <string name="alarm_sound_default">ಪೂರ್ವನಿಯೋಜಿತ ಎಚ್ಚರಿಕೆಯ ಧ್ವನಿ</string>
+    <string name="root_images">ಚಿತ್ರಗಳು</string>
+    <string name="root_videos">ವೀಡಿಯೊಗಳು</string>
+    <string name="root_audio">ಧ್ವನಿ</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Skal</string>
+    <string name="bugreport_finished_title">Felrapport registrerades</string>
+    <string name="bugreport_finished_text">Tryck för att dela din felrapport</string>
+    <string name="bugreport_confirm">Felrapporter innehåller uppgifter från systemets olika loggfiler, inklusive personlig och privat information. Dela endast felrapporter med appar och personer som du litar på.</string>
+    <string name="bugreport_confirm_repeat">Visa detta meddelande nästa gång</string>
+</resources>

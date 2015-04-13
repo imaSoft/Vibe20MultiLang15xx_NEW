@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Predefinido</item>
+        <item>Rodar</item>
+        <item>Empurrar e pressionar</item>
+        <item>Moinho de vento</item>
+        <item>Cubo</item>
+        <item>Onda Sinusoidal</item>
+        <item>Cilindro</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Nenhum</item>
+        <item>Iniciar o menu Launcher</item>
+        <item>Mostrar aplicações utilizadas recentemente</item>
+        <item>Mostrar barra de notificação</item>
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>اسم أمي؟</item>
+        <item>فاكهتي المفضلة؟</item>
+        <item>عيد ميلاد أبي؟</item>
+        <item>أغنيتي المفضلة؟</item>
+        <item>اسم حيواني الأليف؟</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>استيراد من محفوظات المكالمات</item>
+        <item>استيراد من محفوظات الرسائل النصية</item>
+        <item>استيراد من جهات الاتصال</item>
+        <item>إضافة يدويًا</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>حظر القائمة السوداء فقط</item>
+        <item>السماح بجهات الاتصال فقط</item>
+        <item>السماح بالقائمة البيضاء فقط</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>إرجاع نغمة مشغول</item>
+        <item>إرجاع إيقاف تشغيل</item>
+        <item>إرجاع إغلاق</item>
+        <item>إرجاع رقم فارغ</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>جهات الاتصال فقط</item>
+        <item>القائمة البيضاء فقط</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>استيراد من محفوظات المكالمات</item>
+        <item>استيراد من محفوظات الرسائل النصية</item>
+        <item>استيراد من جهات الاتصال</item>
+        <item>إضافة يدويًا</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>رد</item>
+        <item>رفض</item>
+        <item>رفض المكالمة برسالة نصية</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>استيراد من محفوظات المكالمات</item>
+        <item>استيراد من محفوظات الرسائل النصية</item>
+        <item>استيراد من جهات الاتصال</item>
+        <item>إضافة يدويًا</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>بلا تنبيه</item>
+        <item>تنبيه شريط الإعلام</item>
+        <item>تنبيه شريط الإعلام + نغمة التنبيه</item>
+        <item>تنبيه شريط الإعلام + اهتزاز</item>
+    </string-array>
+</resources>

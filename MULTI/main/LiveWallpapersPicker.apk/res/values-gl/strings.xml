@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Selector de fondo activo</string>
+    <string name="live_wallpaper_picker_title">Seleccionar fondo en movemento</string>
+    <string name="live_wallpaper_picker_label">Fondos en movemento</string>
+    <string name="live_wallpaper_preview_title">Vista previa de fondo en movemento</string>
+    <string name="configure_wallpaper">Axustes</string>
+    <string name="wallpaper_instructions">Axustar fondo</string>
+    <string name="live_wallpaper_empty">Non hai fondos en movemento.</string>
+    <string name="set_live_wallpaper">Axustar fondo</string>
+    <string name="wallpaper_title_and_author">%1$s de %2$s</string>
+    <string name="live_wallpaper_loading">Cargando fondo en movemento...</string>
+    <string name="wallpaper_cancel">Cancelar</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">NS</string>
+    <string name="factory_wipe_data">Balayer les données utilisateur par mode usine</string>
+    <string name="factory_wipe_data_warning">"Cliquez sur le bouton OK pour effacer toutes les données utilisateur, et garder les applications installées, nous recommandons à la plupart des utilisateurs de ne pas l'utiliser, pour éviter de perdre des données sur le téléphone"</string>
+    <string name="factory_wipe_data_cancel">annuler</string>
+    <string name="sdcard_not_found">"échec de réinitialisation des données d'usine"</string>
+    <string name="sdcard_not_found_tip">"Cette fonction a besoin du support de la carte SD,
+        assurez-vous que la carte SD est insérée"</string>
+    <string name="sdcard_out_of_space">"La carte SD n'a pas assez d'espace"</string>
+    <string name="sdcard_out_of_space_tip">"La carte SD n'a que %1$sM  d'espace disponible, et cette 
+fonction a besoin de %2$sM d'espace disponible sur la carte SD"</string>
+    <string name="imei">Code IMEI</string>
+    <string name="imei_invalid">Invalide</string>
+</resources>

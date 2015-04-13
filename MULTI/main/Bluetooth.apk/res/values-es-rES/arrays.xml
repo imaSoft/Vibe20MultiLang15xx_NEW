@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Una página por cara</item>
+        <item>Dos páginas por cara</item>
+        <item>Cuatro páginas por cara</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Vertical</item>
+        <item>Apaisado</item>
+        <item>Apaisado invertido</item>
+        <item>Vertical invertido</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>vertical</item>
+        <item>apaisado</item>
+        <item>apaisado-invertido</item>
+        <item>vertical-invertido</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Una cara</item>
+        <item>Doble cara, borde largo</item>
+        <item>Doble cara, borde corto</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>una-cara</item>
+        <item>doble-cara-borde-largo</item>
+        <item>doble-cara-borde-corto</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Compartir contactos del grupo</item>
+        <item>Obtener contacto</item>
+        <item>Intercambiar contactos</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Se muestra todo</item>
+        <item>Contactos con números de teléfono</item>
+        <item>Destacado en Android</item>
+    </string-array>
+</resources>

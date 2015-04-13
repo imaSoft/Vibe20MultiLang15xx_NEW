@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationCenterPlus</string>
+    <string name="flashlight_notification_title">Изключете светкавицата</string>
+    <string name="flashlight_notification_text">Натиснете изключване на светкавицата</string>
+    <string name="app_notification_manager_title">Актив. известията за приложения</string>
+    <string name="app_notification_optimized_title">Задаване приоритет на изв. от прил.</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Забранени известия от приложения</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Разрешени известия от приложения</string>
+    <string name="lenovo_progress_dialog_message">Зареждане...</string>
+    <string name="app_disable_notifications_dlg_title">Изключване на известията?</string>
+    <string name="app_disable_notifications_dlg_text">Може да пропуснете важни известия и събития, ако изключите известията.</string>
+    <string name="app_add_optimized_notifications_title">Известия от приложения без приоритет</string>
+    <string name="app_del_optimized_notifications_title">Известия от приложения с приоритет</string>
+    <string name="app_vip_notifications_title">VIP приложение</string>
+    <string name="app_close_optimized_notifications_title">Известие за затворено приложение</string>
+    <string name="app_close_optimized_notifications_summary">Приложенията могат да се задават като предпочитани само след разрешаване на известията за тях в раздела за управление на известията за приложения</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">\"%1$s\" известия с приоритет</string>
+    <string name="lenovo_app_add_notification_toast_text">Разрешени известия за \"%1$s\"</string>
+    <string name="lenovo_no_app_nofitication">Няма приложения</string>
+    <string name="app_del_optimized_notifications_dlg_title">Отмяна на предпочитаното състояние?</string>
+    <string name="app_del_optimized_notifications_dlg_text">Може да игнорирате важните известия или събития, като промените тяхното състояние за известяване.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">Известия \"%1$s\" без приоритет</string>
+    <string name="lenovo_app_delete_notification_toast_text">Забранени известия за \"%1$s\"</string>
+    <string name="lenovo_flashlight_error_notification_title">Cannot turn on the flash light now</string>
+    <string name="lenovo_flashlight_error_camera_in_use">The camera is now in use, cannot turn the flash light on</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Top edge of the screen covered, unable to turn on the flash light</string>
+    <string name="lenovo_flashlight_error_low_power">Low power! Flash light not supported</string>
+</resources>

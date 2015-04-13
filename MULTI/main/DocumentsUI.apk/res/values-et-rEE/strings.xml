@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Dokumendid</string>
+    <string name="title_open">Avamiskoht</string>
+    <string name="title_save">Salvestuskoht</string>
+    <string name="menu_create_dir">Loo kaust</string>
+    <string name="menu_grid">Ikoonivaade</string>
+    <string name="menu_list">Loendivaade</string>
+    <string name="menu_sort">Sortimisalus</string>
+    <string name="menu_search">Otsi</string>
+    <string name="menu_settings">Seaded</string>
+    <string name="menu_open">Ava</string>
+    <string name="menu_save">Salvesta</string>
+    <string name="menu_share">Jaga</string>
+    <string name="menu_delete">Kustuta</string>
+    <string name="mode_selected_count">%1$d on valitud</string>
+    <string name="sort_name">Nime järgi</string>
+    <string name="sort_date">Muutmiskuupäeva järgi</string>
+    <string name="sort_size">Mahu järgi</string>
+    <string name="drawer_open">Juurkaustade kuvamine</string>
+    <string name="drawer_close">Juurkaustade peitmine</string>
+    <string name="save_error">Dokumenti ei saanud salvestada</string>
+    <string name="create_error">Kausta ei saanud luua</string>
+    <string name="query_error">Dokumente ei saanud otsida</string>
+    <string name="root_recent">Hiljutised</string>
+    <string name="root_available_bytes">%1$s vaba</string>
+    <string name="root_type_service">Talletusteenused</string>
+    <string name="root_type_shortcut">Otseteed</string>
+    <string name="root_type_device">Seadmed</string>
+    <string name="root_type_apps">Veel rakendusi</string>
+    <string name="pref_advanced_devices">Kuva täpsemad seadmed</string>
+    <string name="pref_file_size">Kuva faili maht</string>
+    <string name="pref_device_size">Kuva seadme maht</string>
+    <string name="empty">Üksusi pole</string>
+    <string name="toast_no_application">Faili ei saa avada</string>
+    <string name="toast_failed_delete">Mõnda dokumenti ei saa kustutada</string>
+    <string name="share_via">Jagamine:</string>
+</resources>

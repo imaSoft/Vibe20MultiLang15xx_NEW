@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">کیلنڈر ذخیرہ</string>
+    <string name="upgrade_msg">کیلنڈر درجہ افزوئی کررہا ہے…</string>
+    <string name="calendar_default_name">ڈیفالٹ</string>
+    <string name="calendar_info">کیلنڈر معلومات</string>
+    <string name="calendar_info_error">غلطی</string>
+    <string name="calendar_info_no_calendars">کوئی کیلنڈر نہیں ہیں</string>
+    <string name="calendar_info_events">وقوعہ جات: %d</string>
+    <string name="calendar_info_events_dirty">وقوعہ جات: %1$d، ہم وقت نہیں کئے: %2$d</string>
+    <string name="provider_label">کیلنڈر</string>
+    <string name="debug_tool_delete_button">فائل حذف کریں</string>
+    <string name="debug_tool_start_button">شروع</string>
+    <string name="debug_tool_message">آپ اپنے کیلنڈر کی ایک نقل SD کارڈ/USB ذخیرہ پر محفوظ کرنے والے ہیں جو کسی بھی ایپلیکیشن سے پڑھے جانے اور پھر اسے ای میل کرنے کے قابل ہے۔ جیسے ہی آپ اس کو کامیابی سے آلہ سے نقل کر چکے ہوں جلد سے جلد حذف کرنا یاد رکھیں، یا ای میل موصول ہونے پر</string>
+    <string name="debug_tool_email_sender_picker">اپنی فائل کو بھیجنے کے لئے ایک پروگرام منتخب کریں</string>
+    <string name="debug_tool_email_subject">کیلنڈر DB فائل منسلک کی گئی</string>
+    <string name="debug_tool_email_body">میرا کیلنڈر جس میں میری تمام مصروفیات اور ذاتی معلومات شامل ہیں منسلک ہے۔ برائے مہربانی احتیاط سے کام لیں</string>
+</resources>

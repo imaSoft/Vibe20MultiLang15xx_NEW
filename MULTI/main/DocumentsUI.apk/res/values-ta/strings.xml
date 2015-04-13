@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ஆவணங்கள்</string>
+    <string name="title_open">இதிலிருந்து திற</string>
+    <string name="title_save">இதற்குச் சேமி</string>
+    <string name="menu_create_dir">கோப்புறையை உருவாக்கு</string>
+    <string name="menu_grid">கட்டம் காட்சி</string>
+    <string name="menu_list">பட்டியல் காட்சி</string>
+    <string name="menu_sort">இதன்மூலம் வரிசைப்படுத்து</string>
+    <string name="menu_search">தேடு</string>
+    <string name="menu_settings">அமைப்புகள்</string>
+    <string name="menu_open">திற</string>
+    <string name="menu_save">சேமி</string>
+    <string name="menu_share">பகிர்</string>
+    <string name="menu_delete">நீக்கு</string>
+    <string name="mode_selected_count">%1$d தேர்ந்தெடுக்கப்பட்டது</string>
+    <string name="sort_name">பெயரை வைத்து</string>
+    <string name="sort_date">திருத்தப்பட்ட தேதியை வைத்து</string>
+    <string name="sort_size">அளவை வைத்து</string>
+    <string name="drawer_open">மூலங்களைக் காண்பி</string>
+    <string name="drawer_close">மூலங்களை மறை</string>
+    <string name="save_error">ஆவணத்தை சேமிக்க முடியவில்லை</string>
+    <string name="create_error">கோப்புறையை உருவாக்க முடியவில்லை</string>
+    <string name="query_error">ஆவணங்களுக்காகத் தேட முடியவில்லை</string>
+    <string name="root_recent">சமீபத்தியவை</string>
+    <string name="root_available_bytes">%1$s காலியாகவுள்ளது</string>
+    <string name="root_type_service">சேமிப்பக சேவைகள்</string>
+    <string name="root_type_shortcut">சுருக்குவழிகள்</string>
+    <string name="root_type_device">சாதனங்கள்</string>
+    <string name="root_type_apps">மேலும் பயன்பாடுகள்</string>
+    <string name="pref_advanced_devices">மேம்பட்ட சாதனங்க. காண்.</string>
+    <string name="pref_file_size">கோப்பு அளவைக் காண்பி</string>
+    <string name="pref_device_size">சாதன அளவைக் காண்பி</string>
+    <string name="empty">உருப்படிகள் ஏதுமில்லை</string>
+    <string name="toast_no_application">கோப்பைத் திறக்க முடியவில்லை</string>
+    <string name="toast_failed_delete">சில ஆவணங்களை நீக்க முடியவில்லை</string>
+    <string name="share_via">இதன் மூலம் பகிர்</string>
+</resources>

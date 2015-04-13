@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">ცოცხალი ფონის ამორჩევა</string>
+    <string name="live_wallpaper_picker_title">ცოცხალი ფონები</string>
+    <string name="live_wallpaper_preview_title">ცოცხალი ფონის დათვალიერება</string>
+    <string name="configure_wallpaper">პარამეტრები</string>
+    <string name="wallpaper_instructions">ფონის დაყენება</string>
+    <string name="live_wallpaper_empty">ცოცხალი ფონები არ არის</string>
+    <string name="live_wallpaper_loading">იტვირთება ცოცხალი ფონი…</string>
+</resources>

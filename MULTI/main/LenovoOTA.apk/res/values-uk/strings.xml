@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Оновлення системи</string>
+    <string name="exit">Вихід</string>
+    <string name="update_failed">Вибачте. Помилка встановлення нової мікропрограми</string>
+    <string name="btn_ok">Так</string>
+    <string name="btn_cancel">Скасувати</string>
+    <string name="notification_content_title">Оновлення прошивки</string>
+    <string name="notification_content_text_completed">Завантаження успішно завершено</string>
+    <string name="error_not_specify_network_title">Завантажте через мережу WLAN</string>
+    <string name="error_not_specify_network_content">рекомендується завантажувати через мережу WLAN, завантаження через мережу GPRS потребуватиме велику кількість даних</string>
+    <string name="btn_setting_network">Встановити відразу</string>
+    <string name="btn_keep_download">Продовжити завантаження</string>
+    <string name="retry">Повторіть спробу</string>
+    <string name="redo_backup">Повторне резервне копіювання</string>
+    <string name="contact">Контакти</string>
+    <string name="sms">Повідомлення</string>
+    <string name="calllog">Журнал викликів</string>
+    <string name="btn_backup">Створити резервну копію</string>
+    <string name="has_not_backup">Резервну копію не створено</string>
+    <string name="countSms">повідомлення</string>
+    <string name="countContact">контакт</string>
+    <string name="countCalllog">журнали викликів</string>
+    <string name="nodata">Немає даних</string>
+    <string name="backup_data_ing">Резервне копіювання контактів тощо</string>
+    <string name="backup_data_finish">Резервне копіювання завершено.</string>
+    <string name="data_usage_warning_title">Попередження</string>
+    <string name="data_usage_warning">Шановні користувачі! Ця програма потребує підключення до Інтернету. Продовжити?</string>
+    <string name="data_usage_confirm">Більше не запитувати</string>
+    <string name="ndf_install_finish_p">Негайно</string>
+    <string name="ndf_install_finish_n">Пізніше</string>
+    <string name="ndf_lowpower_title">Розряджено</string>
+    <string name="toast_install_fail">Помилка встановлення, зазначений шлях: %s не існує.</string>
+    <string name="network_error">Не вдалося підключитися до мережі</string>
+    <string name="notification_new_rom_come">Вашу систему можна оновити до останньої версії.</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Системою буде встановлено нову версію через %d секунд.</string>
+    <string name="backup_data">Резервне копіювання даних</string>
+    <string name="restore_data">Відновлення даних</string>
+    <string name="battery_tip">Низький рівень заряду акумулятора, для продовження оновлення підключіть зарядний пристрій.</string>
+</resources>

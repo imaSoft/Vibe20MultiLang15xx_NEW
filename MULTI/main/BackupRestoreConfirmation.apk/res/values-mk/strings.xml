@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Целосна резервна копија</string>
+    <string name="restore_confirm_title">Целосно обновување</string>
+    <string name="backup_confirm_text">"Побарана е целосна копија на сите податоци на поврзан компјутер со работна површина. Дали сакате да дозволите тоа да се случи?
+
+Ако вие самите не ја побаравте резервната копија, не дозволувајте да продолжи операцијата."</string>
+    <string name="allow_backup_button_label">Направи резервна копија на моите податоци</string>
+    <string name="deny_backup_button_label">Не прави резервна копија</string>
+    <string name="restore_confirm_text">"Побарано е обновување на сите податоци на поврзан компјутер со работна површина. Дали сакате да дозволите тоа да се случи?
+
+Ако вие самите не го побаравте обновувањето, не дозволувајте да продолжи операцијата. Таа ќе ги замени сите моментални податоци на уредот!"</string>
+    <string name="allow_restore_button_label">Обнови ги моите податоци</string>
+    <string name="deny_restore_button_label">Не обновувај</string>
+    <string name="current_password_text">Внесете ја тековната лозинка на резервната копија долу:</string>
+    <string name="device_encryption_restore_text">Внесете ја лозинката за шифрирање на уредот долу.</string>
+    <string name="device_encryption_backup_text">Внесете ја лозинката за шифрирање на уредот долу. Таа ќе се користи и за шифрирање на резервната копија од архивата.</string>
+    <string name="backup_enc_password_text">Внесете лозинка за да ја користите за шифрирање на целосната резервна копија на податоците. Ако таа се остави празна, ќе се користи тековната лозинка за резервна копија:</string>
+    <string name="backup_enc_password_optional">Ако сакате да ја шифрирате целосната резервна копија на податоците, внесете лозинка долу:</string>
+    <string name="restore_enc_password_text">Ако податоците за обновување се шифрирани, внесете ја лозинката долу:</string>
+    <string name="toast_backup_started">Започнува правење на резервна копија...</string>
+    <string name="toast_backup_ended">Правењето резервна копија е завршено</string>
+    <string name="toast_restore_started">Започнува обновување...</string>
+    <string name="toast_restore_ended">Обновувањето е завршено</string>
+    <string name="toast_timeout">Истече операцијата</string>
+</resources>

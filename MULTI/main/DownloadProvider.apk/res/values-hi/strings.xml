@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">डाउनलोड</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="ok">ठीक</string>
+    <string name="download_file_already_exist">यह फ़ाइल पहले से ही मौजूद है, ओवरराइट करें या नहीं?</string>
+    <string name="notification_download_complete_op01">फ़ाइल निम्न में सहेजा गया:</string>
+    <string name="app_label">डाउनलोड प्रबंधक</string>
+    <string name="permlab_downloadManager">डाउनलोड प्रबंधक तक एक्सेस करें।</string>
+    <string name="permdesc_downloadManager">अनुप्रयोग को डाउनलोड प्रबंधक तक एक्सेस करने और फ़ाइलें डाउनलोड करने के लिए इसका उपयोग करने की अनुमति देता है। दुर्भावनापूर्ण अनुप्रयोग इसका उपयोग डाउनलोड को बाधित करने और निजी जानकारी तक पहुंचने के लिए कर सकते हैं।</string>
+    <string name="permlab_downloadManagerAdvanced">उन्नत डाउनलोड प्रबंधक फ़ंक्शंस</string>
+    <string name="permdesc_downloadManagerAdvanced">अनुप्रयोग को डाउनलोड प्रबंधक के उन्नत फ़ंक्शन तक पहुंचने की अनुमति देता है। दुर्भावनापूर्ण अनुप्रयोग इसका उपयोग डाउनलोड को बाधित करने और निजी जानकारी तक एक्सेस करने के लिए कर सकते हैं।</string>
+    <string name="permlab_downloadCompletedIntent">डाउनलोड सूचनाएँ भेजें।</string>
+    <string name="permdesc_downloadCompletedIntent">पूर्ण किए गए डाउनलोड के बारे में अनुप्रयोग को सूचना भेजने की अनुमति देता है। दुर्भावनापूर्ण अनुप्रयोग इसका उपयोग फ़ाइलों को डाउनलोड करने वाले अन्य अनुप्रयोगों को भ्रमित करने के लिए कर सकते हैं।</string>
+    <string name="permlab_seeAllExternal">SD कार्ड पर सभी डाउनलोड देखें</string>
+    <string name="permdesc_seeAllExternal">इस बात पर ध्यान दिए बिना कि किस अनुप्रयोग ने उन्हें डाउनलोड किया है, अनुप्रयोग को SD कार्ड पर किए गए सभी डाउनलोड देखने की अनुमति देता है।</string>
+    <string name="permlab_downloadCacheNonPurgeable">डाउनलोड कैश में रिक्त स्थान आरक्षित करें</string>
+    <string name="permdesc_downloadCacheNonPurgeable">अनुप्रयोग को डाउनलोड संचय पर फ़ाइलें डाउनलोड करने की अनुमति देता है, जिन्हें स्वचालित रूप से तब हटाया नहीं जा सकता, जब डाउनलोड प्रबंधक को अधिक स्थान की आवश्‍यकता होती है।</string>
+    <string name="permlab_downloadWithoutNotification">बिना सूचना के फ़ाइलें डाउनलोड करें</string>
+    <string name="permdesc_downloadWithoutNotification">उपयोगकर्ता को कोई भी सूचना दिखाए बिना अनुप्रयोग को डाउनलोड प्रबंधक द्वारा फ़ाइलें डाउनलोड करने की अनुमति देता है।</string>
+    <string name="permlab_accessAllDownloads">सभी सिस्टम डाउनलोड एक्सेस करें</string>
+    <string name="permdesc_accessAllDownloads">अनुप्रयोग को सिस्टम पर किसी भी अनुप्रयोग द्वारा शुरू किए गए सभी डाउनलोड देखने और संशोधित करने की अनुमति देता है।</string>
+    <string name="download_unknown_title">&lt;शीर्षक रहित></string>
+    <string name="notification_download_complete">डाउनलोड पूर्ण।</string>
+    <string name="notification_download_failed">डाउनलोड विफल।</string>
+    <string name="notification_need_wifi_for_size">डाउनलोड आकार हेतु Wi-Fi आवश्‍यक।</string>
+    <string name="notification_paused_in_background">पृष्ठभूमि में रोका गया।</string>
+    <string name="wifi_required_title">डाउनलोड ऑपरेटर नेटवर्क के लिए बहुत बड़ा है</string>
+    <string name="wifi_required_body" formatted="false">"इस %s डाउनलोड को पूर्ण करने के लिए आपको Wi-Fi का उपयोग करना चाहिए।
+
+अगली बार जब आप Wi-Fi नेटवर्क से कनेक्ट हों, तो इस डाउनलोड को आरंभ करने के लिए %s को स्पर्श करें।"</string>
+    <string name="wifi_recommended_title">बाद में डाउनलोड करने के लिए कतारबद्ध करें?</string>
+    <string name="wifi_recommended_body" formatted="false">"इस %s के डाउनलोड को आरंभ करना बैटरी का जीवनकाल कम कर सकता है और/या मोबाइल डेटा कनेक्शन का अधिक उपयोग हो सकता है, जिससे आपका मोबाइल डेटा ऑपरेटर आपसे आपकी डेटा योजना के आधार पर शुल्क ले सकता है।
+
+अगली बार जब आप Wi-Fi नेटवर्क से कनेक्ट हों, तो यह डाउनलोड शुरू करने के लिए %s को स्पर्श करें।"</string>
+    <string name="button_queue_for_wifi">कतार</string>
+    <string name="button_cancel_download">रद्द करें</string>
+    <string name="button_start_now">अभी प्रारंभ करें</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s शेष</string>
+    <string name="download_no_application_title">फ़ाइल नहीं खोली जा सकती</string>
+    <string name="root_downloads">डाउनलोड</string>
+    <string name="download_queued">कतारबद्ध</string>
+    <string name="download_running">जारी है</string>
+    <string name="download_error">असफल</string>
+    <string name="download_running_percent">प्रगति में, %d%%</string>
+</resources>

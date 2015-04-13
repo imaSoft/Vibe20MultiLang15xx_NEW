@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">Bloqueo EM SIM ME</string>
+    <string name="simmelock_name">Bloqueo SIM ME</string>
+    <string name="strInputPassword">Ingrese la contraseña:</string>
+    <string name="strConfirm">Finalizar</string>
+    <string name="strCancel">Cancelar</string>
+    <string name="strInputChancesleft">Retiros restantes:</string>
+    <string name="strMCCMNC">MCC+MNC:</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR:</string>
+    <string name="strGID1">GID1:</string>
+    <string name="strGID2">GID2:</string>
+    <string name="strInputPasswordAgain">Ingrese la contraseña nuevamente:</string>
+    <string name="strIMSI">IMSI:</string>
+    <string name="strAttention">Atención</string>
+    <string name="strConfirmRemove">¿Desea eliminar?</string>
+    <string name="srtConfirmPermanUnlock">¿Desea desbloquear de forma permanente?</string>
+    <string name="strYes">Sí</string>
+    <string name="strLockFail">¡Error al bloquear!</string>
+    <string name="strLockSucceed">¡Bloqueo exitoso!</string>
+    <string name="strUnlockFail">¡Error al desbloquear!</string>
+    <string name="strUnlockSucceed">¡Desbloqueo exitoso!</string>
+    <string name="strUserInput">Ingreso del usuario</string>
+    <string name="strInputMode">¿Ingresado por el usuario?</string>
+    <string name="strLockNameNetwork">Personalización de red</string>
+    <string name="strLockNameNetworkSub">Personalización de subgrupo de red</string>
+    <string name="strLockNameService">Personalización del proveedor de servicios</string>
+    <string name="strLockNameCorporate">Personalización corporativa</string>
+    <string name="strLockNameSIM">Personalización de SIM</string>
+    <string name="strActionNameLock">Bloquear</string>
+    <string name="strActionNameUnlock">Desbloquear</string>
+    <string name="strActionNameAddLock">Agregar</string>
+    <string name="strActionNameRemoveLock">Eliminar</string>
+    <string name="strActionNamePermanentUnlock">Desbloquear de forma permanente</string>
+    <string name="strPasswordLengthIncorrect">¡4-8 números!</string>
+    <string name="strQueryFailed">¡Error de consulta!</string>
+    <string name="strAddLockFail">¡Error al agregar!</string>
+    <string name="strAddLockSucceed">¡Agregado exitoso!</string>
+    <string name="strMCCMNCLengthIncorrect">¡MCC+MNC no válido!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">¡MCC+MNC+HLR no válido!</string>
+    <string name="strIMSILengthIncorrect">¡IMSI no válido!</string>
+    <string name="strGID1WRONG">¡GID1 no válido!</string>
+    <string name="strGID2WRONG">¡GID2 no válido!</string>
+    <string name="str_simme_passwords_dont_match">Las contraseñas no coinciden</string>
+</resources>

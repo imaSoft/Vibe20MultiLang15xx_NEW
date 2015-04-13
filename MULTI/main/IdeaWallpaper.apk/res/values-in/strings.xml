@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Wallpaper Statis</string>
+    <string name="wallpaper_instructions">Mengatur kertas dinding</string>
+    <string name="pick_wallpaper">Wallpaper Statis</string>
+</resources>

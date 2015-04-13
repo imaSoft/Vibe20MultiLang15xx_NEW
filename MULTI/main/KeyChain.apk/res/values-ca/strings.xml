@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cadena clau</string>
+    <string name="title_no_certs">"No s'ha trobat cap certificat"</string>
+    <string name="title_select_cert">Selecció de certificats</string>
+    <string name="requesting_application">"L'aplicació %s ha sol·licitat un certificat. La selecció d'un certificat farà que l'aplicació pugui fer servir aquesta identitat amb els servidors ara i en el futur."</string>
+    <string name="requesting_server">"L'aplicació ha identificat el servidor sol·licitant com a %s, però només hauríeu de concedir a l'aplicació accés al certificat si hi confieu."</string>
+    <string name="install_new_cert_message">"Podeu instal·lar certificats d'un fitxer PKCS#12 amb extensió %1$s o %2$s ubicat a l'emmagatzematge extern."</string>
+    <string name="install_new_cert_button_label">Instal·la</string>
+    <string name="allow_button">Permet</string>
+    <string name="deny_button">Denega</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Փաթեթի տեղադրիչ</string>
+    <string name="next">Հաջորդ</string>
+    <string name="install">Տեղադրել</string>
+    <string name="done">Արված է</string>
+    <string name="security_settings_desc">Այս ծրագրային հավելվածին թույլ տալ.</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="unknown">Անհայտ</string>
+    <string name="installing">Տեղադրում է…</string>
+    <string name="install_done">Ծրագրային հավելվածը տեղադրված է:</string>
+    <string name="install_confirm_question">Ցանկանու՞մ եք տեղադրել այս ծրագրային հավելվածը: Այն կստանա մուտքի իրավունք դեպի.</string>
+    <string name="install_confirm_question_no_perms">Ցանկանո՞ւմ եք տեղադրել այս գործադիրը: Այն չի պահանջում որևէ հատուկ մատչում:</string>
+    <string name="install_confirm_question_update">Ցանկանո՞ւմ եք տեղադրել առկա գործադիրի արդիացումը: Ձեր ընթացիկ տվյալները կպահպանվեն: Արդիացված գործադիրը մատչում կունենա՝</string>
+    <string name="install_confirm_question_update_system">Ցանկանո՞ւմ եք տեղադրել այս ներկառուցված գործադիրի արդիացումը: Ձեր ընթացիկ տվյալները կպահպանվեն: Արդիացված գործադիրը մատչում կունենա՝</string>
+    <string name="install_confirm_question_update_no_perms">Ցանկանո՞ւմ եք տեղադրել այս գործադիրի արդիացումը: Ձեր առկա տվյալները չեն կորի: Դրա համար հատուկ մատչում պետք չէ:</string>
+    <string name="install_confirm_question_update_system_no_perms">Ցանկանո՞ւմ եք տեղադրել այս ներկառուցված գործադիրի արդիացումը: Ձեր առկա տվյալները չեն կորի: Դրա համար հատուկ մատչում պետք չէ:</string>
+    <string name="install_failed">Ծրագրային հավելվածը տեղադրված չէ:</string>
+    <string name="install_failed_invalid_apk">Պարզվում է, փաթեթը վնասված է:</string>
+    <string name="install_failed_inconsistent_certificates">Նույնատիպ անունով կոնֆլիկտող ստորագրությամբ փաթեթ արդեն տեղադրված է:</string>
+    <string name="install_failed_older_sdk">Փաթեթը աշխատում է միայն Android-ի նոր տարբերակներում:</string>
+    <string name="install_failed_cpu_abi_incompatible">Այս ծրագրային հավելվածը համատեղելի չէ ձեր հեռախոսի հետ:</string>
+    <string name="install_failed_file_not_found">Սահմանված փաթեթը ջնջվել է նախքան տեղադրման ավարտվելը:</string>
+    <string name="install_failed_verify_failed">Փաթեթը չանցավ ստուգումը և չի կարող տեղադրվել:</string>
+    <string name="install_failed_verify_timeout">Այս փաթեթը հաստատելու փորձ կատարելիս տեղի ունեցավ ժամասպառում: Ավելի ուշ կրկին փորձեք տեղադրել այն:</string>
+    <string name="install_failed_msg">Անհնար էր տեղադրել %1$s-ը ձեր հեռախոսում:</string>
+    <string name="launch">Բացել</string>
+    <string name="unknown_apps_dlg_title">Տեղադրել արգելափակվածները</string>
+    <string name="unknown_apps_dlg_text">Անվտանգության համար ձեր գրասալիկը արգելափակում է անհայտ աղբյրնրից ստացված ծրգ հվլվծների տեղադրումը:</string>
+    <string name="ok">Լավ</string>
+    <string name="settings">Կարգավորումներ</string>
+    <string name="allow_source_dlg_title">Նոր աղբյուր ծրագրային հավելվածների համար</string>
+    <string name="allow_source_dlg_text">"%1$s-ը ցանկանում է տեղադրել այլ ծրագրային հավելվածներ:
+
+Թույլատրե՞լ դա հիմա և հետագայում:"</string>
+    <string name="manage_applications">Կառավարել ծրագրային հավելվածները</string>
+    <string name="dlg_app_replacement_title">Փոխարինե՞լ ծրագրային հավելվածը:</string>
+    <string name="dlg_app_replacement_statement">"Գործադիրը, որը հիմա տեղադրում եք, կտեղադրի մեկ այլ գործադիր:
+
+Բոլոր նախորդ օգտագործողի տվյալները կպահվեն:"</string>
+    <string name="dlg_sys_app_replacement_statement">"Սա համակարգի ծրագրային հավելված է:
+
+Ձեր բոլոր նախկին օգտագործողի տվյալները կպահվեն:"</string>
+    <string name="out_of_space_dlg_title">Ազատ տեղ չկա</string>
+    <string name="out_of_space_dlg_text">%1$s-ը չի կարող տեղադրվել: Ազատեք որոշ տարածք և փորձեք կրկին:</string>
+    <string name="dlg_ok">Լավ</string>
+    <string name="app_not_found_dlg_title">Ծրագրային հավելվածը չի հայտնաբերվել</string>
+    <string name="app_not_found_dlg_text">Ծրագրային հավելվածը չի հայտնաբերվել տեղադրված ծրագրային հավելվածների ցուցակում:</string>
+    <string name="uninstall_application_title">Ապատեղադրել ծրագրային հավելվածը</string>
+    <string name="uninstall_update_title">Ապատեղադրել արդիացումը</string>
+    <string name="uninstall_activity_text">%1$s-ը հետևյալ ծրագրային հավելվածի մասն է.</string>
+    <string name="uninstall_application_text">Ցանկանու՞մ եք ապատեղադրել այս ծրագրային հավելվածը:</string>
+    <string name="uninstall_application_text_all_users">Ցանկանո՞ւմ եք ապատեղադրել այս գործադիրը <b>բոլոր</b> օգտագործողների համար: Գործադիրը և իր տվյալները կհեռացվեն սարքի վրայի <b>բոլոր</b> օգտագործողների մոտից:</string>
+    <string name="uninstall_update_text">Ցանկանու՞մ եք փոխարինել այս ծրագրային հավելվածը գործարանային տարբերակով:</string>
+    <string name="uninstalling">Ապատեղադրում է…</string>
+    <string name="uninstall_done">Ապատեղադրումը ավարտվեց:</string>
+    <string name="uninstall_failed">Ապատեղադրումը ձախողվեց:</string>
+    <string name="uninstall_failed_device_policy_manager">Անհնար է ապատեղադրել, քանի որ այս փաթեթը հանդիսանում է ակտիվ սարքի վարիչ:</string>
+    <string name="manage_device_administrators">Կառավարել սարքի վարիչները</string>
+    <string name="uninstall_failed_msg">%1$s-ը անհնար է ապատեղադրել:</string>
+    <string name="Parse_error_dlg_title">Վերլուծման սխալ</string>
+    <string name="Parse_error_dlg_text">Փաթեթը վերլուծելիս առաջացավ խնդիր:</string>
+    <string name="newPerms">Նոր</string>
+    <string name="allPerms">Բոլորը</string>
+    <string name="privacyPerms">Գաղտնիություն</string>
+    <string name="devicePerms">Սարքի մատչում</string>
+    <string name="no_new_perms">Այս արդիացումը չի պահանջում նոր թույլտվություններ:</string>
+    <string name="grant_confirm_question">Ցանկանու՞մ եք շնորհել հետևյալ թույլտվությունները: Այս կստանա մուտքի իրավունք դեպի՝</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android லைவ் வால்பேப்பர்கள்</string>
+    <string name="wallpaper_walkaround">ஊடாகப் பார்</string>
+    <string name="wallpaper_walkaround_desc">"உங்கள் சாதனத்தை நன்கு அறிந்து, அசம்பாவிதங்களில் இருந்து பாதுகாப்பாக இருக்கவும். "</string>
+    <string name="wallpaper_grass">புல்</string>
+    <string name="wallpaper_grass_desc">புல் இலைகள் ஒரு பகல் அல்லது இரவு வானத்தின் முன்னால் மெதுவாக அசையும்</string>
+    <string name="wallpaper_galaxy">கேலக்ஸி</string>
+    <string name="wallpaper_galaxy_desc">மெதுவாகச் சுழல்கின்ற நட்சத்திரங்களின் கேலக்ஸி தயாரிப்பு</string>
+    <string name="wallpaper_fall">நீர்</string>
+    <string name="wallpaper_fall_desc">இலையுதிர்கால இலைகள் உருளும்&lt;br> கீழே அலை. குளத்துக்கு:&lt;br> திரவப் பின்னணி ஜென்</string>
+    <string name="wallpaper_clock">துருவ மண்டலக் கடிகாரம்</string>
+    <string name="wallpaper_clock_desc">"தேதி மற்றும் நேரத். வலஞ். அரைவட்ட. வழங்.: மாத., நாள், மணிநே., நிமி., மற். வி. "</string>
+    <string name="wallpaper_nexus">நெக்ஸஸ்</string>
+    <string name="wallpaper_nexus_desc">நரம்பு வலையமைப்பின் உள்ளே ஒரு கள்ளப்பார்வை</string>
+    <string name="clock_settings">போலார் கடிகார அமைப்புகள்</string>
+    <string name="show_seconds">வினாடிகளைக் காண்பிக்கவும்</string>
+    <string name="variable_line_width">வளைய அகலங்களை மாற்று</string>
+    <string name="palette">வண்ண வீச்சு</string>
+    <string name="palette_gray">இரும்பு</string>
+    <string name="palette_violet">நள்ளிரவு</string>
+    <string name="palette_matrix">பச்சைத் திரை</string>
+    <string name="palette_white_c">துருவக் கரடி (இயங்குநிலை)</string>
+    <string name="palette_black_c">கறுப்பு துளை (இயங்குநிலை)</string>
+    <string name="palette_halloween">பம்ப்கின் பை</string>
+    <string name="palette_zenburn">ஏலியன் ஃபுரூட் சலாட்</string>
+    <string name="palette_oceanic">நீல லேஸர்</string>
+</resources>

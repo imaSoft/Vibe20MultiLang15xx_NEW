@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">परिणाम उपलब्ध नाहीत.</string>
+    <string name="main_toggle_effects_title">ऑडिओ प्रभाव</string>
+    <string name="eq_dialog_title">समकारी</string>
+    <string name="headset_plug">या प्रभावांसाठी हेडफोन्स प्लग इन करा.</string>
+    <string name="bass_boost_strength">बास बूस्ट</string>
+    <string name="virtualizer_strength">सभोवतालचे ध्वनी</string>
+    <string name="pr_title">प्रतिक्षेपित करा:</string>
+    <string name="pr_summary">अतिरिक्त खोली प्रतिक्षेपण प्रभाव</string>
+    <string name="pr_dialog_title">प्रीसेट रिवर्ब करा</string>
+    <string name="setup">सेटअप करा</string>
+    <string name="ci_extreme">FX बूस्टर</string>
+    <string name="user">प्रयोक्ता</string>
+    <string name="picker_title">संगीत प्रभाव नियंत्रण पटल</string>
+</resources>

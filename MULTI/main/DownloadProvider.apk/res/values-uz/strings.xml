@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Yuklab olish menejeri</string>
+    <string name="permlab_downloadManager">Yuklash menejeriga kirish.</string>
+    <string name="permdesc_downloadManager">"Ilovaga \"Download manager\"ga kirib fayllarni yuklab olishiga ruxsat beradi. Agar ruxsat berilgan bo'lsa zararli ilovalar yuklab olishlarni uzib, shaxsiy ma'lumotlaringizdan foydalanishi mumkin"</string>
+    <string name="permlab_downloadManagerAdvanced">Yuklash menejerining qo‘shimcha funksiyalari</string>
+    <string name="permdesc_downloadManagerAdvanced">"Ilovaga \"Dowload manager\"ning mukammal funksiyalariga kirishga ruxsat beradi. Agar ruxsat berilsa, zararli ilovalar yuklab olishlarni to'xtatib, shaxsiy ma'lumotlaringizga kirishi mumkin"</string>
+    <string name="permlab_downloadCompletedIntent">Yuklash xabarnomalarini yuborish</string>
+    <string name="permdesc_downloadCompletedIntent">"Ilovaga tugallangan yuklab olishlar to'g'risida bildirgilar yuborishga ruxsat beradi. Ruxsat etilgan bo'lsa zararli ilovalar boshqa fayl yuklab oluvchi ilovalarni adashtirishi mumkin"</string>
+    <string name="permlab_seeAllExternal">Barcha SD-kartaga yuklashlarni ko‘rib chiqish</string>
+    <string name="permdesc_seeAllExternal">Ilovaga qaysi, ilova yuklab olganidan qat’iy nazar, barcha SD-kartaga yuklashlarni ko‘rish uchun ruxsat beradi</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reserve space in the download cache</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Allows the application to download files to the download cache which cannot be automatically deleted when the download manager needs more space</string>
+    <string name="permlab_downloadWithoutNotification">Fayllarni bildirishnomasiz yuklab olish</string>
+    <string name="permdesc_downloadWithoutNotification">Ilovaga foydalanuvchiga hech qanday xabar bermasdan yuklab olish maqsadida Yuklab olish menejriga kirish uchun ruxsat beradi</string>
+    <string name="permlab_accessAllDownloads">Access all system downloads</string>
+    <string name="permdesc_accessAllDownloads">Allows the application to view and modify all initiated by any application on the system</string>
+    <string name="download_unknown_title">&lt;Nomsiz></string>
+    <string name="notification_download_complete">Yuklab olishni yakunlash.</string>
+    <string name="notification_download_failed">Yuklab olish bajarilmadi.</string>
+    <string name="notification_need_wifi_for_size">Yuklab olish o‘lchami juda katta. Wi-Fi talab qilinadi.</string>
+    <string name="notification_paused_in_background">Fonda to‘xtatildi</string>
+    <string name="wifi_required_title">Yuklab olish o‘lchami operator tarmog‘i uchun juda katta</string>
+    <string name="wifi_recommended_title">Keyinroq yuklab olish navbatga qo‘yilsinmi?</string>
+    <string name="button_queue_for_wifi">Navbatga qo‘yish</string>
+    <string name="button_cancel_download">Bekor qilish</string>
+    <string name="button_start_now">Hozir ishga tushirish</string>
+    <string name="download_remaining">%s qoldi</string>
+    <string name="download_no_application_title">Faylni ochib bo‘lmadi.</string>
+    <string name="root_downloads">Yuklanmalar</string>
+</resources>

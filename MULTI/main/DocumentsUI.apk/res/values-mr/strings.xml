@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">दस्तऐवज</string>
+    <string name="title_open">येथून उघडा</string>
+    <string name="title_save">यावर जतन करा</string>
+    <string name="menu_create_dir">फोल्डर तयार करा</string>
+    <string name="menu_grid">जाळीरूप मेन्यू दृश्य</string>
+    <string name="menu_list">सूची दृश्य</string>
+    <string name="menu_sort">द्वारे पृथ्थकरण करा</string>
+    <string name="menu_search">शोध</string>
+    <string name="menu_settings">सेटिंग्ज</string>
+    <string name="menu_open">उघडा</string>
+    <string name="menu_save">जतन करा</string>
+    <string name="menu_share">शेअर करा</string>
+    <string name="menu_delete">हटवा</string>
+    <string name="mode_selected_count">%1$d निवडले</string>
+    <string name="sort_name">नावानुसार</string>
+    <string name="sort_date">तारखेप्रमाणे सुधारणा केलेले</string>
+    <string name="sort_size">आकारानुसार</string>
+    <string name="drawer_open">रूट दाखवा</string>
+    <string name="drawer_close">रूट लपवा</string>
+    <string name="save_error">दस्तऐवज जतन करणे शक्य झाले नाही</string>
+    <string name="create_error">फोल्डर तयार करणे शक्य झाले नाही</string>
+    <string name="query_error">दस्तऐवजांसाठी शोधणे शक्य झाले नाही</string>
+    <string name="root_recent">अलीकडील</string>
+    <string name="root_available_bytes">%1$s जागा मोकळी</string>
+    <string name="root_type_service">संचय सेवा</string>
+    <string name="root_type_shortcut">शीघ्रमार्ग</string>
+    <string name="root_type_device">उपकरणे</string>
+    <string name="root_type_apps">अधिक अनुप्रयोग</string>
+    <string name="pref_advanced_devices">प्रगत उपकरणे प्रदर्शित करा</string>
+    <string name="pref_file_size">फाईल आकार प्रदर्शित करा</string>
+    <string name="pref_device_size">उपकरण आकार प्रदर्शित करा</string>
+    <string name="empty">कोणतीही बाब नाही</string>
+    <string name="toast_no_application">फाईल उघडू शकत नाही</string>
+    <string name="toast_failed_delete">काही दस्तऐवज हटवू शकत नाही</string>
+    <string name="share_via">या द्वारे शेअर करा</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistemos versijos naujinimas</string>
+    <string name="exit">Išeiti</string>
+    <string name="update_failed">Atsiprašome. Nepavyko įdiegti naujos programinės-aparatinės įrangos</string>
+    <string name="btn_ok">Gerai</string>
+    <string name="btn_cancel">Atšaukti</string>
+    <string name="notification_content_title">Programinės-aparatinės įrangos versijos naujinimas</string>
+    <string name="notification_content_text_completed">Atsisiųsta sėkmingai</string>
+    <string name="error_not_specify_network_title">Atsisiųskite per WLAN tinklą</string>
+    <string name="error_not_specify_network_content">Rekomenduojama atsisiųsti per WLAN tinklą, nes siunčiantis per mobiliojo ryšio tinklą gali būti taikomi dideli mokesčiai</string>
+    <string name="btn_setting_network">Nustatyti nedelsiant</string>
+    <string name="btn_keep_download">Tęsti atsisiuntimą</string>
+    <string name="retry">Bandyti vėl</string>
+    <string name="redo_backup">Dar kartą kurti atsarginę kopiją</string>
+    <string name="contact">Kontaktai</string>
+    <string name="sms">Pranešimas</string>
+    <string name="calllog">Skambučių žurnalas</string>
+    <string name="btn_backup">Kurti atsarginę kopiją</string>
+    <string name="has_not_backup">Nėra atsarginės kopijos</string>
+    <string name="countSms">pranešimas (-ai)</string>
+    <string name="countContact">kontaktas (-ai)</string>
+    <string name="countCalllog">skambučių žurnalas (-ai)</string>
+    <string name="nodata">Nėra duomenų</string>
+    <string name="backup_data_ing">Kuriama atsarginė kontaktų kopija ir kt.</string>
+    <string name="backup_data_finish">Atsarginė duomenų kopija sukurta!</string>
+    <string name="data_usage_warning_title">Įspėjimas</string>
+    <string name="data_usage_warning">Gerb. vartotojai, norint naudoti šią programą reikia jungtis prie interneto. Tęsti?</string>
+    <string name="data_usage_confirm">Nepriminti kitą kartą</string>
+    <string name="ndf_install_finish_p">Nedelsiant</string>
+    <string name="ndf_install_finish_n">Vėliau</string>
+    <string name="ndf_lowpower_title">Akumuliatorius senka</string>
+    <string name="toast_install_fail">Nepavyko įdiegti, nėra nurodyto kelio: %s.</string>
+    <string name="network_error">Nepavyko prisijungti prie tinklo</string>
+    <string name="notification_new_rom_come">Il sistema può essere aggiornato alla versione più recente</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Po %d sekundžių sistema turi įdiegti naują versiją!</string>
+    <string name="backup_data">Kurti atsarginę duomenų kopiją</string>
+    <string name="restore_data">Duomenų atkūrimas</string>
+    <string name="battery_tip">Akumuliatorius senka; norėdami tęsti versijos naujinimą, prijunkite įkroviklį</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">કૅલેન્ડર સ્ટોરેજ</string>
+    <string name="upgrade_msg">કૅલેન્ડર અપગ્રેડ કરે છે…</string>
+    <string name="calendar_default_name">મૂળભૂત</string>
+    <string name="calendar_info">કૅલેન્ડર માહિતી</string>
+    <string name="calendar_info_error">ભૂલ</string>
+    <string name="calendar_info_no_calendars">કોઈ કૅલેન્ડર નથી</string>
+    <string name="calendar_info_events">ઘટનાઓ: %d</string>
+    <string name="calendar_info_events_dirty">ઘટનાઓ: %1$d, સિંક કરાયું નથી: %2$d</string>
+    <string name="provider_label">કૅલેન્ડર</string>
+    <string name="debug_tool_delete_button">ફાઇલ હટાવો</string>
+    <string name="debug_tool_start_button">શરૂ</string>
+    <string name="debug_tool_message">તમે SD કાર્ડ/USB સંગ્રહ પર તમારા કૅલેન્ડરની એક નકલ સાચવવામાં છો જે કોઈપણ અરજી વાંચી શકે છે અને પછી આ ઈમેલ કરવામાં છો. તમે ઉપકરણમાંથી આ સફળતાપૂર્વક નકલ કરવાની પછી અથવા ઈમેલ પ્રાપ્ત કરવાની પછી યાદ રાખીને આ હટાવો.</string>
+    <string name="debug_tool_email_sender_picker">તમારી ફાઇલ મોકલવા માટે કાર્યક્રમ પસંદ કરો</string>
+    <string name="debug_tool_email_subject">કૅલેન્ડર DB ફાઇલ જોડેલી છે</string>
+    <string name="debug_tool_email_body">મારી બધી એપોઇન્ટમેન્ટ્સ અને વ્યક્તિગત માહિતી મારા કૅલેન્ડર સાથે જોડેલી છે. કૃપયા ધ્યાનપૂર્વક વાપરો.</string>
+</resources>

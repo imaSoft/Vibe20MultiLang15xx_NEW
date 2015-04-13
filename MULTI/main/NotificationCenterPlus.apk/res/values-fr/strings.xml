@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashlight_notification_title">Lampe de poche désactivée</string>
+    <string name="flashlight_notification_text">Cliquez pour éteindre la lampe de poche</string>
+    <string name="app_notification_manager_title">"Gestion de notification d'application"</string>
+    <string name="app_notification_optimized_title">Gestion des priorités de notification</string>
+    <string name="lenovo_app_closed_notifications_manager_title">"Les applications n'affichent pas de notifications"</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Les applications affichent des notifications</string>
+    <string name="lenovo_progress_dialog_message">Chargement en cours...</string>
+    <string name="app_disable_notifications_dlg_title">Éteindre les notifications ?</string>
+    <string name="app_disable_notifications_dlg_text">Si vous éteignez les notifications pour cette app, vous ne recevrez pas les alertes et mises à jour importantes.</string>
+    <string name="app_add_optimized_notifications_title">Application préférée non définie</string>
+    <string name="app_del_optimized_notifications_title">Application préférée définie</string>
+    <string name="app_vip_notifications_title">Application VIP</string>
+    <string name="app_close_optimized_notifications_title">"L'application de notification est fermée"</string>
+    <string name="app_close_optimized_notifications_summary">"Les applications peuvent uniquement être définies comme préférées une fois que les notifications ont été activées dans l'application de gestion des notifications"</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">\"%1$s\" défini comme préféré</string>
+    <string name="lenovo_app_add_notification_toast_text">\"%1$s\" activer les notifications</string>
+    <string name="lenovo_no_app_nofitication">Aucun fichier applications</string>
+    <string name="app_del_optimized_notifications_dlg_title">"Annuler l'état préféré ?"</string>
+    <string name="app_del_optimized_notifications_dlg_text">"Si vous annulez l'état préféré de cette application, vous pouvez ignorer d'importantes alertes ou des mises à jour."</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">" Notifications \"\"%1$s\" non prioritaires"</string>
+    <string name="lenovo_app_delete_notification_toast_text">" Notifications désactivées pour \"\"%1$s\""</string>
+    <string name="lenovo_flashlight_error_notification_title">"Impossible d'allumer la lampe de poche"</string>
+    <string name="lenovo_flashlight_error_camera_in_use">"Lppareil photo est en cours d'utilisation, impossible d'allumer la lampe de poche"</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">"Pour éviter toute utilisation accidentelle, la lampe de poche ne peut pas être allumée si la partie supérieure de l'écran est couverte."</string>
+    <string name="lenovo_flashlight_error_low_power">"Niveau d'alimentation faible ! Impossible d'utiliser la lampe de poche"</string>
+</resources>

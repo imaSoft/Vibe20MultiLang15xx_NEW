@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">SN</string>
+    <string name="factory_wipe_data">Изтр.потр.данни чрез фабр.реж.</string>
+    <string name="factory_wipe_data_warning">Ако щракнете в/у OK, вс. потр. данни ще се изтрият, но инст. прил. ще се запазят. Препор. е обик. потр. да не го изпол., за да избегнат загуба на данни</string>
+    <string name="factory_wipe_data_cancel">отказ</string>
+    <string name="sdcard_not_found">фабричното изтриване на данни е неуспешно</string>
+    <string name="sdcard_not_found_tip">"Тази функция изисква поддръжка на SD карта.
+\u0009\u0009Уверете се, че наличната SD карта е поставена."</string>
+    <string name="sdcard_out_of_space">В SD картата няма достатъчно място</string>
+    <string name="sdcard_out_of_space_tip">"В SD картата остават само %1$sМB налично място, но тези 
+функции изискват %2$sМB налично място в SD картата"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Невалиден</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unlock_set_unlock_mode_voice_weak">Розблокування голосом</string>
+    <string name="voice_unlock_setup_intro_header">Записати голосову команду</string>
+    <string name="voice_command_select_title">Вибрати команду</string>
+    <string name="voice_command_launch_app_title">Запустити програму</string>
+    <string name="reset_command_title">Скинути команду</string>
+    <string name="reset_command_prompt">Цю команду буде скинуто без можливості відновлення.</string>
+    <string name="reset_command_prompt_last">Буде скинуто лише одну голосову команду. Блокування екрана буде змінено на \"Слайд\".</string>
+    <string name="voice_unlock_options_title">Параметри</string>
+    <string name="voice_unlock_ok_label">Так</string>
+    <string name="voice_unlock_cancel_label">Скасувати</string>
+    <string name="voice_unlock_retry_label">Повторіть спробу</string>
+    <string name="voice_unlock_record_label">Запис</string>
+    <string name="voice_unlock_continue_label">Продовжити</string>
+    <string name="voice_unlock_setup_intro">Вимовте команду із 2–8 складів, а потім повторіть її 3–6 разів.</string>
+    <string name="voice_unlock_command">Команда розблокування</string>
+    <string name="voice_command1">Команда активації 1</string>
+    <string name="voice_command2">Команда активації 2</string>
+    <string name="voice_command3">Команда активації 3</string>
+    <string name="command_summary">Розблокувати й запустити %1$s</string>
+    <string name="voice_command_primary">Запустити %1$s</string>
+    <string name="voice_command_customize">Налаштувати</string>
+    <string name="voice_command_secondary">Запустити %1$s після розблокування</string>
+    <string name="voice_command_record_description_unlock_screen">Розблокувати екран</string>
+    <string name="voice_command_record_description_command">Розблокувати екран і запустити %1$s</string>
+    <string name="voice_service_error_title">Збій у роботі голосової служби!</string>
+    <string name="stop_playing_title">Зупинити відтворення мультимедійного файлу</string>
+    <string name="stop_playing_message">Зупиніть відтворення мультимедійного файлу, перш ніж розпочинати запис.</string>
+    <string name="voice_command_record_introdution">Торкніться клавіші \"ЗАПИС\" і ВИМОВТЕ голосову команду.</string>
+    <string name="voice_command_record_prepare">Підготовка, зачекайте…</string>
+    <string name="voice_command_record_first_recording">"ВИМОВТЕ команду.
+Рекомендується 2–8 складів."</string>
+    <string name="voice_command_record_non_first_recording">ПОВТОРІТЬ голосову команду.</string>
+    <string name="voice_command_record_one_round_ok">ЗРОЗУМІЛО.</string>
+    <string name="voice_command_record_one_round_noisy">Занадто шумно для розпізнавання команди. Повторіть спробу.</string>
+    <string name="voice_command_record_one_round_weak">Фраза нерозбірлива. Повторіть спробу.</string>
+    <string name="voice_command_record_one_round_diff">Ця команда відрізняється від попередніх.</string>
+    <string name="voice_command_record_one_round_exist">Аналогічний зразок команди вже існує. Введіть іншу команду.</string>
+    <string name="voice_command_record_recording_ok">Голосову команду налаштовано успішно.</string>
+    <string name="voice_unlock_setup_end_all_done">Усі операції завершено.</string>
+    <string name="voice_unlock_setup_end_prompt">Щоб розблокувати телефон, вимовте голосову команду.</string>
+    <string name="pass_word_file_missing">Неможливо відтворити голосову команду.</string>
+    <string name="time_out_title">Час очікування минув</string>
+    <string name="time_out_message">Протягом 5 секунд не отримано жодної команди. Повторіть спробу.</string>
+    <string name="during_call_title">Функція записування недоступна</string>
+    <string name="during_call_message">Під час виклику функція запису голосової команди недоступна.</string>
+</resources>

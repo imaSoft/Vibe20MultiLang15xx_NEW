@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Қабық</string>
+    <string name="bugreport_finished_title">Қате туралы есеп жазылды</string>
+    <string name="bugreport_finished_text">Қате туралы есепті бөлісу үшін түртіңіз</string>
+    <string name="bugreport_confirm">Қате туралы есептер жүйенік әр түрлі журналдарындағы деректерді, соның ішінде, жеке және құпия ақпаратты қамтиды. Қате туралы есептерді тек сенетін қолданбалармен және адамдармен бөлісіңіз.</string>
+    <string name="bugreport_confirm_repeat">Осы хабарды келесі рет көрсету</string>
+</resources>

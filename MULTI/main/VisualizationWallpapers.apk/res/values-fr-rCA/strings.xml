@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Visualiseur</string>
+    <string name="wallpaper_vis2">"Forme d'onde"</string>
+    <string name="wallpaper_vis3">Spectre</string>
+    <string name="wallpaper_vis4">Vumètre</string>
+    <string name="wallpaper_vis5">Bon nombre</string>
+    <string name="wallpapers">Music Visualization Wallpapers</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Dessine les ondes sonores de toute piste en cours de lecture.</string>
+    <string name="vis3_desc">Affiche le spectre de fréquences de toute piste en cours de lecture.</string>
+    <string name="vis4_desc">Simule un sonomètre analogique.</string>
+    <string name="vis5_desc">"Affichage, en 3D, d'une combinaison de toutes les visualisations qui tourne lentement sur elle-même."</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Името на майка ми?</item>
+        <item>Любимият ми плод?</item>
+        <item>Рожденият ден на баща ми?</item>
+        <item>Любимата ми песен?</item>
+        <item>Името на моя домашен любимец?</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Настройки</item>
+        <item>Актуализация</item>
+        <item>Относно</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Импортиране от Хронология на повикванията</item>
+        <item>Импортиране от Хронология на SMS</item>
+        <item>Импортиране от Контакти</item>
+        <item>Ръчно добавяне</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Блокирай само Черен списък</item>
+        <item>Позволи само Контакти</item>
+        <item>Позволи само Бял списък</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Връщане тон заето</item>
+        <item>Връщане Изключване на захранването</item>
+        <item>Връщане Изключване</item>
+        <item>Връщане Свободен номер</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Само Контакти</item>
+        <item>Само Бял списък</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Импортиране от Входящи повиквания</item>
+        <item>Импортиране от Хронология на SMS</item>
+        <item>Импортиране от Контакти</item>
+        <item>Ръчно добавяне</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Отговор</item>
+        <item>Отхвърляне</item>
+        <item>Отхвърляне на повикване с SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Импортиране от Хронология на повикванията</item>
+        <item>Импортиране от Хронология на SMS</item>
+        <item>Импортиране от Контакти</item>
+        <item>Ръчно добавяне</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Без известяване</item>
+        <item>Известие в лентата за уведомления</item>
+        <item>Известие в лентата за уведомления + сигнал</item>
+        <item>Известие в лентата за уведомления+вибрация</item>
+    </string-array>
+</resources>

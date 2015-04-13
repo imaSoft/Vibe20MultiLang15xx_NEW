@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Nama ibu saya?</item>
+        <item>Buah favorit saya?</item>
+        <item>Ulang tahun ayah saya?</item>
+        <item>Lagu favorit saya?</item>
+        <item>Nama binatang peliharaan saya?</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Impor dari Riwayat Panggilan</item>
+        <item>Impor dari Riwayat SMS</item>
+        <item>Impor dari Kontak</item>
+        <item>Tambahkan secara manual</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Blokir Daftar Hitam saja</item>
+        <item>Izinkan Kontak saja</item>
+        <item>Izinkan Daftar Putih saja</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Kembalikan nada sibuk</item>
+        <item>Kembalikan Matikan Ponsel</item>
+        <item>Kembalikan Matikan</item>
+        <item>Kembalikan Nomor Kosong</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Kontak saja</item>
+        <item>DaftarPutih saja</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Impor dari Riwayat Panggilan</item>
+        <item>Impor dari Riwayat SMS</item>
+        <item>Impor dari Kontak</item>
+        <item>Tambahkan secara manual</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Jawab</item>
+        <item>Tolak</item>
+        <item>Tolak panggilan melalui SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Impor dari Riwayat Panggilan</item>
+        <item>Impor dari Riwayat SMS</item>
+        <item>Impor dari Kontak</item>
+        <item>Tambahkan secara manual</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Tidak ada pemberitahuan</item>
+        <item>Alert di bilah notifikasi</item>
+        <item>Pemberitahuan bilah notifikasi + alert</item>
+        <item>Pemberitahuan bilah notifikasi + getar</item>
+    </string-array>
+</resources>

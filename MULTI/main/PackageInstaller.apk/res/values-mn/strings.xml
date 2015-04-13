@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Багц суулгагч</string>
+    <string name="next">Цааш</string>
+    <string name="install">Суулгах</string>
+    <string name="done">Дууслаа</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="unknown">Мэдэхгүй</string>
+    <string name="installing">Суулгаж байна…</string>
+    <string name="launch">Нээх</string>
+    <string name="unknown_apps_dlg_title">Суулгац блоклогдсон</string>
+    <string name="ok">OK</string>
+    <string name="settings">Тохиргоо</string>
+    <string name="allow_source_dlg_text">%1$s бусад програмыг суулгахыг хүсэж байна. Үүнийг одоо ба цаашдаа зөвшөөрөх үү?</string>
+    <string name="out_of_space_dlg_title">Зай алга</string>
+    <string name="dlg_ok">OK</string>
+    <string name="uninstall_application_title">Програм устгах</string>
+    <string name="uninstall_application_text">Энэ програмыг устгах уу?</string>
+    <string name="uninstall_update_text">Програмыг үйлдвэрийн хувилбараар солино</string>
+    <string name="uninstalling">Устгаж байна…</string>
+    <string name="uninstall_done">Устгаж дууссан!</string>
+    <string name="manage_device_administrators">Төхөөрөмжийн админуудыг удирдах</string>
+    <string name="Parse_error_dlg_title">Задлан шинжлэлийн алдаа</string>
+    <string name="newPerms">Шинэ</string>
+    <string name="allPerms">Бүгд</string>
+    <string name="privacyPerms">Нууцлал</string>
+    <string name="devicePerms">Төхөөрөмжийн хандалт</string>
+</resources>

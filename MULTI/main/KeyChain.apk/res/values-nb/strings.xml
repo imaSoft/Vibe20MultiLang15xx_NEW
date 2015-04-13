@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nøkkelkjede</string>
+    <string name="title_no_certs">Finner ingen sertifikater</string>
+    <string name="title_select_cert">Velg sertifikat</string>
+    <string name="requesting_application">Programmet %s har bedt om et sertifikat. Ved å velge et sertifikat gir du programmet mulighet til å bruke denne identiteten med servere nå og senere.</string>
+    <string name="requesting_server">Programmet har identifisert serveren som ber om sertifikatet som %s, men du bør bare gi programmet tilgang til sertifikatet hvis du stoler på programmet.</string>
+    <string name="install_new_cert_message">Du kan installere sertifikater fra en PKCS#12-fil med filtypen %1$s eller %2$s som ligger på en ekstern lagringsenhet.</string>
+    <string name="install_new_cert_button_label">Installer</string>
+    <string name="allow_button">Tillat</string>
+    <string name="deny_button">Avslå</string>
+</resources>

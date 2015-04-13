@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">మీడియా</string>
+    <string name="app_label">మీడియా నిల్వ</string>
+    <string name="upgrade_msg">మీడియా డేటాబేస్‌ ఉన్నతీకరించబడుతోంది.</string>
+    <string name="artist_label">ఆర్టిస్ట్</string>
+    <string name="ringtone_default">డీఫాల్ట్ రింగ్‌టోన్</string>
+    <string name="notification_sound_default">డీఫాల్ట్ నోటిఫికేషన్ ధ్వని</string>
+    <string name="alarm_sound_default">డీఫాల్ట్ అలారం ధ్వని</string>
+    <string name="root_images">చిత్రాలు</string>
+    <string name="root_videos">వీడియో</string>
+    <string name="root_audio">ఆడియో</string>
+</resources>

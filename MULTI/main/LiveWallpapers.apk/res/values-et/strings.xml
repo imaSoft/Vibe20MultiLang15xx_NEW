@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Androidi dünaamilised taustpildid</string>
+    <string name="wallpaper_walkaround">See Through</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">"Saate vaadata läbi seadme ja jalutada ringi õnnetusi vältides. "</string>
+    <string name="wallpaper_grass">Grass</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">Rohukõrred liiguvad aeglaselt päevase või öise taeva taustal.</string>
+    <string name="wallpaper_galaxy">Galaxy</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">Aeglaselt pöörlevate tähtedega galaktika.</string>
+    <string name="wallpaper_fall">Vesi</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">Sügislehed langevad&lt;br> virvendavale veekogule:&lt;br> liikuva vee taust (Zen)</string>
+    <string name="wallpaper_clock">Polar clock</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">"Kuupäev ja kellaaeg esitatakse päripäevaliste kaartena: kuu, päev, tund, minut ja sekund. "</string>
+    <string name="wallpaper_nexus">Neksus</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">Pilguheit neuronvõrku</string>
+    <string name="clock_settings">Polar clocki seaded</string>
+    <string name="show_seconds">Kuva sekundid</string>
+    <string name="variable_line_width">Muuda helina pikkusi</string>
+    <string name="palette">Värvipalett</string>
+    <string name="palette_gray">Raud</string>
+    <string name="palette_violet">Kesköö</string>
+    <string name="palette_matrix">Roheline kuva</string>
+    <string name="palette_white_c">Jääkaru (dünaamiline)</string>
+    <string name="palette_black_c">Must auk (dünaamiline)</string>
+    <string name="palette_halloween">Kõrvitsapirukas</string>
+    <string name="palette_zenburn">Salat erinevatest puuviljadest</string>
+    <string name="palette_oceanic">Sinine laser</string>
+</resources>

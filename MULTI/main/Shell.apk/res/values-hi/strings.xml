@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">शेल</string>
+    <string name="bugreport_finished_title">बग रिपोर्ट कैपचर की गई</string>
+    <string name="bugreport_finished_text">अपनी बग रिपोर्ट साझा करने के लिए स्‍पर्श करें</string>
+    <string name="bugreport_confirm">बग रिपोर्ट में सिस्‍टम की विभिन्‍न लॉग फ़ाइलों का डेटा होता है जिसमें व्‍यक्‍तिगत और निजी जानकारी भी शामिल होती है. केवल उन एप्लिकेशन और लोगों के साथ बग रिपोर्ट साझा करें जिन पर आप विश्‍वास करते हैं.</string>
+    <string name="bugreport_confirm_repeat">यह संदेश अगली बार दिखाएं</string>
+</resources>

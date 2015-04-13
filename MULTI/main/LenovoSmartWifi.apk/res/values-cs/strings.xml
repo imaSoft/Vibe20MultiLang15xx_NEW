@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">Zapamatování místa WLAN</string>
+    <string name="dialog_title">Povolit WLAN?</string>
+    <string name="dialog_text">Bylo aktivováno datové připojení. Mohou se účtovat poplatky za data. Přejete si připojit k dostupné WLAN?</string>
+    <string name="disable_dialog_title">Zakázat WLAN?</string>
+    <string name="disable_dialog_text">Aktuální umístění ukončí dosah připojené AP, zakázat WLAN?</string>
+    <string name="show_dialog">Nepřipomínat</string>
+    <string name="disable_show_dialog">Nepřipomínat</string>
+    <string name="wifi_enable_text">Možnosti přístupových bodů</string>
+    <string name="wifi_enable_summary">Vyberte si, jestli se chcete k dostupné WLAN, když je telefon připojen k datům 3G, připojit na výzvu nebo automaticky.</string>
+    <string name="wifi_disable_text">Možnosti mimo dosah</string>
+    <string name="wifi_disable_summary">Zvolte, jestli připojení WLAN zakázat automaticky nebo po výzvě, pokud je přístupový bod mimo dosah.</string>
+    <string name="wifi_setting_summary">Automaticky povolit tuto funkci pro upřednostnění připojení WLAN před datovým připojením 3G.</string>
+    <string name="wifi_popup_tip">Místní zpráva</string>
+    <string name="wifi_auto_enable">Automaticky připojit WLAN</string>
+    <string name="wifi_auto_disable">Automaticky odpojit WLAN</string>
+    <string name="wifi_popup_0">Zapamatuje připojenou AP a po příštím vstupu do této oblasti se zobrazí výzva</string>
+    <string name="wifi_popup_1">Zapamatuje připojenou AP a po příštím vstupu do této oblasti se automaticky povolí</string>
+    <string name="wifi_popup_2">Nepřipomínat</string>
+    <string name="confirm_yes">Ano</string>
+    <string name="confirm_no">Ne</string>
+    <string name="enable_wifi_hint">Zjistilo se, že máte přístup k síti pomocí připojení GPRS. Pokud chcete snížit přenos dat, můžete přistupovat k bezdrátové síti pomocí místní WLAN</string>
+    <string name="disable_wifi_hint">Místní WLAN je zjištěna v nečinném stavu a automaticky se vypne kvůli úspoře energie</string>
+</resources>

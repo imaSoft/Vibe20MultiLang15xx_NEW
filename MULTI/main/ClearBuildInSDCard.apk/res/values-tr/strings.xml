@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SD Kart silici</string>
+    <string name="loading_please_wait">Yükleniyor,lütfen bekleyin...</string>
+    <string name="white_list_not_found">SD kartın silinmesi başarısız, liste bulunamadı</string>
+    <string name="sdcard_not_available">SD kartın silinmesi başarısız,SD kart devre dışı</string>
+    <string name="clearSDcardFailed">SD kartın silinmesi başarısız</string>
+    <string name="deleteFileFailed">Dosya silme hatası</string>
+    <string name="fileNotFoud">Özel durum: dosya bulunamadı</string>
+    <string name="clear_start">SD kart silinmeye başlanıyor</string>
+    <string name="clear_success">SD kartın silinmesi başarılı，cihazı yeniden başlat</string>
+    <string name="clearing">SD kart siliniyor</string>
+    <string name="checking">Denetleniyor</string>
+    <string name="check_file">Denetleme sonuçları</string>
+    <string name="check_sucess">Denetleme başarılı</string>
+    <string name="check_fail">Denetleme başarısız, sonlandır？</string>
+</resources>

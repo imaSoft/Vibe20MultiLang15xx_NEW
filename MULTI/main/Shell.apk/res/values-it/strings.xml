@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Rapporto errori acquisito</string>
+    <string name="bugreport_finished_text">Tocca per condividere rapporto errori</string>
+    <string name="bugreport_confirm">I rapporti errori contengono dati dei diversi file di registro del sistema, tra cui informazioni personali e private. Condividere i rapporti errori con app e contatti attendibili.</string>
+    <string name="bugreport_confirm_repeat">Mostra questo messaggio la prossima volta</string>
+</resources>

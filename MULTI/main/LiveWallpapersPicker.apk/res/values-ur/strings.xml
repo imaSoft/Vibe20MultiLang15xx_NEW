@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">لائیو وال پیپر پکر</string>
+    <string name="live_wallpaper_picker_title">لائیو وال پیپرز</string>
+    <string name="live_wallpaper_preview_title">لائیو وال پیپر پیش منظر</string>
+    <string name="configure_wallpaper">سیٹنگز</string>
+    <string name="wallpaper_instructions">وال پیپر سیٹ کریں</string>
+    <string name="live_wallpaper_empty">کوئی لائیو وال پیپر نہیں ہیں</string>
+    <string name="live_wallpaper_loading">لائیو وال پیپر لوڈ کررہا ہے…</string>
+</resources>

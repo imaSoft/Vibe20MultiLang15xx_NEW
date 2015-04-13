@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pembersih kartu SD</string>
+    <string name="loading_please_wait">Memuat sekarang, tunggu</string>
+    <string name="white_list_not_found">Pembersihan kartu SD internal gagal: daftar putih tidak ditemukan</string>
+    <string name="sdcard_not_available">Pembersihan kartu SD internal gagal: Kartu SD tidak tersedia</string>
+    <string name="clearSDcardFailed">Pembersihan kartu SD internal gagal:</string>
+    <string name="deleteFileFailed">Menghapus file gagal</string>
+    <string name="fileNotFoud">Ketidaknormalan tidak ditemukan di file</string>
+    <string name="clear_start">Mulai membersihkan log penggunaan kartu SD:</string>
+    <string name="clear_success">Pembersihan berhasil diselesaikan, siap mengaktifkan ulang</string>
+    <string name="clearing">Membersihkan kartu SD internal sekarang</string>
+    <string name="checking">Memeriksa sumber daya yang telah ditetapkan</string>
+    <string name="check_file">Pemeriksaan sumber daya yang telah ditetapkan</string>
+    <string name="check_sucess">Sumber daya yang telah ditetapkan diperiksa</string>
+    <string name="check_fail">Sumber daya yang telah ditetapkan tidak lengkap. Anda ingin mengakhiri pengosongan kartu SD?</string>
+</resources>

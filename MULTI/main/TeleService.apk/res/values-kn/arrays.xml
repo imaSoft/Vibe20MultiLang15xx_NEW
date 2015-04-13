@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>ನೆಟ್‌ವರ್ಕ್ ಡೀಫಾಲ್ಟ್</item>
+        <item>ಸಂಖ್ಯೆ ಅಗೋಚರಗೊಳಿಸಿ</item>
+        <item>ಸಂಖ್ಯೆ ತೋರಿಸು</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>ಫ್ರೆಂಚ್</item>
+        <item>ಸ್ಪ್ಯಾನಿಶ್</item>
+        <item>ಜಪಾನೀಸ್</item>
+        <item>ಕೊರಿಯನ್</item>
+        <item>ಚೈನೀಸ್</item>
+        <item>ಹೆಬ್ರೂ</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>ಹೋಮ್ ಮಾತ್ರ</item>
+        <item>ಸ್ವಯಂಚಾಲಿತ</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>ಸಾಮಾನ್ಯ</item>
+        <item>ಉದ್ದ</item>
+    </string-array>
+</resources>

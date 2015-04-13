@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Hætta við</string>
+    <string name="ok">Í lagi</string>
+    <string name="app_label">Niðurhal</string>
+    <string name="download_title_sorted_by_date">Niðurhal - Eftir dagsetningu</string>
+    <string name="download_title_sorted_by_size">Niðurhal - Flokkað eftir stærð</string>
+    <string name="no_downloads">Ekkert niðurhal.</string>
+    <string name="missing_title">&lt;Óþekkt></string>
+    <string name="button_sort_by_size">Raða eftir stærð</string>
+    <string name="button_sort_by_date">Raða eftir dagsetningu</string>
+    <string name="download_queued">Í bið</string>
+    <string name="download_running">Í vinnslu</string>
+    <string name="download_success">Lokið</string>
+    <string name="download_error">Mistókst</string>
+    <string name="dialog_title_not_available">Gat ekki sótt</string>
+    <string name="dialog_failed_body">Viltu reyna að hlaða skránni niður síðar eða eyða henni úr röðinni?</string>
+    <string name="dialog_title_queued_body">Skrá í biðröð</string>
+    <string name="dialog_queued_body">Skráin er í biðröð fyrir væntanlegt niðurhal og er því ekki tiltæk sem stendur.</string>
+    <string name="dialog_file_missing_body">Get ekki fundið sóttu skrána.</string>
+    <string name="dialog_insufficient_space_on_external">Get ekki lokið við niðurhal. Það er ekki nóg pláss á ytri geymslu.</string>
+    <string name="dialog_insufficient_space_on_cache">Ekki tókst að ljúka við niðurhalið. Ekki er nóg pláss á innri geymslu fyrir niðurhal.</string>
+    <string name="dialog_cannot_resume">Niðurhal var truflað og ekki er hægt að setja það aftur af stað.</string>
+    <string name="dialog_file_already_exists">Get ekki sótt. Viðtökuskrá er þegar til.</string>
+    <string name="dialog_media_not_found">Get ekki sótt. Ytri miðill er ekki tiltækur.</string>
+    <string name="download_no_application_title">Get ekki opnað skrá</string>
+    <string name="remove_download">Fjarlægja</string>
+    <string name="delete_download">Eyða</string>
+    <string name="keep_queued_download">Geyma</string>
+    <string name="cancel_running_download">Hætta við</string>
+    <string name="retry_download">Reyna aftur</string>
+    <string name="deselect_all">Afvelja allt</string>
+    <string name="select_all">Velja allt</string>
+    <string name="selected_count">Valdi %1$d af %2$d</string>
+    <string name="download_share_dialog">Samnýta með</string>
+</resources>

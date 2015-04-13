@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">રદ</string>
+    <string name="ok">ઓકે</string>
+    <string name="app_label">ડાઉનલોડ્સ</string>
+    <string name="download_title_sorted_by_date">ડાઉનલોડ્સ - તારીખથી સૉર્ટ કરેલી</string>
+    <string name="download_title_sorted_by_size">ડાઉનલોડ્સ - કદથી સૉર્ટ કરેલી</string>
+    <string name="no_downloads">કોઈ ડાઉનલોડ નથી</string>
+    <string name="missing_title">&lt;અજ્ઞાત></string>
+    <string name="button_sort_by_size">કદથી સૉર્ટ કરો</string>
+    <string name="button_sort_by_date">તારીખથી સૉર્ટ કરો</string>
+    <string name="download_queued">કતારબદ્ધ</string>
+    <string name="download_running">ચાલું છે</string>
+    <string name="download_success">પૂરૂં</string>
+    <string name="download_error">નિષ્ફળ</string>
+    <string name="dialog_title_not_available">ડાઉનલોડ ઉપલબ્ધ નથી.</string>
+    <string name="dialog_failed_body">પછી ફાઈલ ડાઉનલોડ કરવાનો ફરી પ્રયત્ન કરીએ અથવા કતારમાંથી હટાવીએ?</string>
+    <string name="dialog_title_queued_body">ફાઈલ હજી ઉપલબ્ધ નથી</string>
+    <string name="dialog_queued_body">ફાઈલ ભવિષ્યમાં ડાઉનલોડ કરવા માટે કતારબદ્ધ.</string>
+    <string name="dialog_file_missing_body">ડાઉનલોડ કરેલ ફાઈલ મળી નથી.</string>
+    <string name="dialog_insufficient_space_on_external">ડાઉનલોડ પૂર્ણ કરવામાં અસમર્થ. SD કાર્ડ પર પર્યાપ્ત સ્થાન નથી</string>
+    <string name="dialog_insufficient_space_on_cache">ડાઉનલોડ પૂર્ણ કરવામાં અસમર્થ. પર્યાપ્ત USB સ્મૃતિ નથી.</string>
+    <string name="dialog_cannot_resume">ડાઉનલોડ બાધિત છે. એ ફરી પ્રારંભ કરી શકાતું નથી.</string>
+    <string name="dialog_file_already_exists">ડાઉનલોડ કરવામાં અસમર્થ. ફાઈલ અગાઉથી હાજર છે.</string>
+    <string name="dialog_media_not_found">ડાઉનલોડ કરવામાં અસમર્થ. SD કાર્ડ ઉપલબ્ધ નથી.</string>
+    <string name="download_no_application_title">ફાઇલ ખોલી શકતું નથી.</string>
+    <string name="remove_download">દૂર કરો</string>
+    <string name="delete_download">હટાવો</string>
+    <string name="keep_queued_download">રાખો</string>
+    <string name="cancel_running_download">રદ</string>
+    <string name="retry_download">ફરીથી પ્રયત્ન કરો</string>
+    <string name="deselect_all">બધી પસંદ હટાવો</string>
+    <string name="select_all">બધું પસંદ કરો</string>
+    <string name="selected_count">%2$d માંથી %1$d પસંદ કર્યુ.</string>
+    <string name="download_share_dialog">આના દ્વારા શેર કરો</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Jonli fon rasmlari yig‘uvchisi</string>
+    <string name="live_wallpaper_picker_title">Jonli fon rasmlari</string>
+    <string name="live_wallpaper_preview_title">Jonli fon rasmini ko‘rish</string>
+    <string name="configure_wallpaper">Parametrlar</string>
+    <string name="wallpaper_instructions">Fon rasmini o‘rnatish</string>
+    <string name="live_wallpaper_empty">Jonli fon rasmlar yo‘q</string>
+    <string name="live_wallpaper_loading">Jonli fonni yuklash…</string>
+</resources>

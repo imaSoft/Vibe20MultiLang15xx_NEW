@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ಡೌನ್‌ಲೋಡ್ ನಿರ್ವಾಹಕ</string>
+    <string name="permlab_downloadManager">ಡೌನ್‌ಲೋಡ್ ನಿರ್ವಾಹಕವನ್ನು ಪ್ರವೇಶಿಸಿ.</string>
+    <string name="permdesc_downloadManager">ಡೌನ್‌ಲೋಡ್ ನಿರ್ವಾಹಕವನ್ನು ಪ್ರವೇಶಿಸಲು ಮತ್ತು ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಅದನ್ನು ಬಳಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಡೌನ್‌ಲೋಡ್‌ಗಳಿಗೆ ತೊಂದರೆಯುಂಟು ಮಾಡಲು ಮತ್ತು ಖಾಸಗಿ ಮಾಹಿತಿಗೆ ಪ್ರವೇಶ ಪಡೆಯಲು ದುರುದ್ದೇಶಪೂರಿತ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಇದನ್ನು ಬಳಸಬಹುದಾಗಿದೆ.</string>
+    <string name="permlab_downloadManagerAdvanced">ಆಧುನೀಕೃತ ಡೌನ್‌ಲೋಡ್ ನಿರ್ವಾಹಕ ಕಾರ್ಯಗಳು.</string>
+    <string name="permdesc_downloadManagerAdvanced">ಡೌನ್‌ಲೋಡ್ ನಿರ್ವಾಹಕದ ಆಧುನೀಕೃತ ಕಾರ್ಯಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಡೌನ್‌ಲೋಡ್‌ಗಳಿಗೆ ತೊಂದರೆಯುಂಟು ಮಾಡಲು ಮತ್ತು ಖಾಸಗಿ ಮಾಹಿತಿಗೆ ಪ್ರವೇಶ ಪಡೆಯಲು ದುರುದ್ದೇಶಪೂರಿತ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಇದನ್ನು ಬಳಸಬಹುದಾಗಿದೆ.</string>
+    <string name="permlab_downloadCompletedIntent">ಡೌನ್‌ಲೋಡ್ ಸೂಚನೆಗಳನ್ನು ಕಳುಹಿಸಿ.</string>
+    <string name="permdesc_downloadCompletedIntent">ಪೂರ್ಣಗೊಂಡ ಡೌನ್‌ಲೋಡ್‌ಗಳ ಕುರಿತು ಸೂಚನೆಗಳನ್ನು ಕಳುಹಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವ ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಗೊಂದಲಕ್ಕೀಡುಮಾಡಲು ದುರುದ್ದೇಶಪೂರಿತ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಇದನ್ನು ಬಳಸಬಹುದಾಗಿದೆ.</string>
+    <string name="permlab_seeAllExternal">SD ಕಾರ್ಡ್‌ಗೆ ಆಗಿರುವ ಎಲ್ಲ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನೋಡಿ</string>
+    <string name="permdesc_seeAllExternal">ಯಾವ ಅಪ್ಲಿಕೇಶನ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದೆ ಎಂಬುದನ್ನು ಲೆಕ್ಕಿಸದೆ, SD ಕಾರ್ಡ್‌ನ ಎಲ್ಲ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನೋಡಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ.</string>
+    <string name="permlab_downloadCacheNonPurgeable">ಡೌನ್‌ಲೋಡ್ ಕ್ಯಾಶ್‌ನಲ್ಲಿ ಸ್ಥಳಾವಕಾಶ ಮೀಸಲಿಡಿ</string>
+    <string name="permdesc_downloadCacheNonPurgeable">ಡೌನ್‌ಲೋಡ್ ಕ್ಯಾಶ್‌ಗೆ ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ, ಡೌನ್‌ಲೋಡ್ ನಿರ್ವಾಹಕಕ್ಕೆ ಹೆಚ್ಚು ಸ್ಥಳಾವಕಾಶದ ಅಗತ್ಯವಿರುವಾಗ ಅದನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಳಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="permlab_downloadWithoutNotification">ಸೂಚನೆಯಿಲ್ಲದೆಯೇ ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="permdesc_downloadWithoutNotification">ಬಳಕೆದಾರರಿಗೆ ಯಾವುದೇ ಸೂಚನೆಯನ್ನು ತೋರಿಸದೆಯೇ ಡೌನ್‌ಲೋಡ್ ನಿರ್ವಾಹಕದ ಮೂಲಕ ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸುತ್ತದೆ.</string>
+    <string name="permlab_accessAllDownloads">ಎಲ್ಲ ಸಿಸ್ಟಂ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ಪ್ರವೇಶಿಸಿ</string>
+    <string name="permdesc_accessAllDownloads">ಸಿಸ್ಟಂನಲ್ಲಿ ಯಾವುದೇ ಅಪ್ಲಿಕೇಶನ್ ಪ್ರಾರಂಭಿಸಿರುವ ಎಲ್ಲ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಮತ್ತು ಮಾರ್ಪಡಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿಸಿ.</string>
+    <string name="download_unknown_title">&lt;ಹೆಸರಿಲ್ಲದ></string>
+    <string name="notification_download_complete">ಡೌನ್‌ಲೋಡ್ ಪೂರ್ಣ.</string>
+    <string name="notification_download_failed">ಡೌನ್‌ಲೋಡ್ ಅಯಶಸ್ವಿ.</string>
+    <string name="notification_need_wifi_for_size">ಡೌನ್‌ಲೋಡ್ ಗಾತ್ರಕ್ಕೆ Wi-Fi ಅಗತ್ಯವಿದೆ.</string>
+    <string name="notification_paused_in_background">ಹಿನ್ನೆಲೆಯಲ್ಲಿ ತಡೆದಿದೆ.</string>
+    <string name="wifi_required_title">ಡೌನ್‌ಲೋಡ್ ಆಪರೇಟರ್ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ತೀರಾ ದೊಡ್ಡದಾಯಿತು</string>
+    <string name="wifi_required_body" formatted="false">"ನೀವು ಈ %s ಡೌನ್‌ಲೋಡ್ ಪೂರ್ಣಗೊಳಿಸಲು Wi-Fi ಬಳಸಬೇಕಾಗುತ್ತದೆ. 
+
+ಮುಂದಿನ ಬಾರಿ ನೀವು Wi-Fi ನೆಟ್‌ವರ್ಕ್ ಒಂದಕ್ಕೆ ಸಂಪರ್ಕಿಸಿದಾಗ ಈ ಡೌನ್‌ಲೋಡ್ ಆರಂಭಿಸಲು %s ಮುಟ್ಟಿರಿ."</string>
+    <string name="wifi_recommended_title">ನಂತರ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸರದಿಯಲ್ಲಿರಿಸುವುದೆ?</string>
+    <string name="wifi_recommended_body" formatted="false">"ಈ %s ಡೌನ್‌ಲೋಡನ್ನು ಈಗ ಆರಂಭಿಸಿದರೆ ನಿಮ್ಮ ಬ್ಯಾಟರಿ ಬಾಳಿಕೆ ಕಡಿಮೆಯಾಗಬಹುದಾಗಿದೆ ಮತ್ತು/ಅಥವಾ ನಿಮ್ಮ ಮೊಬೈಲ್ ಡೇಟಾ ಸಂಪರ್ಕದ ಹೆಚ್ಚುವರಿ ಬಳಕೆಗೆ ಕಾರಣವಾಗಬಹುದು, ಇದಕ್ಕೆ ನಿಮ್ಮ ಡೇಟಾ ಯೋಜನೆಗೆ ಅನುಗುಣವಾಗಿ ನಿಮ್ಮ ಮೊಬೈಲ್ ಆಪರೇಟರ್ ಶುಲ್ಕ ವಿಧಿಸಬಹುದು.
+
+ ಮುಂದಿನ ಬಾರಿ ನೀವು ವೈ-ಫೈ ನೆಟ್‌ವರ್ಕ್ ಒಂದಕ್ಕೆ ಸಂಪರ್ಕಿಸಿದಾಗ ಈ ಡೌನ್‌ಲೋಡ್ ಆರಂಭಿಸಲು %s ಮುಟ್ಟಿರಿ."</string>
+    <string name="button_queue_for_wifi">ಸರದಿ</string>
+    <string name="button_cancel_download">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="button_start_now">ಈಗ ಆರಂಭಿಸು</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s ಉಳಿದಿವೆ</string>
+    <string name="download_no_application_title">ಫೈಲ್ ತೆರೆಯಲಾಗದು</string>
+    <string name="root_downloads">ಡೌನ್‌ಲೋಡ್‌ಗಳು</string>
+    <string name="download_queued">ಸಾಲಿನಲ್ಲಿರುವ</string>
+    <string name="download_running">ಪ್ರಗತಿಯಲ್ಲಿರುವ</string>
+    <string name="download_error">ಡೌನ್‌ಲೋಡ್‌ ಪೂರ್ಣಗೊಂಡಿಲ್ಲ</string>
+    <string name="download_running_percent">%d%% ಪ್ರಗತಿಯಲ್ಲಿದೆ,</string>
+</resources>

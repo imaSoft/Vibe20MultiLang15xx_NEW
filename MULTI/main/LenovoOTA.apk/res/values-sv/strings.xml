@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Systemuppgradering</string>
+    <string name="exit">Avsluta</string>
+    <string name="update_failed">Tyvärr. Det gick inte att installera ny fast programvara</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Avbryt</string>
+    <string name="notification_content_title">Firmwareuppgradering</string>
+    <string name="notification_content_text_completed">Nedladdningen lyckades</string>
+    <string name="error_not_specify_network_title">Ladda ned via WLAN-nätverk</string>
+    <string name="error_not_specify_network_content">Det rekommenderas starkt att du laddar ned via WLAN-nätverk. Nedladdning via mobilt datanät kan leda till höga trafikkostnader.</string>
+    <string name="btn_setting_network">Ställ in omedelbart</string>
+    <string name="btn_keep_download">Fortsätt till nedladdning</string>
+    <string name="retry">Försök igen</string>
+    <string name="redo_backup">Säkerhetskopiera igen</string>
+    <string name="contact">Kontakter</string>
+    <string name="sms">Meddelande</string>
+    <string name="calllog">Samtalslogg</string>
+    <string name="btn_backup">Säkerhetskopiera</string>
+    <string name="has_not_backup">Inte säkerhetskopierat</string>
+    <string name="countSms">meddelanden</string>
+    <string name="countContact">kontakter</string>
+    <string name="countCalllog">samtalsloggar</string>
+    <string name="nodata">Inga data</string>
+    <string name="backup_data_ing">Säkerhetskopierar kontakter etc...</string>
+    <string name="backup_data_finish">Datasäkerhetskopieringen slutfördes.</string>
+    <string name="data_usage_warning_title">Varning</string>
+    <string name="data_usage_warning">Det här programmet behöver Internetåtkomst, vill du fortsätta?</string>
+    <string name="data_usage_confirm">Fråga inte nästa gång.</string>
+    <string name="ndf_install_finish_p">Omedelbart</string>
+    <string name="ndf_install_finish_n">Senare</string>
+    <string name="ndf_lowpower_title">Låg batterinivå</string>
+    <string name="toast_install_fail">Installationen misslyckades. Den angivna sökvägen %s finns inte.</string>
+    <string name="network_error">Nätverksanslutningen fungerar inte</string>
+    <string name="notification_new_rom_come">Ditt system kan uppdateras till den senaste versionen</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Systemet måste installera den nya versionen efter %d sekunder.</string>
+    <string name="backup_data">Säkerhetskopiera data</string>
+    <string name="restore_data">Dataåterställning</string>
+    <string name="battery_tip">Låg batterinivå. Anslut laddaren för att fortsätta uppgraderingen.</string>
+</resources>

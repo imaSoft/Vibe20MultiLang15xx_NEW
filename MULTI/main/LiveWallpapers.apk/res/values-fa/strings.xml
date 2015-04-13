@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android Live Wallpapers</string>
+    <string name="wallpaper_walkaround">مشاهده از طریق</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">"بدون اینکه خطر تصادف وجود داشته باشد، از طریق دستگاه خود همه چیز را ببینید و راه بروید. "</string>
+    <string name="wallpaper_grass">سبزه</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">قسمت های پهن علف که در مقابل یک آسمان در شب یا روز به آرامی به صورت موجی حرکت می کنند.</string>
+    <string name="wallpaper_galaxy">کهکشان</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">کهکشانی متشکل از ستاره هایی که آهسته می چرخند.</string>
+    <string name="wallpaper_fall">آب</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">ریزش برگ های پاییزی&lt;br> به استخر دارای آب های مواج زیر: &lt;br> پس زمینه مایع</string>
+    <string name="wallpaper_clock">ساعت مغناطیسی</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">تاریخ و زمان را بصورت کمانهای در جهت عقربه ساعت نشان میدهد: ماه، روز، ساعت، دقیقه و ثانیه.</string>
+    <string name="wallpaper_nexus">اتصال بین واحدها</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">یک نگاهی اجمالی در شبکه عصبی.</string>
+    <string name="clock_settings">تنظیم ساعت مغناطیسی</string>
+    <string name="show_seconds">نمایش ثانیه</string>
+    <string name="variable_line_width">تغییر عرض زنگ</string>
+    <string name="palette">صفحه رنگها</string>
+    <string name="palette_gray">آهن</string>
+    <string name="palette_violet">نیمه شب</string>
+    <string name="palette_matrix">صفحه سبز</string>
+    <string name="palette_white_c">خرس قطبی (دینامیک)</string>
+    <string name="palette_black_c">حفره سیاه (دینامیک)</string>
+    <string name="palette_halloween">پای کدو</string>
+    <string name="palette_zenburn">سالاد میوه</string>
+    <string name="palette_oceanic">لیزر آبی</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rendszer frissítése</string>
+    <string name="exit">Kilépés</string>
+    <string name="update_failed">Sajnáljuk. Az új belső vezérlőprogram telepítése sikertelen.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Mégse</string>
+    <string name="notification_content_title">Firmware-frissítés</string>
+    <string name="notification_content_text_completed">Letöltés sikeres</string>
+    <string name="error_not_specify_network_title">Kérjük, töltse le, WLAN-hálózaton keresztül</string>
+    <string name="error_not_specify_network_content">Erősen ajánlott, a letöltés WLAN hálózaton keresztül, ha GPRS hálózaton kersztül tölti le, rengeteg adatot fog elfogyasztani</string>
+    <string name="btn_setting_network">Azonnal</string>
+    <string name="btn_keep_download">Letöltés folytatása</string>
+    <string name="retry">Újra</string>
+    <string name="redo_backup">Biztonsági mentés újból</string>
+    <string name="contact">Névjegyek</string>
+    <string name="sms">Üzenet</string>
+    <string name="calllog">Hívásnapló</string>
+    <string name="btn_backup">Biztonsági mentés</string>
+    <string name="has_not_backup">Nincs biztonsági mentés</string>
+    <string name="countSms">üzenet(ek)</string>
+    <string name="countContact">névjegy(ek)</string>
+    <string name="countCalllog">hívásnapló(k)</string>
+    <string name="nodata">Nincsenek adatok</string>
+    <string name="backup_data_ing">Névjegyek stb. biztonsági mentése...</string>
+    <string name="backup_data_finish">Adatok biztonsági mentése sikeres.</string>
+    <string name="data_usage_warning_title">Figyelmeztetés!</string>
+    <string name="data_usage_warning">Kedves Felhasználó! Az alkalmazás használatához internetkapcsolat szükséges. Folytatja?</string>
+    <string name="data_usage_confirm">Ne figyelmeztessen legközelebb.</string>
+    <string name="ndf_install_finish_p">Azonnal</string>
+    <string name="ndf_install_finish_n">Később</string>
+    <string name="ndf_lowpower_title">Alacsony akkumulátor-teljesítmény</string>
+    <string name="toast_install_fail">A telepítés sikertelen, a megadott elérési út: %s nem létezik.</string>
+    <string name="network_error">Hálózati kapcsolat nem sikerült</string>
+    <string name="notification_new_rom_come">A rendszer a legújabb verzióra frissíthető</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">%d másodperc után a rendszernek telepítenie kell az új verziót.</string>
+    <string name="backup_data">Biztonságimásolat az adatokról</string>
+    <string name="restore_data">Adatok visszaállítása</string>
+    <string name="battery_tip">Az akku szintje alacsony. CSatlakoztasd a töltőt a frissítés folytatásához</string>
+</resources>

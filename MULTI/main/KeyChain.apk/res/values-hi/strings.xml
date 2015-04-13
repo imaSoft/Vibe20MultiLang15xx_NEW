@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कुंजी चेन</string>
+    <string name="title_no_certs">कोई प्रमाणपत्र नहीं मिला</string>
+    <string name="title_select_cert">प्रमाणपत्र का चयन करें</string>
+    <string name="requesting_application">"%s एप्लिकेशन ने प्रमाणपत्र के लिए अनुरोध किया है। किसी प्रमाणपत्र का चयन करना एप्लिकेशन को अभी और भविष्य में सर्वर के साथ अपनी पहचान का उपयोग करने की क्षमता प्रदान करता है। "</string>
+    <string name="requesting_server">एप्लिकेशन ने अनुरोधित सर्वर को %s के रूप में पहचान लिया है, अगर आपको एप्लिकेशन पर विश्वास है तो आपको अनुप्रयोग को केवल प्रमाणपत्र तक एक्सेस प्रदान करनी चाहिए।</string>
+    <string name="install_new_cert_message">आप बाहरी संग्रहण में स्थित एक %1$s या %2$s एक्सटेंशन के साथ PKCS#12 फ़ाइल से प्रमाणपत्र स्थापित कर सकते हैं।</string>
+    <string name="install_new_cert_button_label">स्थापित करें</string>
+    <string name="allow_button">अनुमति दें</string>
+    <string name="deny_button">इनकार करें</string>
+</resources>

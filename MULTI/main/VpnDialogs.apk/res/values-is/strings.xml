@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s reynir að opna VPN-tengingu.</string>
+    <string name="warning">Með því að halda áfram veitirðu forritinu heimild til að greina alla umferð um netkerfið. <b>EKKI samþykkja nema þú treystir forritinu.</b> Annars getur gögnum þínum stafað ógn af spilliforritum.</string>
+    <string name="accept">Ég treysti þessu forriti.</string>
+    <string name="legacy_title">VPN er tengt</string>
+    <string name="configure">Stilla</string>
+    <string name="disconnect">Aftengjast</string>
+    <string name="session">Lota:</string>
+    <string name="duration">Lengd:</string>
+    <string name="data_transmitted">Sent:</string>
+    <string name="data_received">Móttekið:</string>
+    <string name="data_value_format">%1$s bæti / %2$s pakkar</string>
+</resources>

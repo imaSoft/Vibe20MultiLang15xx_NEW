@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">"S'ha capturat l'informe d'errors"</string>
+    <string name="bugreport_finished_text">"Toca per compartir l'informe d'errors"</string>
+    <string name="bugreport_confirm">"L'informe d'errors conté dades dels diferents arxius de registre del sistema, incloses la informació privada i la personal. Comparteix els informes d'errors només amb aplicacions i persones de confiança."</string>
+    <string name="bugreport_confirm_repeat">Mostra aquest missatge la propera vegada</string>
+</resources>

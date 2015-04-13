@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationCenterPlus</string>
+    <string name="flashlight_notification_title">Stingere lanternă</string>
+    <string name="flashlight_notification_text">Apăsaţi Stingere lanternă</string>
+    <string name="app_notification_manager_title">Activare notificări aplicaţie</string>
+    <string name="app_notification_optimized_title">Prioritate notificări aplicaţie</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Notificare aplicaţii dezactivată</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Notificare aplicaţii activată</string>
+    <string name="lenovo_progress_dialog_message">Se încarcă</string>
+    <string name="app_disable_notifications_dlg_title">Dezactivaţi notificările?</string>
+    <string name="app_disable_notifications_dlg_text">Este posibil să pierdeţi alerte şi evenimente importante la dezactivarea notificărilor.</string>
+    <string name="app_add_optimized_notifications_title">Notificare aplicaţii neprioritizate</string>
+    <string name="app_del_optimized_notifications_title">Notificare aplicaţii prioritizate</string>
+    <string name="app_vip_notifications_title">Aplicaţie VIP</string>
+    <string name="app_close_optimized_notifications_title">Notificare aplicaţie închisă</string>
+    <string name="app_close_optimized_notifications_summary">Aplicaţiile pot fi setate după dorinţă numai după activarea notificărilor pentru acestea în gestionarea notificărilor aplicaţiilor</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">Notificări %1$s prioritizate</string>
+    <string name="lenovo_app_add_notification_toast_text">Notificări activate pentru %1$s”</string>
+    <string name="lenovo_no_app_nofitication">Nicio aplicaţie</string>
+    <string name="app_del_optimized_notifications_dlg_title">Revocaţi starea preferată?</string>
+    <string name="app_del_optimized_notifications_dlg_text">Puteţi ignora alertele sau evenimentele importante la schimbarea stării notificării.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">Notificări %1$s neprioritizate</string>
+    <string name="lenovo_app_delete_notification_toast_text">Notificări dezactivate pentru %1$s</string>
+    <string name="lenovo_flashlight_error_notification_title">Cannot turn on the flash light now</string>
+    <string name="lenovo_flashlight_error_camera_in_use">The camera is now in use, cannot turn the flash light on</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Top edge of the screen covered, unable to turn on the flash light</string>
+    <string name="lenovo_flashlight_error_low_power">Low power! Flash light not supported</string>
+</resources>

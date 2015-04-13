@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पॅकेज प्रस्थापक</string>
+    <string name="next">पुढील</string>
+    <string name="install">प्रस्थापित करा</string>
+    <string name="done">काम झाले</string>
+    <string name="security_settings_desc">या ऍपला यासाठी अनुमती द्या:</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="unknown">अज्ञात</string>
+    <string name="installing">प्रस्थापित करीत आहे...</string>
+    <string name="install_done">अनुप्र. प्रस्थापित केला.</string>
+    <string name="install_confirm_question">आपण हा अनुप्रयोग प्रस्थापित करू इच्छिता का? तो यामध्ये प्रवेश मिळवील:</string>
+    <string name="install_confirm_question_no_perms">आपण हा अनुप्रयोग प्रस्थापित करू इच्छिता का? त्याला कोणताही विशेष प्रवेश आवश्यक नाही.</string>
+    <string name="install_confirm_question_update">आपण सध्याच्या या अनुप्रयोगास अद्यतन प्रस्थापित करू इच्छिता का? आपला सध्याचा डेटा नष्ट होणार नाही. अद्ययावत केलेला अनुप्रयोग यामध्ये प्रवेश मिळवील:</string>
+    <string name="install_confirm_question_update_system">आपण सध्याच्या या अंगभूत अनुप्रयोगास अद्यतन प्रस्थापित करू इच्छिता का? आपला सध्याचा डेटा नष्ट होणार नाही. अद्ययावत केलेला अनुप्रयोग यामध्ये प्रवेश मिळवील:</string>
+    <string name="install_confirm_question_update_no_perms">ह्या वर्तमान अनुप्रयोगावर आपण अपडेट प्रस्थापित करू इच्छता? आपला सध्याचा डेटा गहाळ होणार नाही. त्यासाठी काही विशेष ऍक्सेसची गरज नाही.</string>
+    <string name="install_confirm_question_update_system_no_perms">ह्या अंगभूत अनुप्रयोगावर आपण अपडेट प्रस्थापित करू इच्छता? आपला सध्याचा डेटा गहाळ होणार नाही. त्यासाठी काही विशेष ऍक्सेसची गरज नाही.</string>
+    <string name="install_failed">अनुप्र. प्रस्थापित केला नाही.</string>
+    <string name="install_failed_invalid_apk">हे पॅकेज करप्ट असावे असे वाटते.</string>
+    <string name="install_failed_inconsistent_certificates">याच नावाचे विरोधी स्वाक्षरी असलेले सध्याचे पॅकेज आधीच प्रस्थापित आहे.</string>
+    <string name="install_failed_older_sdk">हे पॅकेज Android च्या केवळ नवीनतर आवृत्तीवरच काम करते.</string>
+    <string name="install_failed_cpu_abi_incompatible">हा अनुप्र. आपल्या फोनला अनुरूप नाही.</string>
+    <string name="install_failed_file_not_found">विनिर्देशित पॅकेज प्रस्थापना पूर्ण होण्यापूर्वीच हटवले गेले.</string>
+    <string name="install_failed_verify_failed">या पॅजची पडताळणी झालेली नाही आणि ते प्रस्थापित करणे शक्य नाही.</string>
+    <string name="install_failed_verify_timeout">पॅकेजच्या पडताळणी वेळी वेळ समाप्ती निर्माण झाली आहे. नंतर पुन्हा प्रस्थापित करण्याचा प्रयत्न करा.</string>
+    <string name="install_failed_msg">%1$s आपल्या फोनवर प्रस्थापित करता आला नाही.</string>
+    <string name="launch">उघडा</string>
+    <string name="unknown_apps_dlg_title">प्रस्थापना अवरुद्ध</string>
+    <string name="unknown_apps_dlg_text">सुरक्षेसाठी, आपला फोन अज्ञात स्रोतांकडून मिळवलेल्या अनुप्र.ची प्रस्थापना अवरुद्ध करण्यासाठी सेट केला आहे.</string>
+    <string name="ok">ठीक</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="allow_source_dlg_title">अनुप्र.साठी नवीन स्रोत</string>
+    <string name="allow_source_dlg_text">"%1$s ला इतर अनुप्र. प्रस्थापित करावयाचे आहेत.
+
+याला आत्ता आणि भविष्यात परवानगी देऊ का?"</string>
+    <string name="manage_applications">अनुप्र. व्यवस्थापित करा</string>
+    <string name="dlg_app_replacement_title">अनुप्र. बदली करू का?</string>
+    <string name="dlg_app_replacement_statement">"आपण प्रस्थापित करीत असलेला अनुप्र. दुसऱ्या अनुप्र.च्या बदली येईल.
+
+आपला सर्व मागील प्रयोक्ता डेटा जतन केला जाईल."</string>
+    <string name="dlg_sys_app_replacement_statement">"हा सिस्टिम अनुप्र. आहे.
+
+आपला मागील सर्व प्रयोक्ता डेटा जतन केला जाईल."</string>
+    <string name="out_of_space_dlg_title">जागा संपली</string>
+    <string name="out_of_space_dlg_text">%1$s प्रस्थापित होऊ शकले नाही. थोडी जागा करा व पुन्हा प्रयत्न करा.</string>
+    <string name="dlg_ok">ठीक</string>
+    <string name="app_not_found_dlg_title">अनुप्र. सापडला नाही</string>
+    <string name="app_not_found_dlg_text">प्रस्थापित अनुप्र.च्या यादीत हा अनुप्र. सापडला नाही.</string>
+    <string name="uninstall_application_title">अनुप्र. विस्थापित करा</string>
+    <string name="uninstall_update_title">अपडेट विस्थापित करा</string>
+    <string name="uninstall_activity_text">%1$s पुढील उपकरणाचा भाग आहे:</string>
+    <string name="uninstall_application_text">आपण हा अनुप्र. विस्थापित करू इच्छिता का?</string>
+    <string name="uninstall_application_text_all_users">आपल्याला ह्या अनुप्रयोगाचे प्रस्थापनr <b>सर्व</b> उपभोक्त्यांसाठी काढून टाकायचे आहे? उपकरणातून अनुप्रयोग व त्याचा डेटा<b>सर्व</b>उपभोक्त्याचा काढून टाकण्यात येईल.</string>
+    <string name="uninstall_update_text">आपण हा अनुप्र. कारखाना आवृत्तीमध्ये बदलू इच्छिता का?</string>
+    <string name="uninstalling">विस्थापित करीत आहे...</string>
+    <string name="uninstall_done">प्रस्थापना काढून टाकणे संपले</string>
+    <string name="uninstall_failed">प्रस्थापना यशस्वीपणे काढून टाकली.</string>
+    <string name="uninstall_failed_device_policy_manager">प्रस्थापित करता येत नाही कारण हे पॅकेज म्हणजे एक सक्रिय डिव्हाइस प्रशासक आहे.</string>
+    <string name="manage_device_administrators">डिव्हाइस प्रशासक व्यवस्थापित करा</string>
+    <string name="uninstall_failed_msg">%1$s विस्थापित करता आले नाही</string>
+    <string name="Parse_error_dlg_title">पार्समधील चूक</string>
+    <string name="Parse_error_dlg_text">हे पॅकेज पार्स करताना समस्या होती.</string>
+    <string name="newPerms">नवीन</string>
+    <string name="allPerms">सर्व</string>
+    <string name="privacyPerms">गुप्तता</string>
+    <string name="devicePerms">डिव्हाइस प्रवेश</string>
+    <string name="no_new_perms">या अद्यतनासाठी कोणत्याही नवीन परवानग्या आवश्यक नाहीत.</string>
+    <string name="grant_confirm_question">आपण खालील परवानग्या मंजूर करू इच्छिता? यामुळे पुढील गोष्टींना प्रवेश मिळेल:</string>
+</resources>

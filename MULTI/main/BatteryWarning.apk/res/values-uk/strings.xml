@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Завелика напруга зарядки</string>
+    <string name="title_battery_over_temperature">Завелика температура акумулятора</string>
+    <string name="title_over_current_protection">Захист від занадто високого струму</string>
+    <string name="title_battery_over_voltage">Завелика напруга для акумулятора</string>
+    <string name="title_safety_timer_timeout">Перевищення часу зарядки</string>
+    <string name="msg_charger_over_voltage">"Ваш зарядний пристрій має надвисоку напругу, від'єднайте його!"</string>
+    <string name="msg_battery_over_temperature">Ваш акумулятор перегрівся, вийміть акумулятор!</string>
+    <string name="msg_over_current_protection">Ваш акумулятор має захист від занадто високого струму, вийміть його!</string>
+    <string name="msg_battery_over_voltage">Ваш акумулятор має надвисоку напругу, вийміть його!</string>
+    <string name="msg_safety_timer_timeout">"Пристрій заражається занадто довго, від'єднайте його!"</string>
+    <string name="btn_ok_msg">Повторення</string>
+    <string name="btn_cancel_msg">Припинити</string>
+</resources>

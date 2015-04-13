@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Bekor qilish</string>
+    <string name="ok">OK</string>
+    <string name="app_label">Yuklanishlar</string>
+    <string name="download_title_sorted_by_date">Yuklanmalar - sana bo‘yicha saralangan</string>
+    <string name="download_title_sorted_by_size">Yuklanmalar - o‘lcham bo‘yicha saralangan</string>
+    <string name="no_downloads">Yuklanmalar yo‘q</string>
+    <string name="missing_title">&lt;Noma’lum></string>
+    <string name="button_sort_by_size">O‘lcham bo‘yicha saralash</string>
+    <string name="button_sort_by_date">Sana bo‘yicha tartiblash</string>
+    <string name="download_queued">Navbatga qo‘yildi</string>
+    <string name="download_running">Bajarilmoqda</string>
+    <string name="download_success">Yakunlamoq</string>
+    <string name="download_error">Xato</string>
+    <string name="dialog_title_not_available">Yuklash bajarilmadi.</string>
+    <string name="dialog_failed_body">Faylni navbatdan olib tashlab, uni yuklab olishga urinilsinmi?</string>
+    <string name="dialog_title_queued_body">Fayldan foydalanib bo‘lmaydi</string>
+    <string name="dialog_queued_body">Faylni yuklab olish keyinga qoldirildi.</string>
+    <string name="dialog_file_missing_body">Yuklab olingan fayl topilmadi.</string>
+    <string name="dialog_insufficient_space_on_external">Yuklab olishni yakunlab bo‘lmaydi. SD-kartada bo‘sh xotira yetarli emas.</string>
+    <string name="dialog_insufficient_space_on_cache">Yuklab olishni yakunlab bo‘lmaydi. USB-ichki xotira yetarli emas.</string>
+    <string name="dialog_cannot_resume">Yuklab olish to‘xtatildi. Uni davom ettirib bo‘lmaydi.</string>
+    <string name="dialog_file_already_exists">Yuklab olib bo‘lmaydi. Fayl avvaldan mavjud.</string>
+    <string name="dialog_media_not_found">Yuklab olib bo‘lmaydi. SD-kartadan foydalanib bo‘lmaydi.</string>
+    <string name="download_no_application_title">Faylni ochib bo‘lmadi.</string>
+    <string name="remove_download">Olib tashlash</string>
+    <string name="delete_download">"O'chirish"</string>
+    <string name="keep_queued_download">Saqlash</string>
+    <string name="cancel_running_download">Bekor qilish</string>
+    <string name="retry_download">Qay/urin.</string>
+    <string name="deselect_all">Bari tanlashni yo‘qotish</string>
+    <string name="select_all">Hammasini belgilash</string>
+    <string name="selected_count">%2$dtadan %1$d tanlandi.</string>
+    <string name="download_share_dialog">Quyidagi orqali ulashish</string>
+</resources>

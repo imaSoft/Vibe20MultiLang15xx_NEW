@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Apvalkalas</string>
+    <string name="bugreport_finished_title">Klaidų ataskaita užfiksuota</string>
+    <string name="bugreport_finished_text">Palieskite ir dalinkitės klaidų ataskaita</string>
+    <string name="bugreport_confirm">Klaidų ataskaitoje yra įvairių sistemos registrų failų duomenų, įskaitant asmeninę ir privačią informaciją. Dalinkitės klaidų ataskaitomis tik su patikimomis programomis ir žmonėmis.</string>
+    <string name="bugreport_confirm_repeat">Rodyti šią žinutę kitą kartą</string>
+</resources>

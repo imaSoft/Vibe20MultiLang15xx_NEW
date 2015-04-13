@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">પૅકેજ સ્થાપનાર</string>
+    <string name="next">પછીનું</string>
+    <string name="install">સ્થાપો</string>
+    <string name="done">પૂર્ણ</string>
+    <string name="cancel">રદ</string>
+    <string name="unknown">અજ્ઞાત</string>
+    <string name="installing">સ્થાપન કરે છે…</string>
+    <string name="install_done">અનુપ્રયોગ સ્થપાઈ</string>
+    <string name="install_confirm_question">શું તમે આ અનુપ્રયોગ સ્થાપિત કરવાં માગો છો?</string>
+    <string name="install_confirm_question_update">આ હાજર અનુપ્રયોગ માટે અપડેટ સ્થાપિત કરીએ? તમારો હાજર ડેટા ગુમ થશે નહીં. અપડેટ કરેલી અનુપ્રયોગને આની ઍક્સેસ હશે:</string>
+    <string name="launch">ખોલો</string>
+    <string name="unknown_apps_dlg_title">સ્થાપના અવરોધિત</string>
+    <string name="unknown_apps_dlg_text">સુરક્ષાના કારણસર, તમારા ઉપકરણને હાલમાં Play Store થી પ્રાપ્ત ન કરેલ અનુપ્રયોગોની સ્થાપનાને અવરોધિત કરવા માટે સેટ કરેલું છે. આ બદલવા માટે, સેટિંગ્સ > સુરક્ષા > અજ્ઞાત સ્રોતો પર જાઓ.</string>
+    <string name="ok">ઓકે</string>
+    <string name="settings">સેટિંગ્સ</string>
+    <string name="allow_source_dlg_text">%1$s અન્ય અરજીઓ સ્થાપવા માંગે છે. આને હવે અને ભવિષ્યમાં છૂટ આપીએ?</string>
+    <string name="out_of_space_dlg_title">અપ્યાપ્ત સ્થાન</string>
+    <string name="dlg_ok">ઓકે</string>
+    <string name="uninstall_application_title">અનુપ્રયોગને વિસ્થાપિત કરો</string>
+    <string name="uninstall_application_text">આ અનુપ્રયોગને વિસ્થાપિત કરીએ?</string>
+    <string name="uninstall_update_text">અનુપ્રયોગને ફેક્ટરી સંસ્કરણ સાથે બદલવામાં આવશે.</string>
+    <string name="uninstalling">સ્થાપના રદ કરે છે…</string>
+    <string name="uninstall_done">સ્થાપના રદ કરવાનું પૂરું!</string>
+    <string name="manage_device_administrators">ઉપકરણ વહીવટકર્તાઓ સંપાદિત કરો</string>
+    <string name="Parse_error_dlg_title">પાર્સ કરવામાં ભૂલ</string>
+    <string name="newPerms">નવું</string>
+    <string name="allPerms">બધું</string>
+    <string name="privacyPerms">એકાંત</string>
+    <string name="devicePerms">ઉપકરણ ઍક્સેસ</string>
+    <string name="no_new_perms">આ અપડેટને કોઈ નવી પરવાનગીઓની આવશ્યકતા નથી</string>
+</resources>

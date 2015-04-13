@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">SN</string>
+    <string name="factory_wipe_data">Hapus data pengguna dengan mode pabrik</string>
+    <string name="factory_wipe_data_warning">Klik tombol OK akan menghapus semua data pengguna, namun mempertahankan aplikasi terinstal. Sarankan pengguna biasa untuk tidak menggunakannya agar data di ponsel tidak terhapus.</string>
+    <string name="factory_wipe_data_cancel">batal</string>
+    <string name="sdcard_not_found">data pabrik gagal dihapus</string>
+    <string name="sdcard_not_found_tip">"Fitur ini memerlukan dukungan kartu SD,
+        pastikan kartu SD telah dimasukkan"</string>
+    <string name="sdcard_out_of_space">Kartu SD tidak memiliki cukup ruang</string>
+    <string name="sdcard_out_of_space_tip">"Ruang SD hanya tersisa %1$sM, namun 
+fungsi ini memerlukan ruang kosong %2$sM di kartu SD"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Tidak valid</string>
+</resources>

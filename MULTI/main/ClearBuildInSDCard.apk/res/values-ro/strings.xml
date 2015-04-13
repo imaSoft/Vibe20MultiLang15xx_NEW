@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Golire card SD</string>
+    <string name="loading_please_wait">Se încarcă. Aşteptaţi...</string>
+    <string name="white_list_not_found">Golirea cardului SD nu a reuşit, în timp ce lista nu a fost găsită</string>
+    <string name="sdcard_not_available">Golirea cardului SD nu a reuşit. Cardul SD este dezactivat</string>
+    <string name="clearSDcardFailed">Golirea cardului SD nu a reuşit</string>
+    <string name="deleteFileFailed">Eroare ştergere fişier</string>
+    <string name="fileNotFoud">Excepţie: fişier negăsit</string>
+    <string name="clear_start">Începere golire card SD</string>
+    <string name="clear_success">golirea cardului SD a reuşit. Reporniţi dispozitivul</string>
+    <string name="clearing">Se goleşte cardul SD</string>
+    <string name="checking">Se verifică</string>
+    <string name="check_file">Verif. res.</string>
+    <string name="check_sucess">Verificare reuşită</string>
+    <string name="check_fail">Verificare eşuată, încheiaţi？</string>
+</resources>

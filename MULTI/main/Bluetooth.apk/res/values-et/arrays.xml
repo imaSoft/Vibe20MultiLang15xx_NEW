@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Üks lehekülg lehele</item>
+        <item>Kaks lehekülge lehele</item>
+        <item>Neli lehekülge lehele</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Püstpaigutus</item>
+        <item>Rõhtpaigutus</item>
+        <item>Pööratud rõhtpaigutus</item>
+        <item>Pööratud püstpaigutus</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>püstpaigutus</item>
+        <item>rõhtpaigutus</item>
+        <item>pööratud-rõhtpaigutus</item>
+        <item>pööratud-püstpaigutus</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Ühepoolne</item>
+        <item>Kahepoolne, pikk serv</item>
+        <item>Kahepoolne, lühike serv</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>ühepoolne</item>
+        <item>kahepoolne-pikk-serv</item>
+        <item>kahepoolne-lühike-serv</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Jaga rühmas olevaid kontakte</item>
+        <item>Hangi kontakt</item>
+        <item>Vaheta kontakte</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Kõik kuvatud</item>
+        <item>Telefoninumbritega kontaktid</item>
+        <item>Androidis tähistatud</item>
+    </string-array>
+</resources>

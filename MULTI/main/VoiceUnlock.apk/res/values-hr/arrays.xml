@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="voice_unlock_options">
+        <item>Naredba za reprodukciju</item>
+        <item>Ponovo postavi</item>
+    </string-array>
+</resources>

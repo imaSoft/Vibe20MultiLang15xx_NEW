@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationCenterPlus</string>
+    <string name="flashlight_notification_title">Απενεργοποίηση φακού</string>
+    <string name="flashlight_notification_text">Πατήστε Απενεργοποίηση φακού</string>
+    <string name="app_notification_manager_title">Ενεργοποίηση ειδοποιήσ. εφαρμογών</string>
+    <string name="app_notification_optimized_title">Ορισμός προτερ. ειδοπ. εφαρμογών</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Ειδοποίηση απενεργοποιημένων εφαρμογών</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Ειδοποίηση ενεργοποιημένων εφαρμογών</string>
+    <string name="lenovo_progress_dialog_message">Γίνεται φόρτωση...</string>
+    <string name="app_disable_notifications_dlg_title">Να απενεργοποιηθούν οι ειδοποιήσεις;</string>
+    <string name="app_disable_notifications_dlg_text">Μπορεί να χάσετε σημαντικές ειδοποιήσεις και συμβάντα με την απενεργοποίηση των ειδοποιήσεων.</string>
+    <string name="app_add_optimized_notifications_title">Ειδοποιήσεις εφαρμογών που δεν έχουν προτεραιότητα</string>
+    <string name="app_del_optimized_notifications_title">Ειδοποιήσεις εφαρμογών που έχουν προτεραιότητα</string>
+    <string name="app_vip_notifications_title">Εφαρμογή VIP</string>
+    <string name="app_close_optimized_notifications_title">Ειδοποίηση κλειστής εφαρμογής</string>
+    <string name="app_close_optimized_notifications_summary">Οι εφαρμογές μπορούν να οριστούν ως προτιμώμενες μόνο μετά την ενεργοποίηση των ειδοποιήσεών τους στη διαχείριση ειδοποιήσεων εφαρμογών</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">Ειδοποιήσεις \"%1$s\" σε προτεραιότητα</string>
+    <string name="lenovo_app_add_notification_toast_text">Ενεργοποιημένες ειδοποιήσεις για \"%1$s\"</string>
+    <string name="lenovo_no_app_nofitication">Δεν υπάρχουν εφαρμογές</string>
+    <string name="app_del_optimized_notifications_dlg_title">Να ακυρωθεί η προτιμώμενη κατάσταση;</string>
+    <string name="app_del_optimized_notifications_dlg_text">Μπορεί να παραβλέψετε σημαντικές ειδοποιήσεις ή συμβάντα με την αλλαγή της κατάστασης ειδοποιήσεων.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">Ειδοποιήσεις \"%1$s\" χωρίς προτεραιότητα</string>
+    <string name="lenovo_app_delete_notification_toast_text">Απενεργοποιημένες ειδοποιήσεις για \"%1$s\"</string>
+    <string name="lenovo_flashlight_error_notification_title">Cannot turn on the flash light now</string>
+    <string name="lenovo_flashlight_error_camera_in_use">The camera is now in use, cannot turn the flash light on</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Top edge of the screen covered, unable to turn on the flash light</string>
+    <string name="lenovo_flashlight_error_low_power">Low power! Flash light not supported</string>
+</resources>

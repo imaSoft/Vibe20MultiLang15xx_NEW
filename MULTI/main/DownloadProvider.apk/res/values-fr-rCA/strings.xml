@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">Espace insuffisant</string>
+    <string name="app_label">Gestionnaire de téléchargements</string>
+    <string name="permlab_downloadManager">Accéder au gestionnaire de téléchargement.</string>
+    <string name="permdesc_downloadManager">"Autorise l'application à accéder au gestionnaire de téléchargement et à l'utiliser pour télécharger des fichiers. Les applications malveillantes peuvent s'en servir pour entraver les téléchargements et accéder aux informations personnelles."</string>
+    <string name="permlab_downloadManagerAdvanced">Fonctions avancées du gestionnaire de téléchargement.</string>
+    <string name="permdesc_downloadManagerAdvanced">"Autorise l'application à accéder aux fonctions avancées du gestionnaire de téléchargement. Les applications malveillantes peuvent s'en servir pour entraver les téléchargements et accéder aux informations personnelles."</string>
+    <string name="permlab_downloadCompletedIntent">Envoyer des notifications de téléchargement.</string>
+    <string name="permdesc_downloadCompletedIntent">"Autorise l'application à envoyer des notifications concernant les téléchargements effectués. Les applications malveillantes peuvent s'en servir pour tromper les autres applications de téléchargement de fichiers."</string>
+    <string name="permlab_seeAllExternal">Voir tous les téléchargements vers la carte SD</string>
+    <string name="permdesc_seeAllExternal">"Autorise l'application pour voir tous les téléchargements à la carte SD, quelle que soit l'application qui les a téléchargés."</string>
+    <string name="permlab_downloadCacheNonPurgeable">Esp de rés dans le cache du téléch</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Autorise l'application à télécharger des fichiers par l'entremise du gestionnaire de téléchargement sans qu'aucune notification ne soit affichée à l'utilisateur."</string>
+    <string name="permlab_downloadWithoutNotification">téléch fichiers sans notif</string>
+    <string name="permdesc_downloadWithoutNotification">"Autorise l'application à télécharger des fichiers par l'entremise du gestionnaire de téléchargement sans aucune notification affichée pour l'utilisateur."</string>
+    <string name="permlab_accessAllDownloads">Accéd à ts les téléch syst</string>
+    <string name="permdesc_accessAllDownloads">"Autorise l'application à afficher et à modifier tous les téléchargements initiés par n'importe quelle application sur le système"</string>
+    <string name="download_unknown_title">&lt;Sans titre></string>
+    <string name="notification_download_complete">Téléchargement terminé</string>
+    <string name="notification_download_failed">Échec du téléchargement.</string>
+    <string name="notification_need_wifi_for_size">La taille du téléchargement exige le Wi-Fi.</string>
+    <string name="notification_paused_in_background">Pause en arrière-plan.</string>
+    <string name="wifi_required_title">"Téléc. trop gros pr l'opér du rés"</string>
+    <string name="wifi_required_body" formatted="false">"Vous devez utiliser une connexion Wi-Fi pour terminer ce téléchargement de %s .
+
+Cliquer sur %s pour lancer ce téléchargement lors de votre prochaine connexion à un réseau Wi-Fi."</string>
+    <string name="wifi_recommended_title">"File d'att pr téléc ult.?"</string>
+    <string name="wifi_recommended_body" formatted="false">"Le lancement de ce téléchargement de %s peut réduire l'autonomie de votre appareil et provoquer une utilisation excessive de votre connexion aux données mobiles, pouvant entraîner une facturation par votre opérateur, en fonction de votre forfait de données.
+
+Appuyez sur %s pour lancer ce téléchargement lors de votre prochaine connexion à un réseau Wi-Fi."</string>
+    <string name="button_queue_for_wifi">File</string>
+    <string name="button_cancel_download">Annuler</string>
+    <string name="button_start_now">Démarrer maintenant</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s restant(es)</string>
+    <string name="download_no_application_title">Ouverture du fichier impossible</string>
+    <string name="root_downloads">Téléchargements</string>
+    <string name="download_queued">"Mis en file d'attente"</string>
+    <string name="download_running">En cours de traitement</string>
+    <string name="download_error">Échec du téléchargement</string>
+    <string name="download_running_percent">En cours : %d%%</string>
+</resources>

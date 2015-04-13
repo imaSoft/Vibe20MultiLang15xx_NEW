@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Po puslapį kiekvienoje pusėje</item>
+        <item>Po du puslapius kiekvienoje pusėje</item>
+        <item>Po keturis puslapius kiekvienoje pusėje</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Portretas</item>
+        <item>Peizažas</item>
+        <item>Atvirkščias peizažas</item>
+        <item>Atvirkščias portretas</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>portretas</item>
+        <item>peizažas</item>
+        <item>atvirkščias peizažas</item>
+        <item>atvirkščias portretas</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Vienpusis</item>
+        <item>Dvipusis su ilga kraštine</item>
+        <item>Dvipusis su trumpa kraštine</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>vienpusis</item>
+        <item>dvipusis su ilga kraštine</item>
+        <item>dvipusis su trumpa kraštine</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Bendrinti adresatus grupėje</item>
+        <item>Gauti adresatą</item>
+        <item>Keistis adresatais</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Visi rodomi</item>
+        <item>Adresatai su telefonų numeriais</item>
+        <item>Su žvaigždute „Android“ sistemoje</item>
+    </string-array>
+</resources>

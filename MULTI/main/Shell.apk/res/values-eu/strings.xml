@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Programa errorea kapturatu da</string>
+    <string name="bugreport_finished_text">Ukitu programa erroreen txostena partekatzeko</string>
+    <string name="bugreport_confirm">Programa erroreen txostenek sistemako hainbat erregistrotako datuak dituzte, informazio pertsonala eta pribatua barne. Partekatu programa erroreen txostenak fidagarri zaizkizun aplikazio eta pertsonekin bakarrik.</string>
+    <string name="bugreport_confirm_repeat">Erakutsi mezu hau hurrengo aldian</string>
+</resources>

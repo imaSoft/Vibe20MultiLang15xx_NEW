@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ಶೆಲ್</string>
+    <string name="bugreport_finished_title">ಬಗ್ ವರದಿ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ</string>
+    <string name="bugreport_finished_text">ನಿಮ್ಮ ಬಗ್ ವರದಿ ಹಂಚಿಕೊಳ್ಳಲು ಮುಟ್ಟಿ</string>
+    <string name="bugreport_confirm">ಬಗ್ ವರದಿ ವ್ಯವಸ್ಥೆಯ ಅನೇಕ ಲಾಗ್ ಫೈಲ್ ಗಳಿಂದ ದತ್ತಾಂಶವನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಬಗ್ ವರದಿಗಳನ್ನು ನಿಮಗೆ ನಂಬಿಕೆಯಿರುವ ಆಪ್ ಗಳು ಹಾಗೂ ಜನರೊಡನೆ ಮಾತ್ರ ಹಂಚಿಕೊಳ್ಳಿ.</string>
+    <string name="bugreport_confirm_repeat">ಮುಂದಿನ ಬಾರಿ ಈ ಸಂದೇಶ ತೋರಿಸಿ</string>
+</resources>

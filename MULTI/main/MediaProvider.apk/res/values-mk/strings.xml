@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Медиуми</string>
+    <string name="app_label">Зачувување медиуми</string>
+    <string name="upgrade_msg">Надградување на базата на податоци на медиумите.</string>
+    <string name="artist_label">Изведувач</string>
+    <string name="ringtone_default">Стандарден тон на ѕвонење</string>
+    <string name="notification_sound_default">Стандарден звук за известување</string>
+    <string name="alarm_sound_default">Стандарден звук на алармот</string>
+    <string name="root_images">Слики</string>
+    <string name="root_videos">Видеа</string>
+    <string name="root_audio">Аудио</string>
+</resources>

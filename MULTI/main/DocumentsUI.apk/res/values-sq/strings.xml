@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Dokumentet</string>
+    <string name="title_open">Hap nga</string>
+    <string name="title_save">Ruaj te</string>
+    <string name="menu_create_dir">Krijo dosjen</string>
+    <string name="menu_grid">Pamja e tabelës</string>
+    <string name="menu_list">Pamja e listës</string>
+    <string name="menu_sort">Radhit sipas</string>
+    <string name="menu_search">Kërko</string>
+    <string name="menu_settings">Cilësimet</string>
+    <string name="menu_open">Hap</string>
+    <string name="menu_save">Ruaj</string>
+    <string name="menu_share">Bashkëndaj</string>
+    <string name="menu_delete">Fshi</string>
+    <string name="mode_selected_count">%1$d të përzgjedhura</string>
+    <string name="sort_name">Sipas emrit</string>
+    <string name="sort_date">Sipas datës të modifikimit</string>
+    <string name="sort_size">Sipas madhësisë</string>
+    <string name="drawer_open">Afisho rrënjët</string>
+    <string name="drawer_close">Fshih rrënjët</string>
+    <string name="save_error">Dokumenti nuk mund të ruhej</string>
+    <string name="create_error">Dosja nuk mund të krijohej</string>
+    <string name="query_error">Nuk mund të kërkohej për dokumente</string>
+    <string name="root_recent">Të fundit</string>
+    <string name="root_available_bytes">%1$s falas</string>
+    <string name="root_type_service">Shërbimet e hapësirës ruajtëse</string>
+    <string name="root_type_shortcut">Shkurtoret</string>
+    <string name="root_type_device">Pajisjet</string>
+    <string name="root_type_apps">Aplikacione të tjera</string>
+    <string name="pref_advanced_devices">Shfaq pajisjet e përparuara</string>
+    <string name="pref_file_size">Shfaq madhësinë e skedarit</string>
+    <string name="pref_device_size">Shfaq madhësinë e pajisjes</string>
+    <string name="empty">Asnjë objekt</string>
+    <string name="toast_no_application">Skedari nuk mund të hapet</string>
+    <string name="toast_failed_delete">Disa dokumente nuk mund të fshihen</string>
+    <string name="share_via">Bashkëndaj nëpërmjet</string>
+</resources>

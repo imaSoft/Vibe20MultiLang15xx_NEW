@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">Khóa EM SIM ME</string>
+    <string name="simmelock_name">Khóa SIM ME</string>
+    <string name="strInputPassword">Hãy nhập mật khẩu:</string>
+    <string name="strConfirm">Kết thúc</string>
+    <string name="strCancel">Hủy</string>
+    <string name="strInputChancesleft">Lần xóa còn lại:</string>
+    <string name="strMCCMNC">MCC+MNC:</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR:</string>
+    <string name="strGID1">GID1 :</string>
+    <string name="strGID2">GID2 :</string>
+    <string name="strInputPasswordAgain">Hãy nhập lại mật khẩu mới:</string>
+    <string name="strIMSI">IMSI :</string>
+    <string name="strAttention">Lưu ý</string>
+    <string name="strConfirmRemove">Thực sự muốn xóa?</string>
+    <string name="srtConfirmPermanUnlock">Thực sự muốn mở khóa vĩnh viễn?</string>
+    <string name="strYes">Có</string>
+    <string name="strLockFail">Ko thể khóa!</string>
+    <string name="strLockSucceed">Khóa thành công!</string>
+    <string name="strUnlockFail">Ko thể mở khóa!</string>
+    <string name="strUnlockSucceed">Mở khóa thành công!</string>
+    <string name="strUserInput">Nhập người dùng</string>
+    <string name="strInputMode">Nhập bởi ng.dùng?</string>
+    <string name="strLockNameNetwork">Tùy chỉnh mạng</string>
+    <string name="strLockNameNetworkSub">Tùy chỉnh mạng phụ</string>
+    <string name="strLockNameService">Tùy chỉnh nhà cung cấp dịch vụ</string>
+    <string name="strLockNameCorporate">Tùy chỉnh công ty</string>
+    <string name="strLockNameSIM">Tùy chỉnh SIM</string>
+    <string name="strActionNameLock">Khóa</string>
+    <string name="strActionNameUnlock">Mở khóa</string>
+    <string name="strActionNameAddLock">Thêm</string>
+    <string name="strActionNameRemoveLock">Xóa</string>
+    <string name="strActionNamePermanentUnlock">Mở khóa vĩnh viễn</string>
+    <string name="strPasswordLengthIncorrect">4-8 số!</string>
+    <string name="strQueryFailed">Ko thể truy vấn!</string>
+    <string name="strAddLockFail">K.thể thêm!</string>
+    <string name="strAddLockSucceed">Thêm thành công!</string>
+    <string name="strMCCMNCLengthIncorrect">MCC+MNC ko hợp lệ!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">MCC+MNC+HLR ko hợp lệ!</string>
+    <string name="strIMSILengthIncorrect">IMSI ko hợp lệ!</string>
+    <string name="strGID1WRONG">GID1 ko hợp lệ!</string>
+    <string name="strGID2WRONG">GID2 ko hợp lệ!</string>
+    <string name="str_simme_passwords_dont_match">Các mật khẩu không khớp</string>
+</resources>

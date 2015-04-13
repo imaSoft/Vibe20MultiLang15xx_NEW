@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SD kártya kiürítője</string>
+    <string name="loading_please_wait">Betöltés, várjon...</string>
+    <string name="white_list_not_found">Nem sikerül az SD kártya kiürítése, amíg nem található lista</string>
+    <string name="sdcard_not_available">Nem sikerült az SD kártya kiürítése, az SD kártya letiltva</string>
+    <string name="clearSDcardFailed">Nem sikerült az SD kártya kiürítése</string>
+    <string name="deleteFileFailed">Fájltörlési hiba</string>
+    <string name="fileNotFoud">Nem található kivételfájl.</string>
+    <string name="clear_start">SD kártya kiürítésének elkezdése</string>
+    <string name="clear_success">Sikerült az SD kártya kiürítése，újraindítás</string>
+    <string name="clearing">SD kártya kiürítése</string>
+    <string name="checking">Ellenőrzés</string>
+    <string name="check_file">Ellenőrizze az erőforrást</string>
+    <string name="check_sucess">Ellenőrzés sikeres</string>
+    <string name="check_fail">Ellenőrzés sikertelen, befejezi？</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">SN</string>
+    <string name="factory_wipe_data">ล้างข้อมูลผู้ใช้ด้วยโหมดตั้งค่าจากโรงงาน</string>
+    <string name="factory_wipe_data_warning">คลิกปุ่ม ตกลง จะเป็นการล้างข้อมูลผู้ใช้ทั้งหมด แต่จะเก็บแอปพลิเคชันที่ได้ติดตั้งไว้ ขอแนะนำว่าผู้ใช้ทั่วไปไม่ควรใช้ปุ่มนี้ เพื่อป้องกันไม่ให้ข้อมูลในโทรศัพท์สูญหาย</string>
+    <string name="factory_wipe_data_cancel">ยกเลิก</string>
+    <string name="sdcard_not_found">ล้างข้อมูลเป็นค่าที่ตั้งจากโรงงานล้มเหลว</string>
+    <string name="sdcard_not_found_tip">"คุณสมบัตินี้ต้องมีการ์ด SD รองรับ
+        ตรวจให้แน่ใจว่าเสียบการ์ด SD แล้ว"</string>
+    <string name="sdcard_out_of_space">การ์ด SD มีพื้นที่ว่างไม่พอ</string>
+    <string name="sdcard_out_of_space_tip">"SD เหลือพื้นที่เพียง %1$sM แต่ 
+ฟังก์ชันนี้ต้องใช้การ์ด SD ที่มีพื้นที่ว่าง %2$sM"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">ไม่ถูกต้อง</string>
+</resources>

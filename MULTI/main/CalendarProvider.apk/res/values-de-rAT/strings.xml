@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="debug_tool_message">Sie sind dabei, 1) eine Kopie Ihrer Kalenderdatenbank auf der SD-Karte bzw. dem USB-Speicher zu speichern, die von jeder App gelesen werden kann, und sie 2) per E-Mail zu versenden. Löschen Sie sie, sobald sie vom Gerät kopiert oder die E-Mail erhalten wurde.</string>
+    <string name="debug_tool_email_body">Beigefügt ist meine Kalenderdatenbank mit all meinen Terminen und persönlichen Informationen. Bitte gehen Sie sorgfältig damit um.</string>
+</resources>

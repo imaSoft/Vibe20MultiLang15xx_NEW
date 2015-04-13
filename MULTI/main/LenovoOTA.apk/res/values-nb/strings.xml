@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Systemoppgradering</string>
+    <string name="exit">Avslutt</string>
+    <string name="update_failed">Beklager. Kunne ikke installere den nye fastvaren</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Avbryt</string>
+    <string name="notification_content_title">Fastvareoppgrad.</string>
+    <string name="notification_content_text_completed">Nedlastning fullført</string>
+    <string name="error_not_specify_network_title">Last ned via WLAN-nettverk</string>
+    <string name="error_not_specify_network_content">Det anbefales sterkt at du laster ned via WLAN-nettverk, da nedlastning over mobilt nettverk kan være svært dyrt</string>
+    <string name="btn_setting_network">Angi umiddelbart</string>
+    <string name="btn_keep_download">Fortsett nedlastning</string>
+    <string name="retry">Prøv igjen</string>
+    <string name="redo_backup">Sikkerhetskopier igjen</string>
+    <string name="contact">Kontakter</string>
+    <string name="sms">Melding</string>
+    <string name="calllog">Anropslogg</string>
+    <string name="btn_backup">Sikkerhetskopier</string>
+    <string name="has_not_backup">Ikke sikkerhetskopiert</string>
+    <string name="countSms">melding(er)</string>
+    <string name="countContact">kontakt(er)</string>
+    <string name="countCalllog">anropslogg(er)</string>
+    <string name="nodata">Ingen data</string>
+    <string name="backup_data_ing">Sikkerhetskopierer kontakter osv...</string>
+    <string name="backup_data_finish">Sikkerhetskopiering av data var vellykket!</string>
+    <string name="data_usage_warning_title">Advarsel</string>
+    <string name="data_usage_warning">Kjære brukere, programmet krever Internett-tilgang, fortsette?</string>
+    <string name="data_usage_confirm">Ikke spør neste gang</string>
+    <string name="ndf_install_finish_p">Umiddelbart</string>
+    <string name="ndf_install_finish_n">Senere</string>
+    <string name="ndf_lowpower_title">Svakt batteri</string>
+    <string name="toast_install_fail">Kunne ikke installere. Den angitte banen %s finnes ikke.</string>
+    <string name="network_error">Nettverkstilkobling mislyktes</string>
+    <string name="notification_new_rom_come">Systemet ditt kan oppdatere til nyeste versjon</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Etter %d sekunder må systemet installere den nye versjonen!</string>
+    <string name="backup_data">S.kopier data</string>
+    <string name="restore_data">Gjen. data</string>
+    <string name="battery_tip">Lavt batterinivå, koble til lader for å fortsette oppgraderingen</string>
+</resources>

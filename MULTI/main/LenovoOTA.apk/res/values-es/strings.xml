@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Actualización del sistema</string>
+    <string name="exit">Salir</string>
+    <string name="update_failed">Lo sentimos. No se pudo instalar el nuevo firmware</string>
+    <string name="btn_ok">Aceptar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="notification_content_title">Actualización del firmware</string>
+    <string name="notification_content_text_completed">Descarga exitosa</string>
+    <string name="error_not_specify_network_title">Descargue a través de red WLAN</string>
+    <string name="error_not_specify_network_content">Se le recomienda que realice la descarga a través de la red WLAN. La descarga a través de la red GPRS consumirá más datos</string>
+    <string name="btn_setting_network">Establecer inmediatamente</string>
+    <string name="btn_keep_download">Continuar descarga</string>
+    <string name="retry">Reintentar</string>
+    <string name="redo_backup">Volver a crear copia de seguridad</string>
+    <string name="contact">Contactos</string>
+    <string name="sms">Mensaje</string>
+    <string name="calllog">Registro de llamadas</string>
+    <string name="btn_backup">Copia de seguridad</string>
+    <string name="has_not_backup">Sin copia de seguridad</string>
+    <string name="countSms">mensaje(s)</string>
+    <string name="countContact">contacto(s)</string>
+    <string name="countCalllog">registro de llamada(s)</string>
+    <string name="nodata">No hay datos</string>
+    <string name="backup_data_ing">Creando copia de seguridad de contactos, etc.</string>
+    <string name="backup_data_finish">¡Copia de seguridad de datos satisfactoria!</string>
+    <string name="data_usage_warning_title">Advertencia</string>
+    <string name="data_usage_warning">Estimados usuarios: para usar esta aplicación debe acceder a Internet, ¿desea continuar？</string>
+    <string name="data_usage_confirm">No preguntarme la próxima vez</string>
+    <string name="ndf_install_finish_p">Inmediatamente</string>
+    <string name="ndf_install_finish_n">Más tarde</string>
+    <string name="ndf_lowpower_title">Poca batería</string>
+    <string name="toast_install_fail">No se pudo instalar, la ruta especificada: %s, no existe.</string>
+    <string name="network_error">Error de conexión de red</string>
+    <string name="notification_new_rom_come">Su sistema puede actualizarse a la última versión</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Después de %d segundos, ¡el sistema debe instalar la nueva versión!</string>
+    <string name="backup_data">Realizar respaldo de los datos</string>
+    <string name="restore_data">Restauración de datos</string>
+    <string name="battery_tip">Batería baja. Conecte el cargador para continuar con la actualización</string>
+</resources>

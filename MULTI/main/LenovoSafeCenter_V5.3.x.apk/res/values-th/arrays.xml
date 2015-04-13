@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>แม่ฉันชื่ออะไร?</item>
+        <item>ผลไม้อะไรที่ฉันชอบ?</item>
+        <item>พ่อฉันเกิดเมื่อไร?</item>
+        <item>เพลงใดที่ฉันชอบ?</item>
+        <item>สัตว์เลี้ยงของฉันชื่ออะไร?</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>นำเข้าจากประวัติการโทร</item>
+        <item>นำเข้าจากประวัติ SMS</item>
+        <item>นำเข้าจากรายชื่อ</item>
+        <item>เพิ่มด้วยตนเอง</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>บล็อกเฉพาะบัญชีดำเท่านั้น</item>
+        <item>อนุญาตเฉพาะรายชื่อเท่านั้น</item>
+        <item>อนุญาตเฉพาะบัญชีขาวเท่านั้น</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>ย้อนกลับไปที่โหมดโทนไม่ว่าง</item>
+        <item>ย้อนกลับไปที่การปิดเครื่อง</item>
+        <item>ย้อนกลับไปที่การปิดเครื่อง</item>
+        <item>ย้อนกลับไปที่หมายเลขว่าง</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>เฉพาะรายชื่อเท่านั้น</item>
+        <item>เฉพาะบัญชีขาวเท่านั้น</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>นำเข้าจากประวัติการโทร</item>
+        <item>นำเข้าจากประวัติ SMS</item>
+        <item>นำเข้าจากรายชื่อ</item>
+        <item>เพิ่มด้วยตนเอง</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>ตอบรับ</item>
+        <item>ปฏิเสธ</item>
+        <item>ปฏิเสธสายเรียกเข้าด้วย SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>นำเข้าจากประวัติการโทร</item>
+        <item>นำเข้าจากประวัติ SMS</item>
+        <item>นำเข้าจากรายชื่อ</item>
+        <item>เพิ่มด้วยตนเอง</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>ไม่มีการแจ้งเตือน</item>
+        <item>การแจ้งเตือนด้วยแถบแจ้งเตือน</item>
+        <item>การแจ้งเตือนด้วยแถบแจ้งเตือน + เสียงเรียกเตือน</item>
+        <item>การแจ้งเตือนด้วยแถบแจ้งเตือน + สั่น</item>
+    </string-array>
+</resources>

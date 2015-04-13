@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Interpréteur de commandes</string>
+    <string name="bugreport_finished_title">"Rapport d'erreur"</string>
+    <string name="bugreport_finished_text">"Toucher pour partager votre rapport d'erreur"</string>
+    <string name="bugreport_confirm">"Les rapports d'erreur contiennent des données tirées des différents fichiers journaux du système, y compris des données personnelles et confidentielles. Ne partager les rapports d'erreur qu'avec les applications et personnes en qui vous avez confiance."</string>
+    <string name="bugreport_confirm_repeat">Afficher ce message la prochaine fois</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashlight_notification_title">Fener Kapalı</string>
+    <string name="flashlight_notification_text">Feneri kapatmak için tıklatın</string>
+    <string name="app_notification_manager_title">Uygulama bildirimlerini etkinleştirme</string>
+    <string name="app_notification_optimized_title">Uygulama bildirimlerini öncelik sırasına koyma</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Engellenen uygulama bildirimleri</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Etkinleştirilen uygulama bildirimleri</string>
+    <string name="lenovo_progress_dialog_message">Yükleniyor…</string>
+    <string name="app_disable_notifications_dlg_title">Bildirimler kapatılsın mı?</string>
+    <string name="app_disable_notifications_dlg_text">"Bu uygulama için bildirimleri kapatırsanız önemli uyarıları ve güncellemeleri kaçırabilirsiniz. "</string>
+    <string name="app_add_optimized_notifications_title">Öncelik verilmemiş uygulama(lar) bildirimi</string>
+    <string name="app_del_optimized_notifications_title">Öncelik verilmiş uygulama(lar) bildirimi</string>
+    <string name="app_vip_notifications_title">VIPuygulama</string>
+    <string name="app_close_optimized_notifications_title">Uygulama bildirimi kapatıldı</string>
+    <string name="app_close_optimized_notifications_summary">Uygulamalar ancak uygulama bildirim yönetiminde bildirimleri etkinleştirildikten sonra tercih edilen olarak ayarlanabilir</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">\"%1$s\"tercih edilen olarak ayarla</string>
+    <string name="lenovo_app_add_notification_toast_text">\"%1$s\"bildirimleri etkinleştir</string>
+    <string name="lenovo_no_app_nofitication">Uygulama yok</string>
+    <string name="app_del_optimized_notifications_dlg_title">"Tercih edilen olarak kaldır? "</string>
+    <string name="app_del_optimized_notifications_dlg_text">"Bunu tercih edilen uygulama olarak kaldırırsanız önemli uyarıları veya güncellemeleri alamayabilirsiniz. "</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">" \"\"%1$s\" bildirim için önceliklendirme kaldırıldı"</string>
+    <string name="lenovo_app_delete_notification_toast_text">" \"\"%1$s\" için bildirimler devre dışı bırakıldı"</string>
+    <string name="lenovo_flashlight_error_notification_title">Fener açılamıyor</string>
+    <string name="lenovo_flashlight_error_camera_in_use">Kamera şu anda kullanılıyor, fener açılamıyor</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Yanlışlıkla kullanılmasını önlemek için ekranın üst kenarı kapatıldığında fener açılamaz</string>
+    <string name="lenovo_flashlight_error_low_power">Düşük güç! Fener kullanılamıyor</string>
+</resources>

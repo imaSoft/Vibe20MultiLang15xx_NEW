@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Boldog</item>
+        <item>Szomorú</item>
+        <item>Kacsintó</item>
+        <item>Nyelvem kilóg</item>
+        <item>Meglepett</item>
+        <item>Csók</item>
+        <item>Kiabál</item>
+        <item>Vagány</item>
+        <item>Pénz száj</item>
+        <item>Láb a szájban</item>
+        <item>Zavarba jött</item>
+        <item>Angyal</item>
+        <item>Bizonytalan</item>
+        <item>Sírás</item>
+        <item>Zárt ajkak</item>
+        <item>Nevetve</item>
+        <item>Zavaros</item>
+        <item>Szív</item>
+        <item>Őrült</item>
+        <item>Önelégült mosoly</item>
+        <item>Póker arc</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Hol vagy?</item>
+        <item>Mit csinálsz?</item>
+        <item>Hívj vissza! Kérlek!</item>
+        <item>Sajnálom, Megbeszélésem van.</item>
+        <item>Hívjon hamarosan.</item>
+        <item>Ne aggódj! Jól vagyok.</item>
+        <item>Hazafelé.</item>
+        <item>Hamarosan érkezik.</item>
+        <item>Légy ott!</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Magas</item>
+        <item>Normál</item>
+        <item>Alacsony</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>SIM kártya</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Készülék</item>
+        <item>SIM kártya</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM ABC</item>
+        <item>Unicode</item>
+        <item>Automata</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Közvetlenül továbbít</item>
+        <item>Név jelzése</item>
+        <item>Név és szám jelzése</item>
+        <item>Kérdez minden alkalommal (Közvetlen továbbítás auto továbbítás feltételben)</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Közvetlenül továbbít</item>
+        <item>Név jelzése</item>
+        <item>Név és szám jelzése</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Telefon</item>
+        <item>UIM kártya</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>Alapértelmezett</item>
+        <item>Zongora</item>
+    </string-array>
+    <string-array name="photo_display_settings_styles">
+        <item>Első betű</item>
+        <item>Utolsó betű</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>Dátum szerint</item>
+        <item>Névjegy szerint</item>
+    </string-array>
+    <string-array name="dial_start_action_value">
+        <item>Tárcsázó</item>
+        <item>Hívásnapló</item>
+    </string-array>
+    <string-array name="lunar_month_array">
+        <item>"Jan "</item>
+        <item>"Feb "</item>
+        <item>"Már "</item>
+        <item>"Ápr "</item>
+        <item>"Máj "</item>
+        <item>"Jún "</item>
+        <item>"Júl "</item>
+        <item>"Aug "</item>
+        <item>"Szep "</item>
+        <item>"Okt "</item>
+        <item>"Nov "</item>
+        <item>"Dec "</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Egyéb…</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>Minden nyelv</item>
+        <item>Német</item>
+        <item>Angol</item>
+        <item>Olasz</item>
+        <item>Francia</item>
+        <item>Spanyol</item>
+        <item>Holland</item>
+        <item>Svéd</item>
+        <item>Dán</item>
+        <item>Portugál</item>
+        <item>Finn</item>
+        <item>Norvég</item>
+        <item>Görög</item>
+        <item>Török</item>
+        <item>Magyar</item>
+        <item>Lengyel</item>
+        <item>Egyéb</item>
+        <item>Cseh</item>
+        <item>Héber</item>
+        <item>Arab</item>
+        <item>Orosz</item>
+        <item>Izlandi</item>
+    </string-array>
+    <string-array name="callog_click_action_value">
+        <item>Kapcsolat hívása</item>
+        <item>Hívásnapló megtekintése</item>
+    </string-array>
+    <string-array name="number_match_style_value">
+        <item>11 számjegy</item>
+        <item>7 számjegy</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Szervezet</item>
+        <item>Jegyzet</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Korlátozott mód</item>
+        <item>Figyelmeztető mód</item>
+        <item>Szabad mód</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Kövesse a rendszer betűméretet</item>
+        <item>Kicsi</item>
+        <item>Közepes</item>
+        <item>Nagy</item>
+        <item>Extra nagy</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Neme</item>
+        <item>Telefon</item>
+        <item>QQ</item>
+        <item>Sina Weibo</item>
+        <item>Születésnap</item>
+        <item>Hely</item>
+        <item>Iskola</item>
+        <item>Cég</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Titkos</item>
+        <item>Férfi</item>
+        <item>Nő</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak amikor néma</item>
+        <item>Soha</item>
+    </string-array>
+</resources>

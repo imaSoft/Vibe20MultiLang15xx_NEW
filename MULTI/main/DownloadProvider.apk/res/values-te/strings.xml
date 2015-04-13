@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">డౌన్‌లోడ్ మేనేజర్</string>
+    <string name="permlab_downloadManager">డౌన్‌లోడ్‌ మేనేజర్‌ను ప్రాప్యత చేయండి.</string>
+    <string name="permdesc_downloadManager">డౌన్‌లోడ్ మేనేజర్‌ను ప్రాప్యత చేయడానికి మరియు దాన్ని ఫైల్‌లను డౌన్‌లోడ్ చేయడానికి ఉపయోగించడం కోసం అప్లికేషన్‌ను అనుమతిస్తుంది. డౌన్‌లోడ్‌లకు అంతరాయం కలిగించడానికి మరియు ప్రైవేట్ సమాచారాన్ని ప్రాప్యత చేయడానికి హానికర అప్లికేషన్‌లు దీన్ని ఉపయోగించవచ్చు.</string>
+    <string name="permlab_downloadManagerAdvanced">ఆధునాతన డౌన్‌లోడ్ మేనేజర్ విధులు.</string>
+    <string name="permdesc_downloadManagerAdvanced">డౌన్‌లోడ్ మేనేజర్‌ ఆధునాతన విధులను ప్రాప్యత చేయడానికి అప్లికేషన్‌ను అనుమతిస్తుంది. డౌన్‌లోడ్‌లకు అంతరాయం కలిగించడానికి మరియు ప్రైవేట్ సమాచారాన్ని ప్రాప్యత చేయడానికి హానికర అప్లికేషన్‌లు దీన్ని ఉపయోగించవచ్చు.</string>
+    <string name="permlab_downloadCompletedIntent">డౌన్‌లోడ్‌ నోటిఫికేషన్‌లను పంపు.</string>
+    <string name="permdesc_downloadCompletedIntent">పూర్తయిన డౌన్‌లోడ్‌ల గురించి నోటిఫికేషన్‌లను పంపడానికి అప్లికేషన్‌ను అనుమతిస్తుంది. ఫైల్‌లను డౌన్‌లోడ్ చేసే ఇతర అప్లికేషన్‌ను కంగారుపెట్టడానికి హానికర అప్లికేషన్‌లు దీన్ని ఉపయోగించవచ్చు.</string>
+    <string name="permlab_seeAllExternal">SD కార్డ్‌లో చేసిన అన్ని డౌన్‌లోడ్‌లను చూడండి</string>
+    <string name="permdesc_seeAllExternal">డౌన్‌లోడ్‌ చేసిన అప్లికేషన్‌తో సంబంధం లేకుండా SD కార్డ్‌లో చేసిన అన్ని డౌన్‌లోడ్‌లను చూడటానికి అప్లికేషన్‌ను అనుమతిస్తుంది.</string>
+    <string name="permlab_downloadCacheNonPurgeable">డౌన్‌లోడ్ క్యాచ్‌లో నిల్వను రిజర్వ్ చేయి</string>
+    <string name="permdesc_downloadCacheNonPurgeable">డౌన్‌లోడ్ మేనేజర్‌కు మరింత ఖాళీ అవసరమైనప్పుడు డీఫాల్ట్‌గా తొలగించబడని ఫైల్‌లను డౌన్‌లోడ్ క్యాష్‌కు డౌన్‌లోడ్ చేయడానికి అప్లికేషన్‌ను అనుమతిస్తుంది.</string>
+    <string name="permlab_downloadWithoutNotification">నోటిఫికేషన్ లేకుండా ఫైల్‌లను డౌన్‌లోడ్ చేయి</string>
+    <string name="permdesc_downloadWithoutNotification">వినియోగదారుకు ఏ నోటిఫికేషన్‌ను చూపకుండా డౌన్‌లోడ్ మేనేజర్ ద్వారా ఫైల్‌లను డౌన్‌లోడ్ చేయడానికి అప్లికేషన్‌ను అనుమతిస్తుంది.</string>
+    <string name="permlab_accessAllDownloads">అన్ని సిస్టమ్ డౌన్‌లోడ్‌లను ప్రాప్యత చేయి</string>
+    <string name="permdesc_accessAllDownloads">సిస్టమ్‌లోని ఏ అప్లికేషన్‌చేనైనా ప్రారంభించబడిన అన్ని డౌన్‌లోడ్‌లను వీక్షించడానికి మరియు సవరించడానికి అప్లికేషన్‌ను అనుమతిస్తుంది.</string>
+    <string name="download_unknown_title">&lt;శీర్షిక లేనిది></string>
+    <string name="notification_download_complete">డౌన్‌లోడ్ పూర్తయింది.</string>
+    <string name="notification_download_failed">డౌన్‌లోడ్ విఫలమైంది.</string>
+    <string name="notification_need_wifi_for_size">డౌన్‌లోడ్ పరిమాణానికి Wi-Fi అవసరం.</string>
+    <string name="notification_paused_in_background">నేపథ్యంలో పాజ్ చేయబడింది.</string>
+    <string name="wifi_required_title">ఆపరేటర్ నెట్‌వర్క్‌కు డౌన్‌లోడ్ చాలా పెద్దది</string>
+    <string name="wifi_required_body" formatted="false">"ఈ డౌన్‌లోడ్‌ను %s పూర్తి చేయడానికి మీరు ఖచ్చితంగా Wi-Fiను ఉపయోగించాలి. 
+
+తర్వాతి సారి మీరు Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయబడినపుడు ఈ డౌన్‌లోడ్‌ను ప్రారంభించడానికి %s ను టచ్ చేయండి."</string>
+    <string name="wifi_recommended_title">తర్వాత డౌన్‌లోడ్ చేసే వాటి కోసం క్యూ చేయాలా?</string>
+    <string name="wifi_recommended_body" formatted="false">"ఈ డౌన్‌లోడ్‌ను %s ఇప్పుడు ప్రారంభించడం మీ బ్యాటరీ జీవిత కాలాన్ని తగ్గించవచ్చు మరియు/లేదా ఫలితంగా మీ మొబైల్ డేటా కనెక్షన్ అదనంగా ఉపయోగించబడవచ్చు, తద్వారా మీ డేటా ప్లాన్‌పై ఆధారపడి మీ మొబైల్ ఆపరేటర్‌ చార్జీ చేయవచ్చు.
+
+తర్వాతి సారి మీరు Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయబడినపుడు ఈ డౌన్‌లోడ్‌ను ప్రారంభించడానికి %sను టచ్ చేయండి."</string>
+    <string name="button_queue_for_wifi">వరుస</string>
+    <string name="button_cancel_download">రద్దు చేయి</string>
+    <string name="button_start_now">ఇప్పుడు ప్రారంభించండి</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s మిగిలి ఉన్నాయి</string>
+    <string name="download_no_application_title">ఫైల్‌ను ఉపయోగించడం సాధ్యం కాదు</string>
+    <string name="root_downloads">డౌన్‌లోడ్లు</string>
+    <string name="download_queued">వరుసలో</string>
+    <string name="download_running">ప్రోగ్రెస్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌లో ఉంది</string>
+    <string name="download_error">డౌన్‌లోడ్ పూర్తికాలేదు</string>
+    <string name="download_running_percent">ప్రోగ్రెస్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌లో ఉంది, %d%%</string>
+</resources>

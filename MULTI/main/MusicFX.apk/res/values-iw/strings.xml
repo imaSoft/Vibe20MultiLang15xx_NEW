@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presetreverb_name">תהודה מוגדרת</string>
+    <string name="eq_preset_normal">רגיל</string>
+    <string name="eq_preset_classical">קלסי</string>
+    <string name="eq_preset_dance">דאנס</string>
+    <string name="eq_preset_flat">שטוח</string>
+    <string name="eq_preset_folk">עממי</string>
+    <string name="eq_preset_heavymetal">מטאל כבד</string>
+    <string name="eq_preset_hiphop">היפ-הופ</string>
+    <string name="eq_preset_jazz">"ג'אז"</string>
+    <string name="eq_preset_pop">פופ</string>
+    <string name="eq_preset_rock">רוק</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">אפקטים אינם זמינים</string>
+    <string name="main_toggle_effects_title">אפקטים של שמע</string>
+    <string name="eq_dialog_title">אקווילייזר</string>
+    <string name="headset_plug">חבר אוזניות עבור אפקטים אלו</string>
+    <string name="bass_boost_strength">הגברת הבס</string>
+    <string name="virtualizer_strength">צליל סראונד</string>
+    <string name="pr_title">הדהוד:</string>
+    <string name="pr_summary">אפקטים נוספים של הדהוד בחדר</string>
+    <string name="pr_dialog_title">הגדרה מוקדמת של הדהוד</string>
+    <string name="setup">התקן</string>
+    <string name="ci_extreme">FX Booster</string>
+    <string name="user">משתמש</string>
+    <string name="picker_title">חלונית בקרה של אפקטים מוסיקליים</string>
+</resources>

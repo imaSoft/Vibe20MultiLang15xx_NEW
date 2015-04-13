@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">wallpapers</string>
+    <string name="wallpaper_magicsmoke">Magisk røg</string>
+    <string name="author">Google</string>
+    <string name="ok">OK</string>
+    <string name="taptochange">Tap for at ændre</string>
+</resources>

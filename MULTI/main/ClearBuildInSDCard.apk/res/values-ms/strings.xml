@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pembersih kad SD</string>
+    <string name="loading_please_wait">Memuatkan sekarang, sila tunggu</string>
+    <string name="white_list_not_found">Gagal memadam bersih kad SD dalaman: tiada senarai putih ditemui</string>
+    <string name="sdcard_not_available">Gagal memadam bersih kad SD dalaman: Kad SD tidak tersedia</string>
+    <string name="clearSDcardFailed">Gagal Memadam bersih kad SD dalaman</string>
+    <string name="deleteFileFailed">Gagal memadam fail</string>
+    <string name="fileNotFoud">Tiada kelainan ditemui dalam fail</string>
+    <string name="clear_start">Mulakan memadam bersih log penggunaan kad SD dalaman</string>
+    <string name="clear_success">Berjaya memadam bersih, sedia untuk dimulakan semula</string>
+    <string name="clearing">Memadam bersih kad SD dalaman sekarang</string>
+    <string name="checking">Menyemak sumber pratetap</string>
+    <string name="check_file">Pemeriksaan sumber pratetap</string>
+    <string name="check_sucess">Sumber pratetap disemak</string>
+    <string name="check_fail">Sumber pratetap tidak lengkap. Anda ingin selesai mengosongkan kad SD?</string>
+</resources>

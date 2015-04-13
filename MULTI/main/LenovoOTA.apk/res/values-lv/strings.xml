@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistēmas jaunināšana</string>
+    <string name="exit">Iziet</string>
+    <string name="update_failed">Diemžēl jauno programmaparatūru neizdevās instalēt.</string>
+    <string name="btn_ok">Labi</string>
+    <string name="btn_cancel">Atcelt</string>
+    <string name="notification_content_title">Programmaparatūras jaunināšana</string>
+    <string name="notification_content_text_completed">Lejupielāde veiksmīga</string>
+    <string name="error_not_specify_network_title">Lūdzu, veiciet lejupielādi, izmantojot bezvadu lokālo tīklu</string>
+    <string name="error_not_specify_network_content">Lejupielādei ļoti ieteicams izmantot bezvadu lokālo tīklu. Lejupielāde mobilajā tīklā var izraisīt būtiskas izmaksas</string>
+    <string name="btn_setting_network">Iestatīt nekavējoties</string>
+    <string name="btn_keep_download">Turpināt ar lejupielādi</string>
+    <string name="retry">Mēģināt vēlreiz</string>
+    <string name="redo_backup">Dublēt vēlreiz</string>
+    <string name="contact">Kontakti</string>
+    <string name="sms">Ziņa</string>
+    <string name="calllog">Zvanu žurnāls</string>
+    <string name="btn_backup">Dublēt</string>
+    <string name="has_not_backup">Nav veikta dublēšana</string>
+    <string name="countSms">ziņa(-as)</string>
+    <string name="countContact">kontakts(-i)</string>
+    <string name="countCalllog">zvanu žurnāls(-i)</string>
+    <string name="nodata">Nav datu</string>
+    <string name="backup_data_ing">Notiek kontaktu utt. dublēšana...</string>
+    <string name="backup_data_finish">Datu dublēšana sekmīga.</string>
+    <string name="data_usage_warning_title">Brīdinājums</string>
+    <string name="data_usage_warning">Cien. lietotāji! Šai lietojumprogrammai nepieciešama interneta piekļuve. Turpināt?</string>
+    <string name="data_usage_confirm">Vairs nerādīt</string>
+    <string name="ndf_install_finish_p">Nekavējoties</string>
+    <string name="ndf_install_finish_n">Vēlāk</string>
+    <string name="ndf_lowpower_title">Zems akumulatora līmenis</string>
+    <string name="toast_install_fail">Neizdevās instalēt. Norādītais ceļš %s nepastāv.</string>
+    <string name="network_error">Tīkla savienojuma kļūme</string>
+    <string name="notification_new_rom_come">Jūsu sistēmu var atjaunināt uz jaunāko versiju</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Pēc %d sekundēm sistēmai jāinstalē jaunā versija.</string>
+    <string name="backup_data">Dublēt datus</string>
+    <string name="restore_data">Datu atjaunošana</string>
+    <string name="battery_tip">Akumulatoram zems uzlādes līmenis. Lūdzu, pievienojiet lādētāju un turpiniet jaunināšanu</string>
+</resources>

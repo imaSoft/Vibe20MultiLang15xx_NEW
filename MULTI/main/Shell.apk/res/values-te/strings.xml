@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">షెల్</string>
+    <string name="bugreport_finished_title">బగ్ రిపోర్ట్ సంగ్రహించబడింది</string>
+    <string name="bugreport_finished_text">మీ బగ్ రిపోర్ట్‌‌‌‌‌‌‌‌‌ను పంచుకోవడానికి టచ్ చేయండి</string>
+    <string name="bugreport_confirm">వ్యక్తిగత మరియు ప్రైవేట్ సమాచారం సహా, సిస్టమ్ యొక్క వివిధ లాగ్ ఫైళ్ళ నుండి బగ్ రిపోర్ట్‌‌‌‌‌‌‌‌‌‌లు డేటాను కలిగి ఉంటాయి. మీరు విశ్వసించే అప్లికేషన్లతో మరియు వ్యక్తులతో మాత్రమే బగ్ రిపోర్ట్‌‌‌‌‌‌‌‌‌‌లను పంచుకోండి.</string>
+    <string name="bugreport_confirm_repeat">తదుపరిసారి ఈ సందేశాన్ని చూపించు</string>
+</resources>

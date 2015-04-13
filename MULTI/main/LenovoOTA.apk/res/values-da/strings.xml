@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Systemopgradering</string>
+    <string name="exit">Afslut</string>
+    <string name="update_failed">Beklager. Den nye firmware kunne ikke installeres</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Annuller</string>
+    <string name="notification_content_title">Firmwareopgradering</string>
+    <string name="notification_content_text_completed">Download lykkedes</string>
+    <string name="error_not_specify_network_title">Download via WLAN-netværk</string>
+    <string name="error_not_specify_network_content">Det anbefales at downloade via WLAN-netværk, da download via mobile netværk kan medføre betydelige gebyrer afhængigt af dit abonnement</string>
+    <string name="btn_setting_network">Angiv med det samme</string>
+    <string name="btn_keep_download">Fortsæt med at downloade</string>
+    <string name="retry">Prøv igen</string>
+    <string name="redo_backup">Sikkerhedskopiér igen</string>
+    <string name="contact">Kontakter</string>
+    <string name="sms">Meddelelse</string>
+    <string name="calllog">Opkaldslog</string>
+    <string name="btn_backup">Sikkerhedskopiér</string>
+    <string name="has_not_backup">Ikke sikkerhedskopieret</string>
+    <string name="countSms">meddelelse(r)</string>
+    <string name="countContact">kontakt(er)</string>
+    <string name="countCalllog">opkaldslog(s)</string>
+    <string name="nodata">Ingen data</string>
+    <string name="backup_data_ing">Sikkerhedskopierer kontakter osv...</string>
+    <string name="backup_data_finish">Sikkerhedskopiering af data fuldført!</string>
+    <string name="data_usage_warning_title">Advarsel</string>
+    <string name="data_usage_warning">Kære brugere, dette program skal have adgang til internettet, fortsæt？</string>
+    <string name="data_usage_confirm">Spørg ikke næste gang</string>
+    <string name="ndf_install_finish_p">Øjeblikkeligt</string>
+    <string name="ndf_install_finish_n">Senere</string>
+    <string name="ndf_lowpower_title">Lavt batteriniveau</string>
+    <string name="toast_install_fail">Installation mislykkedes, den angivne sti, %s, findes ikke.</string>
+    <string name="network_error">Netværksforbindelse mislykkedes</string>
+    <string name="notification_new_rom_come">Dit system kan opdateres til den nyeste version</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Efter %d sekunder skal systemet installere den nye version!</string>
+    <string name="backup_data">Sikkerhedskopier data</string>
+    <string name="restore_data">Datagendannelse</string>
+    <string name="battery_tip">Lav batterispænding, tilslut opladeren for at fortsætte opgraderingen</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Xestor de descargas</string>
+    <string name="permlab_downloadManager">Acceder ao administrador de descarga.</string>
+    <string name="permdesc_downloadManager">Permite que a aplicación acceda ao administrador de descargas e o utilice para descargar ficheiros. As aplicacións malintencionadas poden usar este permiso para obstaculizar as descargas e acceder a información privada.</string>
+    <string name="permlab_downloadManagerAdvanced">Funcións avanzadas do administrador de descargas.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite que a aplicación acceda ás funcións avanzadas do administrador de descargas. As aplicacións malintencionadas poden usar este permiso para obstaculizar as descargas e acceder a información privada.</string>
+    <string name="permlab_downloadCompletedIntent">Enviar notificacións de descarga</string>
+    <string name="permdesc_downloadCompletedIntent">Permite que a aplicación envíe notificacións sobre descargas finalizadas. As aplicacións malintencionadas poden usar isto para confundir outras aplicacións que descargan ficheiros.</string>
+    <string name="permlab_seeAllExternal">Ver todas as descargas da tarxeta SD</string>
+    <string name="permdesc_seeAllExternal">Permite que a aplicación vexa todas as descargas da tarxeta SD, sen importar a aplicación que as descargara.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espazo na caché de descargas</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que a aplicación descargue ficheiros na caché de descarga, a cal non pode ser eliminada automaticamente cando o xestor de descargas necesita máis espazo.</string>
+    <string name="permlab_downloadWithoutNotification">descargar ficheiros sen notificación</string>
+    <string name="permdesc_downloadWithoutNotification">Permite que a aplicación descargue ficheiros mediante o xestor de descargas sen notificalo ao usuario.</string>
+    <string name="permlab_accessAllDownloads">Acceder a todas as descargas do sistema</string>
+    <string name="permdesc_accessAllDownloads">Permite que a aplicación vexa e modifique todas as descargas iniciadas por calquera aplicación do sistema.</string>
+    <string name="download_unknown_title">&lt;Sen título></string>
+    <string name="notification_download_complete">Descarga completada.</string>
+    <string name="notification_download_failed">Descarga sen éxito.</string>
+    <string name="notification_need_wifi_for_size">O tamaño de descarga require Wi-Fi.</string>
+    <string name="notification_paused_in_background">Detido en segundo plano.</string>
+    <string name="wifi_required_title">Descarga demasiado grande para a rede do operador</string>
+    <string name="wifi_required_body" formatted="false">"Debe usar unha rede Wi-Fi para completar esta descarga de %s . 
+
+Toque %s para iniciar esta descarga a próxima vez que estea conectado a unha rede Wi-Fi."</string>
+    <string name="wifi_recommended_title">Poñer en cola para descargar máis tarde?</string>
+    <string name="wifi_recommended_body" formatted="false">"Se inicia agora esta descarga de %s pode acurtar a duración da batería e/ou provocar un uso excesivo da conexión de datos móbiles, o que pode implicar custos aplicados por parte do seu operador móbil en función do seu plan de datos.
+
+Toque %s para iniciar esta descarga a próxima vez que estea conectado a unha rede Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Poñer en cola</string>
+    <string name="button_cancel_download">Cancelar</string>
+    <string name="button_start_now">Iniciar agora</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Falta(n) %s</string>
+    <string name="download_no_application_title">Non se pode abrir o ficheiro</string>
+    <string name="root_downloads">Descargas</string>
+    <string name="download_queued">Na cola</string>
+    <string name="download_running">En progreso</string>
+    <string name="download_error">Descarga non completada</string>
+    <string name="download_running_percent">En progreso, %d%%</string>
+</resources>

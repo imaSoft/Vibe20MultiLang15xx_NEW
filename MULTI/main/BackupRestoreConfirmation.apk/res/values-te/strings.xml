@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">పూర్తి బ్యాక్‌అప్</string>
+    <string name="restore_confirm_title">పూర్తి పునరుద్ధరణ</string>
+    <string name="backup_confirm_text">"కనెక్ట్ చేయబడ్డ డెస్క్‌టాప్ కంప్యూటర్‌కు డేటా యొక్క పూర్తి బ్యాక్‌అప్ అభ్యర్థించబడింది.ఇది జరిగేందుకు మీరు అనుమతిస్తారా\\?
+
+మీ అంతట మీరు బ్యాక్‌అప్‌ను అభ్యర్థించకపోతే ఆపరేషన్‌ను ముందుకు సాగడానికి అనుమతించవద్దు."</string>
+    <string name="allow_backup_button_label">నా డేటాను బ్యాక్‌అప్ చేయి</string>
+    <string name="deny_backup_button_label">బ్యాక్‌అప్ చేయవద్దు</string>
+    <string name="restore_confirm_text">"కనెక్ట్ చేయబడిన డెస్క్‌టాప్ కంప్యూటర్‌ నుండి మొత్తం డేటా పూర్తి పునరుద్ధరణ కోసం అభ్యర్థించబడింది. దీనిని మీరు అనుమతించాలనుకుంటున్నారా\\?
+
+మీ సొంతంగా మీరు పునరుద్ధరణను అభ్యర్థించకుంటే, ఆపరేషన్ కొనసాగేందుకు అనుమతించవద్దు. ఇది ప్రస్తుతం పరికరంలో ఉన్న ఏ డేటానైనా భర్తీ చేస్తుంది!"</string>
+    <string name="allow_restore_button_label">నా డేటాను పునరుద్ధరించు</string>
+    <string name="deny_restore_button_label">పునరుద్ధరించవద్దు</string>
+    <string name="current_password_text">దిగువన మీ ప్రస్తుత బ్యాక్‌అప్ పాస్‌వర్డ్‌ను ఎంటర్ చేయండి:</string>
+    <string name="device_encryption_restore_text">దయచేసి, దిగువన మీ పరికరం యొక్క ఎన్‌క్రిప్షన్ పాస్‌వర్డ్‌ను ఎంటర్ చేయండి.</string>
+    <string name="device_encryption_backup_text">దిగువన మీ ఎన్‌క్రిప్షన్ పాస్‌వర్డ్‌ను దయచేసి ఎంటర్ చేయండి. ఇప్పటికే ఉన్న బ్యాక్‌అప్‌ను ఎన్‌క్రిప్ట్ చేయడానికి కూడా ఇది ఉపయోగించబడుతుంది.</string>
+    <string name="backup_enc_password_text">పూర్తి బ్యాకప్ డేటాను ఎన్క్రిప్ట్ చేయడానికి ఉపయోగించేందుకు దయచేసి పాస్‌వర్డ్ ఎంటర్ చేయండి. ఒకవేళ ఇది ఖాళీగా విడిచిపెట్టినట్లయితే, మీ ప్రస్తుత బ్యాకప్ పాస్‌వర్డ్ ఉపయోగించబడుతుంది:</string>
+    <string name="backup_enc_password_optional">మీరు పూర్తి బ్యాక్‌అప్ డేటాను ఎన్‌క్రిప్ట్ చేయాలనుకుంటే దిగువన పాస్‌వర్డ్‌ను ఎంటర్ చేయండి:</string>
+    <string name="restore_enc_password_text">పునరుద్ధరించబడిన డేటా ఎన్‌క్రిప్ట్ చేయబడితే, దయచేసి పాస్‌వర్డ్‌ను క్రింద ఎంటర్ చేయండి:</string>
+    <string name="toast_backup_started">బ్యాక్‌అప్ ప్రారంభమవుతోంది...</string>
+    <string name="toast_backup_ended">బ్యాక్‌అప్ పూర్తయింది</string>
+    <string name="toast_restore_started">పునరుద్ధరణ ప్రారంభమవుతోంది...</string>
+    <string name="toast_restore_ended">పునరుద్ధరణ ముగిసింది</string>
+    <string name="toast_timeout">ఆపరేషన్ సమయం ముగిసింది</string>
+</resources>

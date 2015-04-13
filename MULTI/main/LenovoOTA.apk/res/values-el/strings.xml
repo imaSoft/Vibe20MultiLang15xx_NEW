@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Αναβάθμιση συστήματος</string>
+    <string name="exit">Έξοδος</string>
+    <string name="update_failed">Λυπούμαστε. Η εγκατάσταση του νέου υλικολογισμικού απέτυχε</string>
+    <string name="btn_ok">ΟΚ</string>
+    <string name="btn_cancel">Ακύρωση</string>
+    <string name="notification_content_title">Αναβάθμιση υλικολογισμικού</string>
+    <string name="notification_content_text_completed">Επιτυχής λήψη</string>
+    <string name="error_not_specify_network_title">Πραγματοποιήστε λήψη μέσω δικτύου WLAN</string>
+    <string name="error_not_specify_network_content">Συνιστάται λήψη μέσω δικτύου WLAN, καθώς η λήψη μέσω δικτύου κινητής τηλεφωνίας ενδέχεται να περιλαμβάνει σημαντικές χρεώσεις</string>
+    <string name="btn_setting_network">Ρύθμιση αμέσως</string>
+    <string name="btn_keep_download">Συνέχεια για λήψη</string>
+    <string name="retry">Νέα προσπάθεια</string>
+    <string name="redo_backup">Επανάληψη εφεδρικής αποθήκευσης</string>
+    <string name="contact">Επαφές</string>
+    <string name="sms">Μήνυμα</string>
+    <string name="calllog">Αρχείο καταγραφής κλήσεων</string>
+    <string name="btn_backup">Εφεδρική αποθήκευση</string>
+    <string name="has_not_backup">Χωρίς εφεδρικό αντίγραφο</string>
+    <string name="countSms">μήνυμα(μηνύματα)</string>
+    <string name="countContact">επαφή(ές)</string>
+    <string name="countCalllog">αρχείο(α) καταγραφής κλήσεων</string>
+    <string name="nodata">Δεν υπάρχουν δεδομένα</string>
+    <string name="backup_data_ing">Εφεδρική αποθήκευση επαφών κλπ...</string>
+    <string name="backup_data_finish">Επιτυχής εφεδρική αποθήκευση δεδομένων!</string>
+    <string name="data_usage_warning_title">Προειδοποίηση</string>
+    <string name="data_usage_warning">Αγαπητοί χρήστες, για τη χρήση αυτής της εφαρμογής πρέπει να αποκτήσετε πρόσβαση στο Internet, θέλετε να συνεχίσετε;</string>
+    <string name="data_usage_confirm">Να μην ερωτηθώ ξανά</string>
+    <string name="ndf_install_finish_p">Αμέσως</string>
+    <string name="ndf_install_finish_n">Αργότερα</string>
+    <string name="ndf_lowpower_title">Χαμηλή μπαταρία</string>
+    <string name="toast_install_fail">Η εγκατάσταση απέτυχε, η καθορισμένη διαδρομή: %s δεν υπάρχει.</string>
+    <string name="network_error">Η σύνδεση δικτύου απέτυχε</string>
+    <string name="notification_new_rom_come">Μπορείτε να ενημερώσετε το σύστημά σας στην πιο πρόσφατη έκδοση</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Μετά από %d δευτερόλεπτα, το σύστημα πρέπει να εγκαταστήσει τη νέα έκδοση!</string>
+    <string name="backup_data">Δημιουργία αντιγράφου ασφαλείας δεδομένων</string>
+    <string name="restore_data">Επαναφορά δεδομένων</string>
+    <string name="battery_tip">Χαμηλή μπαταρία. Συνδέστε το φορτιστή για να συνεχίσετε την αναβάθμιση</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">SN</string>
+    <string name="factory_wipe_data">Ştergere date utilizator prin modul setărilor din fabrică</string>
+    <string name="factory_wipe_data_warning">Faceți click pe butonul OK pentru a șterge toate datele utilizatorului, dar păstr. aplic. instal., se recomandă ca utiliz. obișnuiți să nu folos. ac. opţiune, pentru a evita pierderea datelor</string>
+    <string name="factory_wipe_data_cancel">„revocare”</string>
+    <string name="sdcard_not_found">„ștergerea datelor din fabrică a eșuat”</string>
+    <string name="sdcard_not_found_tip">"Această caracteristică necesită compatibilitate cu cardul SD,
+        asigurați-vă că aţi introdus cardul SD disponibil"</string>
+    <string name="sdcard_out_of_space">„Spaţiu insuficient pe cardul SD”</string>
+    <string name="sdcard_out_of_space_tip">„Doar %1$sM spațiu disponibil pe SD, dar aceste funcții necesită %2$sM spațiu disponibil pe cardul SD”</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Invalid</string>
+</resources>

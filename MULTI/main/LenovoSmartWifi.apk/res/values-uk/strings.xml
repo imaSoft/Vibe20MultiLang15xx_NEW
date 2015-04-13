@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">\"WlanBindingLocation\"</string>
+    <string name="setting_activity">"Зв'язати WLAN з місцезнаходж."</string>
+    <string name="dialog_title">Увімкнути WLAN?</string>
+    <string name="dialog_text">"Це розташування було зв'язано з програмою, увімкнути WLAN?"</string>
+    <string name="disable_dialog_title">Вимкнути WLAN?</string>
+    <string name="disable_dialog_text">"Це розташування знаходиться далеко від розташування, зв'язаного з програми, вимкнути WLAN?"</string>
+    <string name="show_dialog">Не нагадувати</string>
+    <string name="disable_show_dialog">Не нагадувати</string>
+    <string name="wifi_enable_text">Дія при вході</string>
+    <string name="wifi_enable_summary">"Дія при вході на зв'язану з WLAN територію"</string>
+    <string name="wifi_disable_text">Дія при виході</string>
+    <string name="wifi_disable_summary">"Дія при виході зі зв'язаної з WLAN території"</string>
+    <string name="wifi_setting_summary">Коли ви знаходитесь у певному місці, то буде автоматично вмикатися WLAN</string>
+    <string name="wifi_popup_tip">Спливаюча підказка</string>
+    <string name="wifi_auto_enable">Автоматичне увімкнення</string>
+    <string name="wifi_auto_disable">Автоматичне вимкнення</string>
+    <string name="wifi_popup_0">"Зв'язати з підключеною програмою. Після входу до цього розташування з'явиться спливаюче повідомлення"</string>
+    <string name="wifi_popup_1">"Зв'язати з підключеною програмою. Після входу до цього розташування вона буде автоматично увімкнена"</string>
+    <string name="wifi_popup_2">Не нагадувати</string>
+    <string name="confirm_yes">Так</string>
+    <string name="confirm_no">Ні</string>
+    <string name="enable_wifi_hint">"Запис WLAN наразі під'єднується до мережі WLAN для збереження потоку даних"</string>
+    <string name="disable_wifi_hint">Запис WLAN наразі вимикає WLAN для збереження енергії</string>
+</resources>

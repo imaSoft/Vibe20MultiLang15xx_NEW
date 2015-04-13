@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">SN</string>
+    <string name="factory_wipe_data">Felhasználói adatok törlése gyári módon</string>
+    <string name="factory_wipe_data_warning">Az OK gombra kattintás töröl minden felhasználói adatot, de megtartja a telepített alkalmazásokat, az adatvesztés miatt általában nem ajánlott az egyszerű felhasználóknak</string>
+    <string name="factory_wipe_data_cancel">Mégse</string>
+    <string name="sdcard_not_found">sikertelen gyári adattörlés</string>
+    <string name="sdcard_not_found_tip">"Ez a szolgáltatás SD kártya támogatást igényel,
+\u0009\u0009győződjön meg a rendelkezésre álló SD kártya behelyezéséről"</string>
+    <string name="sdcard_out_of_space">Nincs elegendő terület az SD kártyán</string>
+    <string name="sdcard_out_of_space_tip">"Az SD kártyán csak %1$sM  tárterület maradt, de ehhez a 
+funkcióhoz %2$sM rendelkezésre álló tárterület szükséges az SD kártyán"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Érvénytelen</string>
+</resources>

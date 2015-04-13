@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Kontaktai: %d</item>
+        <item quantity="one">1 kontaktas</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Rasta %d</item>
+        <item quantity="one">rastas 1</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d žm. iš %2$s</item>
+        <item quantity="one">%1$d žm. iš %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d žm.</item>
+        <item quantity="one">%1$d žm.</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d balso pašto pranešim.</item>
+        <item quantity="one">Balso paštas</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">„Rasta skambučių žurnalų: %d“</item>
+        <item quantity="one">„Rastas 1 skambučio žurnalas“</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Ieškoti adresatų | Iš viso %d adresatai (-ų)</item>
+        <item quantity="one">Ieškoti adresatų | Iš viso 1 adresatas</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">„Bus ištrinti %1$s pokalbiai (-ių)“</item>
+        <item quantity="one">„Sistema ištrins 1 pokalbį“</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">Neperskaitytų pranešimų: %d.</item>
+        <item quantity="one">Neperskaitytų pranešimų: %d.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sek.</item>
+        <item quantity="one">%s sec</item>
+        <item quantity="few">%s sek.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">„%1$s paieškos rezultatų: %2$s“</item>
+        <item quantity="one">„%1$s paieškos rezultatų: %2$s“</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">„%1$s žmonės (-ių)“</item>
+        <item quantity="one">„%1$s žmonės (-ių)“</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">siunčiami (-a) %d pranešimai (-ų) apie perskaitymą</item>
+        <item quantity="one">siunčiami (-a) %d pranešimai (-ų) apie perskaitymą</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">„%d pasirinkti (-ų)“</item>
+        <item quantity="one">„%d pasirinkti (-ų)“</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Kontaktai (-ų) su telefonų numeriais: %d</item>
+        <item quantity="one">1 kontaktas su telefono numeriu</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Rasta %d</item>
+        <item quantity="one">rastas 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">sujungta iš %0$d šaltinių (-io)</item>
+        <item quantity="one">nesujungta</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Grupių: %0$d</item>
+        <item quantity="one">1 grupė</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">„Pažymėti %1$s pokalbius (-ų) kaip perskaitytus“</item>
+        <item quantity="one">„Pažymėti 1 pokalbį kaip perskaitytą“</item>
+    </plurals>
+</resources>

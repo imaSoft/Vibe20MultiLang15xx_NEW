@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Jedna strana na stranu</item>
+        <item>Dve strany na stranu</item>
+        <item>Štyri strany na stranu</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Na výšku</item>
+        <item>Na šírku</item>
+        <item>Obrátená orientácia na šírku</item>
+        <item>Obrátená orientácia na výšku</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>na výšku</item>
+        <item>na šírku</item>
+        <item>obrátená orientácia na šírku</item>
+        <item>obrátená orientácia na výšku</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Jednostranne</item>
+        <item>Obojstranne pozdĺž dlhého okraja</item>
+        <item>Obojstranne pozdĺž krátkeho okraja</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>jednostranne</item>
+        <item>obojstranne pozdĺž dlhého okraja</item>
+        <item>obojstranne pozdĺž krátkeho okraja</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Zdieľať kontakty v skupine</item>
+        <item>Získať kontakt</item>
+        <item>Výmena kontaktov</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Všetko zobrazené</item>
+        <item>Kontakty s telefónnymi číslami</item>
+        <item>Obľúbené v Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Papiers peints statiques</string>
+    <string name="wallpaper_instructions">Régler papier peint</string>
+    <string name="pick_wallpaper">Papiers peints statiques</string>
+</resources>

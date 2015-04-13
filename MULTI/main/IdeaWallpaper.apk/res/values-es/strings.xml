@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Fondos de pantalla estáticos</string>
+    <string name="wallpaper_instructions">Establecer fondo de pantalla</string>
+    <string name="pick_wallpaper">Fondos de pantalla estáticos</string>
+</resources>

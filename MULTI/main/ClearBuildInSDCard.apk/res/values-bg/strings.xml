@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Чистач на SD карта</string>
+    <string name="loading_please_wait">Зареждане, моля, изчакайте...</string>
+    <string name="white_list_not_found">Почистването на SD картата е неуспешно, същевременно не е намерен списък</string>
+    <string name="sdcard_not_available">Почистването на SD картата е неуспешно, SD картата е забранена</string>
+    <string name="clearSDcardFailed">Почистването на SD картата е неуспешно</string>
+    <string name="deleteFileFailed">Грешка при изтриване на файл</string>
+    <string name="fileNotFoud">Изключение: файлът не е намерен</string>
+    <string name="clear_start">Начало на почистването на SD картата</string>
+    <string name="clear_success">почистването на SD картата е успешно, рестартиране на машината</string>
+    <string name="clearing">Почистване на SD картата</string>
+    <string name="checking">Проверка</string>
+    <string name="check_file">Пр. рес.</string>
+    <string name="check_sucess">Усп. проверка</string>
+    <string name="check_fail">Неусп. пров. Край？</string>
+</resources>

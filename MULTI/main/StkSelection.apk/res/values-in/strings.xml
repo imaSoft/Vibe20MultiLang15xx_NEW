@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toolkit USIM</string>
+    <string name="activity_not_found">Kartu USIM belum siap atau tidak mendukung fitur ini.</string>
+    <string name="simlock_toolkit">USIM Toolkit</string>
+    <string name="no_sim_card_inserted">Masukkan USIM untuk mengaktifkan USIM Toolkit.</string>
+    <string name="airplane_mode_on">Tidak dapat mengaktifkan USIM Toolkit karena mode penerbangan sedang aktif.</string>
+    <string name="lable_sim_not_ready">Toolkit USIM tidak siap atau tidak didukung</string>
+</resources>

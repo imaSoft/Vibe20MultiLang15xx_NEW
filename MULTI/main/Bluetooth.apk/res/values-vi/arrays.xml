@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Một trang mỗi bên</item>
+        <item>Hai trang mỗi bên</item>
+        <item>Bốn trang mỗi bên</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Dọc</item>
+        <item>Ngang</item>
+        <item>Ngang Đảo ngược</item>
+        <item>Dọc Đảo ngược</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>dọc</item>
+        <item>ngang</item>
+        <item>ngang-đảo ngược</item>
+        <item>dọc-đảo ngược</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Một Bên</item>
+        <item>Cạnh Dài Hai Bên</item>
+        <item>Cạnh Ngắn Hai Bên</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>một-bên</item>
+        <item>cạnh-dài-hai-bên</item>
+        <item>cạnh-ngắn-hai-bên</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Chia sẻ danh bạ trong nhóm</item>
+        <item>Nhận số liên lạc</item>
+        <item>Trao đổi danh bạ</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Hiển thị toàn bộ</item>
+        <item>Danh bạ chứa các số điện thoại</item>
+        <item>Đã đánh dấu sao trên Android</item>
+    </string-array>
+</resources>

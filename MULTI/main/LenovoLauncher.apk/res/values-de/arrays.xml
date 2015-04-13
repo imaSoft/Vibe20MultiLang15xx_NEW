@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Standard</item>
+        <item>Drehen</item>
+        <item>Schieben &amp; Drücken</item>
+        <item>Windmühle</item>
+        <item>Würfel</item>
+        <item>Sinus</item>
+        <item>Zylinder</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Keine</item>
+        <item>Launcher-Menü zeigen</item>
+        <item>Zuletzt verwendete Anwendungen zeigen</item>
+        <item>Meldungsleiste zeigen</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_theme_title">Tapasztalatok az új témával kapcsolatban</string>
+    <string name="change_theme_content_hj">Élvezd az új MIRAGE témát</string>
+    <string name="change_theme_content_hj_paopao">Élvezd az új MIRAGE témát és a BUBORÉK záróképernyőt</string>
+    <string name="change_theme_content_paopao">Élvezd az új BUBORÉK záróképernyőt</string>
+    <string name="rf_btn_cancel">Mégse</string>
+    <string name="btn_wait">Kérlek várj...</string>
+</resources>

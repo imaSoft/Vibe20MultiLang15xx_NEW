@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">की चेन</string>
+    <string name="title_no_certs">कोणतीही प्रमाणपत्रे आढळली नाहीत</string>
+    <string name="title_select_cert">प्रमाणपत्र निवडणे</string>
+    <string name="requesting_application">अनुप्रयोग %s ने प्रमाणपत्राची विनंती केली आहे. प्रमाणपत्र निवडणे अनुप्रयोगास आता आणि भविष्यात सर्व्हरसह ही ओळख वापरण्याची क्षमता प्रदान करेल.</string>
+    <string name="requesting_server">अनुप्रयोगाने विनंती करणारा सर्व्हर %s म्हमून ओळखला आहे परंतु आपण अनुप्रयोगावर विश्वास करत असल्यासच प्रमाणपत्रास केवळ अनुप्रयोगात प्रवेश द्या.</string>
+    <string name="install_new_cert_message">बाह्य संचयामध्ये स्थित विस्तार %1$s किंवा %2$s सह आपण PKCS#12 फायलीमधून प्रमाणपत्रे स्थापित करू शकता.</string>
+    <string name="install_new_cert_button_label">स्थापित करा</string>
+    <string name="allow_button">परवानगी द्या</string>
+    <string name="deny_button">नाकारा</string>
+</resources>

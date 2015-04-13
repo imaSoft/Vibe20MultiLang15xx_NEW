@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aktualizacja systemu</string>
+    <string name="exit">Wyjdź</string>
+    <string name="update_failed">Niestety, instalacja nowego oprogramowania wbudowanego nie powiodła się.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Anuluj</string>
+    <string name="notification_content_title">Aktualizacja oprogramowania wbudowanego</string>
+    <string name="notification_content_text_completed">Pobieranie pomyślne</string>
+    <string name="error_not_specify_network_title">Pobierz przez sieć WLAN</string>
+    <string name="error_not_specify_network_content">Zalecamy pobieranie przez sieć WLAN, ponieważ pobieranie przez sieć komórkową może wiązać się z wysokimi opłatami</string>
+    <string name="btn_setting_network">Ustaw niezwłocznie</string>
+    <string name="btn_keep_download">Kontynuuj pobieranie</string>
+    <string name="retry">Spróbuj ponownie</string>
+    <string name="redo_backup">Wykonaj kopię zapasową ponownie</string>
+    <string name="contact">Kontakty</string>
+    <string name="sms">Wiadomość</string>
+    <string name="calllog">Historia połączeń</string>
+    <string name="btn_backup">Utwórz kopię zapasową</string>
+    <string name="has_not_backup">Nie utworzono kopii zapasowej</string>
+    <string name="countSms">wiadom.</string>
+    <string name="countContact">kontak.</string>
+    <string name="countCalllog">histor. poł.</string>
+    <string name="nodata">Brak danych</string>
+    <string name="backup_data_ing">Tworzenie kopii zapasowej kontaktów itd.</string>
+    <string name="backup_data_finish">Tworzenie kopii zapasowej danych zakończyło się powodzeniem!</string>
+    <string name="data_usage_warning_title">Ostrzeżenie</string>
+    <string name="data_usage_warning">Szanowni użytkownicy, ta aplikacja wymaga dostępu do Internetu, kontynuować?</string>
+    <string name="data_usage_confirm">Nie monituj ponownie</string>
+    <string name="ndf_install_finish_p">Natychmiast</string>
+    <string name="ndf_install_finish_n">Później</string>
+    <string name="ndf_lowpower_title">Akumulator bliski rozładowania</string>
+    <string name="toast_install_fail">Niepowodzenie instalacji. Podana ścieżka: %s nie istnieje.</string>
+    <string name="network_error">Połączenie z siecią nie powiodło się</string>
+    <string name="notification_new_rom_come">Można zaktualizować system do najnowszej wersji</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Po %d sekundach system musi zainstalować nową wersję!</string>
+    <string name="backup_data">Wykonaj kopię zapasową danych</string>
+    <string name="restore_data">Przywracanie danych</string>
+    <string name="battery_tip">Niski poziom naładowania baterii, podłącz ładowarkę, aby kontynuować aktualizację</string>
+</resources>

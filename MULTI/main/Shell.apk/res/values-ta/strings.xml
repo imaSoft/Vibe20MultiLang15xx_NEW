@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ஷெல்</string>
+    <string name="bugreport_finished_title">பிழை அறிக்கைப் பிடிக்கப்பட்டது</string>
+    <string name="bugreport_finished_text">உங்கள் பிழை அறிக்கையை பகிர தட்டவும்</string>
+    <string name="bugreport_confirm">தனிநபர் மற்றும் தனிப்பட்ட தகவலை உள்ளடக்கிய, அமைப்புகளின் பல்வேறு பதிவு கோப்புகளை பிழை அறிக்கைகள் கொண்டுள்ளது. பயன்பாடுகள் மற்றும் நீங்கள் நம்பும் நபர்களிடம் மட்டுமே பிழை அறிக்கைகளை பகிரவும்.</string>
+    <string name="bugreport_confirm_repeat">இந்த செய்தியை அடுத்த முறை காண்பி</string>
+</resources>

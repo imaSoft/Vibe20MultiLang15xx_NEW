@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Powłoka</string>
+    <string name="bugreport_finished_title">Zarejestrowano raport o błędzie</string>
+    <string name="bugreport_finished_text">Dotknij, aby udostępnić raport o błędzie</string>
+    <string name="bugreport_confirm">Raporty o błędach zawierają dane z plików różnych rejestrów systemowych, w tym dane osobowe i poufne. Raporty o błędach należy udostępniać tylko zaufanym aplikacjom i osobom.</string>
+    <string name="bugreport_confirm_repeat">Pokaż ten komunikat następnym razem</string>
+</resources>

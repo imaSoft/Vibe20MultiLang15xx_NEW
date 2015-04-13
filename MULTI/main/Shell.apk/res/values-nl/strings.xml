@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Foutrapport opgemaakt</string>
+    <string name="bugreport_finished_text">Raak aan om uw foutrapport te delen</string>
+    <string name="bugreport_confirm">Foutrapporten bevataten gegevens uit de verschillende logboeken van het systeem, waaronder persoonlijke en privégegevens. Deel foutrapporten alleen met apps en personen die u vertrouwt.</string>
+    <string name="bugreport_confirm_repeat">Dit bericht de volgende keer weergeven</string>
+</resources>

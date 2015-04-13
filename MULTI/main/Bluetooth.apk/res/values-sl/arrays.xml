@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Ena stran na stran</item>
+        <item>Dve strani na stran</item>
+        <item>Štiri strani na stran</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Pokončno</item>
+        <item>Ležeče</item>
+        <item>Obratno ležeče</item>
+        <item>Obratno pokončno</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>pokončno</item>
+        <item>ležeče</item>
+        <item>obratno ležeče</item>
+        <item>obratno pokončno</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Enostransko</item>
+        <item>Obojestransko po dolgem robu</item>
+        <item>Obojestransko po kratkem robu</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>enostransko</item>
+        <item>obojestransko po dolgem robu</item>
+        <item>obojestransko po kratkem robu</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Delite stike s skupino</item>
+        <item>Prenesite stike</item>
+        <item>Izmenjajte stike</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Vsi prikazani</item>
+        <item>Stiki s telefon. številkami</item>
+        <item>Označ. z zvezdico v Androidu</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s се обидува да воспостави VPN конекција.</string>
+    <string name="warning">Со продолжување, на апликацијата ѝ давате дозвола да го задржи целиот мрежен сообраќај. <b>НЕ прифаќајте освен ако ѝ верувате на апликацијата.</b> На друг начин, ризикувате податоците да ви бидат компромитирани од злонамерен софтвер.</string>
+    <string name="accept">И верувам на оваа апликација.</string>
+    <string name="legacy_title">VPN iе поврзана</string>
+    <string name="configure">Конфигурирај</string>
+    <string name="disconnect">Исклучи</string>
+    <string name="session">Сесија:</string>
+    <string name="duration">Траење:</string>
+    <string name="data_transmitted">"Испратено: "</string>
+    <string name="data_received">"Примено: "</string>
+    <string name="data_value_format">%1$s бајти / %2$s пакети</string>
+</resources>

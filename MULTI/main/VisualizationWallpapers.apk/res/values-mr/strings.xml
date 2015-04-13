@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis3">स्पेक्ट्रम</string>
+    <string name="wallpapers">संगीत कल्पनाचित्रण वॉलपेपर्स</string>
+    <string name="vis2_desc">सध्या प्ले करीत असलेल्या कोणत्याही संगीत ट्रॅकची ध्वनिलहर काढतो.</string>
+    <string name="vis3_desc">सध्या प्ले करीत असलेल्या कोणत्याही संगीत ट्रॅकचा फ्रिक्वेन्सी स्पेक्ट्रम दाखवतो.</string>
+    <string name="vis4_desc">निरंतर ध्वनी मापकाचे प्रतिरूपण करतो.</string>
+    <string name="vis5_desc">सर्व संगीत कल्पनाचित्रणे एकत्र, 3D मध्ये हळूहळू फिरत असलेली.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Descargas</string>
+    <string name="download_title_sorted_by_date">Descargas (por fecha)</string>
+    <string name="download_title_sorted_by_size">Descargas (por tamaño)</string>
+    <string name="download_queued">Por descargarse</string>
+    <string name="download_error">No se pudo realizar</string>
+    <string name="dialog_title_not_available">No se pudo descargar</string>
+    <string name="dialog_queued_body">Este archivo está en cola para descargarlo más tarde.</string>
+    <string name="dialog_cannot_resume">Descarga interrumpida. No se puede reanudar.</string>
+    <string name="dialog_file_already_exists">No se puede realizar la descarga porque el archivo de destino ya existe.</string>
+    <string name="dialog_media_not_found">No se puede realizar la descarga porque el medio externo no está disponible.</string>
+    <string name="remove_download">Quitar</string>
+    <string name="retry_download">Reintentar</string>
+    <string name="deselect_all">Deseleccionar todo</string>
+    <string name="select_all">Seleccionar todo</string>
+    <string name="download_share_dialog">Compartir a través de</string>
+</resources>

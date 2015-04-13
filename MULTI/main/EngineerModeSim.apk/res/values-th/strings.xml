@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">EM SIM ME ล็อค</string>
+    <string name="simmelock_name">SIM ME ล็อค</string>
+    <string name="strInputPassword">โปรดป้อนรหัสผ่าน :</string>
+    <string name="strConfirm">เสร็จ</string>
+    <string name="strCancel">ยกเลิก</string>
+    <string name="strInputChancesleft">เหลือความพยายาม :</string>
+    <string name="strMCCMNC">MCC+MNC :</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR :</string>
+    <string name="strGID1">GID1 :</string>
+    <string name="strGID2">GID2 :</string>
+    <string name="strInputPasswordAgain">โปรดป้อนรหัสผ่านอีกครั้ง :</string>
+    <string name="strIMSI">IMSI :</string>
+    <string name="strAttention">โปรดทราบ</string>
+    <string name="strConfirmRemove">ลบจริงๆ หรือไม่ ?</string>
+    <string name="srtConfirmPermanUnlock">ปลดล็อคถาวรจริงๆ หรือไม่ ?</string>
+    <string name="strYes">ใช่</string>
+    <string name="strLockFail">ล็อกล้มเหลว !</string>
+    <string name="strLockSucceed">ล็อคสำเร็จ !</string>
+    <string name="strUnlockFail">ปลดล็อกล้มเหลว !</string>
+    <string name="strUnlockSucceed">ปลดล็อคสำเร็จ !</string>
+    <string name="strUserInput">อินพุตผู้ใช้</string>
+    <string name="strInputMode">ป้อนโดยผู้ใช้หรือไม่?</string>
+    <string name="strLockNameNetwork">การปรับแต่งเครือข่าย</string>
+    <string name="strLockNameNetworkSub">การปรับแต่งซับเซ็ตเครือข่าย</string>
+    <string name="strLockNameService">การปรับแต่งผู้ให้บริการ</string>
+    <string name="strLockNameCorporate">การปรับแต่งบริษัท</string>
+    <string name="strLockNameSIM">การปรับแต่ง SIM</string>
+    <string name="strActionNameLock">ล็อค</string>
+    <string name="strActionNameUnlock">ปลดล็อก</string>
+    <string name="strActionNameAddLock">เพิ่ม</string>
+    <string name="strActionNameRemoveLock">ลบ</string>
+    <string name="strActionNamePermanentUnlock">ปลดล็อคถาวร</string>
+    <string name="strPasswordLengthIncorrect">ตัวเลข 4-8 หลัก!</string>
+    <string name="strQueryFailed">การสอบถามล้มเหลว!</string>
+    <string name="strAddLockFail">เพิ่มล้มเหลว!</string>
+    <string name="strAddLockSucceed">เพิ่มสำเร็จ!</string>
+    <string name="strMCCMNCLengthIncorrect">MCC+MNC ไม่ถูกต้อง!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">MCC+MNC+HLR ไม่ถูกต้อง!</string>
+    <string name="strIMSILengthIncorrect">IMSI ไม่ถูกต้อง!</string>
+    <string name="strGID1WRONG">GID1 ไม่ถูกต้อง!</string>
+    <string name="strGID2WRONG">GID2 ไม่ถูกต้อง!</string>
+    <string name="str_simme_passwords_dont_match">รหัสผ่านไม่ตรง</string>
+</resources>

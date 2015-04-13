@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nøglekæde</string>
+    <string name="title_no_certs">Der blev ikke fundet nogen certifikater</string>
+    <string name="title_select_cert">Vælg certifikat</string>
+    <string name="requesting_application">Applikationen %s har anmodet om et certifikat. Når et certifikat vælges, tildeles applikationen muligheden for at bruge denne identitet med servere nu og i fremtiden.</string>
+    <string name="requesting_server">Applikation har identificeret den anmodende server som %s, men du bør kun tildele applikationen adgang til certifikatet, hvis du har tillid til applikationen.</string>
+    <string name="install_new_cert_message">Du kan installere certifikater fra en PKCS#12-fil med et %1$s eller %2$s filtypenavn placeret i eksternt lager.</string>
+    <string name="install_new_cert_button_label">Installer</string>
+    <string name="allow_button">Tillad</string>
+    <string name="deny_button">Afvis</string>
+</resources>

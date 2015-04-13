@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Փաստաթղթեր</string>
+    <string name="title_open">Բացելու տեղադրություն</string>
+    <string name="title_save">Պահելու տեղադրություն</string>
+    <string name="menu_create_dir">Ստեղծել պանակ</string>
+    <string name="menu_grid">Վանդակացանցի տեսք</string>
+    <string name="menu_list">Ցուցակի տեսք</string>
+    <string name="menu_sort">Տեսակավորել ըստ</string>
+    <string name="menu_search">Որոնել</string>
+    <string name="menu_settings">Պարամետրեր</string>
+    <string name="menu_open">Բացել</string>
+    <string name="menu_save">Պահել</string>
+    <string name="menu_share">Համօգտագործել</string>
+    <string name="menu_delete">Ջնջել</string>
+    <string name="mode_selected_count">Ընտրվել է %1$d-ը</string>
+    <string name="sort_name">Ըստ անվան</string>
+    <string name="sort_date">Ըստ փոփոխման ամսաթվի</string>
+    <string name="sort_size">Ըստ չափի</string>
+    <string name="drawer_open">Ցուցադրել արմատները</string>
+    <string name="drawer_close">Թաքցնել արմատները</string>
+    <string name="save_error">Անհնար է պահել փաստաթուղթը</string>
+    <string name="create_error">Անհնար է պանակ ստեղծել</string>
+    <string name="query_error">Անհնար է փաստաթղթեր որոնել</string>
+    <string name="root_recent">Վերջերս</string>
+    <string name="root_available_bytes">%1$s ազատ</string>
+    <string name="root_type_service">Հիշասարքի ծառայություններ</string>
+    <string name="root_type_shortcut">Դյուրանցումներ</string>
+    <string name="root_type_device">Սարքեր</string>
+    <string name="root_type_apps">Այլ աշխատածրագրեր</string>
+    <string name="pref_advanced_devices">Ցցդրլ լրցցչ սրքրը</string>
+    <string name="pref_file_size">Ցուցադրել ֆայլի չափը</string>
+    <string name="pref_device_size">Ցուցադրել սարքի չափը</string>
+    <string name="empty">Տարրեր չկան</string>
+    <string name="toast_no_application">Անհնար է բացել ֆայլը</string>
+    <string name="toast_failed_delete">Որոշ փաստաթղթեր հնարավոր չէ ջնջել</string>
+    <string name="share_via">Համօգտագործման աշխատածրագիր</string>
+</resources>

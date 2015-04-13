@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Tên mẹ của bạn là gì?</item>
+        <item>Trái cây bạn thích là gì?</item>
+        <item>Snhật của cha bạn là gì?</item>
+        <item>Bài hát bạn thích là gì?</item>
+        <item>Tên vật nuôi của bạn là gì?</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Nhập từ Lịch Sử Cuộc Gọi</item>
+        <item>Nhập từ Lịch Sử SMS</item>
+        <item>Nhập từ Danh Bạ</item>
+        <item>Thêm thủ công</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Chỉ chặn Danh Sách Đen</item>
+        <item>Chỉ cho phép Danh Bạ</item>
+        <item>Chỉ cho phép Danh Sách Trắng</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Âm báo bận</item>
+        <item>Tắt Nguồn</item>
+        <item>Tắt Máy</item>
+        <item>Số Không Có Người</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Chỉ đối với Danh Bạ</item>
+        <item>Chỉ đối với Danh Sách Trắng</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Nhập từ Lịch Sử Cuộc Gọi</item>
+        <item>Nhập từ Lịch Sử SMS</item>
+        <item>Nhập từ Danh Bạ</item>
+        <item>Thêm thủ công</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Trả lời</item>
+        <item>Từ chối</item>
+        <item>Từ chối cuộc gọi có SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Nhập từ Lịch Sử Cuộc Gọi</item>
+        <item>Nhập từ Lịch Sử SMS</item>
+        <item>Nhập từ Danh Bạ</item>
+        <item>Thêm thủ công</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Không cảnh báo</item>
+        <item>CảnhBáoTrênThanh TBáo</item>
+        <item>CảnhBáoTrênThanh TBáo + âm báo</item>
+        <item>CảnhBáoTrênThanh TBáo + rung</item>
+    </string-array>
+</resources>

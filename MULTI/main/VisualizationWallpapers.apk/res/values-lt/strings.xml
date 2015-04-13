@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Vizualizavimo priemonė</string>
+    <string name="wallpaper_vis2">Bangos forma</string>
+    <string name="wallpaper_vis3">Spektras</string>
+    <string name="wallpaper_vis4">Garsumo lygio matuoklis</string>
+    <string name="wallpaper_vis5">Daug</string>
+    <string name="wallpapers">Muzikos vizualizacijos fono paveikslėliai</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Piešiama dabar grojamo muzikinio takelio garso banga.</string>
+    <string name="vis3_desc">Rodomas dabar grojamo muzikinio takelio dažnių spektras.</string>
+    <string name="vis4_desc">Imituojamas analoginis garso matuoklis.</string>
+    <string name="vis5_desc">Visos muzikos vizualizacijos, kartu lėtai besisukančios trimačiu formatu.</string>
+</resources>

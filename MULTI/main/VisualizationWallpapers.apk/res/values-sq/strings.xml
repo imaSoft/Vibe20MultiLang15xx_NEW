@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Vizualizuesi</string>
+    <string name="wallpaper_vis2">Forma e valës</string>
+    <string name="wallpaper_vis3">Spektër</string>
+    <string name="wallpaper_vis4">Matësi VU</string>
+    <string name="wallpaper_vis5">Shumë</string>
+    <string name="wallpapers">Sfondet me vizualizim muzikor</string>
+    <string name="vis2_desc">Vizaton valën e tingullit të çdo titulli muzikor që është duke u riprodhuar aktualisht.</string>
+    <string name="vis3_desc">Shfaq spektrin e shpeshtësisë së çdo titulli muzikor që është duke u riprodhuar aktualisht.</string>
+    <string name="vis4_desc">Imiton një zhurmëmatës analog.</string>
+    <string name="vis5_desc">Të gjitha vizualizimet muzikore së bashku, duke u rrotulluar ngadalë në 3D.</string>
+</resources>

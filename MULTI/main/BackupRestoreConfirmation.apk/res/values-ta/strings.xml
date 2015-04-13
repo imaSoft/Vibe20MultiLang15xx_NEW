@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">முழு மறுபிரதி</string>
+    <string name="restore_confirm_title">முழு மீள்நிலை பெறுதல்</string>
+    <string name="backup_confirm_text">ஒரு இணைக்கப்பட்ட திரைப்பலக கணினிக்கு அனைத்துத் தரவுகளினதும் மறுபிரதி கோரப்பட்டுள்ளது. இது நிகழ அனுமதிக்க விரும்புகிறீகளா\\? நீங்களாகவே மறுபிரதியை கோரவில்லை என்றால், இயக்கம் தொடர அனுமதிக்க வேண்டாம்.</string>
+    <string name="allow_backup_button_label">எனது தரவை பேக்அப் எடு</string>
+    <string name="deny_backup_button_label">பேக்அப் எடுக்க வேண்டாம்</string>
+    <string name="restore_confirm_text">ஒரு இணைக்கப்பட்ட திரைப்பலக கணினியிலிருந்து அனைத்துத் தரவினதும் ஒரு முழு மீள்நிலை பெறல் கோரப்பட்டுள்ளது. இது நிகழ நீங்கள் அனுமதிக்க விரும்புகிறீர்களா\\?நீங்களாக இந்த மீள்நிலை பெறுதலை நீங்கள் கோரவில்லை என்றால், செயல்பாடு நடக்க அனுமதிக்க வேண்டாம். இது சாதனத்தில் தற்போதுள்ள ஏதேனும் தரவை மாற்றீடு செய்யும்!</string>
+    <string name="allow_restore_button_label">எனது தரவை மீள்நிலை பெறு</string>
+    <string name="deny_restore_button_label">மீள்நிலை பெற வேண்டாம்</string>
+    <string name="current_password_text">உங்கள் நடப்பு மறுபிரதிக் கடவுச்சொல்லை தயவுசெய்து கீழே உள்ளிடவும்:</string>
+    <string name="device_encryption_restore_text">உங்கள் சாதனத்தின் மறைகுறியாக்க கடவுச்சொல்லை, தயவுசெய்து கீழே உள்ளிடவும்.</string>
+    <string name="device_encryption_backup_text">உங்கள் சாதனத்தின் குறியாக்க கடவுச்சொல்லை, தயவுசெய்து கீழே உள்ளிடவும். இது மறுபிரதி காப்பகத்தை குறியாக்கவும் பயன்படுத்தப்படும்.</string>
+    <string name="backup_enc_password_text">முழு மறுபிரதி தரவு குறியாக்கத்திற்கு பயன்படுத்த வேண்டிய ஒரு கடவுச்சொல்லை தயவுசெய்து உள்ளிடவும். இது காலியாக விடப்பட்டால், உங்கள் நடப்பு மறுபிரதி கடவுச்சொல் பயன்படுத்தப்படும்:</string>
+    <string name="backup_enc_password_optional">முழு மறுபிரதி தரவை நீங்கள் குறியாக்க விரும்பினால், ஓர் கடவுச்சொல்லை கீழே உள்ளிடவும்:</string>
+    <string name="restore_enc_password_text">மீள்நிலை பெறு தரவு குறியாக்கப்பட்டால், தயவுசெய்து கடவுச்சொல்லை கீழே உள்ளிடவும்:</string>
+    <string name="toast_backup_started">மறுபிரதி தொடங்குகிறது...</string>
+    <string name="toast_backup_ended">மறுபிரதி முடிந்தது</string>
+    <string name="toast_restore_started">மீள்நிலை பெறுதல் தொடங்குகிறது...</string>
+    <string name="toast_restore_ended">மீள்நிலை பெறுதல் முடிந்தது</string>
+    <string name="toast_timeout">செயல்பாடு நேரம் முடிந்தது</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ਰੱਦ</string>
+    <string name="ok">ਓਕੇ</string>
+    <string name="app_label">ਡਾਉਨਲੋਡਸ</string>
+    <string name="download_title_sorted_by_date">ਡਾਉਨਲੋਡਸ - ਮਿਤੀ ਅਨੁਸਾਰ ਛਾਂਟੇ</string>
+    <string name="download_title_sorted_by_size">ਡਾਉਨਲੋਡਸ - ਅਕਾਰ ਅਨੁਸਾਰ ਛਾਂਟੇ</string>
+    <string name="no_downloads">ਕੋਈ ਡਾਉਨਲੋਡਸ ਨਹੀਂ</string>
+    <string name="missing_title">&lt;ਅਗਿਆਤ></string>
+    <string name="button_sort_by_size">ਅਕਾਰ ਅਨੁਸਾਰ ਛਾਂਟੋ</string>
+    <string name="button_sort_by_date">ਮਿਤੀ ਅਨੁਸਾਰ ਛਾਂਟੋ</string>
+    <string name="download_queued">ਕਤਾਰਬੱਧ</string>
+    <string name="download_running">ਚੱਲ ਰਿਹਾ ਹੈ</string>
+    <string name="download_success">ਪੂਰਾ</string>
+    <string name="download_error">ਅਸਫਲ</string>
+    <string name="dialog_title_not_available">ਡਾਊਨਲੋਡ ਅਸਫਲ।</string>
+    <string name="dialog_failed_body">ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਫਾਈਲ ਡਾਉਨਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੀਏ ਜਾਂ ਇਸਨੂੰ ਕਤਾਰ ਵਿੱਚੋਂ ਹਟਾਈਏ?</string>
+    <string name="dialog_title_queued_body">ਫਾਈਲ ਅਜੇ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ</string>
+    <string name="dialog_queued_body">ਭਵਿੱਖ ਵਿੱਚ ਡਾਉਨਲੋਡ ਲਈ ਫਾਈਲ ਕਤਾਰ ਵਿੱਚ।</string>
+    <string name="dialog_file_missing_body">ਡਾਉਨਲੋਡ ਹੋਈ ਫਾਈਲ ਨਹੀਂ ਮਿਲੀ।</string>
+    <string name="dialog_insufficient_space_on_external">ਡਾਉਨਲੋਡ ਸੰਪੂਰਨ ਹੋਣ ਵਿੱਚ ਅਸਮਰੱਥ। SD ਕਾਰਡ ਤੇ ਉੱਚਿਤ ਜਗ੍ਹਾ ਨਹੀਂ ਹੈ।</string>
+    <string name="dialog_insufficient_space_on_cache">ਡਾਉਨਲੋਡ ਸੰਪੂਰਨ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। ਉੱਚਿਤ USB ਸਟੋਰੇਜ ਨਹੀਂ।</string>
+    <string name="dialog_cannot_resume">ਡਾਉਨਲੋਡ ਵਿੱਚ ਵਿਘਨ ਪਿਆ। ਇਹ ਮੁਡ਼-ਸ਼ੁਰੂ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।</string>
+    <string name="dialog_file_already_exists">ਡਾਉਨਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। ਫਾਈਲ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ।</string>
+    <string name="dialog_media_not_found">ਡਾਉਨਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। SD ਕਾਰਡ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।</string>
+    <string name="download_no_application_title">ਫਾਈਲ ਨਹੀਂ ਖੋਲ੍ਹ ਸਕਦਾ।</string>
+    <string name="remove_download">ਹਟਾਓ</string>
+    <string name="delete_download">ਮਿਟਾਓ</string>
+    <string name="keep_queued_download">ਰੱਖੋ</string>
+    <string name="cancel_running_download">ਰੱਦ</string>
+    <string name="retry_download">ਦੁਬਾਰਾ ਕਰੋ</string>
+    <string name="deselect_all">ਸਾਰਿਆਂ ਦੀ ਚੋਣ ਰੱਦ ਕਰੋ</string>
+    <string name="select_all">ਸਾਰੇ ਚੁਣੋ</string>
+    <string name="selected_count">%2$d ਵਿੱਚੋਂ %1$d ਚੁਣੇ।</string>
+    <string name="download_share_dialog">ਦੁਆਰਾ ਸਾਂਝੀ ਕਰੋ</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Cancel·la</string>
+    <string name="ok">"D'acord"</string>
+    <string name="app_label">Gestor de baixades</string>
+    <string name="permlab_downloadManager">Accés al gestor de baixades.</string>
+    <string name="permdesc_downloadManager">"Permet que l'aplicació accedeixi al gestor de baixades i que el faci servir per baixar fitxers. Les aplicacions malicioses poden fer-ho servir per interrompre baixades i per accedir a informació privada."</string>
+    <string name="permlab_downloadManagerAdvanced">Funcions avançades del gestor de baixades.</string>
+    <string name="permdesc_downloadManagerAdvanced">"Permet que l'aplicació accedeixi a les funcions avançades del gestor de baixades. Les aplicacions malicioses poden fer-ho servir per interrompre les baixades i per accedir a informació privada."</string>
+    <string name="permlab_downloadCompletedIntent">Envia notificacions de baixada</string>
+    <string name="permdesc_downloadCompletedIntent">"Permet que l'aplicació enviï notificacions sobre les baixades completades. Les aplicacions malicioses poden fer-ho servir per confondre altres aplicacions que baixen fitxers."</string>
+    <string name="permlab_seeAllExternal">Visualitzar totes les baixades a targeta SD</string>
+    <string name="permdesc_seeAllExternal">"Permet que l'aplicació vegi totes les baixades que s'han fet a la targeta SD, sigui quina sigui l'aplicació que les ha baixades."</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espai a la memòria cau de baixades</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Permet que l'aplicació baixi fitxers a la memòria cau de baixada que no es poden suprimir automàticament quan el gestor de baixades necessita més espai."</string>
+    <string name="permlab_downloadWithoutNotification">baixar fitxers sense notificació</string>
+    <string name="permdesc_downloadWithoutNotification">"Permet que l'aplicació baixi fitxers mitjançant el gestor de baixades sense que l'usuari en rebi cap notificació."</string>
+    <string name="permlab_accessAllDownloads">Accés a totes les baixades del sistema</string>
+    <string name="permdesc_accessAllDownloads">"Permet que l'aplicació consulti i modifiqui totes les baixades iniciades per una aplicació al sistema."</string>
+    <string name="download_unknown_title">&lt;Sense títol></string>
+    <string name="notification_download_complete">Baixada completa.</string>
+    <string name="notification_download_failed">Baixada incorrecta.</string>
+    <string name="notification_need_wifi_for_size">La mida de la baixada requereix Wi-Fi.</string>
+    <string name="notification_paused_in_background">Posada en pausa de fons.</string>
+    <string name="wifi_required_title">"La baixada és massa gran per a la xarxa de l'operador"</string>
+    <string name="wifi_required_body" formatted="false">"Heu de fer servir Wi-Fi per completar la baixada de %s . 
+
+Toqueu %s per iniciar la baixada quan hi hagi Wi-Fi."</string>
+    <string name="wifi_recommended_title">Voleu posar-ho a la cua i baixar-ho més tard?</string>
+    <string name="wifi_recommended_body" formatted="false">"Si inicieu la baixada (%s ), es pot escurçar la durada de la bateria o fer un ús excessiu de la connexió de dades mòbils, amb càrrecs de l'operador segons el pla de dades que tingueu.
+
+Toqueu %s per iniciar la baixada quan hi hagi Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Posa a la cua</string>
+    <string name="button_cancel_download">Cancel·la</string>
+    <string name="button_start_now">Inicia ara</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Temps restant: %s</string>
+    <string name="download_no_application_title">No es pot obrir el fitxer</string>
+    <string name="root_downloads">Baixades</string>
+    <string name="download_queued">En cua</string>
+    <string name="download_running">En curs</string>
+    <string name="download_error">Incorrecte</string>
+    <string name="download_running_percent">En curs, %d%%</string>
+</resources>

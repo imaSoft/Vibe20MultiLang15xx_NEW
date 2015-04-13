@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s tente de créer une connexion VPN.</string>
+    <string name="warning">"En continuant, vous autorisez l'application à intercepter tout trafic réseau. "<b>"N'acceptez QUE si vous faites confiance à l'application."</b> Sinon, vous risquez de voir vos données compromises par un logiciel malveillant.</string>
+    <string name="accept">Je fais confiance à cette application.</string>
+    <string name="legacy_title">VPN connecté</string>
+    <string name="configure">Configurer</string>
+    <string name="disconnect">Déconnecter</string>
+    <string name="session">Session :</string>
+    <string name="duration">Durée :</string>
+    <string name="data_transmitted">Envoyé :</string>
+    <string name="data_received">Reçu :</string>
+    <string name="data_value_format">%1$s octets / %2$s paquets</string>
+</resources>

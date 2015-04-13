@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ರದ್ದು</string>
+    <string name="ok">ಸರಿ</string>
+    <string name="app_label">ಡೌನ್‌ಲೋಡ್‌ಗಳು</string>
+    <string name="download_title_sorted_by_date">ಡೌನ್‌ಲೋಡ್. - ದಿನಾಂಕದಂತೆ ವಿಂಗಡಿಸಿದೆ</string>
+    <string name="download_title_sorted_by_size">ಡೌನ್‌ಲೋಡ್‌ಗಳು - ಗಾತ್ರದಂತೆ ವಿಂಗಡಿಸಿದೆ</string>
+    <string name="no_downloads">ಯಾವುದೇ ಡೌನ್‌ಲೋಡ್‌ಗಳಿಲ್ಲ.</string>
+    <string name="missing_title">&lt;ಅಜ್ಞಾತ></string>
+    <string name="button_sort_by_size">ಗಾತ್ರದ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ</string>
+    <string name="button_sort_by_date">ದಿನಾಂಕದಂತೆ ವಿಂಗಡಿಸು</string>
+    <string name="download_queued">ಸರದಿಯಲ್ಲಿದೆ</string>
+    <string name="download_running">ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+    <string name="download_success">ಸಂಪೂರ್ಣ</string>
+    <string name="download_error">ಯಶಸ್ವಿಯಾಗಿಲ್ಲ</string>
+    <string name="dialog_title_not_available">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗಿಲ್ಲ</string>
+    <string name="dialog_failed_body">ನೀವು ಫೈಲ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವಿಕೆಯನ್ನು ನಂತರ ಮರುಪ್ರಯತ್ನಿಸಲು ಬಯಸುವಿರಾ ಅಥವಾ ಅದನ್ನು ಸರದಿಯಿಂದ ಅಳಿಸಬೇಕೇ?</string>
+    <string name="dialog_title_queued_body">ಫೈಲ್ ಸರದಿಯಲ್ಲಿದೆ</string>
+    <string name="dialog_queued_body">ಈ ಫೈಲ್ ಭವಿಷ್ಯದ ಡೌನ್‌ಲೋಡ್‌ಗಾಗಿ ಸರದಿಯಲ್ಲಿದೆ, ಹೀಗಾಗಿ ಅದಿನ್ನೂ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="dialog_file_missing_body">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ಫೈಲ್ ಕಾಣಿಸುತ್ತಿಲ್ಲ.</string>
+    <string name="dialog_insufficient_space_on_external">ಡೌನ್‌ಲೋಡ್ ಪೂರ್ಣಗೊಳಿಸಲಾಗಿಲ್ಲ. ಬಾಹ್ಯ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಸಾಕಷ್ಟು ಜಾಗ ಇಲ್ಲ.</string>
+    <string name="dialog_insufficient_space_on_cache">ಡೌನ್‌ಲೋಡ್ ಪೂರ್ಣಗೊಳಿಸಲಾಗಿಲ್ಲ. ಆಂತರಿಕ ಡೌನ್‌ಲೋಡ್ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಸಾಕಷ್ಟು ಜಾಗ ಇಲ್ಲ.</string>
+    <string name="dialog_cannot_resume">ಡೌನ್‌ಲೋಡ್‌ಗೆ ಅಡಚಣೆಯಾಗಿದೆ ಮತ್ತು ಪುನರಾರಂಭಿಸುವುದು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="dialog_file_already_exists">ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದು ಅಸಾಧ್ಯ. ಗಮ್ಯ ಫೈಲ್ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.</string>
+    <string name="dialog_media_not_found">ಡೌನ್‌ಲೋಡ್ ಪೂರ್ಣಗೊಳಿಸಲಾಗಿಲ್ಲ. ಬಾಹ್ಯ ಮಾಧ್ಯಮಗಳು ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="download_no_application_title">ಫೈಲ್ ತೆರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="remove_download">ತೆಗೆಯರಿ</string>
+    <string name="delete_download">ಅಳಿಸಿ</string>
+    <string name="keep_queued_download">ಇರಿಸು</string>
+    <string name="cancel_running_download">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="retry_download">ಮರುಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="deselect_all">ಎಲ್ಲ ಡೀಸೆಲೆಕ್ಟ್ ಮಾಡಿ</string>
+    <string name="select_all">ಎಲ್ಲ ಆರಿಸಿ</string>
+    <string name="selected_count">%2$d ರಲ್ಲಿ %1$d ಆರಿಸಲಾಗಿದೆ</string>
+    <string name="download_share_dialog">ಇದರ ಮೂಲಕ ಹಂಚಿ</string>
+</resources>

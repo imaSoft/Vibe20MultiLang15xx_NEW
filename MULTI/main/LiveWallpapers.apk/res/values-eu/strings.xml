@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android horma paper dinamikoak</string>
+    <string name="wallpaper_walkaround">Kameraren aurrebista</string>
+    <string name="wallpaper_walkaround_desc">"Ikusi zure gailuaz haraindi eta ibili istripu bat izateko arriskurik gabe. "</string>
+    <string name="wallpaper_grass">Belarra</string>
+    <string name="wallpaper_grass_desc">Belar orriak leunki kulunkatzen dira, zeru argi edo ilunean.</string>
+    <string name="wallpaper_galaxy">Galaxy</string>
+    <string name="wallpaper_galaxy_desc">Emeki biratzen duten izardun galaxia.</string>
+    <string name="wallpaper_fall">Ura</string>
+    <string name="wallpaper_fall_desc">Udazkeneko hostoak erortzen&lt;br> Beheko urmael uhinkarira:&lt;br> Zen atzeko plano likidoa</string>
+    <string name="wallpaper_clock">Erloju polarra</string>
+    <string name="wallpaper_clock_desc">Data eta ordua arku gisa aurkeztuta: hilabetea, eguna, ordua, minutuak eta segundoak.</string>
+    <string name="wallpaper_nexus">Nexus</string>
+    <string name="wallpaper_nexus_desc">Begiratu bat neurona sarean barne.</string>
+    <string name="clock_settings">Erloju polarraren ezarpenak</string>
+    <string name="show_seconds">Erakutsi segundoak</string>
+    <string name="variable_line_width">Aldatu tonuen zabalerak</string>
+    <string name="palette">Kolore-paleta</string>
+    <string name="palette_gray">Burdina</string>
+    <string name="palette_violet">Gauerdia</string>
+    <string name="palette_matrix">Pantaila berdea</string>
+    <string name="palette_white_c">Hartz zuria (dinamikoa)</string>
+    <string name="palette_black_c">Zulo beltza (dinamikoa)</string>
+    <string name="palette_halloween">Kuia-pastela</string>
+    <string name="palette_zenburn">Alienen mazedonia</string>
+    <string name="palette_oceanic">Laser urdina</string>
+</resources>

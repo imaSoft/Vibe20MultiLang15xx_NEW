@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USIM Araç Takımı</string>
+    <string name="activity_not_found">Uygulama telefonunuza yüklenmemiş.</string>
+    <string name="simlock_toolkit">SIM Araç Takımı</string>
+    <string name="no_sim_card_inserted">USIM Araç Takımını başlatmak için USIM takın lütfen.</string>
+    <string name="airplane_mode_on">Uçak kipi açık olduğu için USIM Araç Takımı başlatılamadı.</string>
+    <string name="lable_sim_not_ready">USIM Araç Takımı hazır değil veya desteklenmiyor</string>
+</resources>

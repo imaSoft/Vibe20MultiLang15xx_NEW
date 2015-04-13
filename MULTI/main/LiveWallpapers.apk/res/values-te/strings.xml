@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android లైవ్ వాల్‌పేపర్‌లు</string>
+    <string name="wallpaper_walkaround">దీని ద్వారా చూడండి</string>
+    <string name="wallpaper_walkaround_desc">"మీ పరికరం ద్వారా చూడండి మరియు ప్రమాదాల రిస్క్ లేకుండా చుట్టూ నడవండి. "</string>
+    <string name="wallpaper_grass">పచ్చిక</string>
+    <string name="wallpaper_grass_desc">"పచ్చికలు పగలు లేదా రాత్రి ఆకాశం ముందు సున్నితంగా కదులుతాయి. "</string>
+    <string name="wallpaper_galaxy">పాలపుంత</string>
+    <string name="wallpaper_galaxy_desc">"మిణుకుమని మెరిసే నక్షత్రాలతో ఏర్పడ్డ పాలపుంత. "</string>
+    <string name="wallpaper_fall">నీరు</string>
+    <string name="wallpaper_fall_desc">"ఆకురాలు కాలంలో రాలిపడే ఆకులు&lt;br> కొలనులో అలలకు:&lt;br> లిక్విడ్ బ్యాక్‌గ్రౌండ్ జెన్ "</string>
+    <string name="wallpaper_clock">పోలార్ గడియారం</string>
+    <string name="wallpaper_clock_desc">"తేదీ మరియు సమయాన్ని గడియారం ముల్లులాగా ప్రదర్శిస్తుంది: నెల, రోజు, గంట, నిమిషం మరియు సెకను. "</string>
+    <string name="wallpaper_nexus">నెక్సస్</string>
+    <string name="wallpaper_nexus_desc">"న్యూరల్ నెట్‌వర్క్‌లోపలున్న పీక్. "</string>
+    <string name="clock_settings">పోలార్ గడియారం సెట్టింగులు</string>
+    <string name="show_seconds">సెకన్లను చూపు</string>
+    <string name="variable_line_width">విభిన్న రింగ్ వెడల్పులు</string>
+    <string name="palette">రంగుల పాలెట్</string>
+    <string name="palette_gray">ఐరన్</string>
+    <string name="palette_violet">అర్థరాత్రి</string>
+    <string name="palette_matrix">పచ్చ తెర</string>
+    <string name="palette_white_c">పోలార్ బియర్ (డైనమిక్)</string>
+    <string name="palette_black_c">బ్లాక్ హోల్ (డైనమిక్)</string>
+    <string name="palette_halloween">పంప్కిన్ పై</string>
+    <string name="palette_zenburn">ఏలియన్ ఫ్రూట్ సలాడ్</string>
+    <string name="palette_oceanic">బ్లూ లేసర్</string>
+</resources>

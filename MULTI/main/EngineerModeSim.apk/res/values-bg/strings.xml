@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">EM SIM ME заключване</string>
+    <string name="simmelock_name">SIM ME заключване</string>
+    <string name="strInputPassword">Въведете парола:</string>
+    <string name="strConfirm">Готово</string>
+    <string name="strCancel">Отказ</string>
+    <string name="strInputChancesleft">Оставащи опити:</string>
+    <string name="strMCCMNC">MCC+MNC:</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR:</string>
+    <string name="strGID1">GID1:</string>
+    <string name="strGID2">GID2:</string>
+    <string name="strInputPasswordAgain">Въведете отново паролата:</string>
+    <string name="strIMSI">IMSI:</string>
+    <string name="strAttention">Внимание</string>
+    <string name="strConfirmRemove">В готовност за премахване?</string>
+    <string name="srtConfirmPermanUnlock">Наистина ли искате перманентно отключване?</string>
+    <string name="strYes">Да</string>
+    <string name="strLockFail">Неуспешно заключване!</string>
+    <string name="strLockSucceed">Успешно заключване!</string>
+    <string name="strUnlockFail">Неуспешно отключване!</string>
+    <string name="strUnlockSucceed">Успешно отключване!</string>
+    <string name="strUserInput">Въвеждане от потребител</string>
+    <string name="strInputMode">Въвеждане от потребителя?</string>
+    <string name="strLockNameNetwork">Персонализиране на мрежа</string>
+    <string name="strLockNameNetworkSub">Персонализиране на мрежови поднабор</string>
+    <string name="strLockNameService">Персонализиране на доставчика на услуги</string>
+    <string name="strLockNameCorporate">Корпоративно персонализиране</string>
+    <string name="strLockNameSIM">Персонализиране на SIM карта</string>
+    <string name="strActionNameLock">Заключване</string>
+    <string name="strActionNameUnlock">Отключване</string>
+    <string name="strActionNameAddLock">Добавяне</string>
+    <string name="strActionNameRemoveLock">Премахване</string>
+    <string name="strActionNamePermanentUnlock">Перманентно отключване</string>
+    <string name="strPasswordLengthIncorrect">4-8 цифри!</string>
+    <string name="strQueryFailed">Неуспешно запитване!</string>
+    <string name="strAddLockFail">Неуспешно добавяне!</string>
+    <string name="strAddLockSucceed">Успешно добавяне!</string>
+    <string name="strMCCMNCLengthIncorrect">Невалидни MCC+MNC!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">Невалидни MCC+MNC+HLR!</string>
+    <string name="strIMSILengthIncorrect">Невалидна IMSI!</string>
+    <string name="strGID1WRONG">Невалиден GID1!</string>
+    <string name="strGID2WRONG">Невалиден GID2!</string>
+    <string name="str_simme_passwords_dont_match">Паролите не съвпадат</string>
+</resources>

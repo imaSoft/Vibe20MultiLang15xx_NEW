@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">நாள்காட்டி சேமிப்பகம்</string>
+    <string name="upgrade_msg">நாள்காட்டி தரவுத்தளத்தை புதுப்பித்தல்.</string>
+    <string name="calendar_default_name">இயல்புநிலை</string>
+    <string name="calendar_info">நாள்காட்டி தகவல்</string>
+    <string name="calendar_info_error">பிழை</string>
+    <string name="calendar_info_no_calendars">நாள்காட்டிகள் இல்லை</string>
+    <string name="calendar_info_events">நிகழ்வுகள்: %1$d</string>
+    <string name="calendar_info_events_dirty">நிகழ்வுகள்: %1$d, சேமிக்கப்படாதது: %2$d</string>
+    <string name="provider_label">நாள்காட்டி</string>
+    <string name="debug_tool_delete_button">இப்போது நீக்கு</string>
+    <string name="debug_tool_start_button">தொடங்கு</string>
+    <string name="debug_tool_message">நீங்கள் கிட்டத்தட்ட 1) எந்தவொரு பயன்பாட்டாலும் படிக்கக்கூடிய SD அட்டை/USB சேமிப்பகத்துக்கு உங்கள் நாள்காட்டி தரவுத்தளத்தின் ஒரு நகலை எடுக்க, மற்றும் 2) அதை மின்னஞ்சல் செய்ய உள்ளீர்கள். இதை சாதனத்திலிருந்து வெற்றிகரமாக நகலெடுத்ததும் அல்லது மின்னஞ்சல் பெறப்பட்டதும் முடிந்தவரை விரைவில் நகலை நீக்க மறக்க வேண்டாம்.</string>
+    <string name="debug_tool_email_sender_picker">உங்கள் கோப்பை அனுப்புவதற்கு ஒரு நிரலைத் தேர்வுசெய்யவும்</string>
+    <string name="debug_tool_email_subject">நாள்காட்டி DB இணைக்கப்பட்டது</string>
+    <string name="debug_tool_email_body">இணைக்கப்பட்டிருப்பது எனது அனைத்து சந்திப்புத்திட்டங்கள் மற்றும் தனிப்பட்ட தகவல்களைக் கொண்ட எனது நாள்காட்டி ஆகும்.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Asali</item>
+        <item>Putar</item>
+        <item>BullDoze</item>
+        <item>Kincir angin</item>
+        <item>Kubus</item>
+        <item>Gelombang sinus</item>
+        <item>Silinder</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Tidak ada</item>
+        <item>Perliihatkan menu Launcher</item>
+        <item>Perlihatkan aplikasi yang digunakan terakhir</item>
+        <item>Perlihatkan bilah pemberitahuan</item>
+    </string-array>
+</resources>

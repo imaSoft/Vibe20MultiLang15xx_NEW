@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Цуцлах</string>
+    <string name="ok">OK</string>
+    <string name="app_label">Татан авалтууд</string>
+    <string name="download_title_sorted_by_date">Татцууд - огноогоор эрэмбэлсэн</string>
+    <string name="download_title_sorted_by_size">Татцууд - хэмжээгээр эрэмбэлсэн</string>
+    <string name="missing_title">&lt;Мэдэхгүй></string>
+    <string name="button_sort_by_size">Хэмжээгээр ангилах</string>
+    <string name="button_sort_by_date">Огноогоор эрэмбэлэх</string>
+    <string name="download_queued">Дараалалд</string>
+    <string name="download_running">Явцын дунд</string>
+    <string name="download_success">Бүрэн</string>
+    <string name="download_error">Амжлтгүй</string>
+    <string name="dialog_title_not_available">Татаж авч чадсангүй.</string>
+    <string name="dialog_failed_body">Файлыг татаж авахаар дараа дахин оролдох уу эсвэл дарааллаас устгах уу?</string>
+    <string name="dialog_title_queued_body">Файл боломжтой бус байна</string>
+    <string name="dialog_queued_body">Файлыг ирээдүйд татаж авахаар дараалалд оруулсан.</string>
+    <string name="dialog_file_missing_body">Татаж авсан файл олдсонгүй</string>
+    <string name="dialog_insufficient_space_on_external">Татан авалтыг дуусгах боломжгүй. SD картны зай хангалтгүй байна.</string>
+    <string name="dialog_insufficient_space_on_cache">Татан авалтыг гүйцээх боломжгүй. USB хадгалах зай хангалттай биш байна.</string>
+    <string name="dialog_cannot_resume">Татан авалт таслагдсан. Үргэлжлүүлэх боломжгүй.</string>
+    <string name="dialog_file_already_exists">Татаж авах боломжгүй. Файл аль хэдийн байна.</string>
+    <string name="dialog_media_not_found">Татаж авах боломжгүй. SD карт боломжгүй.</string>
+    <string name="download_no_application_title">Файл нээх боломжгүй.</string>
+    <string name="remove_download">Арилгах</string>
+    <string name="delete_download">Устгах</string>
+    <string name="keep_queued_download">Хадгалах</string>
+    <string name="cancel_running_download">Цуцлах</string>
+    <string name="retry_download">Ахин орлд</string>
+    <string name="deselect_all">Бүгдийг сонгосноо болих</string>
+    <string name="select_all">Бүгдийг сонгох</string>
+    <string name="download_share_dialog">Хуваалцах</string>
+</resources>

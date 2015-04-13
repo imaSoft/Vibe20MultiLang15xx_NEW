@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM Toolkit</string>
+    <string name="activity_not_found">Thẻ USIM chưa có sẵn hoặc ko hỗ trợ tính năng này.</string>
+    <string name="simlock_toolkit">SIM Toolkit</string>
+    <string name="no_sim_card_inserted">Hãy lắp USIM để khởi động bộ công cụ USIM.</string>
+    <string name="airplane_mode_on">Ko thể khởi động bộ c.cụ USIM vì chế độ máy bay đang bật.</string>
+    <string name="lable_sim_not_ready">Bộ công cụ USIM chưa sẵn sàng hoặc không được hỗ trợ</string>
+</resources>

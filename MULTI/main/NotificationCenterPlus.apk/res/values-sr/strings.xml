@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationCenterPlus</string>
+    <string name="flashlight_notification_title">Zatvorite baterijsku lampu</string>
+    <string name="flashlight_notification_text">Kliknite da zatvorite baterijsku lampu</string>
+    <string name="app_notification_manager_title">Aktiviraj obaveštenja o aplikacijama</string>
+    <string name="app_notification_optimized_title">Prioritetna obaveštenja o aplikacijama</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Obaveštenja onemogućenih aplikacija</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Omogućena obaveštenja o aplikacijama</string>
+    <string name="lenovo_progress_dialog_message">Učitavanje...</string>
+    <string name="app_disable_notifications_dlg_title">Želite li da isključite obaveštenja?</string>
+    <string name="app_disable_notifications_dlg_text">Ako isključite obaveštenja, možda ćete propustiti važna upozorenja i događaje.</string>
+    <string name="app_add_optimized_notifications_title">Obaveštenja neprioritetnih aplikacija</string>
+    <string name="app_del_optimized_notifications_title">Obaveštenja prioritetnih aplikacija</string>
+    <string name="app_vip_notifications_title">VIP aplikacija</string>
+    <string name="app_close_optimized_notifications_title">Obaveštenje o zatvorenoj aplikaciji</string>
+    <string name="app_close_optimized_notifications_summary">Aplikacije se mogu postaviti kao željene tek nakon što omogućite njihova obaveštenja u meniju za upravljanje obaveštenjima o aplikacijama</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">Prioritetna obaveštenja za %1$s</string>
+    <string name="lenovo_app_add_notification_toast_text">Obaveštenja su omogućena za \"%1$s\"</string>
+    <string name="lenovo_no_app_nofitication">Nema aplikacija</string>
+    <string name="app_del_optimized_notifications_dlg_title">Želite li da otkažete prioritetni status?</string>
+    <string name="app_del_optimized_notifications_dlg_text">Ako promenite status obaveštenja, možda nećete videti važna upozorenja ili događaje.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">Neprioritetna %1$s obaveštenja</string>
+    <string name="lenovo_app_delete_notification_toast_text">Obaveštenja su onemogućena za \"%1$s\"</string>
+    <string name="lenovo_flashlight_error_notification_title">Cannot turn on the flash light now</string>
+    <string name="lenovo_flashlight_error_camera_in_use">The camera is now in use, cannot turn the flash light on</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Top edge of the screen covered, unable to turn on the flash light</string>
+    <string name="lenovo_flashlight_error_low_power">Low power! Flash light not supported</string>
+</resources>

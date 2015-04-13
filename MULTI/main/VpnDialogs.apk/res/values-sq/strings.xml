@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s përpiqet të krijojë një lidhje VPN.</string>
+    <string name="warning">Duke vazhduar, i jepni leje aplikacionit të ndërpresë të gjithë trafikun e rrjetit. <b>MOS pranoni nëse nuk e besoni aplikacionin.</b> Përndryshe, ka rrezik që të dhënat tuaja të komprometohen nga softuer keqdashës.</string>
+    <string name="accept">E besoj këtë aplikacion.</string>
+    <string name="legacy_title">VPN-ja u lidh</string>
+    <string name="configure">Konfiguro</string>
+    <string name="disconnect">Shkëput</string>
+    <string name="session">Sesioni:</string>
+    <string name="duration">Kohëzgjatja:</string>
+    <string name="data_transmitted">U dërguan:</string>
+    <string name="data_received">U morën:</string>
+    <string name="data_value_format">%1$s bajt / %2$s paketa</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>ค่าเริ่มต้น</item>
+        <item>หมุน</item>
+        <item>ดันและกด</item>
+        <item>กังหันลม</item>
+        <item>ลูกบาศก์</item>
+        <item>คลื่นรูปซายน์</item>
+        <item>ทรงกระบอก</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>ไม่มี</item>
+        <item>แสดงเมนูของตัวเปิดใช้ของ Lenovo</item>
+        <item>แสดงแอปพลิเคชันที่ใช้ล่าสุด</item>
+        <item>แสดงแถบแจ้งเตือน</item>
+    </string-array>
+</resources>

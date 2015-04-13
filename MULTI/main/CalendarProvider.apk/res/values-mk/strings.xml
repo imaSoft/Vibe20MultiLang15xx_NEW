@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Зачувување календар</string>
+    <string name="upgrade_msg">Надградување на базата на податоци на календарот.</string>
+    <string name="calendar_default_name">Стандардно</string>
+    <string name="calendar_info">Информации за календар</string>
+    <string name="calendar_info_error">Грешка</string>
+    <string name="calendar_info_no_calendars">Нема календари</string>
+    <string name="calendar_info_events">Настани: %1$d</string>
+    <string name="calendar_info_events_dirty">Настани: %1$d, Незачувани: %2$d</string>
+    <string name="provider_label">Календар</string>
+    <string name="debug_tool_delete_button">Избриши сега</string>
+    <string name="debug_tool_start_button">Вклучи</string>
+    <string name="debug_tool_message">На пат сте да 1) направите копија од базата на податоци од календарот на sd-картичката/usbмеморијата која е читлива од секоја апликација и 2) да ја испратите по е-пошта. Запомнете да ја избришете штом успешно ја копирате надвор од уредот или е-поштата е примена.</string>
+    <string name="debug_tool_email_sender_picker">Одбери програма за да ја испрати датотеката</string>
+    <string name="debug_tool_email_subject">Приложен е календар Db</string>
+    <string name="debug_tool_email_body">Приложена е базата на податоци од мојот календар со сите мои состаноци и лични информации. Внимателно ракувајте.</string>
+</resources>

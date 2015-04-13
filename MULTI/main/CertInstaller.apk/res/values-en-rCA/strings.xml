@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extracting_pkcs12">Extracting…</string>
+    <string name="credential_password">Type the password to extract the certificates.</string>
+    <string name="password_error">Type the correct password.</string>
+    <string name="password_empty_error">Type the password.</string>
+    <string name="unable_to_save_cert">"Couldn't save the certificate. The credential storage isn't enabled or properly initialized."</string>
+    <string name="cert_too_large_error">"Couldn't install because the certificate size is too large."</string>
+    <string name="cert_missing_error">"Couldn't install because the certificate file couldn't be located."</string>
+    <string name="cert_read_error">"Couldn't install because the certificate file couldn't be read."</string>
+    <string name="no_cert_file_found">No certificate file found in internal storage.</string>
+</resources>

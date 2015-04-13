@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">میڈیا</string>
+    <string name="app_label">میڈیا ذخیرہ</string>
+    <string name="artist_label">فنکار</string>
+    <string name="ringtone_default">فطری گھنٹی کی ٹون</string>
+    <string name="notification_sound_default">طے شدہ اعلامیہ آواز</string>
+    <string name="root_images">تصویر</string>
+    <string name="root_videos">ویڈیوز</string>
+    <string name="root_audio">آڈیو</string>
+</resources>

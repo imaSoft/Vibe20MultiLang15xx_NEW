@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Fejlrapport er gemt</string>
+    <string name="bugreport_finished_text">Berør for at dele din fejlrapport</string>
+    <string name="bugreport_confirm">Fejlrapporter indeholder data fra systemets forskellige logfiler, herunder personlige og private oplysninger. Du skal kun dele fejlrapporter med apps og personer, du har tillid til.</string>
+    <string name="bugreport_confirm_repeat">Vis denne meddelelse næste gang</string>
+</resources>

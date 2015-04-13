@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paket quraşdırıcı</string>
+    <string name="next">Növbəti</string>
+    <string name="install">Yüklə</string>
+    <string name="done">Bitdi</string>
+    <string name="security_settings_desc">Bu proqrama icazə verin:</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="unknown">Naməlum</string>
+    <string name="installing">Yükləmə</string>
+    <string name="install_done">Proqram quraşdırıldı</string>
+    <string name="install_confirm_question">Siz bu proqramı quraşdırmaq istəyirsiniz?</string>
+    <string name="install_failed">Proqram quraşdırılmamışdır</string>
+    <string name="install_failed_invalid_apk">Paket korlanıb</string>
+    <string name="install_failed_inconsistent_certificates">Paket həmin adla olmalıdır və başqa bir imza artıq quraşdırılıb</string>
+    <string name="install_failed_older_sdk">Paket yalnız Android-in yeni versiyaları ilə işləyir</string>
+    <string name="install_failed_file_not_found">Quraşdırma tamamlanana kimi paket silindi</string>
+    <string name="install_failed_verify_failed">Paket yoxlamanı keçmədi və quraşdırıla bilmir</string>
+    <string name="install_failed_msg">%s bu telefonda quraşdırıla bilmir</string>
+    <string name="launch">Aç</string>
+    <string name="unknown_apps_dlg_title">Blok edilmişləri quraşdırın</string>
+    <string name="unknown_apps_dlg_text">Təhlükəsizlik məqsədləri üçün sizin cihazınız hazırda Play Store-dan əldə edilməyən proqramın quraşdırılmasını bloklaşdırır. Bunu dəyişmək üçün Parametrlər > Təhlükəsizlik > Naməlum mənbələr seçin.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Parametrlər</string>
+    <string name="allow_source_dlg_title">Proqramlar üçün yeni mənbəyə icazə verilsin?</string>
+    <string name="allow_source_dlg_text">%1$s digər proqramları quraşdırmaq istəyir. Buna indi və gələcəkdə icazə verilsin?</string>
+    <string name="manage_applications">Proqramları idarə edin</string>
+    <string name="dlg_app_replacement_title">Proqram əvəz olunsun</string>
+    <string name="dlg_app_replacement_statement">"Sizin quraşdırdığınız proqram digər proqramı əvəz edəcək.
+
+Əvvəlki bütün istifadəçi məlumatları saxlanılacaq"</string>
+    <string name="dlg_sys_app_replacement_statement">"Bu sistem proqramıdır. Siz hələ də onu əvəz etmək istəyirsiniz?
+
+Bütün əvvəlki istifadəçi məlumatları saxlanacaq"</string>
+    <string name="out_of_space_dlg_title">Yer yoxdur</string>
+    <string name="out_of_space_dlg_text">%s quraşdırmaq mümkün deyil. Bəzi elementləri silin və yenidən cəhd edin</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Proqram tapılmamışdır</string>
+    <string name="app_not_found_dlg_text">Proqram quraşdırılmış proqramların siyahısında tapılmadı.</string>
+    <string name="uninstall_application_title">Əlavəni silin</string>
+    <string name="uninstall_application_text">Bu proqram silinsinmi?</string>
+    <string name="uninstall_update_text">Proqram zavod versiyası ilə əvəz olunacaq.</string>
+    <string name="uninstalling">Quraşdırılmanın ləğvi…</string>
+    <string name="uninstall_done">Quraşdırılmanın ləğv edilməsi tamamlanmışdır!</string>
+    <string name="uninstall_failed">Ləğv olunma uğursuz oldu</string>
+    <string name="uninstall_failed_device_policy_manager">Quraşdırmanı silmək mümkün deyil: paket aktiv cihaz inzibatçısıdır</string>
+    <string name="manage_device_administrators">Cihaz inzibatçılarını idarə et</string>
+    <string name="uninstall_failed_msg">%s quraşdırmaq mümkün deyil</string>
+    <string name="Parse_error_dlg_title">Səhvi təhlil edin</string>
+    <string name="Parse_error_dlg_text">Paketin təhlilli ilə bağlı problem var</string>
+    <string name="newPerms">Yeni</string>
+    <string name="allPerms">HAMISI</string>
+    <string name="privacyPerms">Məxfilik</string>
+    <string name="devicePerms">Qurğu müraciəti</string>
+</resources>

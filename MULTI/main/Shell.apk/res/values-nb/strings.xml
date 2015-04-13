@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Skall</string>
+    <string name="bugreport_finished_title">Feilrapport opprettet</string>
+    <string name="bugreport_finished_text">Berør for å dele feilrapporten din</string>
+    <string name="bugreport_confirm">Feilrapporter inneholder data fra systemets ulike loggfiler, inkludert personlig og privat informasjon. Du må bare dele feilrapporter med apper og personer du stoler på.</string>
+    <string name="bugreport_confirm_repeat">Vis denne meldingen neste gang</string>
+</resources>

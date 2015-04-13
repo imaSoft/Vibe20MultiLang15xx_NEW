@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">زنجیره کلید</string>
+    <string name="title_no_certs">هیچ گواهی یافت نشد</string>
+    <string name="title_select_cert">انتخاب گواهی</string>
+    <string name="requesting_application">این برنامه %s درخواست یک گواهی نموده است. انتخاب گواهی توانایی استفاده از این هویت با سرورها را هم اکنون و در آینده برای برنامه کسب خواهد نمود.</string>
+    <string name="requesting_server">این برنامه سرور درخواست کننده را به عنوان %s شناسایی نموده است اما شما در صورت اطمینان از برنامه، تنها باید امکان دسترسی برنامه به گواهی را کسب کنید.</string>
+    <string name="install_new_cert_message">"شما می توانید گواهی ها را از فایل PKCS#12  با پسوند %1$s یا %2$s موجود در حافظه ذخیره سازی خارجی نصب کنید."</string>
+    <string name="install_new_cert_button_label">نصب</string>
+    <string name="allow_button">اجازه دادن</string>
+    <string name="deny_button">رد کردن</string>
+</resources>

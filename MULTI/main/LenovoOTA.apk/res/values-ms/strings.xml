@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pembaharuan sistem</string>
+    <string name="exit">Keluar</string>
+    <string name="update_failed">Maaf. Gagal untuk memasang perisian tegar baharu.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="notification_content_title">Naik taraf perisian tegar</string>
+    <string name="notification_content_text_completed">Muat turun berjaya</string>
+    <string name="error_not_specify_network_title">Sila muat turun melalui rangkaian WLAN</string>
+    <string name="error_not_specify_network_content">Adalah amat disyorkan supaya memuat turun melalui rangkaian WLAN, memuat turun melalui rangkaian GPRS akan menggunakan lebih banyak data</string>
+    <string name="btn_setting_network">Tetapkan segera</string>
+    <string name="btn_keep_download">Teruskan memuat turun</string>
+    <string name="retry">Cuba semula</string>
+    <string name="redo_backup">Sandarkan sekali lagi</string>
+    <string name="contact">Kenalan</string>
+    <string name="sms">Mesej</string>
+    <string name="calllog">Log panggilan</string>
+    <string name="btn_backup">Sandaran</string>
+    <string name="has_not_backup">Tidak disandarkan</string>
+    <string name="countSms">mesej</string>
+    <string name="countContact">kenalan</string>
+    <string name="countCalllog">log panggilan</string>
+    <string name="nodata">Tiada data</string>
+    <string name="backup_data_ing">Menyandarkan kenalan dsb...</string>
+    <string name="backup_data_finish">Data berjaya disandarkan!</string>
+    <string name="data_usage_warning_title">Amaran</string>
+    <string name="data_usage_warning">Pengguna yang dihormati, anda memerlukan akses kepada Internet untuk menggunakan aplikasi ini, teruskan?</string>
+    <string name="data_usage_confirm">Jangan gesa pada masa lain</string>
+    <string name="ndf_install_finish_p">Segera</string>
+    <string name="ndf_install_finish_n">Kemudian</string>
+    <string name="ndf_lowpower_title">Tahap bateri rendah</string>
+    <string name="toast_install_fail">Gagal dipasang, laluan yang ditentukan: %s, tidak wujud.</string>
+    <string name="network_error">Sambungan rangkaian gagal</string>
+    <string name="notification_new_rom_come">Sistem anda boleh mengemas kini kepada versi terkini</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Selepas %d saat, sistem mesti memasang versi baharu!</string>
+    <string name="backup_data">Data Sandaran</string>
+    <string name="restore_data">Pemulihan Data</string>
+    <string name="battery_tip">Bateri lemah, sila sambungkan pengecas untuk meneruskan naik taraf</string>
+</resources>

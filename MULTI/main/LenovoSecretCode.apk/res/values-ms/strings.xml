@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">SN</string>
+    <string name="factory_wipe_data">Padam bersih data pengguna mengikut mod kilang</string>
+    <string name="factory_wipe_data_warning">Klik butang OK akan mengosongkan semua data pengguna tetapi mengekalkan aplikasi yang dipasang, dicadangkan supaya pengguna Biasa tidak menggunakannya bagi mengelakkan kehilangan data dalam telefon</string>
+    <string name="factory_wipe_data_cancel">batal</string>
+    <string name="sdcard_not_found">padam bersih data kilang gagal</string>
+    <string name="sdcard_not_found_tip">"Ciri ini memerlukan sokongan kad SD,
+        pastikan bahawa kad SD dimasukkan"</string>
+    <string name="sdcard_out_of_space">Ruang tidak mencukupi pada kad SD</string>
+    <string name="sdcard_out_of_space_tip">"Baki ruang tersedia pada SD hanya %1$sM tetapi fungsi 
+ini memerlukan ruang kad SD tersedia sebanyak %2$sM"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Tidak sah</string>
+</resources>

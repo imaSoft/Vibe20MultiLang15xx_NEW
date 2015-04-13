@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sertifikat quraşdırıcısı</string>
+    <string name="pick_file_title">Sertifikat götür</string>
+    <string name="pkcs12_password_dialog_title">Sertifikatı çıxart</string>
+    <string name="extracting_pkcs12">Çıxarılır...</string>
+    <string name="pkcs12_file_password_dialog_title">%s-dan çıxart</string>
+    <string name="name_credential_dialog_title">Sertifikatın adı</string>
+    <string name="credential_info">Paketə daxildir:</string>
+    <string name="p12_description">PKCS12 açar yaddaşında olan sertifikatlar</string>
+    <string name="one_userkey">Bir istifadəçi üçün açar</string>
+    <string name="one_usercrt">Bir istifadəçi üçün sertifikat</string>
+    <string name="one_cacrt">Bir CA sertifikatı</string>
+    <string name="n_cacrts">%d CA sertifikatı</string>
+    <string name="password_error">Düzgün parolu daxil et</string>
+    <string name="storage_error">Sertifikatı saxlamaq mümkün deyil. Yenidən cəhd etmək üçün OK vurun</string>
+    <string name="unable_to_save_cert">Sertifikatı saxlamaq mümkün deyil. Qeydiyyat məlumatları yaddaşı mümkün deyil və ya qoşulmayıb</string>
+    <string name="cert_not_saved">Sertifikat quraşdırılmayıb</string>
+    <string name="no_cert_to_saved">Quraşdırmaq üçün sertifikat yoxdur</string>
+    <string name="cert_is_added">%s quraşdırılmışdır</string>
+    <string name="cert_too_large_error">Quraşdırma alınmadı. Sertifikat çox böyükdür</string>
+    <string name="cert_missing_error">Quraşdırma alınmadı. Sertifikatı tapmaq mümkün deyil</string>
+    <string name="cert_read_error">Quraşdırma alınmadı. Sertifikatı oxumaq mümkün deyil</string>
+    <string name="no_cert_file_found">USB yaddaşında sertifikat faylı tapılmadı</string>
+    <string name="sdcard_not_present">USB yaddaşı mümkün deyil</string>
+</resources>

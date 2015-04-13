@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">દસ્તાવેજો</string>
+    <string name="title_open">થી ખોલો</string>
+    <string name="title_save">માં સાચવો</string>
+    <string name="menu_create_dir">ફૉલ્ડર બનાવો</string>
+    <string name="menu_grid">ગ્રિડ દ્રશ્ય</string>
+    <string name="menu_list">યાદી દૃશ્ય</string>
+    <string name="menu_sort">મુજબ અલગ કરો</string>
+    <string name="menu_search">શોધો</string>
+    <string name="menu_settings">સેટિંગ્સ</string>
+    <string name="menu_open">ખોલો</string>
+    <string name="menu_save">સાચવો</string>
+    <string name="menu_share">શેર કરો</string>
+    <string name="menu_delete">કાઢી નાખવું</string>
+    <string name="sort_name">નામ પ્રમાણે</string>
+    <string name="sort_date">તારીખ પ્રમાણે બદલો</string>
+    <string name="sort_size">કદ પ્રમાણે</string>
+    <string name="save_error">દસ્તાવેજ સાચવવામાં નિષ્ફળ.</string>
+    <string name="create_error">ફોલ્ડર બનાવવામાં નિષ્ફળ.</string>
+    <string name="query_error">ફોલ્ડર બનાવવામાં નિષ્ફળ.</string>
+    <string name="root_recent">હાલનું</string>
+    <string name="root_available_bytes">%1$s ખાલી</string>
+    <string name="root_type_shortcut">શોર્ટકટ્સ</string>
+    <string name="root_type_device">ઉપકરણો</string>
+    <string name="root_type_apps">વધુ અરજીઓ</string>
+    <string name="pref_advanced_devices">પ્રગત ઉપકરણ વિકલ્પ દર્શાવો</string>
+    <string name="pref_file_size">ફાઈલના કદને પ્રદર્શિત કરો</string>
+    <string name="pref_device_size">ઉપકરણ સંગ્રહણ કદ દર્શાવો</string>
+    <string name="empty">કોઈ વસ્તુઓ નથી</string>
+    <string name="share_via">આના દ્વારા શેર કરો</string>
+</resources>

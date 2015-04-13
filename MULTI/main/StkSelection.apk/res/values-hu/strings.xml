@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USIM eszköztár</string>
+    <string name="activity_not_found">Az alkalmazás már nincs telepítve a telefonján.</string>
+    <string name="simlock_toolkit">USIM eszköztár</string>
+    <string name="no_sim_card_inserted">A USIM eszközkészlet elindításához helyezzen be USIM-kártyát.</string>
+    <string name="airplane_mode_on">Nem indítható a USIM eszközkészlet, mert be van kapcsolva a repülőgépi mód.</string>
+    <string name="lable_sim_not_ready">A USIM eszközkészlet nem fogadókész vagy nem támogatott</string>
+</resources>

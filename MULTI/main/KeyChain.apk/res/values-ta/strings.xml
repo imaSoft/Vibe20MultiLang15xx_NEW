@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">சாவிக் கொத்து</string>
+    <string name="title_no_certs">சான்றிதழ்கள் கிடைக்கவில்லை</string>
+    <string name="title_select_cert">சான்றிதழைத் தேர்ந்தெடு</string>
+    <string name="requesting_application">பயன்பாடு %s ஒரு சான்றிதழ் கோரிக்கையைக் கொண்டிருக்கிறது. ஒரு சான்றிதழைத் தேர்ந்தெடுத்தல் இப்போதும் மற்றும் எதிர்காலத்தில் சர்வர்களுடன் இந்த அடையாளத்தைப் பயன்படுத்தும் திறனை பயன்பாட்டிற்கு வழங்கும்.</string>
+    <string name="requesting_server">பயன்பாடானது தேவையான சர்வரை %s என்று அடையாளம் காணுகிறது, ஆனால் நீங்கள் அந்தப் பயன்பாட்டை நம்பகமானதாகக் கருதினால் சான்றிதழை அணுக பயபாட்டை நீங்கள் மட்டுமே அனுமதிக்க வேண்டும்.</string>
+    <string name="install_new_cert_message">நீங்கள் வெளிப்புற சேமிப்பகத்தில் %1$s அல்லது ஒரு %2$s நீட்டிப்புடன் PKCS#12 இலிருந்து சான்றிதழ்களை நிறுவலாம்.</string>
+    <string name="install_new_cert_button_label">நிறுவு</string>
+    <string name="allow_button">அனுமதி</string>
+    <string name="deny_button">அனுமதி மறு</string>
+</resources>

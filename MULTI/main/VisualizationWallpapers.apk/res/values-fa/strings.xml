@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">تصویرساز</string>
+    <string name="wallpaper_vis2">شکل موج</string>
+    <string name="wallpaper_vis3">دامنه</string>
+    <string name="wallpaper_vis4">قسمت سنجش VU</string>
+    <string name="wallpaper_vis5">زیاد</string>
+    <string name="wallpapers">تصویرهای زمینه تصویرسازی موسیقی</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">موج صدای تراک موسیقی در حال پخش را ترسیم می کند.</string>
+    <string name="vis3_desc">دامنه فرکانس تراک موسیقی در حال پخش را نشان می دهد.</string>
+    <string name="vis4_desc">قسمت سنجش صدای آنالوگ را شبیه سازی می کند.</string>
+    <string name="vis5_desc">همه بخشهای تصویری موسیقی با هم، آهسته در نمای سه بعدی می چرخند.</string>
+</resources>

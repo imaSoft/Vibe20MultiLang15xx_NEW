@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Informe de erros capturado</string>
+    <string name="bugreport_finished_text">Toque para compartir o seu informe de erros</string>
+    <string name="bugreport_confirm">Os informes de erros conteñen datos dos diferentes ficheiros do rexistro do sistema, e inclúen información persoal e privada. Comparta os informes de erros con aplicacións que persoas en que confíe.</string>
+    <string name="bugreport_confirm_repeat">Amosar esta mensaxe a próxima vez</string>
+</resources>

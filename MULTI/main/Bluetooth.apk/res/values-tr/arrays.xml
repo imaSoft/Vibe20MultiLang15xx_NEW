@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Her taraf için bir sayfa</item>
+        <item>Her taraf için iki sayfa</item>
+        <item>Her taraf için dört sayfa</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Dikey</item>
+        <item>Manzara</item>
+        <item>Ters Manzara</item>
+        <item>Ters Dikey</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>dikey</item>
+        <item>manzara</item>
+        <item>ters manzara</item>
+        <item>ters dikey</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Tek Taraflı</item>
+        <item>İki Taraflı Uzun Kenar</item>
+        <item>İki Taraflı Kısa Kenar</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>tek taraflı</item>
+        <item>iki taraflı uzun kenar</item>
+        <item>iki taraflı kısa kenar</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Gruptaki kişileri paylaş</item>
+        <item>Kişi al</item>
+        <item>Kişileri değiş tokuş et</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Görüntülenenlerin tümü</item>
+        <item>Telefon numaralı kişiler</item>
+        <item>"Android'de yıldızlı"</item>
+    </string-array>
+</resources>

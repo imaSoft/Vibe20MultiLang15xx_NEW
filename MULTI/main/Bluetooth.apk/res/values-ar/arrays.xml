@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>صفحة واحدة لكل جانب</item>
+        <item>صفحتان لكل جانب</item>
+        <item>أربع صفحات لكل جانب</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>رأسي</item>
+        <item>أفقي</item>
+        <item>أفقي معكوس</item>
+        <item>رأسي معكوس</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>أفقي</item>
+        <item>أفقي</item>
+        <item>معكوس - أفقي</item>
+        <item>معكوس - رأسي</item>
+    </string-array>
+    <string-array name="sides">
+        <item>أحادي الجانب</item>
+        <item>طويل الحافة أحادي الجانب</item>
+        <item>قصير الحافة أحادي الجانب</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>أحادي الجانب</item>
+        <item>طويل الحافة ثنائي الجانب</item>
+        <item>قصير الحافة ثنائي الجانب</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>مشاركة جهات الاتصال في مجموعة</item>
+        <item>جلب جهة اتصال</item>
+        <item>تبادل جهات الاتصال</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>تم عرض الكل</item>
+        <item>جهات الاتصال مع أرقام الهاتف</item>
+        <item>المعلمة في أندرويد</item>
+    </string-array>
+</resources>

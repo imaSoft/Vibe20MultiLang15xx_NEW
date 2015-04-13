@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>По замовчуванню</item>
+        <item>Поворот</item>
+        <item>BullDoze</item>
+        <item>Вітряк</item>
+        <item>Куб</item>
+        <item>Синусоїда</item>
+        <item>Циліндр</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Нічого не робити</item>
+        <item>Відкрити меню Launcher</item>
+        <item>Відобразити недавні програми</item>
+        <item>Відкрити вікно сповіщень</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s-ը փորձում է ստեղծել VPN կապակցում:</string>
+    <string name="warning">Եթե շարունակեք, թույլ կտաք գործադիրին արգելափակել ցանցի ողջ տրաֆիկը: <b>ՄԻ ընդունեք, եթե չեք վստահում գործադիրին:</b> Հակառակ դեպքում, դուք ռիսկի եք դիմում վարկաբեկել ձեր տվյալները վնասարար ծրագրաշարի կողմից:</string>
+    <string name="accept">Վստահում եմ այս գործադիրին:</string>
+    <string name="legacy_title">VPN-ը կապակցված է</string>
+    <string name="configure">Կազմաձևել</string>
+    <string name="disconnect">Անջատել</string>
+    <string name="session">Սեանս.</string>
+    <string name="duration">Տևողություն.</string>
+    <string name="data_transmitted">Ուղարկված.</string>
+    <string name="data_received">Ստացված.</string>
+    <string name="data_value_format">%1$s բայթ / %2$s փաթեթ</string>
+</resources>

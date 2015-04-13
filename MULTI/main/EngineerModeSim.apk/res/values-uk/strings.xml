@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">"Блокування пам'яті EM SIM-карти"</string>
+    <string name="simmelock_name">"Пам'ять SIM-карти заблоковано"</string>
+    <string name="strInputPassword">Введіть пароль:</string>
+    <string name="strConfirm">Завершити</string>
+    <string name="strCancel">Скасувати</string>
+    <string name="strInputChancesleft">Розваг залишилось:</string>
+    <string name="strMCCMNC">MCC+MNC:</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR:</string>
+    <string name="strGID1">GID1:</string>
+    <string name="strGID2">GID2:</string>
+    <string name="strInputPasswordAgain">Введіть пароль ще раз:</string>
+    <string name="strIMSI">IMSI:</string>
+    <string name="strAttention">Зверніть увагу</string>
+    <string name="strConfirmRemove">Ви впевнені, що хочете видалити?</string>
+    <string name="srtConfirmPermanUnlock">Ви впевнені, що хочете безстроково розблокувати?</string>
+    <string name="strYes">Так</string>
+    <string name="strLockFail">На вдалося блокувати!</string>
+    <string name="strLockSucceed">Блокування успішно виконане!</string>
+    <string name="strUnlockFail">На вдалося розблокувати!</string>
+    <string name="strUnlockSucceed">Розблокування успішно виконане!</string>
+    <string name="strUserInput">Введення даних користувачем</string>
+    <string name="strInputMode">Буде введено користувачем?</string>
+    <string name="strLockNameNetwork">Персоналізація мережі</string>
+    <string name="strLockNameNetworkSub">Персоналізація мережі підмножини</string>
+    <string name="strLockNameService">Персоналізація постачальника послуг</string>
+    <string name="strLockNameCorporate">Корпоративна персоналізація</string>
+    <string name="strLockNameSIM">Персоналізація SIM-карти</string>
+    <string name="strActionNameLock">Блокувати</string>
+    <string name="strActionNameUnlock">Розблокувати</string>
+    <string name="strActionNameAddLock">Додати</string>
+    <string name="strActionNameRemoveLock">Видалити</string>
+    <string name="strActionNamePermanentUnlock">Розблокувати безстроково</string>
+    <string name="strPasswordLengthIncorrect">4-8 цифр!</string>
+    <string name="strQueryFailed">Не вдалося створити запит!</string>
+    <string name="strAddLockFail">Не вдалося додати!</string>
+    <string name="strAddLockSucceed">Додавання успішно виконане!</string>
+    <string name="strMCCMNCLengthIncorrect">MCC + MNC недійсні!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">MCC+MNC+HLR недійсні!</string>
+    <string name="strIMSILengthIncorrect">IMSI недійсний!</string>
+    <string name="strGID1WRONG">GID1 недійсний!</string>
+    <string name="strGID2WRONG">GID2 недійсний!</string>
+    <string name="str_simme_passwords_dont_match">Паролі не співпадають</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Calendar Storage</string>
+    <string name="upgrade_msg">Actualizando base de datos del calendario</string>
+    <string name="calendar_info_no_calendars">No hay calendarios.</string>
+    <string name="debug_tool_message">Está a punto de 1) generar una copia de lectura de la base de datos de sus calendarios en la tarjeta SD/la memoria USB; y 2) enviarla por e-mail. Recuerde eliminar la copia no bien la haya generado desde el dispositivo o haya recibido el e-mail.</string>
+    <string name="debug_tool_email_subject">Se ha adjuntado la base de datos de calendario</string>
+    <string name="debug_tool_email_body">Se adjunta la base de datos de calendarios con mis citas e información personal. Gestionar con cuidado.</string>
+</resources>

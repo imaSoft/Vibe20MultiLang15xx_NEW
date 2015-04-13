@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">მედია</string>
+    <string name="app_label">მედიას შესანახი ადგილი</string>
+    <string name="artist_label">შემსრულებელი</string>
+    <string name="ringtone_default">ავტომატურად შერჩეული ზარი</string>
+    <string name="notification_sound_default">შეტყობინების საწყისი ხმა</string>
+    <string name="root_images">გამოსახულებები</string>
+    <string name="root_videos">ვიდეოები</string>
+    <string name="root_audio">აუდიო</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">อัพเกรดระบบ</string>
+    <string name="exit">ออก</string>
+    <string name="update_failed">ขออภัย ไม่สามารถติดตั้งเฟิร์มแวร์ใหม่</string>
+    <string name="btn_ok">ตกลง</string>
+    <string name="btn_cancel">ยกเลิก</string>
+    <string name="notification_content_title">อัพเกรดเฟิร์มแวร์</string>
+    <string name="notification_content_text_completed">ดาวน์โหลดสำเร็จ</string>
+    <string name="error_not_specify_network_title">โปรดดาวน์โหลดผ่านเครือข่าย WLAN</string>
+    <string name="error_not_specify_network_content">ขอแนะนำให้ดาวน์โหลดผ่านเครือข่าย WLAN การดาวน์โหลดผ่านเครือข่าย GPRS จะใช้ปริมาณข้อมูลมาก</string>
+    <string name="btn_setting_network">ตั้งค่าทันที</string>
+    <string name="btn_keep_download">ทำการดาวน์โหลดต่อ</string>
+    <string name="retry">ลองใหม่</string>
+    <string name="redo_backup">สำรองข้อมูลอีกครั้ง</string>
+    <string name="contact">ผู้ติดต่อ</string>
+    <string name="sms">ข้อความ</string>
+    <string name="calllog">บันทึกการโทร</string>
+    <string name="btn_backup">สำรองข้อมูล</string>
+    <string name="has_not_backup">ไม่ได้สำรองข้อมูล</string>
+    <string name="countSms">ข้อความ</string>
+    <string name="countContact">ผู้ติดต่อ</string>
+    <string name="countCalllog">บันทึกการโทร</string>
+    <string name="nodata">ไม่มีข้อมูล</string>
+    <string name="backup_data_ing">กำลังสำรองข้อมูลผู้ติดต่อ ฯลฯ...</string>
+    <string name="backup_data_finish">สำรองข้อมูลเสร็จแล้ว</string>
+    <string name="data_usage_warning_title">คำเตือน</string>
+    <string name="data_usage_warning">เรียนผู้ใช้ทุกท่าน การใช้งานแอปพลิเคชันนี้จำเป็นต้องเข้าใช้อินเทอร์เน็ต ดำเนินการต่อหรือไม่</string>
+    <string name="data_usage_confirm">ไม่ต้องแจ้งถามในครั้งถัดไป</string>
+    <string name="ndf_install_finish_p">ทันที</string>
+    <string name="ndf_install_finish_n">ในภายหลัง</string>
+    <string name="ndf_lowpower_title">แบตเตอรี่เหลือน้อย</string>
+    <string name="toast_install_fail">ไม่สามารถติดตั้งได้ ไม่พบพาธที่ระบุ: %s</string>
+    <string name="network_error">การเชื่อมต่อเครือข่ายล้มเหลว</string>
+    <string name="notification_new_rom_come">ระบบของคุณสามารถอัพเดตเป็นเวอร์ชันล่าสุด</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">ระบบจะติดตั้งเวอร์ชันใหม่ในอีก %d วินาที</string>
+    <string name="backup_data">สำรองข้อมูล</string>
+    <string name="restore_data">เรียกคืนข้อมูล</string>
+    <string name="battery_tip">แบตเตอรี่ต่ำ, โปรดเชื่อมต่อเครื่องชาร์จเพื่อทำการอัพเกรดต่อ</string>
+</resources>

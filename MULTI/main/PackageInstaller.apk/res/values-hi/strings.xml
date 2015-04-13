@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पैकेज स्थापक</string>
+    <string name="next">अगला</string>
+    <string name="install">स्थापित करें</string>
+    <string name="done">पूर्ण</string>
+    <string name="security_settings_desc">इस अनुप्रयोग को निम्न करने की अनुमति दें:</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="unknown">अज्ञात</string>
+    <string name="installing">स्थापित किया जा रहा है…</string>
+    <string name="install_done">अनुप्रयोग स्थापित हुआ</string>
+    <string name="install_confirm_question">क्‍या आप इस अनुप्रयोग को स्थापित करना चाहते हैं? इससे यहां एक्सेस प्राप्त होगी:</string>
+    <string name="install_confirm_question_no_perms">क्‍या आप इस अनुप्रयोग को स्थापित करना चाहते हैं? इसके लिए किसी विशेष एक्सेस की आवश्‍यकता नहीं है।</string>
+    <string name="install_confirm_question_update">क्‍या आप इस मौजूदा अनुप्रयोग का अद्यतन स्थापित करना चाहते हैं? आपका मौजूदा डेटा गुम नहीं होगा। अद्यतन किए गए अनुप्रयोग से आपको इन पर एक्सेस प्राप्त होगी:</string>
+    <string name="install_confirm_question_update_system">क्‍या आप इस अंतर्निहित अनुप्रयोग का अद्यतन स्थापित करना चाहते हैं? आपका मौजूदा डेटा गुम नहीं होगा। अद्यतन किए गए अनुप्रयोग से आपको इन पर एक्सेस प्राप्त होगी:</string>
+    <string name="install_confirm_question_update_no_perms">क्या आप इस मौजूदा एप्लिकेशन में अपडेट इंस्टॉल करना चाहते हैं? आपका मौजूदा डेटा बना रहेगा. इसे किसी विशेष पहुंच की आवश्यकता नहीं होती.</string>
+    <string name="install_confirm_question_update_system_no_perms">क्या आप इस अंतर्निहित एप्लिकेशन में अपडेट इंस्टॉल करना चाहते हैं? आपका मौजूदा डेटा बना रहेगा. इसे किसी विशेष पहुंच की आवश्यकता नहीं होती.</string>
+    <string name="install_failed">अनुप्रयोग स्थापित नहीं हुआ</string>
+    <string name="install_failed_invalid_apk">पैकेज दूषित प्रदर्शित होता है।</string>
+    <string name="install_failed_inconsistent_certificates">विरोधी हस्‍ताक्षर वाला समान नाम का एक मौजूदा पैकेज पहले से स्थापित किया हुआ है।</string>
+    <string name="install_failed_older_sdk">पैकेज केवल Android के नवीनतम संस्‍करणों पर कार्य करता है।</string>
+    <string name="install_failed_cpu_abi_incompatible">यह अनुप्रयोग आपके फ़ोन के संगत नहीं है।</string>
+    <string name="install_failed_file_not_found">नि‍र्दि‍ष्‍ट कि‍या गया पैकेज स्थापना कि‍ए जाने से पहले ही हटा दि‍या गया था।</string>
+    <string name="install_failed_verify_failed">पैकेज ने सत्‍यापन पास नहीं कि‍या और स्थापित नहीं कि‍या जा सका।</string>
+    <string name="install_failed_verify_timeout">इस पैकेज की पुष्टि करते समय अवधि-समाप्त हो गई। कृपया इसे बाद में पुन: स्थापित करने की कोशिश करें।</string>
+    <string name="install_failed_msg">इस फ़ोन पर %1$s स्थापित नहीं किया जा सका।</string>
+    <string name="launch">खोलें</string>
+    <string name="unknown_apps_dlg_title">स्थापना अवरुद्ध</string>
+    <string name="unknown_apps_dlg_text">सुरक्षा के लिए, आपका फ़ोन अज्ञात स्रोतों से मिले अनुप्रयोग की स्थापना को अवरुद्ध करने हेतु सेट है।</string>
+    <string name="ok">ठीक</string>
+    <string name="settings">सेटिंग</string>
+    <string name="allow_source_dlg_title">अनुप्रयोग के लिए नया स्रोत</string>
+    <string name="allow_source_dlg_text">%1$s अन्‍य एप्‍लि‍केशन इंस्‍टॉल करना चाहता है। अभी और भविष्य के लिए इसकी अनुमति दें?</string>
+    <string name="manage_applications">अनुप्रयोग प्रबंधित करें</string>
+    <string name="dlg_app_replacement_title">अनुप्रयोग बदलें?</string>
+    <string name="dlg_app_replacement_statement">"आप जिस अनुप्रयोग को स्थापित कर रहे हैं, वह किसी दूसरे अनुप्रयोग को बदल देगा।
+
+सभी पहले के उपयोगकर्ता डेटा को रक्षित कर दिया जाएगा।"</string>
+    <string name="dlg_sys_app_replacement_statement">"यह सिस्‍टम अनुप्रयोग है।
+
+आपका सभी पिछला उपयोगकर्ता डेटा रक्षित कर लिया जाएगा।"</string>
+    <string name="out_of_space_dlg_title">स्थान रिक्त नहीं</string>
+    <string name="out_of_space_dlg_text">%1$s को स्थापित नहीं किया जा सका। कुछ स्थान खाली करें और पुनः प्रयास करें।</string>
+    <string name="dlg_ok">ठीक</string>
+    <string name="app_not_found_dlg_title">एप्लिकेशन नहीं मिला</string>
+    <string name="app_not_found_dlg_text">स्थापित किए गए एप्लिकेशन की सूची में एप्‍लिकेशन नहीं मिला।</string>
+    <string name="uninstall_application_title">एप्लिकेशन अनइंस्‍टॉल करें</string>
+    <string name="uninstall_update_title">अपडेट अनइंस्‍टॉल करें</string>
+    <string name="uninstall_activity_text">%1$s निम्‍न एप्लिकेशन का भाग है:</string>
+    <string name="uninstall_application_text">क्‍या आप इस अनुप्रयोग की स्थापना रद्द करना चाहते हैं?</string>
+    <string name="uninstall_application_text_all_users">क्या आप इस एप्लिकेशन को <b>सभी</b> उपयोगकर्ताओं के लिए अनइंस्टॉल करना चाहते हैं? एप्लिकेशन और उसके डेटा को उपकरण पर <b>सभी</b> उपयोगकर्ताओं से निकाल दिया जाएगा.</string>
+    <string name="uninstall_update_text">क्‍या आप इस अनुप्रयोग को फ़ैक्ट्री संस्‍करण से बदलना चाहते हैं?</string>
+    <string name="uninstalling">स्थापना रद्द की जा रही है...</string>
+    <string name="uninstall_done">स्थापना रद्द करना समाप्त</string>
+    <string name="uninstall_failed">स्थापना रद्द करना सफल नहीं हुआ</string>
+    <string name="uninstall_failed_device_policy_manager">स्थापना रद्द नहीं की जा सकती क्‍योंकि यह पैकेज कोई सक्रिय डिवाइस व्‍यवस्‍थापक है।</string>
+    <string name="manage_device_administrators">डिवाइस व्‍यवस्‍थापकों को प्रबंधित करें</string>
+    <string name="uninstall_failed_msg">%1$sकी स्थापना रद्द नहीं की जा सकी।</string>
+    <string name="Parse_error_dlg_title">पार्स त्रुटि</string>
+    <string name="Parse_error_dlg_text">पैकेज को पार्स करने में कोई समस्‍या थी।</string>
+    <string name="newPerms">नया</string>
+    <string name="allPerms">सभी</string>
+    <string name="privacyPerms">गोपनीयता</string>
+    <string name="devicePerms">डिवाइस एक्सेस</string>
+    <string name="no_new_perms">इस अद्यतन के लिए अनुमति की आवश्‍यकता नहीं है।</string>
+    <string name="grant_confirm_question">क्या आप निम्नलिखित के लिए अनुमति देना चाहते हैं ? इसे इन पर एक्सेस प्राप्त होगी:</string>
+</resources>

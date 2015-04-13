@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s VPN जोडणी तयार करण्याचा प्रयत्न करीत आहे.</string>
+    <string name="warning">पुढे जाण्याने, आपण अनुप्रयोगास सर्व नेटवर्क ट्रॅफिक खंडित करण्यास परवानगी देत आहात. <b>आपला अनुप्रयोगावर विश्वास नसेल तर स्वीकारू नका.</b>नाहीतर, दुर्भावयुक्त सॉफ्टवेअरकडून आपल्या डेटाशी तडजोड केली जाण्याचा आपल्याला धोका आहे.</string>
+    <string name="accept">या अनुप्रयोगावर माझा विश्वास आहे.</string>
+    <string name="legacy_title">VPN जोडले</string>
+    <string name="configure">कॉन्फिगर करा</string>
+    <string name="disconnect">अलग करा</string>
+    <string name="session">सत्र:</string>
+    <string name="duration">कालावधी:</string>
+    <string name="data_transmitted">पाठवला:</string>
+    <string name="data_received">प्राप्त केला:</string>
+    <string name="data_value_format">%1$s बाइट्स/ %2$s पॅकेट्स</string>
+</resources>

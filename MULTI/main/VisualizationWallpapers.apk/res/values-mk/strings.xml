@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Визуелизатор</string>
+    <string name="wallpaper_vis2">Облик на бранот</string>
+    <string name="wallpaper_vis3">Спектар</string>
+    <string name="wallpaper_vis4">VU метар</string>
+    <string name="wallpaper_vis5">Многу</string>
+    <string name="wallpapers">Позадини Музичка визуелизација</string>
+    <string name="vis2_desc">Цртај звучен бран од секоја музичка нумера што се репродуцира тековно.</string>
+    <string name="vis3_desc">Покажи го фреквентниот спектар од секоја музичка нумера што се репродуцира тековно.</string>
+    <string name="vis4_desc">Симулира аналоген звук метар.</string>
+    <string name="vis5_desc">Сите музички визуелизации заедно, полека вртејќи се во 3D.</string>
+</resources>

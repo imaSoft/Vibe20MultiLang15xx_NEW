@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Kalendrihoidla</string>
+    <string name="upgrade_msg">Kalendriandmebaasi uuendatakse.</string>
+    <string name="calendar_default_name">Vaikeseade</string>
+    <string name="calendar_info">Kalendriteave</string>
+    <string name="calendar_info_error">Tõrge</string>
+    <string name="calendar_info_no_calendars">Kalendreid pole</string>
+    <string name="calendar_info_events">Sündmused: %1$d</string>
+    <string name="calendar_info_events_dirty">Sündmused: %1$d, salvestamata: %2$d</string>
+    <string name="provider_label">Kalender</string>
+    <string name="debug_tool_delete_button">Kustuta kohe</string>
+    <string name="debug_tool_start_button">Alusta</string>
+    <string name="debug_tool_message">Olete 1. oma kalendri andmebaasist SD-kaardile/USB-mällu koopiat tegemas, mida saab mis tahes rakendus lugeda ning 2. seda e-postiga saatmas. Pidage meeles see kohe kustutada, kui olete faili seadmelt edasi kopeerinud või e-kiri on vastu võetud.</string>
+    <string name="debug_tool_email_sender_picker">Faili saatmiseks programmi valimine</string>
+    <string name="debug_tool_email_subject">Manusena lisatud kalendri andmebaas</string>
+    <string name="debug_tool_email_body">Manusena on lisatud minu kalendri andmebaas, mis sisaldab kõiki mu meelespäid ja isiklikke andmeid. Olge nendega ettevaatlikud.</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nadgradnja sistema</string>
+    <string name="exit">Izhod</string>
+    <string name="update_failed">Oprostite Namestitev nove vdelane programske opreme ni uspela</string>
+    <string name="btn_ok">V redu</string>
+    <string name="btn_cancel">Prekliči</string>
+    <string name="notification_content_title">Posodobitev vdelane programske opreme</string>
+    <string name="notification_content_text_completed">Prenos je bil uspešen.</string>
+    <string name="error_not_specify_network_title">Prenesite prek omrežja WLAN</string>
+    <string name="error_not_specify_network_content">Priporočen je prenos preko omrežja WLAN, prenos preko mobilnega omrežja lahko povzroči visoke stroške.</string>
+    <string name="btn_setting_network">Takoj nastavi</string>
+    <string name="btn_keep_download">Nadaljuj prenos</string>
+    <string name="retry">Poskusi znova</string>
+    <string name="redo_backup">Znova varnostno kopiraj</string>
+    <string name="contact">Stiki</string>
+    <string name="sms">Sporočilo</string>
+    <string name="calllog">Dnevnik klicev</string>
+    <string name="btn_backup">Varnostno kopiraj</string>
+    <string name="has_not_backup">Ni varnostno kopirano</string>
+    <string name="countSms">sporočil</string>
+    <string name="countContact">stikov</string>
+    <string name="countCalllog">dnevnikov klicev</string>
+    <string name="nodata">Ni podatkov</string>
+    <string name="backup_data_ing">Varnostno kopiranje stikov ipd. ...</string>
+    <string name="backup_data_finish">Varnostno kopiranje podatkov uspešno.</string>
+    <string name="data_usage_warning_title">Opozorilo</string>
+    <string name="data_usage_warning">Spoštovani uporabniki, za uporabo tega programa potrebujete dostop do interneta. Želite nadaljevati?</string>
+    <string name="data_usage_confirm">Ne sprašuj me več</string>
+    <string name="ndf_install_finish_p">Takoj</string>
+    <string name="ndf_install_finish_n">Pozneje</string>
+    <string name="ndf_lowpower_title">Skoraj prazna baterija</string>
+    <string name="toast_install_fail">Namestitev ni mogoča: navedena pot (%s) ne obstaja.</string>
+    <string name="network_error">Vzpostavitev omrežne povezave ni uspela.</string>
+    <string name="notification_new_rom_come">Sistem se lahko posodobi na najnovejšo različico</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Sistem mora po %d sekundah namestiti novo različico.</string>
+    <string name="backup_data">Varnostna kopija podatkov</string>
+    <string name="restore_data">Obnovitev podatkov</string>
+    <string name="battery_tip">Zmogljivost baterije je nizka; za nadaljevanje nadgradnje priključite napajalnik.</string>
+</resources>

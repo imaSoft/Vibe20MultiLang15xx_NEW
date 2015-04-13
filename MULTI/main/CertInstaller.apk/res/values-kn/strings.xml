@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಪ್ರಮಾಣಪತ್ರ ಸ್ಥಾಪಕ</string>
+    <string name="pick_file_title">ಒಂದು ಪ್ರಮಾಣಪತ್ರ ಆರಿಸಿ</string>
+    <string name="pkcs12_password_dialog_title">ಪ್ರಮಾಣಪತ್ರ ಹೊರಗೆಳೆಯಿರಿ</string>
+    <string name="extracting_pkcs12">ಹೊರಗೆಳೆಯುತ್ತಿದೆ…</string>
+    <string name="pkcs12_file_password_dialog_title">%s ನಿಂದ ಹೊರಗೆಳೆಯಿರಿ</string>
+    <string name="name_credential_dialog_title">ಪ್ರಮಾಣಪತ್ರವನ್ನು ಹೆಸರಿಸಿ</string>
+    <string name="credential_name">ಪ್ರಮಾಣಪತ್ರ ಹೆಸರು:</string>
+    <string name="credential_password">ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಹೊರಗೆಳೆಯಲು ಪಾಸ್‌ವರ್ಡ್ ಟೈಪ್ ಮಾಡಿ.</string>
+    <string name="credential_info">ಈ ಪ್ಯಾಕೇಜ್ ಇವುಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:</string>
+    <string name="p12_description">PKCS12 ಕೀಸ್ಟೋರ್‌ನಲ್ಲಿ ಪ್ರಮಾಣಪತ್ರಗಳು.</string>
+    <string name="one_userkey">ಒಂದು ಬಳಕೆದಾರ ಕೀಲಿ</string>
+    <string name="one_usercrt">ಒಂದು ಬಳಕೆದಾರ ಪ್ರಮಾಣಪತ್ರ</string>
+    <string name="one_cacrt">ಒಂದು CA ಪ್ರಮಾಣಪತ್ರ</string>
+    <string name="n_cacrts">%d CA ಪ್ರಮಾಣಪತ್ರಗಳು</string>
+    <string name="password_error">ಸರಿಯಾದ ಪಾಸ್‌ವರ್ಡ್ ಟೈಪ್ ಮಾಡಿ.</string>
+    <string name="password_empty_error">ಪಾಸ್‌ವರ್ಡ್ ಟೈಪ್ ಮಾಡಿ.</string>
+    <string name="name_empty_error">ಒಂದು ಹೆಸರು ಟೈಪ್ ಮಾಡಿ.</string>
+    <string name="name_char_error">ಅಕ್ಷರಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳು ಮಾತ್ರವೇ ಇರುವ ಹೆಸರನ್ನು ಟೈಪ್ ಮಾಡಿ.</string>
+    <string name="storage_error">ಪ್ರಮಾಣಪತ್ರವನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಮರುಪ್ರಯತ್ನಿಸಲು ಸರಿ ಮುಟ್ಟಿರಿ.</string>
+    <string name="unable_to_save_cert">ಪ್ರಮಾಣಪತ್ರವನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಕ್ರೆಡೆನ್ಷಿಯಲ್ ಸಂಗ್ರಹಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ ಅಥವಾ ಸರಿಯಾಗಿ ಪ್ರಾರಂಭಿಸಲಾಗಿಲ್ಲ.</string>
+    <string name="cert_not_saved">ಪ್ರಮಾಣಪತ್ರವನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿಲ್ಲ.</string>
+    <string name="no_cert_to_saved">ಸ್ಥಾಪಿಸಲು ಯಾವುದೇ ಪ್ರಮಾಣಪತ್ರಗಳಿಲ್ಲ.</string>
+    <string name="invalid_cert">ಪ್ರಮಾಣ ಪತ್ರವು ಅಮಾನ್ಯವಾಗಿದೆ.</string>
+    <string name="cert_is_added">%s ಅನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ.</string>
+    <string name="cert_too_large_error">ಪ್ರಮಾಣಪತ್ರ ಗಾತ್ರವು ತೀರಾ ದೊಡ್ಡದಾಗಿರುವುದರಿಂದ ಸ್ಥಾಪಿಸುವುದು ಸಾಧ್ಯವಾಗಿಲ್ಲ.</string>
+    <string name="cert_missing_error">ಪ್ರಮಾಣಪತ್ರ ಫೈಲ್ ಅನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಆದುದರಿಂದ ಸ್ಥಾಪಿಸುವುದು ಸಾಧ್ಯವಾಗಿಲ್ಲ.</string>
+    <string name="cert_read_error">ಪ್ರಮಾಣಪತ್ರ ಫೈಲ್ ಅನ್ನು ಓದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಆದುದರಿಂದ ಸ್ಥಾಪಿಸುವುದು ಸಾಧ್ಯವಾಗಿಲ್ಲ.</string>
+    <string name="no_cert_file_found">ಆಂತರಿಕ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಯಾವುದೇ ಪ್ರಮಾಣಪತ್ರ ಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="sdcard_not_present">SD ಕಾರ್ಡ್ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.</string>
+    <string name="only_primary_user_allowed">ಈ ಸಾಧನದ ಮಾಲೀಕರು ಮಾತ್ರ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಸ್ಥಾಪಿಸಬಹುದು.</string>
+    <string name="credential_usage_label">ರುಜುವಾತು ಬಳಕೆ:</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nettoyeur de carte SD</string>
+    <string name="loading_please_wait">Chargement en cours, veuillez patienter</string>
+    <string name="white_list_not_found">Echec de nettoyage de carte SD interne : aucune liste blanche trouvée</string>
+    <string name="sdcard_not_available">Echec de nettoyage de carte SD interne : Carte SD non disponible</string>
+    <string name="clearSDcardFailed">Echec de nettoyage de carte SD interne</string>
+    <string name="deleteFileFailed">Echec de suppression de fichier</string>
+    <string name="fileNotFoud">Aucune anormalité trouvée dans le fichier</string>
+    <string name="clear_start">Démarrer le nettoyage de carte SD interne utiliser journal</string>
+    <string name="clear_success">Nettoyage terminé correctement, prêt au redémarrage</string>
+    <string name="clearing">Nettoyage de carte SD interne en cours</string>
+    <string name="checking">Checking preset resources</string>
+    <string name="check_file">Preset resource examination</string>
+    <string name="check_sucess">Checked preset resources</string>
+    <string name="check_fail">Incomplete preset resources. Do you want to finish clearing the SD card?</string>
+</resources>

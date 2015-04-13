@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">தொகுப்பு நிறுவி</string>
+    <string name="next">அடுத்து</string>
+    <string name="install">நிறுவு</string>
+    <string name="done">முடிந்தது</string>
+    <string name="security_settings_desc">இதைச் செய்ய இந்தப் பயன்பாட்டை அனுமதிக்கவும்:</string>
+    <string name="cancel">ரத்து</string>
+    <string name="unknown">தெரியாதது</string>
+    <string name="installing">நிறுவுகிறது...</string>
+    <string name="install_done">பயன்பாடு நிறுவப்பட்டது.</string>
+    <string name="install_confirm_question">இந்தப் பயன்பாட்டை நீங்கள் நிறுவ விரும்புகிறீர்களா? இதற்கான அணுகுதலை இது பெறும்:</string>
+    <string name="install_confirm_question_no_perms">இந்தப் பயன்பாட்டை நீங்கள் நிறுவ விரும்புகிறீர்களா? இதற்கு எவ்வித விசேஷ அணுகுதலும் தேவையில்லை:</string>
+    <string name="install_confirm_question_update">இந்த இருக்கும் பயன்பாட்டுக்கு ஓர் புதுப்பித்தலை நீங்கள் நிறுவ விரும்புகிறீர்களா? உங்களது இருக்க கூடிய தரவு இழக்கப்படமாட்டாது. புதுப்பிக்கப்பட்ட பயன்பாடு இதற்கான அணுகுதலைப் பெறும்:</string>
+    <string name="install_confirm_question_update_system">இந்த உள்ளமைந்த பயன்பாட்டுக்கு ஓர் புதுப்பித்தலை நீங்கள் நிறுவ விரும்புகிறீர்களா? உங்களது இருக்க கூடிய தரவு இழக்கப்படமாட்டாது. புதுப்பிக்கப்பட்ட பயன்பாடு இதற்கான அணுகுதலைப் பெறும்:</string>
+    <string name="install_confirm_question_update_no_perms">முன்பே உள்ள இந்த பயன்பாட்டுக்கு புதுப்பிப்பை நிறுவ வேண்டுமா? முன்பே உள்ள உங்கள் தரவுகள் இழக்கப்படாது. இதற்கு சிறப்பு அணுகல் எதுவும் தேவையில்லை.</string>
+    <string name="install_confirm_question_update_system_no_perms">உள்ளமைந்த இந்த பயன்பாட்டுக்கு புதுப்பிப்பை நிறுவ வேண்டுமா? முன்பே உள்ள உங்கள் தரவுகள் இழக்கப்படாது. இதற்கு சிறப்பு அணுகல் எதுவும் தேவையில்லை.</string>
+    <string name="install_failed">பயன்பாடு நிறுவப்படவில்லை.</string>
+    <string name="install_failed_invalid_apk">தொகுப்பு சிதைவடைந்துள்ளதாக தெரிகிறது.</string>
+    <string name="install_failed_inconsistent_certificates">இதே பெயருடன் ஓர் முரண்படும் கையெழுத்தைக் கொண்ட ஒரு தொகுப்பு முன்பே நிறுவப்பட்டுளளது.</string>
+    <string name="install_failed_older_sdk">தொகுப்பானது Android யின் புதிய பதிப்புகள் மீது மட்டுமே செயலாற்றுகிறது.</string>
+    <string name="install_failed_cpu_abi_incompatible">இந்தப் பயன்பாடு உங்கள் மொபைல் ஃபோனுடன் இணக்கமாக இல்லை.</string>
+    <string name="install_failed_file_not_found">நிறுவுதல் நிறைவடைவதற்கு முன்பு குறிப்பிடப்பட்ட தொகுப்பு நீக்கப்பட்டது.</string>
+    <string name="install_failed_verify_failed">தொகுப்பு உறுதி செய்தலில் வெற்றியடைவில்லை, மேலும் அதை நிறுவமுடியாது.</string>
+    <string name="install_failed_verify_timeout">இந்தத் தொகுப்பை உறுதிப்படுத்த முயற்சிக்கையில் ஒரு நேரமுடிவு ஏற்பட்டது. இதை பின்னர் மீண்டும் நிறுவ முயற்சி செய்யவும்.</string>
+    <string name="install_failed_msg">உங்கள் மொபைல் ஃபோனில் %1$s ஐ நிறுவ முடியவில்லை.</string>
+    <string name="launch">திற</string>
+    <string name="unknown_apps_dlg_title">நிறுவல் தடுக்கப்பட்டது</string>
+    <string name="unknown_apps_dlg_text">பாதுகாப்புக்காக, உங்கள் மொபைல் ஃபோன் தெரியாத மூலங்களிலிருந்து பெறப்படும் பயன்பாடுகளின் நிறுவலை முடக்குமாறு அமைக்கப்படும்.</string>
+    <string name="ok">OK</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="allow_source_dlg_title">பயன்பாடுகளுக்கான புதிய ஆதாரம்</string>
+    <string name="allow_source_dlg_text">"%1$s இதர பயன்பாடுகளை நிறுவ விரும்புகிறது.                                                                                                                                  இப்பொழுதும் வருங்காலத்திலும் இதை அனுமதிக்கவா?"</string>
+    <string name="manage_applications">பயன்பாடுகளை நிர்வகி</string>
+    <string name="dlg_app_replacement_title">பயன்பாட்டை மாற்றீடு செய்யவா?</string>
+    <string name="dlg_app_replacement_statement">"நீங்கள் நிறுவிக்கொண்டிருக்கும் பயன்பாடு வேறொரு பயன்பாட்டை மாற்றீடு செய்யும்.
+
+உங்கள் அனைத்து முந்தைய பயனர் தரவும் சேமிக்கப்படும்."</string>
+    <string name="dlg_sys_app_replacement_statement">"இது ஒரு முறைமைப் பயன்பாடு.
+
+உங்கள் அனைத்து முந்தைய பயனர் தரவும் சேமிக்கப்படும்.
+"</string>
+    <string name="out_of_space_dlg_title">இடத்துக்கு வெளியே</string>
+    <string name="out_of_space_dlg_text">%1$s ஐ நிறுவ முடியவில்லை. சிறிதளவு இடத்தைக் காலியாக்கி, மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">பயன்பாடு காணப்படவில்லை</string>
+    <string name="app_not_found_dlg_text">நிறுவப்பட்ட பயன்பாடுகள் பட்டியலில் பயன்பாடு காணப்படவி்ல்லை.</string>
+    <string name="uninstall_application_title">பயன்பாட்டை நிறுவல்நீக்கவும்</string>
+    <string name="uninstall_update_title">புதுப்பிப்பை நிறுவல்நீக்கவும்</string>
+    <string name="uninstall_activity_text">%1$s என்பது பின்வரும் பயன்பாட்டின் பகுதி:</string>
+    <string name="uninstall_application_text">இந்தப் பயன்பாட்டை நிறுவல்நீக்க விரும்புகிறீர்களா?</string>
+    <string name="uninstall_application_text_all_users">இந்தப் பயன்பாட்டை <b>அனைத்து</b> பயனர்களுக்கும் நிறுவல்நீக்க விரும்புகிறீர்களா? சாதனத்தில் உள்ள <b>அனைத்து</b> பயனர்களில் இருந்தும் இந்தப் பயன்பாடும் அதன் தரவுகளும் நீக்கப்படும்.</string>
+    <string name="uninstall_update_text">இந்த பயன்பாட்டை தொழிற்சாலைப் பதிப்புடன் மாற்றீடு செய்ய விரும்புகிறீர்களா?</string>
+    <string name="uninstalling">நிறுவல்நீக்குகிறது...</string>
+    <string name="uninstall_done">நிறுவல்நீக்கம் முடிந்தது.</string>
+    <string name="uninstall_failed">நிறுவல்நீக்கம் வெற்றியடையவில்லை.</string>
+    <string name="uninstall_failed_device_policy_manager">நிறுவல்நீக்க முடியாது, ஏனெனில் இந்தத் தொகுப்பு ஒரு செயலிலுள்ள சாதன நிர்வாகி ஆகும்.</string>
+    <string name="manage_device_administrators">சாதன நிர்வாகிகளை நிர்வகிக்கவும்</string>
+    <string name="uninstall_failed_msg">%1$s ஐ நிறுவல்நீக்க முடியவில்லை.</string>
+    <string name="Parse_error_dlg_title">பாகுபடுத்துதல் பிழை</string>
+    <string name="Parse_error_dlg_text">தொகுப்பைப் பாகுபடுத்துவதில் ஒரு சிக்கல் இருந்தது.</string>
+    <string name="newPerms">புதிய</string>
+    <string name="allPerms">அனைத்தும்</string>
+    <string name="privacyPerms">தனியுரிமை</string>
+    <string name="devicePerms">சாதன அணுகல்</string>
+    <string name="no_new_perms">இந்தப் புதுப்பித்தலுக்கு எந்தவொரு புதிய அனுமதிகளும் தேவையில்லை.</string>
+    <string name="grant_confirm_question">பின்வரும் அனுமதிகளை நீங்கள் அளிக்க விரும்புகிறீர்களா? இதற்கான அனுமதியை அளிக்கும்:</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis3">ಸ್ಪೆಕ್ಟ್ರಮ್</string>
+    <string name="wallpapers">ಸಂಗೀತ ದೃಷ್ಟೀಕರಣ ವಾಲ್ ಪೇಪರ್‌ಗಳು</string>
+    <string name="vis2_desc">ಪ್ರಸ್ತುತ ಚಾಲಿಸುತ್ತಿರುವ ಯಾವುದೇ ಸಂಗೀತ ಟ್ರಾಕ್‌ನ ಧ್ವನಿ ಅಲೆಗಳನ್ನು ರಚಿಸುತ್ತದೆ.</string>
+    <string name="vis3_desc">ಪ್ರಸ್ತುತ ಚಾಲಿಸುತ್ತಿರುವ ಯಾವುದೇ ಸಂಗೀತ ಟ್ರಾಕ್‌ನ ತರಂಗಾಂತರ ಗುಚ್ಛವನ್ನು ತೋರಿಸುತ್ತದೆ.</string>
+    <string name="vis4_desc">ಅನಲಾಗ್ ಧ್ವನಿ ಮೀಟರ್ ಒಂದನ್ನು ಅನುಕರಿಸುತ್ತದೆ.</string>
+    <string name="vis5_desc">ಎಲ್ಲ ಸಂಗೀತವೂ 3Dಯಲ್ಲಿ ನಿಧಾನವಾಗಿ ಸುತ್ತುತ್ತಾ ಜೊತೆಯಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.</string>
+</resources>

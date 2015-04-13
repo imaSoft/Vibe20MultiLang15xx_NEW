@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सिस्टम नवीनीकरण</string>
+    <string name="exit">बाहर निकलें</string>
+    <string name="update_failed">क्षमा करें. नया फ़र्मवेयर स्थापित करने में असफल रहा</string>
+    <string name="btn_ok">ठीक</string>
+    <string name="btn_cancel">रद्द करें</string>
+    <string name="notification_content_title">फ़र्मवेयर नवीनीकरण</string>
+    <string name="notification_content_text_completed">डाउनलोड सफल</string>
+    <string name="error_not_specify_network_title">कृपया WLAN नेटवर्क के माध्यम से डाउनलोड करें</string>
+    <string name="error_not_specify_network_content">दृढ़ता के साथ यह अनुशंसित किया जाता है कि WLAN नेटवर्क के माध्यम से डाउनलोड करें, मोबाइल नेटवर्क के माध्यम से डाउनलोड करने से महत्वपूर्ण शुल्क लग सकते हैं</string>
+    <string name="btn_setting_network">तुरंत सेट करें</string>
+    <string name="btn_keep_download">डाउनलोड करना जारी रखें</string>
+    <string name="retry">पुनः प्रयास करें</string>
+    <string name="redo_backup">पुनः बैकअप लें</string>
+    <string name="contact">संपर्क</string>
+    <string name="sms">संदेश</string>
+    <string name="calllog">लॉग कॉल करें</string>
+    <string name="btn_backup">बैकअप</string>
+    <string name="has_not_backup">बैकअप नहीं लिया गया</string>
+    <string name="countSms">संदेश (संदेशों)</string>
+    <string name="countContact">संपर्क (संपर्कों)</string>
+    <string name="countCalllog">लॉग कॉल करें</string>
+    <string name="nodata">कोई डेटा नहीं</string>
+    <string name="backup_data_ing">संपर्क इत्यादि बैकअप कर रहा है...</string>
+    <string name="backup_data_finish">डेटा बैकअप सफल रहा!</string>
+    <string name="data_usage_warning_title">चेतावनी</string>
+    <string name="data_usage_warning">प्रिय उपयोगकर्ताओ, इस अनुप्रयोग के लिए इंटरनेट पर पहुँच आवश्यक है, जारी रखेंगे?</string>
+    <string name="data_usage_confirm">अगली बार तत्परता न दिखाएं</string>
+    <string name="ndf_install_finish_p">तुरंत</string>
+    <string name="ndf_install_finish_n">बाद में</string>
+    <string name="ndf_lowpower_title">बैटरी कम है</string>
+    <string name="toast_install_fail">निर्दिष्ट पथ स्थापित करने में विफल हुआ: %s, मौजूद नहीं है.</string>
+    <string name="network_error">नेटवर्क कनेक्शन विफल</string>
+    <string name="notification_new_rom_come">आपका सिस्टम नवीनतम संस्करण पर अद्यतन किया जा सकता है</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">%d सेकंड के बाद सिस्टम को नया संस्करण स्थापित कर देना चाहिए!</string>
+    <string name="backup_data">बैकअप डेटा</string>
+    <string name="restore_data">डेटा पुनर्स्थापना</string>
+    <string name="battery_tip">निम्न बैटरी, कृपया अपग्रेड जारी रखने के लिए चार्जर कनेक्ट करें</string>
+</resources>

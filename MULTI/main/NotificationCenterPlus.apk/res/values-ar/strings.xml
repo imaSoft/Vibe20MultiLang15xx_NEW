@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashlight_notification_title">الضوء الوامض متوقف</string>
+    <string name="flashlight_notification_text">انقر لإيقاف الضوء الوامض</string>
+    <string name="app_notification_manager_title">إدارة إشعارات التطبيق</string>
+    <string name="app_notification_optimized_title">إدارة أولوية الإعلام</string>
+    <string name="lenovo_app_closed_notifications_manager_title">التطبيقات لا تعرض الإعلامات</string>
+    <string name="lenovo_app_opened_notifications_manager_title">إعلامات عرض التطبيقات</string>
+    <string name="lenovo_progress_dialog_message">جارٍ التحميل...</string>
+    <string name="app_disable_notifications_dlg_title">إيقاف إرسال الإشعارات؟</string>
+    <string name="app_disable_notifications_dlg_text">في حال إيقاف إشعارات هذا التطبيق; قد تفقد بعض التنبيهات والتحديثات المهمة.</string>
+    <string name="app_add_optimized_notifications_title">عدم تعيين التطبيق المفضل</string>
+    <string name="app_del_optimized_notifications_title">تعيين تطبيق مفضل</string>
+    <string name="app_vip_notifications_title">تطبيق VIP</string>
+    <string name="app_close_optimized_notifications_title">إعلام تطبيق مغلق</string>
+    <string name="app_close_optimized_notifications_summary">يمكن تعيين التطبيقات كتطبيقات مفضلة فقط بعد تمكين إعلاماتها في إدارة إعلام التطبيقات</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">\"%1$s\" تعيين كأفضلية</string>
+    <string name="lenovo_app_add_notification_toast_text">\"%1$s\" تمكين إعلامات</string>
+    <string name="lenovo_no_app_nofitication">لا توجد ملفات اختيار</string>
+    <string name="app_del_optimized_notifications_dlg_title">إلغاء الحالة المفضلة؟</string>
+    <string name="app_del_optimized_notifications_dlg_text">في حالة إلغاء الحالة المفضلة لهذا التطبيق، فقد تتجاهل تحديثات أو إنذارات مهمة.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">" إعلامات \"\"%1$s\" ليست ذات أولوية"</string>
+    <string name="lenovo_app_delete_notification_toast_text">" إعلامات معطّلة لـ \"\"%1$s\""</string>
+    <string name="lenovo_flashlight_error_notification_title">يتعذر تشغيل الضوء الوامض</string>
+    <string name="lenovo_flashlight_error_camera_in_use">الكاميرا قيد الاستخدام الآن، لا يمكن تشغيل الضوء الوامض</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">لا يمكن تشغيل الضوء الوامض عندما تكون الحافة العليا للشاشة مغطاة، وذلك منعًا لاستخدامه عن غير قصد.</string>
+    <string name="lenovo_flashlight_error_low_power">الطاقة منخفضة! يتعذر استخدام الضوء الوامض</string>
+</resources>

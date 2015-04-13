@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>"Яке ім'я у моєї матері?"</item>
+        <item>Який мій улюблений фрукт?</item>
+        <item>Мій улюблений фільм?</item>
+        <item>Яка моя улюблена пісня?</item>
+        <item>"Ім'я мого улюбленця?"</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Імпортувати з Історії викликів</item>
+        <item>Імпортувати з Історії SMS-повідомлень</item>
+        <item>Імпортувати з Контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>перехоплення чорний список</item>
+        <item>Дозволяти тільки Контакти</item>
+        <item>"Дозволяти тільки об'єкти Білого списку"</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Зворотній сигнал зайнято</item>
+        <item>Зворотнє повідомлення про вимкнення живлення</item>
+        <item>Зворотнє повідомлення про завершення роботи системи</item>
+        <item>Зворотнє повідомлення, що номер вакантний</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Тільки з Контактів</item>
+        <item>Тільки з Білого списку</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Імпортувати з Історії викликів</item>
+        <item>Імпортувати з Історії SMS-повідомлень</item>
+        <item>Імпортувати з Контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Відповісти</item>
+        <item>Відхилити</item>
+        <item>Відхилити виклик та Надісл. SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Імпортувати з Історії викликів</item>
+        <item>Імпортувати з Історії SMS-повідомлень</item>
+        <item>Імпортувати з Контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Немає оповіщень</item>
+        <item>Повідомлення на панелі оповіщень</item>
+        <item>звуковий сигнал</item>
+        <item>вібросигнал</item>
+    </string-array>
+</resources>

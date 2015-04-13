@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Պատկերիչ</string>
+    <string name="wallpaper_vis2">Ալեպատկեր</string>
+    <string name="wallpaper_vis3">Սպեկտր</string>
+    <string name="wallpaper_vis4">VU չափիչ</string>
+    <string name="wallpaper_vis5">Շատ</string>
+    <string name="wallpapers">Երաժշտական տեսաբերմամբ պաստառներ</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Գծում է ընթացիկ նվագարկվող երաժշտության հետագծի ձայնի ալիքը:</string>
+    <string name="vis3_desc">Ցուցադրում է ընթացիկ նվագարկ երաժշտ հետագծի հաճախականության շարքը:</string>
+    <string name="vis4_desc">Կեղծում է համօրինակ ձայնային չափիչը:</string>
+    <string name="vis5_desc">Տեսողականացնում է ողջ երաժշտությունը՝ դանդաղ կենտրոնաբերվելով 3-չափով:</string>
+</resources>

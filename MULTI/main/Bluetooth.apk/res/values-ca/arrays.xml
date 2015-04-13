@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Una pàgina per cara</item>
+        <item>Dues pàgines per cara</item>
+        <item>Quatre pàgines per cara</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Vertical</item>
+        <item>Horitzontal</item>
+        <item>Inverteix horitzontal</item>
+        <item>Inverteix vertical</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>vertical</item>
+        <item>horitzontal</item>
+        <item>inverteix-vertical</item>
+        <item>inverteix-horitzontal</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Una cara</item>
+        <item>Dues cares vora gran</item>
+        <item>Dues cares vora petita</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>una cara</item>
+        <item>dues cares, vora gran</item>
+        <item>dues cares, vora petita</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Comparteix els contactes al grup</item>
+        <item>Obtingues un contacte</item>
+        <item>Intercanvia contactes</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Tots mostrats</item>
+        <item>Contactes amb números de telèfon</item>
+        <item>Preferits a Android</item>
+    </string-array>
+</resources>

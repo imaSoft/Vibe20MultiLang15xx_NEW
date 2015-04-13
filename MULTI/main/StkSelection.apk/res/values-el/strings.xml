@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Κιτ εργαλείων USIM</string>
+    <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στο τηλέφωνό σας.</string>
+    <string name="simlock_toolkit">Κιτ εργαλείων USIM</string>
+    <string name="no_sim_card_inserted">Εισαγάγετε τη USIM για να ξεκινήσετε το Κιτ εργαλείων USIM.</string>
+    <string name="airplane_mode_on">Δεν είναι δυνατή η εκκίνηση του Κιτ εργαλείων USIM, επειδή είναι ενεργοποιημένη η λειτουργία πτήσης.</string>
+    <string name="lable_sim_not_ready">Το Κιτ εργαλείων USIM δεν είναι έτοιμο ή δεν υποστηρίζεται</string>
+</resources>

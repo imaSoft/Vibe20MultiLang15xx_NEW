@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I-upgrade ang sistema</string>
+    <string name="exit">Lumabas</string>
+    <string name="update_failed">Paumanhin. Hindi nagawang i-install ang bagong firmware</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Kanselahin</string>
+    <string name="notification_content_title">I-upgrade ang firmware</string>
+    <string name="notification_content_text_completed">Tagumpay ang pag-download</string>
+    <string name="error_not_specify_network_title">Mangyaring i-download sa pamamagitan ng WLAN network</string>
+    <string name="error_not_specify_network_content">Mahigpit na inirerekomenda na i-download sa pamamagitan ng WLAN network, i-download sa pamamagitan ng mobile network na maaring maging dahilan ng makabuluhang pagsingil</string>
+    <string name="btn_setting_network">I-set agad</string>
+    <string name="btn_keep_download">Magpatuloy sa pag-download</string>
+    <string name="retry">I-retry</string>
+    <string name="redo_backup">I-backup muli</string>
+    <string name="contact">Mga contact</string>
+    <string name="sms">Mensahe</string>
+    <string name="calllog">Talaan ng tawag</string>
+    <string name="btn_backup">Backup</string>
+    <string name="has_not_backup">Hindi na-back-up</string>
+    <string name="countSms">(mga) mensahe</string>
+    <string name="countContact">(mga) contact</string>
+    <string name="countCalllog">(mga) talaan ng tawag</string>
+    <string name="nodata">Walang data</string>
+    <string name="backup_data_ing">Bina-back up ang mga contact atbp....</string>
+    <string name="backup_data_finish">Matagumpay ang backup ng data!</string>
+    <string name="data_usage_warning_title">Babala</string>
+    <string name="data_usage_warning">Minamahal na user, gamitin ang application na ito para ma-acccess ang Internet, magpatuloy?</string>
+    <string name="data_usage_confirm">Huwag didiktahan sa susunod</string>
+    <string name="ndf_install_finish_p">Kaagad</string>
+    <string name="ndf_install_finish_n">Saka na</string>
+    <string name="ndf_lowpower_title">Mahina ang baterya</string>
+    <string name="toast_install_fail">Hindi nagawang i-install, ang tinukoy na path na: %s, ay hindi umiiral.</string>
+    <string name="network_error">Nabigo ang koneksyon ng network</string>
+    <string name="notification_new_rom_come">Makakapag-update ang iyong sistema sa pinakabagong bersyon</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Pagkatapos ng %d segundo, dapat i-install ng sistema ang bagong bersyon!</string>
+    <string name="backup_data">Backup Data</string>
+    <string name="restore_data">I-restore ang Data</string>
+    <string name="battery_tip">Wala nang karga ang baterya, ikonekta ang charger upang magpatuloy sa pag-upgrade</string>
+</resources>

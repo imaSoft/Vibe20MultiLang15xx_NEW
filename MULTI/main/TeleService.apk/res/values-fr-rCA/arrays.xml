@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Paramètre par défaut du réseau</item>
+        <item>Masquer le numéro</item>
+        <item>Afficher le numéro</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>Français</item>
+        <item>Espagnol</item>
+        <item>Japonais</item>
+        <item>Coréen</item>
+        <item>Chinois</item>
+        <item>Hébreu</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Local uniquement</item>
+        <item>Automatique</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Long</item>
+    </string-array>
+</resources>

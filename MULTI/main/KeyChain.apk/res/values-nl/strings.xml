@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleutelhanger</string>
+    <string name="title_no_certs">Geen certificaten gevonden</string>
+    <string name="title_select_cert">Certificaat selecteren</string>
+    <string name="requesting_application">De applicatie %s heeft een certificaat aangevraagd. Als u een certificaat selecteert, kan deze identiteit nu en in de toekomst op servers worden gebruikt in de applicatie.</string>
+    <string name="requesting_server">De applicatie heeft de aanvragende server geïdentificeerd als %s, maar u moet de applicatie alleen toegang verlenen tot het certificaat wanneer u de applicatie vertrouwt.</string>
+    <string name="install_new_cert_message">U kunt certificaten installeren vanuit een PKCS#12-bestand met een %1$s- of %2$s-extensie die zich bevindt in de externe opslag.</string>
+    <string name="install_new_cert_button_label">Installeren</string>
+    <string name="allow_button">Toestaan</string>
+    <string name="deny_button">Afwijzen</string>
+</resources>

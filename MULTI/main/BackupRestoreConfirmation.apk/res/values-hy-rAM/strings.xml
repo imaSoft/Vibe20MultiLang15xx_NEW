@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Ամբողջական պահուստավորում</string>
+    <string name="restore_confirm_title">Ամբողջական վերականգնում</string>
+    <string name="backup_confirm_text">"Հայցվել է բոլոր տվյալների ամբողջական պահուստավորումը կապակցված սեղանի համակարգչին: Ցանկանո՞ւմ եք թույլատրել:
+
+Եթե դուք ինքներդ չեք հայցել պահուստավորումը, թույլ մի տվեք, որպեսզի գործողությունը շարունակվի:"</string>
+    <string name="allow_backup_button_label">Պահուստավորել իմ տվյալները</string>
+    <string name="deny_backup_button_label">Չպահուստավորել</string>
+    <string name="restore_confirm_text">"Հայցվել է տվյալների ամբողջական վերականգնում կապակցված սեղանի համակարգչից: Ցանկանո՞ւմ եք թույլատրել:
+
+Եթե դուք ինքներդ չեք հայցողը, մի թույլատրեք գործառույթը շարունակվի: Սա կփոխարինի սարքի բոլոր ընթացիկ տվյալները:"</string>
+    <string name="allow_restore_button_label">Վերականգնել իմ տվյալները</string>
+    <string name="deny_restore_button_label">Չվերականգնել</string>
+    <string name="current_password_text">Մուտքագրեք ձեր ընթացիկ ստույգ կրկնօրինակ գաղտնաբառը ստորև.</string>
+    <string name="device_encryption_restore_text">Ստորև մուտքագրեք սարքի գաղտնագրման գաղտնագիրը:</string>
+    <string name="device_encryption_backup_text">Ստորև մուտքագրեք սարքի գաղտնագրման գաղտնագիրը: Այն նաև կօգտագործվի պահուստավորման արխիվի գաղտնագրման համար:</string>
+    <string name="backup_enc_password_text">Մուտքագրեք գաղտնաբառ՝ ամբողջական պահուստավորման տվյալների գաղտնագրման համար: Դաշտը դատարկ թողնելու դեպքում, կօգտագործվի պահուստավորման ձեր ընթացիկ գաղտնաբառը.</string>
+    <string name="backup_enc_password_optional">Եթե կամենում եք գաղտնագրել ամբողջական պահուստավորման տվյալները, ստորև մուտքագրեք գաղտնաբառ.</string>
+    <string name="restore_enc_password_text">Եթե տվյալների վերականգնումը գաղտնագրված է, մուտքագրեք գաղտնաբառը վարը.</string>
+    <string name="toast_backup_started">Կրկնօրինակումը մեկնարկում է...</string>
+    <string name="toast_backup_ended">Կրկնօրինակումն ավարտվեց</string>
+    <string name="toast_restore_started">Վերականգնել մեկնարկումը...</string>
+    <string name="toast_restore_ended">Վերականգնել ավարտածը</string>
+    <string name="toast_timeout">Գործողությունը ժամասպառված է</string>
+</resources>

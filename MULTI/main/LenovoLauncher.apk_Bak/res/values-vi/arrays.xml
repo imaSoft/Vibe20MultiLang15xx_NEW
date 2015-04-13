@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Mặc định</item>
+        <item>Thay phiên</item>
+        <item>Nhấn</item>
+        <item>Windmill</item>
+        <item>Hình khối</item>
+        <item>Sóng hình Sin</item>
+        <item>Hình trụ</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Không có gì</item>
+        <item>Hiển thị trình đơn Launcher</item>
+        <item>Hiện thị các ứng dụng vừa được sử dụng</item>
+        <item>Hiển thị thanh thông báo</item>
+    </string-array>
+</resources>

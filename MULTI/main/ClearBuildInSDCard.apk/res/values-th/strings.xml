@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ตัวล้าง SD การ์ด</string>
+    <string name="loading_please_wait">กำลังโหลด โปรดรอ</string>
+    <string name="white_list_not_found">การล้าง SD การ์ดภายในล้มเหลว: ไม่พบบัญชีขาว</string>
+    <string name="sdcard_not_available">การล้าง SD การ์ดภายในล้มเหลว: ไม่มี SD การ์ด</string>
+    <string name="clearSDcardFailed">การล้าง SD การ์ดภายในล้มเหลว</string>
+    <string name="deleteFileFailed">ลบไฟล์ล้มเหลว</string>
+    <string name="fileNotFoud">ไม่พบสิ่งผิดปกติในไฟล์</string>
+    <string name="clear_start">เริ่มการล้างบันทึกการใช้ SD การ์ดภายใน</string>
+    <string name="clear_success">การล้างสำเร็จ, พร้อมที่จะเริ่มใหม่</string>
+    <string name="clearing">ขณะนี้กำลังล้าง SD การ์ดภายใน</string>
+    <string name="checking">กำลังตรวจสอบชุดทรัพยากรที่กำหนด</string>
+    <string name="check_file">การตรวจชุดทรัพยากรที่กำหนดไว้</string>
+    <string name="check_sucess">ตรวจสอบชุดทรัพยากรที่กำหนดแล้ว</string>
+    <string name="check_fail">ชุดทรัพยากรที่กำหนดไม่สมบูรณ์ คุณต้องการล้างการ์ด SD ให้เสร็จสมบูรณ์หรือไม่</string>
+</resources>

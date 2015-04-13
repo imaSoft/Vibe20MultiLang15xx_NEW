@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Mga Dokumento</string>
+    <string name="title_open">Buksan mula sa</string>
+    <string name="title_save">I-save sa</string>
+    <string name="menu_create_dir">Gumawa ng folder</string>
+    <string name="menu_grid">View ng grid</string>
+    <string name="menu_list">View ng listahan</string>
+    <string name="menu_sort">Pag-uri-uriin ayon sa</string>
+    <string name="menu_search">Maghanap</string>
+    <string name="menu_settings">Mga Setting</string>
+    <string name="menu_open">Buksan</string>
+    <string name="menu_save">I-save</string>
+    <string name="menu_share">Ibahagi</string>
+    <string name="menu_delete">Tanggalin</string>
+    <string name="mode_selected_count">%1$d ang pinili</string>
+    <string name="sort_name">Ayon sa pangalan</string>
+    <string name="sort_date">Ayon sa petsa ng pagbago</string>
+    <string name="sort_size">Ayon sa laki</string>
+    <string name="drawer_open">Ipakita ang mga root</string>
+    <string name="drawer_close">Itago ang mga root</string>
+    <string name="save_error">Hindi ma-save ang dokumento</string>
+    <string name="create_error">Hindi magawa ang folder</string>
+    <string name="query_error">Hindi makapaghanap para sa mga dokumento</string>
+    <string name="root_recent">Kamakailan</string>
+    <string name="root_available_bytes">%1$s ang libre</string>
+    <string name="root_type_service">Mga serbisyo ng storage</string>
+    <string name="root_type_shortcut">Mga Shortcut</string>
+    <string name="root_type_device">Mga Device</string>
+    <string name="root_type_apps">Higit pang apps</string>
+    <string name="pref_advanced_devices">Ipakita mga advanced device</string>
+    <string name="pref_file_size">Ipakita ang laki ng file</string>
+    <string name="pref_device_size">Ipakita ang laki ng device</string>
+    <string name="empty">Walang mga item</string>
+    <string name="toast_no_application">Hindi mabuksan ang file</string>
+    <string name="toast_failed_delete">Hindi matanggal ang ilang dokumento</string>
+    <string name="share_via">Ibahagi sa pamamagitan ng</string>
+</resources>

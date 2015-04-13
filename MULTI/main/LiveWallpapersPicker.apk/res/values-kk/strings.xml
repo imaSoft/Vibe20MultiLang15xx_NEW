@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Динамикалық фон суретін таңдағыш</string>
+    <string name="live_wallpaper_picker_title">Белсенді фон суретін таңдау</string>
+    <string name="live_wallpaper_picker_label">Белсенді фон суреттері</string>
+    <string name="live_wallpaper_preview_title">Шынайы фон суретін қарап алу</string>
+    <string name="configure_wallpaper">Параметрлер</string>
+    <string name="wallpaper_instructions">Фон суретін қою</string>
+    <string name="live_wallpaper_empty">Шынайы фон суреттері жоқ</string>
+    <string name="set_live_wallpaper">Фон суретін қою</string>
+    <string name="wallpaper_title_and_author">%1$s %2$s арқылы</string>
+    <string name="live_wallpaper_loading">Шынайы фон суреті жүктелуде…</string>
+    <string name="wallpaper_cancel">Бас тарту</string>
+</resources>

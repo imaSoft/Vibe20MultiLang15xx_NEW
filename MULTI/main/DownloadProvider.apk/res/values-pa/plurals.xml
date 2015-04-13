@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d ਫਾਈਲਾਂ ਡਾਉਨਲੋਡ ਹੋ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">1 file downloading</item>
+    </plurals>
+</resources>

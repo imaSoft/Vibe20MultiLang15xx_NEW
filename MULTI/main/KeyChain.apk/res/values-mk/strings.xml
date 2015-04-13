@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Клучна низа</string>
+    <string name="title_no_certs">Не се најдени сертификати</string>
+    <string name="title_select_cert">Одбери сетификат</string>
+    <string name="requesting_application">Апликацијата %s побара сертификат. Одбирањето сертификат ќе одобри способност на апликацијата да го користи овој идентитет со сервери сега и во иднина.</string>
+    <string name="requesting_server">Апликацијата го идентификува серверот што бара како %s, но вие само треба да го одобрите пристапот на апликацијата до сертификатот ако ѝ верувате на апликацијата.</string>
+    <string name="install_new_cert_message">Може да инсталирате сертификати од датотека PKCS#12 со %1$s или %2$s наставка лоцирана во надворешната меморија.</string>
+    <string name="install_new_cert_button_label">Инсталирај</string>
+    <string name="allow_button">Дозволи</string>
+    <string name="deny_button">Одбиј</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Visualitzador</string>
+    <string name="wallpaper_vis2">"Forma de l'ona"</string>
+    <string name="wallpaper_vis3">Espectre</string>
+    <string name="wallpaper_vis4">Vúmetre</string>
+    <string name="wallpaper_vis5">Diversos</string>
+    <string name="wallpapers">Fons de pantalla de visualització de música</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">"Dibuixa l'ona de so de qualsevol pista musical que s'estigui reproduint en aquell moment."</string>
+    <string name="vis3_desc">"Mostra l'espectre de freqüència de qualsevol pista musical que s'està reproduint actualment."</string>
+    <string name="vis4_desc">Simula un mesurador de so analògic.</string>
+    <string name="vis5_desc">Totes les visualitzacions musicals juntes, girant lentament en 3D.</string>
+</resources>

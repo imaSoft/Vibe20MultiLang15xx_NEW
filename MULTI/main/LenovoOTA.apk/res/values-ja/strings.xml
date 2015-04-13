@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">システムアップグレード</string>
+    <string name="exit">終了</string>
+    <string name="update_failed">新しいファームウェアのインストールに失敗</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">キャンセル</string>
+    <string name="notification_content_title">ファームウェアアップグレード</string>
+    <string name="notification_content_text_completed">ダウンロードが完了しました</string>
+    <string name="error_not_specify_network_title">WLAN ネットワーク経由でダウンロードしてください</string>
+    <string name="error_not_specify_network_content">WLAN ネットワーク経由でのダウンロードが強く推奨されます。モバイル (携帯電話) ネットワーク経由でのダウンロードでは多額の請求が発生することがあります。</string>
+    <string name="btn_setting_network">今すぐ設定</string>
+    <string name="btn_keep_download">ダウンロードして続行</string>
+    <string name="retry">再試行</string>
+    <string name="redo_backup">もう一度バックアップ</string>
+    <string name="contact">連絡先</string>
+    <string name="sms">メッセージ</string>
+    <string name="calllog">通話記録</string>
+    <string name="btn_backup">バックアップ</string>
+    <string name="has_not_backup">未バックアップ</string>
+    <string name="countSms">件のメッセージ</string>
+    <string name="countContact">件の連絡先</string>
+    <string name="countCalllog">件の通話記録</string>
+    <string name="nodata">データがありません</string>
+    <string name="backup_data_ing">連絡先などのバックアップ中...</string>
+    <string name="backup_data_finish">データのバックアップに成功しました!</string>
+    <string name="data_usage_warning_title">警告</string>
+    <string name="data_usage_warning">このアプリケーションを使用するには、インターネットにアクセスする必要があります。続行しますか?</string>
+    <string name="data_usage_confirm">次回からプロンプトを表示しない</string>
+    <string name="ndf_install_finish_p">すぐに実行する</string>
+    <string name="ndf_install_finish_n">後で行う</string>
+    <string name="ndf_lowpower_title">低バッテリー</string>
+    <string name="toast_install_fail">インストールに失敗。指定されたパス: %s は存在しません。</string>
+    <string name="network_error">ネットワーク接続に失敗しました</string>
+    <string name="notification_new_rom_come">システムを最新バージョンに更新できます</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">%d 秒後、システムで新しいバージョンをインストールする必要があります!</string>
+    <string name="backup_data">データのバックアップ</string>
+    <string name="restore_data">データ復元</string>
+    <string name="battery_tip">電池残量不足です。アップグレードを続けるには充電器を接続してください</string>
+</resources>

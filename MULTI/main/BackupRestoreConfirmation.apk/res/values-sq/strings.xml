@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Kopja rezervë e plotë</string>
+    <string name="restore_confirm_title">Rikthimi i plotë</string>
+    <string name="backup_confirm_text">"Është kërkuar një kopje rezervë e plotë për të gjitha të dhënat në një kompjuter desktop të lidhur. Dëshironi ta lejoni të ndodhë?
+
+Mos lejoni vazhdimin e veprimit, nëse nuk e kërkuat vetë krijimin e kopjes rezervë."</string>
+    <string name="allow_backup_button_label">Bëj kopje rezervë të të dhënave të mia</string>
+    <string name="deny_backup_button_label">Mos krijo kopje rezervë</string>
+    <string name="restore_confirm_text">"Kërkohet një rikthim i plotë i të gjitha të dhënave nga një kompjuter desktop i lidhur. Dëshironi që ta lejoni të ndodhë?
+
+Nëse nuk e kërkuat vetë rikthimin, mos e lejoni veprimin të vazhdojë. Ai do të zëvendësojë të gjitha të dhënat aktualisht në pajisje!"</string>
+    <string name="allow_restore_button_label">Rikthe të dhënat e mia</string>
+    <string name="deny_restore_button_label">Mos rikthe</string>
+    <string name="current_password_text">Futni fjalëkalimin tuaj aktual të kopjes rezervë më poshtë:</string>
+    <string name="device_encryption_restore_text">Futni më poshtë fjalëkalimin e enkriptimit të pajisjes.</string>
+    <string name="device_encryption_backup_text">Më poshtë futni fjalëkalimin e enkriptimit të pajisjes. Ky do të përdoret edhe për enkriptimin e arkivit të kopjes rezervë.</string>
+    <string name="backup_enc_password_text">Fusni një fjalëkalim për ta përdorur për enkriptimin e të dhënave të kopjes rezervë të plotë. Nëse është lënë bosh, do të përdoret fjalëkalimi aktual i kopjes rezervë:</string>
+    <string name="backup_enc_password_optional">Nëse dëshironi të enkriptoni të dhënat e plota të kopjes rezervë, fusni një fjalëkalim më poshtë:</string>
+    <string name="restore_enc_password_text">Nëse të dhënat e rikthyera janë të enkriptuara, futni fjalëkalimin më poshtë:</string>
+    <string name="toast_backup_started">Duke filluar krijimi i kopjes rezervë...</string>
+    <string name="toast_backup_ended">Krijimi i kopjes rezervë përfundoi</string>
+    <string name="toast_restore_started">Duke nisur rikthimi...</string>
+    <string name="toast_restore_ended">Rikthimi mbaroi</string>
+    <string name="toast_timeout">Afati i veprimit mbaroi</string>
+</resources>

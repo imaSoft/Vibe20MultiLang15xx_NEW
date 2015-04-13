@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>నెట్‌వర్క్ డిఫాల్ట్</item>
+        <item>నంబర్ హైడ్ అయ్యింది</item>
+        <item>నంబర్‌ను చూపు</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ఇంగ్లీష్</item>
+        <item>ఫ్రెంచ్</item>
+        <item>స్పానిష్</item>
+        <item>జపనీస్</item>
+        <item>కొరియన్</item>
+        <item>చైనీస్</item>
+        <item>హెబ్రూ</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>హోమ్ మాత్రమే</item>
+        <item>ఆటోమేటిక్</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>సాధారణం</item>
+        <item>పొడవు</item>
+    </string-array>
+</resources>

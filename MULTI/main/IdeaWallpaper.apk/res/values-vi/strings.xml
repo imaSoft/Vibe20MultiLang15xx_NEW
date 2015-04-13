@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Hình nền tĩnh</string>
+    <string name="wallpaper_instructions">Thiết lập hình nền</string>
+    <string name="pick_wallpaper">Hình nền tĩnh</string>
+</resources>

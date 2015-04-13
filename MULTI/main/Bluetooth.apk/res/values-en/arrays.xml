@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sides">
+        <item>One Sided</item>
+        <item>Two Sided, Long Edge</item>
+        <item>Two Sided, Short Edge</item>
+    </string-array>
+</resources>

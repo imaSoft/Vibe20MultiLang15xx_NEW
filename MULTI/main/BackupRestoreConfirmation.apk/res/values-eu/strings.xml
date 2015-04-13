@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Babeskopia osoa</string>
+    <string name="restore_confirm_title">Leheneratze osoa</string>
+    <string name="backup_confirm_text">"Konektatuta dagoen ordenagailu batean datu guztien babeskopia egiteko eskaera egin da. Hori baimendu nahi duzu?
+
+Babeskopia ez baduzu zeuk eskatu, ez baimendu eragiketa hau."</string>
+    <string name="allow_backup_button_label">Egin nire datuen babeskopia</string>
+    <string name="deny_backup_button_label">Ez egin babeskopia</string>
+    <string name="restore_confirm_text">"Konektatuta dagoen ordenagailu batean datu guztien leheneratzea egiteko eskatu da. Hori baimendu nahi duzu?
+
+Leheneratzea ez baduzu zeuk eskatu, ez baimendu eragiketa hau. Gailuan dauden datuak ordeztuko dira!"</string>
+    <string name="allow_restore_button_label">Leheneratu nire datuak</string>
+    <string name="deny_restore_button_label">Ez leheneratu</string>
+    <string name="current_password_text">Sartu uneko babeskopien pasahitza hemen:</string>
+    <string name="device_encryption_restore_text">Sartu gailua enkriptatzeko pasahitza behean.</string>
+    <string name="device_encryption_backup_text">Sartu gailua enkriptatzeko pasahitza behean. Pasahitz hori erabiliko da babeskopiaren artxiboa enkriptatzeko.</string>
+    <string name="backup_enc_password_text">Sartu babeskopia osoaren datuak enkriptatzeko erabiliko den pasahitza. Hori hutsik utziz gero, uneko babeskopien pasahitza erabiliko da.</string>
+    <string name="backup_enc_password_optional">Babeskopia osoaren datuak enkriptatu nahi badituzu, sartu pasahitza behean:</string>
+    <string name="restore_enc_password_text">Leheneratuko diren datuak enkriptatuta badaude, sartu ondoren pasahitza:</string>
+    <string name="toast_backup_started">Babeskopia hasten...</string>
+    <string name="toast_backup_ended">Babeskopia amaitu da</string>
+    <string name="toast_restore_started">Leheneratzea hasten...</string>
+    <string name="toast_restore_ended">Leheneratu behar da</string>
+    <string name="toast_timeout">Eragiketaren denbora muga gainditu da</string>
+</resources>

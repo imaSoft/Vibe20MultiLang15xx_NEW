@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Ezeztatu</string>
+    <string name="ok">Onartu</string>
+    <string name="app_label">Deskargak</string>
+    <string name="download_title_sorted_by_date">Deskargak: dataren arabera</string>
+    <string name="download_title_sorted_by_size">Deskargak: tamainaren arabera</string>
+    <string name="no_downloads">Deskargarik ez.</string>
+    <string name="missing_title">&lt;Ezezaguna></string>
+    <string name="button_sort_by_size">Ordenatu tamainaren arabera</string>
+    <string name="button_sort_by_date">Ordenatu dataren arabera</string>
+    <string name="download_queued">Ilaran</string>
+    <string name="download_running">Abian</string>
+    <string name="download_success">Osatuta</string>
+    <string name="download_error">Huts egin du</string>
+    <string name="dialog_title_not_available">Ezin izan da deskargatu</string>
+    <string name="dialog_failed_body">Fitxategia geroago berriro deskargatzen saiatu nahi duzu ala ilaratik ezabatu nahi duzu?</string>
+    <string name="dialog_title_queued_body">Fitxategia ilaran</string>
+    <string name="dialog_queued_body">Fitxategia ilaran dago geroago deskargatzeko, beraz, ez dago oraindik erabilgarri.</string>
+    <string name="dialog_file_missing_body">Ezin da deskargatutako fitxategia aurkitu.</string>
+    <string name="dialog_insufficient_space_on_external">Ezin da deskarga amaitu. Ez dago behar adina toki kanpoko biltegian.</string>
+    <string name="dialog_insufficient_space_on_cache">Ezin da deskarga amaitu. Ez dago behar adina toki barneko biltegian.</string>
+    <string name="dialog_cannot_resume">Deskarga eten da eta ezin zaio berrekin.</string>
+    <string name="dialog_file_already_exists">Ezin da deskargatu. Helmuga fitxategia lehendik dago.</string>
+    <string name="dialog_media_not_found">Ezin da deskargatu. Kanpoko euskarria ez dago erabilgarri.</string>
+    <string name="download_no_application_title">Ezin da fitxategia ireki</string>
+    <string name="remove_download">Kendu</string>
+    <string name="delete_download">Ezabatu</string>
+    <string name="keep_queued_download">Mantendu</string>
+    <string name="cancel_running_download">Utzi</string>
+    <string name="retry_download">Saiatu berriro</string>
+    <string name="deselect_all">Desautatu guztiak</string>
+    <string name="select_all">Hautatu guztiak</string>
+    <string name="selected_count">%1$d / %2$d hautatuta</string>
+    <string name="download_share_dialog">Partekatu honela:</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>По одной странице на каждую сторону</item>
+        <item>По две страницы на одну сторону</item>
+        <item>По четыре страницы на одну сторону</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Книжная</item>
+        <item>Альбомная</item>
+        <item>Перевернутая альбомная</item>
+        <item>Перевернутая книжная</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>книжная</item>
+        <item>альбомная</item>
+        <item>перевернутая альбомная</item>
+        <item>перевернутая книжная</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Односторонняя</item>
+        <item>Двусторонняя по длинной стороне</item>
+        <item>Двусторонняя по короткой стороне</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>односторонняя</item>
+        <item>двусторонняя по длинной стороне</item>
+        <item>двусторонняя по короткой стороне</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Отправить контакты из группы</item>
+        <item>Получить контакт</item>
+        <item>Обмен контактами</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Все отображаемые</item>
+        <item>Контакты с телефонами</item>
+        <item>Избранное (Android)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>¿Nombrede mi madre?</item>
+        <item>¿Mi fruta favorita?</item>
+        <item>¿Cumpleañosde mi padre?</item>
+        <item>¿Mi canción favorita?</item>
+        <item>¿Nombrede mi mascota?</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Importe del historial de llamadas</item>
+        <item>Importe del historial de SMS</item>
+        <item>Importe de contactos</item>
+        <item>Agregue manualmente</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Bloquee sólo lista negra</item>
+        <item>Permita sólo contactos</item>
+        <item>Permita sólo lista blanca</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Vuelva al tono de ocupado</item>
+        <item>Vuelva a apagado</item>
+        <item>Vuelva a cerrar</item>
+        <item>Vuelva a número vacante</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Sólo contactos</item>
+        <item>Sólo lista blanca</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Importe del historial de llamadas</item>
+        <item>Importe del historial de SMS</item>
+        <item>Importe de contactos</item>
+        <item>Agregue manualmente</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Respuesta</item>
+        <item>Rechaza</item>
+        <item>Rechaza llamada con SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Importe del historial de llamadas</item>
+        <item>Importe del historial de SMS</item>
+        <item>Importe de contactos</item>
+        <item>Agregue manualmente</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Sin alerta</item>
+        <item>Barra de notificación</item>
+        <item>Barra de notificación de alerta + tono de alerta</item>
+        <item>Barra de notificación + vibración</item>
+    </string-array>
+</resources>

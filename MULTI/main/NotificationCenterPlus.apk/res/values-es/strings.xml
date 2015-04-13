@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashlight_notification_title">Linterna apagada</string>
+    <string name="flashlight_notification_text">Haga clic para apagar la linterna</string>
+    <string name="app_notification_manager_title">Administración de notificaciones de aplicaciones</string>
+    <string name="app_notification_optimized_title">Administración de prioridad de notificaciones</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Aplicaciones que no muestran notificaciones</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Aplicaciones que muestran notificaciones</string>
+    <string name="lenovo_progress_dialog_message">Cargando...</string>
+    <string name="app_disable_notifications_dlg_title">¿Desactivar notificaciones?</string>
+    <string name="app_disable_notifications_dlg_text">Si desactiva las notificaciones para esta aplicación, podría perderse alertas y actualizaciones importantes.</string>
+    <string name="app_add_optimized_notifications_title">Notificación de aplicaciones sin prioridad</string>
+    <string name="app_del_optimized_notifications_title">Notificación de aplicaciones con prioridad</string>
+    <string name="app_vip_notifications_title">Aplicación VIP</string>
+    <string name="app_close_optimized_notifications_title">Notificación de aplicación cerrada</string>
+    <string name="app_close_optimized_notifications_summary">Se puede establecer las aplicaciones como preferidas solo después de habilitar las notificaciones para ellas en la administración de notificaciones de aplicación</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">\"%1$s\" establecer como preferido</string>
+    <string name="lenovo_app_add_notification_toast_text">\"%1$s\" habilitar notificaciones</string>
+    <string name="lenovo_no_app_nofitication">No existen archivos de aplicaciones</string>
+    <string name="app_del_optimized_notifications_dlg_title">¿Cancelar estado preferido?</string>
+    <string name="app_del_optimized_notifications_dlg_text">Si cancela el estado preferido de esta aplicación, puede ignorar alertas o actualizaciones importantes.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">" Notificaciones \"\"%1$s\" sin prioridad"</string>
+    <string name="lenovo_app_delete_notification_toast_text">" Notificaciones deshabilitadas para \"\"%1$s\""</string>
+    <string name="lenovo_flashlight_error_notification_title">No se puede encender la linterna</string>
+    <string name="lenovo_flashlight_error_camera_in_use">La cámara está actualmente en uso, no se puede encender la linterna</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Para evitar el uso accidental, la linterna no se puede encender cuando el borde superior de la pantalla está cubierto</string>
+    <string name="lenovo_flashlight_error_low_power">¡Energía baja! No se puede utilizar la linterna</string>
+</resources>

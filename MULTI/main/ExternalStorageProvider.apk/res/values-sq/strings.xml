@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Hapësira ruajtëse e jashtme</string>
+    <string name="root_internal_storage">Arkivi i brendshëm</string>
+    <string name="root_documents">Dokumentet</string>
+</resources>

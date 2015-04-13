@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">शेल</string>
+    <string name="bugreport_finished_title">बग अहवाल मिळविला</string>
+    <string name="bugreport_finished_text">आपला बग अहवाल सामायिक करण्यासाठी स्पर्श करा</string>
+    <string name="bugreport_confirm">बग अहवालामध्ये वैयक्तिक आणि खाजगी माहितीसह, प्रणालीमधील विविध लॉग फाईल्सचा डेटा आहे. बग अहवाल केवळ अनुप्रयोग आणि आपल्या विश्वासू व्यक्तींसोबतच सामायिक करा.</string>
+    <string name="bugreport_confirm_repeat">हा संदेश पुढच्या वेळी दर्शवा</string>
+</resources>

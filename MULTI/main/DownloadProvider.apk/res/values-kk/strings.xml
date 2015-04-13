@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Жүктеу реттегіші</string>
+    <string name="permlab_downloadManager">Жүктеме басқарушысына кіру.</string>
+    <string name="permdesc_downloadManager">"Қолданбаға жүктеу реттеушісіне қатынауға және файлдардыжүктеу үшін пайдалануға мүмкіндік береді.  Зиянды қолданбалар жүктеулерді бұзу үшін және жеке ақпараттқа қатынау үшін пайдалануы мүмкін."</string>
+    <string name="permlab_downloadManagerAdvanced">Қосымша жүктеу реттегіші функциялары.</string>
+    <string name="permdesc_downloadManagerAdvanced">Қолданбаға жүктеу реттеушісінің кеңейтілген мүмкіндіктеріне қатынауға мүкіндік беру. Зиянды қолданбалар жүктеулерді бұзу және жеке ақпаратқа қатынау үшін пайдалануы мүмкін.</string>
+    <string name="permlab_downloadCompletedIntent">Жүктеу ескертпелерін жіберу</string>
+    <string name="permdesc_downloadCompletedIntent">Қолданбаға аяқталған жүктеулер туралы хабарламалар жіберуге мүмкіндік береді. Зиянды қолданбалар файлдарды жүктеген басқа қолданбаларды шатастыруы үшін пайдалануы мүмкін.</string>
+    <string name="permlab_seeAllExternal">SD картасындағы барлық жүктеулерді көру</string>
+    <string name="permdesc_seeAllExternal">Қандау қолданбадан жүктелгеніне қарамастан, қолданбаға барлық жүктеулерді SD картасында көруге мүмкіндік береді.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Жүктеу кэшінде бос орын сақтау</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Қолданбаға файлдарды жүктеу кэшіне жүктеуге мүмкіндік береді, жүктеу реттеушісіне көбірек орын қажет болған кезде автоматты түрде жою мүмкін емес.</string>
+    <string name="permlab_downloadWithoutNotification">файлдарды ескертпесіз жүктеу</string>
+    <string name="permdesc_downloadWithoutNotification">Қолданбаға жүктеу реттеушісі арқылы пайдаланушыға көрсетілетін ешқандай хабарламасын файлдарды жүктеуге мүмкіндік беру.</string>
+    <string name="permlab_accessAllDownloads">Барлық жүйе жүктеулеріне қатынасу</string>
+    <string name="permdesc_accessAllDownloads">Қолданбаларға жүйедегі кез келген қолданба арқылы басталған барлық жүктеулерді өзгерту және қарауға рұқсат беріңіз.</string>
+    <string name="download_unknown_title">&lt;Тақырыпсыз></string>
+    <string name="notification_download_complete">Жүктеу аяқталды.</string>
+    <string name="notification_download_failed">Жүктеу сәтсіз аяқталды.</string>
+    <string name="notification_need_wifi_for_size">Жүктеу өлшемі Wi-Fi талап етеді.</string>
+    <string name="notification_paused_in_background">Фондық режимде тоқтатылған.</string>
+    <string name="wifi_required_title">Жүктеу оператор желісі үшін тым үлкен</string>
+    <string name="wifi_required_body" formatted="false">"Осы %s жүктеуін аяқтау үшін Wi-Fi желісін пайдалануыңыз қажет. 
+
+Wi-Fi желісіне келесі қосылғанда осы жүктеуді бастау үшін %s басыңыз."</string>
+    <string name="wifi_recommended_title">Кейінірек жүктеу үшін кезекке қойылс. ба?</string>
+    <string name="wifi_recommended_body" formatted="false">"Мұны іске қосқан кезде %s жүктеу қазір батарея өмірін қысқартуы мүмкін және/немесе жоспар деректеріне байланысты мобильді байланыс операторын шығындарға әкелетін, мобильді деректер байланысының шектен тыс пайдалануына әкелуі мүмкін.
+
+Wi-Fi желісіне келесі жолы қосылғанда жүктеуді бастау үшін %s түртіңіз."</string>
+    <string name="button_queue_for_wifi">Кезек</string>
+    <string name="button_cancel_download">Бас тарту</string>
+    <string name="button_start_now">Қазір бастау</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s қалды</string>
+    <string name="download_no_application_title">Файл ашылмайды</string>
+    <string name="root_downloads">Жүктелімдер</string>
+    <string name="download_queued">Кезекке қойылған</string>
+    <string name="download_running">Орындалуда</string>
+    <string name="download_error">Жүктеу аяқталмады</string>
+    <string name="download_running_percent">Орындалуда, %d%%</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">გაუქმება</string>
+    <string name="ok">OK</string>
+    <string name="app_label">გადმოწერილები</string>
+    <string name="download_title_sorted_by_date">ჩამოტვირთვები - თარიღით დალაგებული</string>
+    <string name="download_title_sorted_by_size">ჩამოტვირთვები - ზომით დალაგებული</string>
+    <string name="no_downloads">არაფერია ჩამოტვირთული</string>
+    <string name="missing_title">&lt;უცნობი></string>
+    <string name="button_sort_by_size">დალაგება ზომით</string>
+    <string name="button_sort_by_date">დალაგება თარიღით</string>
+    <string name="download_queued">რიგი</string>
+    <string name="download_running">სრულდება</string>
+    <string name="download_success">დასრულება</string>
+    <string name="download_error">არ შესრ.</string>
+    <string name="dialog_title_not_available">ვერ ჩამოიტვირთა.</string>
+    <string name="dialog_failed_body">მოგვიანებით ისევ ცდით ფაილის ჩამოტვირთვას, თუ წაშლით მას რიგიდან?</string>
+    <string name="dialog_title_queued_body">ფაილი ჯერ არ არის ხელმისაწვდომი</string>
+    <string name="dialog_queued_body">ფაილი რიგშია შემდგომში ჩამოსატვირთად.</string>
+    <string name="dialog_file_missing_body">ჩამოტვირთული ფაილი ვერ მოიძებნა.</string>
+    <string name="dialog_insufficient_space_on_external">ჩამოტვირთვა ვერ სრულდება. არ არის საკმარისი ადგილი SD ბარათზე.</string>
+    <string name="dialog_insufficient_space_on_cache">ჩამოტვირთვა ვერ სრულდება. ტელეფონის შიდა მეხსიერება არ არის საკმარისი.</string>
+    <string name="dialog_cannot_resume">ჩამოტვირთვა შეწყდა. ვერ გაგრძელდება.</string>
+    <string name="dialog_file_already_exists">ვერ ჩამოტვირთავთ. ფაილი უკვე არსებობს.</string>
+    <string name="dialog_media_not_found">ვერ ჩამოტვირთავთ. SD ბარათი არ არის.</string>
+    <string name="download_no_application_title">ფაილის გახსნა შეუძლებელია.</string>
+    <string name="remove_download">წაშლა</string>
+    <string name="delete_download">წაშლა</string>
+    <string name="keep_queued_download">შენარჩუნება</string>
+    <string name="cancel_running_download">გაუქმება</string>
+    <string name="retry_download">ხელახალი ცდა</string>
+    <string name="deselect_all">ყველა მონიშვნის მოხსნა</string>
+    <string name="select_all">ყველას არჩევა</string>
+    <string name="selected_count">არჩეულია %1$d, სულ არის %2$d.</string>
+    <string name="download_share_dialog">გაზიარების მეთოდია</string>
+</resources>

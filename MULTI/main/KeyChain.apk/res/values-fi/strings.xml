@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Key Chain</string>
+    <string name="title_no_certs">Varmenteita ei löydy</string>
+    <string name="title_select_cert">Valitse varmenne</string>
+    <string name="requesting_application">Sovellus %s on pyytänyt varmennetta. Varmenteen valitseminen myöntää sovellukselle oikeuden käyttää näitä tunnistetietoja palvelimissa nyt ja tulevaisuudessa.</string>
+    <string name="requesting_server">Sovellus on tunnistanut, että pyyntöä tekevä palvelin on %s, mutta varmenteen käyttöoikeudet on syytä myöntää sovellukselle vain, jos luotat sovellukseen.</string>
+    <string name="install_new_cert_message">Voit asentaa PKCS#12-tiedoston varmenteet ulkoisessa tallennustilassa olevalla laajennuksella %1$s tai %2$s.</string>
+    <string name="install_new_cert_button_label">Asenna</string>
+    <string name="allow_button">Salli</string>
+    <string name="deny_button">Estä</string>
+</resources>

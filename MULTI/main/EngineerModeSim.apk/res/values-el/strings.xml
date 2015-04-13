@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">Κλείδωμα EM SIM ME</string>
+    <string name="simmelock_name">Κλείδωμα SIM ME</string>
+    <string name="strInputPassword">Εισαγάγετε τον κωδικό πρόσβασης:</string>
+    <string name="strConfirm">Τέλος</string>
+    <string name="strCancel">Άκυρο</string>
+    <string name="strInputChancesleft">Επαναλήψεις προσπαθειών που απομένουν:</string>
+    <string name="strMCCMNC">MCC+MNC:</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR:</string>
+    <string name="strGID1">GID1:</string>
+    <string name="strGID2">GID2:</string>
+    <string name="strInputPasswordAgain">Εισαγάγετε τον κωδικό πρόσβασης ξανά:</string>
+    <string name="strIMSI">IMSI:</string>
+    <string name="strAttention">Προσοχή</string>
+    <string name="strConfirmRemove">Θέλετε πραγματικά να την αφαιρέσετε;</string>
+    <string name="srtConfirmPermanUnlock">Θέλετε πραγματικά να την ξεκλειδώσετε μόνιμα;</string>
+    <string name="strYes">Ναι</string>
+    <string name="strLockFail">Το κλείδωμα απέτυχε!</string>
+    <string name="strLockSucceed">Το κλείδωμα πέτυχε!</string>
+    <string name="strUnlockFail">Απέτυχε το ξεκλείδωμα!</string>
+    <string name="strUnlockSucceed">Το ξεκλείδωμα ήταν επιτυχές!</string>
+    <string name="strUserInput">Εισαγωγή από το χρήστη</string>
+    <string name="strInputMode">Εισαγωγή από το χρήστη;</string>
+    <string name="strLockNameNetwork">Εξατομίκευση δικτύου</string>
+    <string name="strLockNameNetworkSub">Εξατομίκευση υποσυνόλου δικτύου</string>
+    <string name="strLockNameService">Εξατομίκευση υπηρεσίας παροχής</string>
+    <string name="strLockNameCorporate">Eξατομίκευση εταιρείας</string>
+    <string name="strLockNameSIM">Εξατομίκευση SIM</string>
+    <string name="strActionNameLock">Κλείδωμα</string>
+    <string name="strActionNameUnlock">Ξεκλείδωμα</string>
+    <string name="strActionNameAddLock">Προσθήκη</string>
+    <string name="strActionNameRemoveLock">Αφαίρεση</string>
+    <string name="strActionNamePermanentUnlock">Μόνιμο ξεκλείδωμα</string>
+    <string name="strPasswordLengthIncorrect">4-8 αριθμοί!</string>
+    <string name="strQueryFailed">Το ερώτημα απέτυχε!</string>
+    <string name="strAddLockFail">Η προσθήκη απέτυχε!</string>
+    <string name="strAddLockSucceed">Η προσθήκη ήταν επιτυχής!</string>
+    <string name="strMCCMNCLengthIncorrect">Μη έγκυρο MCC+MNC!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">Μη έγκυρα MCC+MNC+HLR!</string>
+    <string name="strIMSILengthIncorrect">Μη έγκυρο IMSI!</string>
+    <string name="strGID1WRONG">Μη έγκυρο GID1!</string>
+    <string name="strGID2WRONG">Μη έγκυρο GID2!</string>
+    <string name="str_simme_passwords_dont_match">Οι κωδικοί πρόσβασης δεν συμφωνούν</string>
+</resources>

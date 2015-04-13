@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Süsteemitäiendus</string>
+    <string name="exit">Välju</string>
+    <string name="update_failed">Vabandust. Uue püsivara installimine ebaõnnestus</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Tühista</string>
+    <string name="notification_content_title">Püsivaratäiendus</string>
+    <string name="notification_content_text_completed">Allalaadimine õnnestus</string>
+    <string name="error_not_specify_network_title">Laadige alla WLAN-võrgu kaudu</string>
+    <string name="error_not_specify_network_content">Soovitame tungivalt laadida alla WLAN-võrgu kaudu, kuna allalaadimisega mobiilsidevõrgu kaudu võivad kaasneda suured tasud</string>
+    <string name="btn_setting_network">Määra kohe</string>
+    <string name="btn_keep_download">Jätka allalaadimisega</string>
+    <string name="retry">Proovi uuesti</string>
+    <string name="redo_backup">Varunda uuesti</string>
+    <string name="contact">Kontaktid</string>
+    <string name="sms">Sõnum</string>
+    <string name="calllog">Kõnelogi</string>
+    <string name="btn_backup">Varunda</string>
+    <string name="has_not_backup">Ei ole varundatud</string>
+    <string name="countSms">sõnum(it)</string>
+    <string name="countContact">kontakt(i)</string>
+    <string name="countCalllog">kõnelogi</string>
+    <string name="nodata">Andmeid ei ole</string>
+    <string name="backup_data_ing">Kontaktide jms varundamine ...</string>
+    <string name="backup_data_finish">Andmete varundamine õnnestus!</string>
+    <string name="data_usage_warning_title">Hoiatus</string>
+    <string name="data_usage_warning">Lugupeetud kasutajad, selle rakenduse kasutamine vajab juurdepääsu internetile. Kas jätkata?</string>
+    <string name="data_usage_confirm">Ära järgmine kord küsi</string>
+    <string name="ndf_install_finish_p">Kohe</string>
+    <string name="ndf_install_finish_n">Hiljem</string>
+    <string name="ndf_lowpower_title">Aku tühjeneb</string>
+    <string name="toast_install_fail">Installimine ebaõnnestus, määratud failiteed %s ei ole olemas.</string>
+    <string name="network_error">Võrguühendus nurjus</string>
+    <string name="notification_new_rom_come">Süsteemi saab värskendada uusimale versioonile</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">%d sekundi pärast peab süsteem uue versiooni installima!</string>
+    <string name="backup_data">Varunda andmed</string>
+    <string name="restore_data">Andmete taastamine</string>
+    <string name="battery_tip">Aku on tühi, täiendamise jätkamiseks ühendage laadijaga</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Media</string>
+    <string name="app_label">Arkivi i mediave</string>
+    <string name="upgrade_msg">Duke përmirësuar bazën e të dhënave të Mediave.</string>
+    <string name="artist_label">Artisti</string>
+    <string name="ringtone_default">Toni i paracaktuar i ziles</string>
+    <string name="notification_sound_default">Tingulli i paracaktuar i njoftimit</string>
+    <string name="alarm_sound_default">Tingulli i paracaktuar i alarmit</string>
+    <string name="root_images">Imazhet</string>
+    <string name="root_videos">Videot</string>
+    <string name="root_audio">Audio</string>
+</resources>

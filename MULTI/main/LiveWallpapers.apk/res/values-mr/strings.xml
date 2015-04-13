@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android Live वॉलपेपर्स</string>
+    <string name="wallpaper_walkaround">आरपार पहा</string>
+    <string name="wallpaper_walkaround_desc">"आपल्या उपकरणधून आरपार पहा आणि अपघाताचा धोका न पत्करता आजूबाजूला फिरा. "</string>
+    <string name="wallpaper_grass">गवत</string>
+    <string name="wallpaper_grass_desc">दिवसा किंवा रात्रीच्या आकाशासमोर गवताची पाती हळुवारपणे डोलतात.</string>
+    <string name="wallpaper_galaxy">आकाशगंगा</string>
+    <string name="wallpaper_galaxy_desc">हळूहळू फिरत्या ताऱ्यांनी बनलेली आकाशगंगा.</string>
+    <string name="wallpaper_fall">पाणी</string>
+    <string name="wallpaper_fall_desc">शरद पाने कमकुवत&lt;br> खालील तरंग उठणाऱ्या तलावात :&lt;br> द्रवरूप पार्श्वभूमी झेन</string>
+    <string name="wallpaper_clock">ध्रुवीय घड्याळ</string>
+    <string name="wallpaper_clock_desc">तारीख आणि वेळ घड्याळाच्या दिशेने कमानींच्या स्वरूपात प्रस्तुत करतो: महिना, दिवस, तास, मिनीट, आणि सेकंद.</string>
+    <string name="wallpaper_nexus">संधी</string>
+    <string name="wallpaper_nexus_desc">चेता नेटवर्कमध्ये डोकावणे</string>
+    <string name="clock_settings">ध्रुवीय घड्याळ सेटिंग्ज</string>
+    <string name="show_seconds">सेकंद दाखवा</string>
+    <string name="variable_line_width">बदलती रिंग रुंदी</string>
+    <string name="palette">रंग पॅलेट</string>
+    <string name="palette_gray">लोह</string>
+    <string name="palette_violet">मध्यरात्र</string>
+    <string name="palette_matrix">हिरवा स्क्रीन</string>
+    <string name="palette_white_c">ध्रुवीय अस्वल (गतिशील)</string>
+    <string name="palette_black_c">ब्लॅक होल (गतिशील)</string>
+    <string name="palette_halloween">पम्पकिन पाय</string>
+    <string name="palette_zenburn">वेगळे फ्रुट सॅलड</string>
+    <string name="palette_oceanic">निळा लेझर</string>
+</resources>

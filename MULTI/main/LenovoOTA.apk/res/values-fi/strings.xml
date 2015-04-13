@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Järjestelmäpäivitys</string>
+    <string name="exit">Lopeta</string>
+    <string name="update_failed">Anteeksi. Uusien laitteiden asennus epäonnistui</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Peruuta</string>
+    <string name="notification_content_title">Laiteohjelmistopäivitys</string>
+    <string name="notification_content_text_completed">Lataus onnistui</string>
+    <string name="error_not_specify_network_title">Lataa WLAN-verkon kautta</string>
+    <string name="error_not_specify_network_content">On erittäin suositeltavaa ladata WLAN-verkon kautta, koska matkapuhelinverkon kautta lataamiseen saattaa sisältyä merkittäviä kuluja</string>
+    <string name="btn_setting_network">Aseta heti</string>
+    <string name="btn_keep_download">Jatka latausta</string>
+    <string name="retry">Yritä uudelleen</string>
+    <string name="redo_backup">Varmuuskopioi uudelleen</string>
+    <string name="contact">Yhteystiedot</string>
+    <string name="sms">Viesti</string>
+    <string name="calllog">Puheluloki</string>
+    <string name="btn_backup">Varmuuskopioi</string>
+    <string name="has_not_backup">Ei varmuuskopioitu</string>
+    <string name="countSms">viesti(ä)</string>
+    <string name="countContact">yhteystieto(a)</string>
+    <string name="countCalllog">puheluloki(a)</string>
+    <string name="nodata">Ei tietoja</string>
+    <string name="backup_data_ing">Varmuuskopioidaan yhteystietoja jne...</string>
+    <string name="backup_data_finish">Tietojen varmuuskopiointi onnistui.</string>
+    <string name="data_usage_warning_title">Varoitus</string>
+    <string name="data_usage_warning">Tämän sovelluksen käyttö edellyttää Internet-yhteyttä. Haluatko jatkaa?</string>
+    <string name="data_usage_confirm">Älä näytä tätä uudelleen</string>
+    <string name="ndf_install_finish_p">Heti</string>
+    <string name="ndf_install_finish_n">Myöhemmin</string>
+    <string name="ndf_lowpower_title">Akun varaus vähissä</string>
+    <string name="toast_install_fail">Asennus epäonnistui, määritettyä polkua %s ei ole.</string>
+    <string name="network_error">Verkkoyhteysvirhe</string>
+    <string name="notification_new_rom_come">Järjestelmäsi voidaan päivittää uusimpaan versioon</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Järjestelmän pitää asentaa uusi versio minuutin kuluttua!</string>
+    <string name="backup_data">Varmuuskopiotiedot</string>
+    <string name="restore_data">Tietojen palautus</string>
+    <string name="battery_tip">Alhainen akun varaus, liitä laturi päivityksen jatkamiseksi</string>
+</resources>

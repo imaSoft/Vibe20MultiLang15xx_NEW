@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>集約しない</item>
+        <item>2ページを1ページに集約</item>
+        <item>4ページを1ページに集約</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>縦</item>
+        <item>横</item>
+        <item>左右反転</item>
+        <item>上下反転</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>縦</item>
+        <item>横</item>
+        <item>左右反転</item>
+        <item>上下反転</item>
+    </string-array>
+    <string-array name="sides">
+        <item>片面</item>
+        <item>右/左に開く両面</item>
+        <item>上/下に開く両面</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>片面</item>
+        <item>右/左に開く両面</item>
+        <item>上/下に開く両面</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>グループ内で連絡先を共有</item>
+        <item>連絡先の取得</item>
+        <item>連絡先の交換</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>表示されている全て</item>
+        <item>電話番号が登録された連絡先</item>
+        <item>Android内のスター付き</item>
+    </string-array>
+</resources>

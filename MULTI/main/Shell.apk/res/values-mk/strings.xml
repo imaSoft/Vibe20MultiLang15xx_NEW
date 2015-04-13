@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Обвивка</string>
+    <string name="bugreport_finished_title">Извештајот за грешки е снимен</string>
+    <string name="bugreport_finished_text">Допрете за споделување на извештајот за грешки</string>
+    <string name="bugreport_confirm">Извештаите за грешки содржат податоци од различни датотеки за евиденција на системот, вклучувајќи лични и приватни информации. Споделувајте извештаи за грешки само со апликации и луѓе на кои им верувате.</string>
+    <string name="bugreport_confirm_repeat">Покажи ја пораката наредниот пат</string>
+</resources>

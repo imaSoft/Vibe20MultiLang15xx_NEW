@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">منظف بطاقة SD</string>
+    <string name="loading_please_wait">جاري التحميل، يرجى الانتظار...</string>
+    <string name="white_list_not_found">فشل تنظيف بطاقة SD الداخلية: لم يتم العثور على القوائم البيضاء</string>
+    <string name="sdcard_not_available">فشل تنظيف بطاقة SD الداخلية: بطاقة SD غير متاحة</string>
+    <string name="clearSDcardFailed">فشل تنظيف بطاقة SD الداخلية</string>
+    <string name="deleteFileFailed">فشل حذف الملف.</string>
+    <string name="fileNotFoud">لا توجد حالات شاذة في الملف</string>
+    <string name="clear_start">بدء تنظيف بطاقة SD الداخلية باستخدام السجل</string>
+    <string name="clear_success">تم التنظيف بنجاح, هل أنت جاهز لإعادة التشغيل</string>
+    <string name="clearing">جار تنظيف بطاقة SD الداخلية</string>
+    <string name="checking">التحقق من الموارد المعدة مسبقًا</string>
+    <string name="check_file">فحص مورد معد مسبقًا</string>
+    <string name="check_sucess">موارد معدة مسبقًا تم التحقق منها</string>
+    <string name="check_fail">موارد معدة مسبقًا غير كاملة. هل ترغب في إنهاء مسح بطاقة SD؟</string>
+</resources>

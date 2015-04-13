@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Το όνομα της μητέρας μου;</item>
+        <item>Το αγαπημένο μου φρούτο;</item>
+        <item>Τα γενέθλια του πατέρα μου;</item>
+        <item>Το αγαπημένο μου τραγούδι;</item>
+        <item>Το όνομα του κατοικίδιού μου;</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Ρυθμίσεις</item>
+        <item>Ενημέρωση</item>
+        <item>Σχετικά</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Εισαγωγή από Ιστορικό Κλήσεων</item>
+        <item>Εισαγωγή από Ιστορικό SMS</item>
+        <item>Εισαγωγή από Επαφές</item>
+        <item>Προσθήκη χειροκίνητα</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Φραγή ΜαύρηςΛίστας μόνο</item>
+        <item>Επιτρέπονται Επαφές μόνο</item>
+        <item>Επιτρέπεται ΛευκήΛίστα μόνο</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Επιστροφή τόνου κατειλλημένου</item>
+        <item>Επιστροφή Κλειστή</item>
+        <item>Επιστροφή Τερματισμός</item>
+        <item>Επιστροφή Κενού Αριθμού</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Επαφές μόνο</item>
+        <item>ΛευκήΛίστα μόνο</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Εισαγωγή από τις Εισερχόμενες Κλήσεις</item>
+        <item>Εισαγωγή από Ιστορικό SMS</item>
+        <item>Εισαγωγή από Επαφές</item>
+        <item>Προσθήκη χειροκίνητα</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Απάντηση</item>
+        <item>Απόρριψη</item>
+        <item>Απόρριψη κλήσης με SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Εισαγωγή από Ιστορικό Κλήσεων</item>
+        <item>Εισαγωγή από Ιστορικό SMS</item>
+        <item>Εισαγωγή από Επαφές</item>
+        <item>Προσθήκη χειροκίνητα</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Κανένας συναγερμός</item>
+        <item>Συναγερμός μπάρας Ειδοποίησης</item>
+        <item>Συναγερμός μπάρας Ειδοποίησης+τόνος</item>
+        <item>Συναγερμός μπάρας Ειδοποίησης+δόνηση</item>
+    </string-array>
+</resources>

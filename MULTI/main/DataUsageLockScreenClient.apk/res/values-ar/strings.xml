@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عميل شاشة قفل استخدام البيانات</string>
+    <string name="hello_world">مرحبًا بالعالم!</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="title_activity_main">النشاط الرئيسي</string>
+</resources>

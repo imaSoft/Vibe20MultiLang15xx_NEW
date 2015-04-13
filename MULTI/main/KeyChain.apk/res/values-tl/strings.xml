@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Key Chain</string>
+    <string name="title_no_certs">Walang mga certificate na natagpuan</string>
+    <string name="title_select_cert">Pumili ng certificate</string>
+    <string name="requesting_application">Humiling ng certificate ang application na %s. Ang pagpili sa isang certificate ay magbibigay sa application ng kakayahang gamitin ang pagkakakilanlang ito sa mga server ngayon at sa hinaharap.</string>
+    <string name="requesting_server">Natukoy ng application ang humihiling na server bilang %s ngunit dapat mo lamang ibigay sa application ang access sa certificate kung pinagkakatiwalaan mo ang application.</string>
+    <string name="install_new_cert_message">Makakapag-install ka ng mga certificate mula sa isang PKCS#12 file na may extension ng %1$s o ng %2$s na matatagpuan sa panlabas na imbakan.</string>
+    <string name="install_new_cert_button_label">I-install</string>
+    <string name="allow_button">Payagan</string>
+    <string name="deny_button">Tanggihan</string>
+</resources>

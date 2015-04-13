@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">डाऊनलोड व्यवस्थापक</string>
+    <string name="permlab_downloadManager">डाऊनलोड व्यवस्थापकामध्ये प्रवेश करा.</string>
+    <string name="permdesc_downloadManager">अनुप्र.ला डाऊनलोड व्यवस्थापकात प्रवेश करून त्याचा वापर फाइल्स डाऊनलोड करण्यासाठी करू दिला जातो. दुर्भावयुक्त अनुप्र. याचा वापर डाऊनलोड्समध्ये अडथळा आणण्यासाठी आणि खासगी माहितीत प्रवेश करण्यासाठी करू शकतात.</string>
+    <string name="permlab_downloadManagerAdvanced">प्रगत डाऊनलोड व्यवस्थापक कार्ये.</string>
+    <string name="permdesc_downloadManagerAdvanced">ऍपला डाउनलोड व्यवस्थापकाच्या प्रगत कार्यांपर्यंत प्रवेश करण्याची अनुमती देते. द्वेषयुक्त ऍप्स याचा वापर डाऊनलोडमध्ये व्यत्यय आणण्यासाठी आणि खाजगी माहितीपर्यंत पोहचण्यासाठी करू शकतात.</string>
+    <string name="permlab_downloadCompletedIntent">डाऊनलोड सूचना पाठवा.</string>
+    <string name="permdesc_downloadCompletedIntent">अनुप्र.ला डाऊनलोड्सबद्दल सूचना पाठवू दिल्या जातात. जे अनुप्र. दुर्भावयुक्त अनुप्र. याचा वापर फाइल्स डाऊनलोड करणाऱ्या अनुप्र.ना संभ्रमित करण्यासाठी करू शकतात.</string>
+    <string name="permlab_seeAllExternal">SD कार्डातील सर्व डाऊनलोड्स पहा</string>
+    <string name="permdesc_seeAllExternal">अनुप्र.ला SD कार्डावर केलेले सर्व डाऊनलोड्स पाहू दिले जाते, मग ते कोणत्याही अनुप्र.ने डाऊनलोड केलेले असोत.</string>
+    <string name="permlab_downloadCacheNonPurgeable">डाऊनलोड कॅशेमध्ये जागा राखून ठेवा</string>
+    <string name="permdesc_downloadCacheNonPurgeable">अनुप्र.ला फाइल्स डाऊनलोड कॅशेमध्ये डाऊनलोड करू दिले जाते, ज्या डाऊनलोड व्यवस्थापकाला अधिक जागा हवी असते तेव्हा स्वयंचलितपणे हटवता येत नाहीत.</string>
+    <string name="permlab_downloadWithoutNotification">फाइल्स पूर्वसूचनेशिवाय डाऊनलोड करा</string>
+    <string name="permdesc_downloadWithoutNotification">अनुप्र.ला प्रयोक्त्याला कोणतीही सूचना दाखवल्याशिवाय डाऊनलोड व्यवस्थापकामार्फत फाइल्स डाऊनलोड करू दिल्या जातात.</string>
+    <string name="permlab_accessAllDownloads">सर्व सिस्टिम डाऊनलोड्समध्ये प्रवेश करा</string>
+    <string name="permdesc_accessAllDownloads">अनुप्र. ला सिस्टिमवरील कोणत्याही अनुप. ने प्रारंभित केलेले सर्व डाऊनलोड्स पाहू आणि परिवर्तित करू देते.</string>
+    <string name="download_unknown_title">&lt;शीर्षकविहीन></string>
+    <string name="notification_download_complete">डाऊनलोड पूर्ण.</string>
+    <string name="notification_download_failed">डाऊनलोड अयशस्वी.</string>
+    <string name="notification_need_wifi_for_size">डाऊनलोडच्या आकारास Wi-Fi आवश्यक.</string>
+    <string name="notification_paused_in_background">पार्श्वभूमीमध्ये विरामित.</string>
+    <string name="wifi_required_title">ऑपरेटर नेटवर्कसाठी डाऊनलोड फार मोठे आहे</string>
+    <string name="wifi_required_body" formatted="false">"हे %s डाऊनलोड पूर्ण करण्यासाठी आपण Wi-Fi वापरले पाहिजे. 
+
+पुढील वेळी आपण Wi-Fi नेटवर्कला जोडल्यावर हे डाऊनलोड सुरू करण्यासाठी %s ला स्पर्श करा.\""</string>
+    <string name="wifi_recommended_title">डाऊनलोडसाठी नंतर रांग लावू का?</string>
+    <string name="wifi_recommended_body" formatted="false">"हा %s डाऊनलोड आत्ता सुरू केल्यामुळे आपल्या बॅटरीचे आयुष्य कमी होऊ शकेल आणि/किंवा त्याच्या परिणामी आपल्या मोबाइल डेटा जोडणीचा अती वापर होऊ शकेल, ज्यामुळे आपल्या प्लॅनवर अवलंबून, पुढे आपल्या मोबाइल ऑपरेटरकडून शुल्क आकारणी होऊ शकेल.
+
+पुढील वेळी आपण Wi-Fi नेटवर्कला जोडल्यावर हे डाऊनलोड सुरू करण्यासाठी %s ला स्पर्श करा."</string>
+    <string name="button_queue_for_wifi">रांग</string>
+    <string name="button_cancel_download">रद्द करा</string>
+    <string name="button_start_now">आत्ता प्रारंभ करा</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s उरले</string>
+    <string name="download_no_application_title">फाईल उघडू शकत नाही</string>
+    <string name="root_downloads">डाउनलोड्स</string>
+    <string name="download_queued">डाउनलोड-सुचीमधून आयटम रांगेत घेण्यात आले</string>
+    <string name="download_running">प्रगतीपथावर</string>
+    <string name="download_error">डाउनलोड पूर्ण झाले नाही</string>
+    <string name="download_running_percent">प्रगतीपथावर, %d%%</string>
+</resources>

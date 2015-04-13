@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">SN</string>
+    <string name="factory_wipe_data">Εκκαθ. δεδομ. χρήστη από την εργ. λειτουργία</string>
+    <string name="factory_wipe_data_warning">Με το κουμπί OK απαλειφ. όλα τα δεδομ. χρήστη αλλά διατηρ. οι εγκατεστ. εφαρμ. Συνιστάται οι απλοί χρήστες να μην το χρησιμ., προς αποφ. απώλειας δεδομ. του τηλεφ.</string>
+    <string name="factory_wipe_data_cancel">άκυρο</string>
+    <string name="sdcard_not_found">Αποτυχ. εργοστασ. εκκαθάρ. δεδομένων</string>
+    <string name="sdcard_not_found_tip">"Αυτή η λειτ. απαιτεί την υποστήρ. της κάρτας SD
+        Βεβαιωθείτε ότι έχετε τοποθ. την κάρτα SD"</string>
+    <string name="sdcard_out_of_space">Η κάρτα SD δεν έχει αρκετό διαθέσιμο χώρο</string>
+    <string name="sdcard_out_of_space_tip">"Απομένουν μόνο %1$sM διαθέσιμου χώρου στην SD. Αυτές οι 
+λειτουργ. απαιτούν %2$sM διαθέσιμο χώρο στην κάρτα SD"</string>
+    <string name="imei">Αριθμός ΙΜΕΙ</string>
+    <string name="imei_invalid">Μη έγκυρο</string>
+</resources>

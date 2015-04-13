@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">კალენდრის მეხსიერება</string>
+    <string name="upgrade_msg">ახლდება კალენდარი…</string>
+    <string name="calendar_default_name">ნაგულისხმევი</string>
+    <string name="calendar_info">კალენდრის ინფორმაცია</string>
+    <string name="calendar_info_error">შეცდომა</string>
+    <string name="calendar_info_no_calendars">კალენდრები არ არის</string>
+    <string name="calendar_info_events">მოვლენები: %d</string>
+    <string name="calendar_info_events_dirty">მოვლენები: %1$d, არ არის დასინქრონებული: %2$d</string>
+    <string name="provider_label">კალენდარი</string>
+    <string name="debug_tool_delete_button">ფაილის წაშლა</string>
+    <string name="debug_tool_start_button">დასაწყისი</string>
+    <string name="debug_tool_message">თქვენ ახლა აპირებთ შეინახოთ კალენდრის ასლი SD ბარათზე ან აპარატის შიდა მეხსიერებაში, რომელსაც კითხულობს ნებისმიერი პროგრამა და შემდეგ ელ.ფოსტით გაგზავნოთ იგი. არ დაგავიწყდეთ წაშალოთ იგი აპარატში, როგორც კი სხვაგან გადაწერთ აპარატიდან, ან ელ.წერილით მიიღებენ.</string>
+    <string name="debug_tool_email_sender_picker">აირჩიეთ პროგრამა, ფაილის გასაგზავნად</string>
+    <string name="debug_tool_email_subject">კალენდრის DB ფაილი მიმაგრებულია</string>
+    <string name="debug_tool_email_body">მიმაგრებულია ჩემი კალენდარი, რომელიც შეიცავს ყველა ჩემი შეხვედრისა და პირად ინფორმაციას. გთხოვთ, გამოიჩინოთ სიფრთხილე.</string>
+</resources>

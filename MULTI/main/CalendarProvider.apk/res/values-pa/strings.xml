@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">ਕੈਲੇੰਡਰ ਸਟੋਰੇਜ</string>
+    <string name="upgrade_msg">ਕੈਲੇੰਡਰ ਅਪਗ੍ਰੇਡ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="calendar_default_name">ਡਿਫਾੱਲਟ</string>
+    <string name="calendar_info">ਕੈਲੇੰਡਰ ਦੀ ਜਾਣਕਾਰੀ</string>
+    <string name="calendar_info_error">ਤਰੁੱਟੀ</string>
+    <string name="calendar_info_no_calendars">ਕੋਈ ਕੈਲੇੰਡਰ ਨਹੀਂ</string>
+    <string name="calendar_info_events">ਇਵੈਂਟਸ: %d</string>
+    <string name="calendar_info_events_dirty">ਇਵੈਂਟਸ: %1$d, ਸਿੰਕ ਨਹੀਂ ਹੋਏ: %2$d</string>
+    <string name="provider_label">ਕੈਲੇੰਡਰ</string>
+    <string name="debug_tool_delete_button">ਫਾਈਲ ਮਿਟਾਓ</string>
+    <string name="debug_tool_start_button">ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="debug_tool_message">ਤੁਸੀਂ ਆਪਣੇ ਕੈਲੇੰਡਰ ਦੀ ਕਾੱਪੀ SD ਕਾਰਡ/USB ਸਟੋਰੇਜ ਤੇ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵਾਲੇ ਹੋ ਜੋ ਕਿਸੇ ਵੀ ਅਨੁਪ੍ਰਯੋਗ ਦੁਆਰਾ ਪਡ਼੍ਹਨਯੋਗ ਅਤੇ ਫਿਰ ਈਮੇਲ ਕਰਨਯੋਗ ਹੈ। ਜਿਉਂ ਹੀ ਤੁਸੀਂ ਇਸਨੂੰ ਡਿਵਾਈਸ ਤੋਂ ਸਫ਼ਲਤਾ ਪੂਰਵਕ ਕਾੱਪੀ ਕਰ ਲੈਂਦੇ ਹੋ ਤਾਂ ਯਾਦ ਨਾਲ ਇਸਨੂੰ ਮਿਟਾ ਦਿਓ, ਜਾਂ ਈਮੇਲ ਪ੍ਰਾਪਤ ਹੋ ਜਾਵੇਗੀ।</string>
+    <string name="debug_tool_email_sender_picker">ਵੱਲ ਆਪਣੀ ਫਾਈਲ ਭੇਜਣ ਦੇ ਲਈ ਪ੍ਰੋਗਰਾਮ ਚੁਣੋ</string>
+    <string name="debug_tool_email_subject">ਕੈਲੇੰਡਰ DB ਫਾਈਲ ਅਟੈਚ ਕੀਤੀ ਗਈ</string>
+    <string name="debug_tool_email_body">ਮੇਰੀਆਂ ਸਾਰੀਆਂ ਨਿਯੁਕਤੀਆਂ ਅਤੇ ਵਿਅਕਤੀਗਤ ਜਾਣਕਾਰੀ ਵਾਲਾ ਕੈਲੇੰਡਰ ਅਟੈਚ ਕਰੋ। ਕਿਰਪਾ ਕਰਕੇ ਸਾਵਧਾਨੀ ਨਾਲ ਸੰਭਾਲੋ।</string>
+</resources>

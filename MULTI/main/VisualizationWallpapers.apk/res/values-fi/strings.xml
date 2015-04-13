@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Visualisointi</string>
+    <string name="wallpaper_vis2">Aaltomuoto</string>
+    <string name="wallpaper_vis3">Spektri</string>
+    <string name="wallpaper_vis4">VU-mittari</string>
+    <string name="wallpaper_vis5">Useita</string>
+    <string name="wallpapers">Musiikkia visualisoivat taustakuvat</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Piirtää minkä tahansa parhaillaan soitettavan musiikkiraidan ääniaallon</string>
+    <string name="vis3_desc">Näyttää minkä tahansa parhaillaan soitettavan musiikkiraidan taajuusspektrin</string>
+    <string name="vis4_desc">Simuloi analogista desibelimittaria</string>
+    <string name="vis5_desc">Kaikki musiikin visualisoinnit pyörivät verkkaan kolmiulotteisina.</string>
+</resources>

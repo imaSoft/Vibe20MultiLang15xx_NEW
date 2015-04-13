@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">Verrouillage EM SIM ME</string>
+    <string name="simmelock_name">Verrouillage SIM ME</string>
+    <string name="strInputPassword">Veuillez entrer le mot de passe :</string>
+    <string name="strConfirm">Finir</string>
+    <string name="strCancel">Annuler</string>
+    <string name="strInputChancesleft">Retraits restant :</string>
+    <string name="strMCCMNC">MCC+MNC :</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR :</string>
+    <string name="strGID1">GID1 :</string>
+    <string name="strGID2">GID2 :</string>
+    <string name="strInputPasswordAgain">Veuillez entrer le mot de passe à nouveau :</string>
+    <string name="strIMSI">IMSI :</string>
+    <string name="strAttention">Attention</string>
+    <string name="strConfirmRemove">Enlever vraiment ?</string>
+    <string name="srtConfirmPermanUnlock">Déverrouiller vraiment de façon permanente ?</string>
+    <string name="strYes">Oui</string>
+    <string name="strLockFail">Échec de verrouillage !</string>
+    <string name="strLockSucceed">Verrouillage réussi !</string>
+    <string name="strUnlockFail">Échec de déverrouillage !</string>
+    <string name="strUnlockSucceed">Déverrouillage réussi !</string>
+    <string name="strUserInput">Entrée utilisateur</string>
+    <string name="strInputMode">"Entrée par l'utilisateur ?"</string>
+    <string name="strLockNameNetwork">Personnalisation du réseau</string>
+    <string name="strLockNameNetworkSub">Personnalisation sous-ensemble du réseau</string>
+    <string name="strLockNameService">"Personnalisation du fournisseur d'accès"</string>
+    <string name="strLockNameCorporate">"Personnalisation d'entreprise"</string>
+    <string name="strLockNameSIM">Personnalisation SIM</string>
+    <string name="strActionNameLock">Verrouiller</string>
+    <string name="strActionNameUnlock">Déverrouiller</string>
+    <string name="strActionNameAddLock">Ajouter</string>
+    <string name="strActionNameRemoveLock">Supprimer</string>
+    <string name="strActionNamePermanentUnlock">Déverrouiller en permanence</string>
+    <string name="strPasswordLengthIncorrect">Numéros 4-8 !</string>
+    <string name="strQueryFailed">Échec de la requête !</string>
+    <string name="strAddLockFail">"Échec d'ajout"</string>
+    <string name="strAddLockSucceed">Ajout réussi !</string>
+    <string name="strMCCMNCLengthIncorrect">MCC + MNC invalide !</string>
+    <string name="strMCCMNCHLRLengthIncorrect">MCC+MNC+HLR invalide !</string>
+    <string name="strIMSILengthIncorrect">IMSI invalide !</string>
+    <string name="strGID1WRONG">GID1 invalide !</string>
+    <string name="strGID2WRONG">GID2 invalide !</string>
+    <string name="str_simme_passwords_dont_match">Les mots de passe ne correspondent pas</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beállítás Varázsló</string>
+    <string name="next">Következő</string>
+    <string name="finish">Kész</string>
+    <string name="title_act_language">Nyelv választás</string>
+    <string name="title_act_server">Kapcsolódó szolgáltatás</string>
+    <string name="server_lenovo_exp_span_text">Tudjon meg többet</string>
+    <string name="server_lenovo_exp_dialog_title">Figyelem</string>
+    <string name="last">Előző</string>
+    <string name="title_act_connect">Adatszolgáltatás</string>
+    <string name="tilte_act_brightness">Fényerő beállítások</string>
+    <string name="title_act_volume">Hangerő beállítása</string>
+    <string name="title_act_ringtone">Csengőhangként beállít</string>
+    <string name="brightness_auto_label">Automatikus fényerő beállítás</string>
+    <string name="volume_ring_mms">Hívások és üzenetek</string>
+    <string name="volume_media">Média (Zene/Videók/Játékok stb.)</string>
+    <string name="volume_alarm">Ébresztés</string>
+    <string name="ringtone_select_title">Csengőhang</string>
+    <string name="ringtone_select_summary">Válasszon egy csengőhangot a telefonjának</string>
+    <string name="ringtone_picker_title">Csengőhang választás</string>
+    <string name="ringtone_audio_profile_slot_1">Nyílás 1</string>
+    <string name="ringtone_audio_profile_slot_2">Nyílás 2</string>
+    <string name="server_lenovo_id_title">Lenovo ID regisztráció elfogadása</string>
+    <string name="server_lenovo_id_summery">Használja telefonszámát Lenovo ID-ként és élvezze a Lenovo kapcsolódó szolgáltatásait.</string>
+    <string name="server_lenovo_exp_title">Lenovo Fokozott Élményprogram részvételének elfogadása</string>
+    <string name="server_lenovo_exp_summery">Adatok gyűjtése a termékhasználatról, amely segít nekünk a termékek és szolgáltatások javításában. Néhány alkalmazás lehet, hogy használja a hálózatot és adatforgalmat fog generálni.</string>
+    <string name="server_lenovo_exp_warn">Ha kilép a Lenovo Fokozott Élményprogramból, néhány alkalmazás lehetséges, hogy nem fog rendesen működni és a termékszolgáltatás és az élmény érintett lehet. Tényleg szeretne kilépni?</string>
+    <string name="server_lenovo_exp_ok">OK</string>
+    <string name="server_lenovo_exp_cancel">Mégse</string>
+    <string name="gemini_data_connection_progress_message">Kérem várjon...</string>
+    <string name="connect_data_title">Adatkapcsolat</string>
+    <string name="connect_data_summary">Használhatja a SIM kártya internet elérését. Ha a szolgáltatás be van kapcsolva, a termék valamennyi adatforgalmat fog generálni.</string>
+    <string name="mobile">Fő adatkártya</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">დოკუმენტები</string>
+    <string name="title_open">გახსნა ადგილიდან</string>
+    <string name="title_save">შენახვა ადგილზე</string>
+    <string name="menu_create_dir">საქაღალდის შექმნა</string>
+    <string name="menu_grid">ბადის ჩვენება</string>
+    <string name="menu_list">ხედი სიით</string>
+    <string name="menu_sort">დალაგება კრიტერიუმით</string>
+    <string name="menu_search">ძებნა</string>
+    <string name="menu_settings">პარამეტრები</string>
+    <string name="menu_open">გახსნა</string>
+    <string name="menu_save">შენახვა</string>
+    <string name="menu_share">გაზიარება</string>
+    <string name="menu_delete">წაშლა</string>
+    <string name="sort_name">სახელით</string>
+    <string name="sort_date">შესწორების თარიღით</string>
+    <string name="sort_size">ზომით</string>
+    <string name="save_error">დოკუმენტი ვერ შეინახა.</string>
+    <string name="create_error">საქაღალდე ვერ შეიქმნა.</string>
+    <string name="query_error">საქაღალდე ვერ შეიქმნა.</string>
+    <string name="root_recent">ბოლოდროინდელი</string>
+    <string name="root_available_bytes">%1$s თავისუფალი</string>
+    <string name="root_type_shortcut">სწრაფი ღილაკები</string>
+    <string name="root_type_device">მოწყობილობები</string>
+    <string name="root_type_apps">სხვა პროგრამები</string>
+    <string name="pref_advanced_devices">აპარატის სხვა ფუნქციები</string>
+    <string name="pref_file_size">ფაილის ზომის ჩვენება</string>
+    <string name="pref_device_size">აპარატის მეხსიერების ზომა</string>
+    <string name="empty">ელემენტები არაა</string>
+    <string name="share_via">გაზიარება მეთოდით</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">சான்றிதழ் நிறுவி</string>
+    <string name="pick_file_title">ஒரு சான்றிதழைத் தேர்வுசெய்யவும்</string>
+    <string name="pkcs12_password_dialog_title">சான்றிதழை விலக்கவும்</string>
+    <string name="extracting_pkcs12">விலக்குகிறது...</string>
+    <string name="pkcs12_file_password_dialog_title">%s இலிருந்து விலக்கவும்</string>
+    <string name="name_credential_dialog_title">சான்றிதழின் பெயர்</string>
+    <string name="credential_name">சான்றிதழ் பெயர்:</string>
+    <string name="credential_password">சான்றிதழ்களை விலக்க கடவுச்சொல்லை தட்டச்சு செய்யவும்.</string>
+    <string name="credential_info">தொகுப்பு கொண்டிருப்பது:</string>
+    <string name="p12_description">PKCS12 கீஸ்டோரிலுள்ள சான்றிதழ்கள்.</string>
+    <string name="one_userkey">ஒரு பயனர் விசை</string>
+    <string name="one_usercrt">ஒரு பயனர் சான்றிதழ்</string>
+    <string name="one_cacrt">ஒரு CA சான்றிதழ்</string>
+    <string name="n_cacrts">%d CA சான்றிதழ்கள்</string>
+    <string name="password_error">சரியான கடவுச்சொல்லைத் தட்டச்சுச் செய்யவும்.</string>
+    <string name="password_empty_error">கடவுச்சொல்லைத் தட்டச்சுச் செய்யவும்.</string>
+    <string name="name_empty_error">ஒரு பெயரைத் தட்டச்சுச் செய்யவும்.</string>
+    <string name="name_char_error">எழுத்துகளையும் எண்களையும் மட்டும் கொண்டிருக்கும் ஒரு பெயரைத் தட்டச்சுச் செய்யவும்.</string>
+    <string name="storage_error">சான்றிதழைச் சேமிக்க முடியவில்லை. மறுமுயற்சி செய்ய OK ஐத் தொடவும்.</string>
+    <string name="unable_to_save_cert">சான்றிதழைச் சேமிக்க முடியவில்லை. நம்பிக்கைச்சான்று சேமிப்பகம் செயல்பெறச் செய்யப்படவில்லை அல்லது தகுந்தமுறையில் தொடக்கப்படவில்லை.</string>
+    <string name="cert_not_saved">சான்றிதழ் நிறுவப்படவில்லை.</string>
+    <string name="no_cert_to_saved">நிறுவ சான்றிதழ் எதுவுமில்லை.</string>
+    <string name="invalid_cert">சான்றிதழ் தவறானது.</string>
+    <string name="cert_is_added">%s நிறுவப்பட்டது.</string>
+    <string name="cert_too_large_error">நிறுவ முடியவில்லை, ஏனெனில் சான்றிதழ் அளவு மிகப் பெரியது.</string>
+    <string name="cert_missing_error">நிறுவ முடியவில்லை, ஏனெனில் சான்றிதழ் கோப்பைக் கண்டுபிடிக்க முடியவில்லை.</string>
+    <string name="cert_read_error">நிறுவ முடியவில்லை, ஏனெனில் சான்றிதழ் கோப்பைப் படிக்க முடியவில்லை.</string>
+    <string name="no_cert_file_found">உள்ளக சேமிப்பகத்தில் சான்றிதழ் கோப்பு எதுவும் காணப்படவில்லை.</string>
+    <string name="sdcard_not_present">SD அட்டை இல்லை.</string>
+    <string name="only_primary_user_allowed">இந்த சாதனத்தின் உரிமையாளர் மட்டுமே சான்றிதழ்களை நிறுவ முடியும்.</string>
+    <string name="credential_usage_label">நற்சான்று பயன்பாடு:</string>
+</resources>

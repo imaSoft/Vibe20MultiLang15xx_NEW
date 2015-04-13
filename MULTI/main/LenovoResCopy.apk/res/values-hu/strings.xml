@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_res">forrás másolás</string>
+    <string name="start_button">indítás</string>
+    <string name="cp_show">másolás:</string>
+    <string name="sd_error">kérem ellenőrizze az SD kártya ellérhető-e.</string>
+    <string name="not_map">sd-kártya nincs felcsatolva, vagy az erőforrás nem létezik, kérjük, tegye adja zip nevét:</string>
+    <string name="zip_total_size">fájlméret:</string>
+    <string name="delete_map">forrás törlése</string>
+    <string name="delete_failed">törlés sikertelen</string>
+    <string name="map_exist">erőforrás létezik az EMMC-n</string>
+    <string name="cp_success">sikeres másolás!</string>
+    <string name="cp_error">másolás nem sikerült!</string>
+    <string name="default_file">EMMC</string>
+    <string name="source_patch">javítás:</string>
+    <string name="md5_check_sum">ellenőrző összeg képzés:</string>
+    <string name="check_sum_error">:hivás ellenőrző összeg</string>
+    <string name="check_sum_file_error">ellenőrző fájl hiba</string>
+    <string name="check_sum_success">sikeres ellenőrzés!</string>
+    <string name="check_sum_exist">ellenőrző fájl nem létezik!</string>
+    <string name="delete_file_title">fájl törlése</string>
+    <string name="delete_file_text">az erőforrás EMMC-n létezik, kívánja törölni?</string>
+    <string name="deleteing_file">törlés, kérem várjon</string>
+    <string name="delet_file_success">sikeres törlés</string>
+    <string name="delet_file_failed">sikertelen törlés</string>
+    <string name="emmc_space_waring">nincs elég memória</string>
+    <string name="resource_waring">néhány forrás fájl létezik, kérem törölje őket.</string>
+    <string name="notification_cp_show">másolás</string>
+    <string name="notification_check_sum">ellenőrzés</string>
+    <string name="check_file">ellenőrizze a fájlt:</string>
+    <string name="file_num_error">fájl túl sok az almappa, ne másolja</string>
+</resources>

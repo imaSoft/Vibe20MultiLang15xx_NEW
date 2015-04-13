@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Miðlar</string>
+    <string name="app_label">Efnisgeymsla</string>
+    <string name="upgrade_msg">Uppfæri efnisgagnagrunn.</string>
+    <string name="artist_label">Flytjandi</string>
+    <string name="ringtone_default">Sjálfgefinn hringitónn</string>
+    <string name="notification_sound_default">Sjálfgefið tilkynningarhljóð</string>
+    <string name="alarm_sound_default">Sjálfgefið vekjarahljóð</string>
+    <string name="root_images">Myndir</string>
+    <string name="root_videos">Myndskeið</string>
+    <string name="root_audio">Hljóð</string>
+</resources>

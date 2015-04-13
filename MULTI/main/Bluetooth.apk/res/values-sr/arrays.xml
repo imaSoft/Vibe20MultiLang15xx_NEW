@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Jedna stranica po strani</item>
+        <item>Dve stranice po strani</item>
+        <item>Četiri stranice po strani</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Uspravno</item>
+        <item>Položeno</item>
+        <item>Obrnuto položeno</item>
+        <item>Obrnuto uspravno</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>uspravno</item>
+        <item>položeno</item>
+        <item>obrnuto-položeno</item>
+        <item>obrnuto-uspravno</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Jednostrano</item>
+        <item>Dvostrano duga ivica</item>
+        <item>Dvostrano kratka ivica</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>jednostrano</item>
+        <item>dvostrano-duga-ivica</item>
+        <item>dvostrano-kratka-ivica</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Deli kontakte u grupi</item>
+        <item>Pribavi kontakt</item>
+        <item>Razmeni kontakte</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Svi prikazani</item>
+        <item>Kontakti sa brojevima telefona</item>
+        <item>Sa zvezdicom na Android uređaju</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Hias latar statik</string>
+    <string name="wallpaper_instructions">Tetapkan hias latar</string>
+    <string name="pick_wallpaper">Hias latar statik</string>
+</resources>

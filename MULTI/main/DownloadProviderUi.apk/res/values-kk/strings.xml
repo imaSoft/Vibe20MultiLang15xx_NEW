@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Тоқтату</string>
+    <string name="ok">OK</string>
+    <string name="app_label">Жүктеулер</string>
+    <string name="download_title_sorted_by_date">Жүктем-р - күні бой-ша сұрып-н</string>
+    <string name="download_title_sorted_by_size">Жүктем-р - өлш. бой. сұр-н</string>
+    <string name="no_downloads">Жүктеулер жоқ.</string>
+    <string name="missing_title">&lt;Белгісіз></string>
+    <string name="button_sort_by_size">Өлшемі бойынша сұрыптау</string>
+    <string name="button_sort_by_date">Күні бойынша сұрыптау</string>
+    <string name="download_queued">Кез-ке қой-н</string>
+    <string name="download_running">Орындалуда</string>
+    <string name="download_success">Орындалды</string>
+    <string name="download_error">Сәтсіз</string>
+    <string name="dialog_title_not_available">Жүктеу мүмкін емес</string>
+    <string name="dialog_failed_body">Файлды жүктеу әрекеті кейінірек қайталансын ба немесе ол кезектен жойылсын ба?</string>
+    <string name="dialog_title_queued_body">Файл кезекте</string>
+    <string name="dialog_queued_body">Бұл файл келешекте жүктеу үшін кезекке қойылған, сондықтан әлі қол жетімді емес.</string>
+    <string name="dialog_file_missing_body">Жүктелген файлды табу мүмкін емес.</string>
+    <string name="dialog_insufficient_space_on_external">Жүктеу аяқталмады. Сыртқы жүктеу қоймасында орын жеткіліксіз.</string>
+    <string name="dialog_insufficient_space_on_cache">Жүктеуді аяқтау мүмкін емес. Ішкі жүктеу қоймасында бос орын жеткіліксіз.</string>
+    <string name="dialog_cannot_resume">Жүктеу үзілді және жалғастыру мүмкін емес</string>
+    <string name="dialog_file_already_exists">Жүктеу мүмкін емес. Тағайындалған файл әлдеқашан бар.</string>
+    <string name="dialog_media_not_found">Жүктеу мүмкін емес. Сыртқы медиа қол жетімді емес.</string>
+    <string name="download_no_application_title">Файл ашылмады</string>
+    <string name="remove_download">Жою</string>
+    <string name="delete_download">Жою</string>
+    <string name="keep_queued_download">Сақтау</string>
+    <string name="cancel_running_download">Бас тарту</string>
+    <string name="retry_download">Әрекетті қайталау</string>
+    <string name="deselect_all">Барлығын алып тастау</string>
+    <string name="select_all">Барлығын таңдау</string>
+    <string name="selected_count">%1$d ішінен %2$d таңдалған</string>
+    <string name="download_share_dialog">Мынау арқылы бөлісу</string>
+</resources>

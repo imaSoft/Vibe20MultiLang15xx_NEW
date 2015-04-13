@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Zgjedhësi i sfondeve të drejtpërdrejta</string>
+    <string name="live_wallpaper_picker_title">Përzgjidhni një sfond të drejtpërdrejtë</string>
+    <string name="live_wallpaper_picker_label">Sfonde të drejtpërdrejta</string>
+    <string name="live_wallpaper_preview_title">Paraafishimi i sfondit të lëvizshëm</string>
+    <string name="configure_wallpaper">Cilësimet</string>
+    <string name="wallpaper_instructions">Cilëso sfondin</string>
+    <string name="live_wallpaper_empty">Nuk ka sfonde të lëvizshme.</string>
+    <string name="set_live_wallpaper">Cilëso sfondin</string>
+    <string name="wallpaper_title_and_author">%1$s nga %2$s</string>
+    <string name="live_wallpaper_loading">Duke ngarkuar sfondin e lëvizshëm...</string>
+    <string name="wallpaper_cancel">Anulo</string>
+</resources>

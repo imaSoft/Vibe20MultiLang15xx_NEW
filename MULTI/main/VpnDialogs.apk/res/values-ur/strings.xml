@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">ایک VPN کنکشن بنانے کیلئے %s کوششیں۔</string>
+    <string name="warning">جاری رکھ کر، آپ اطلاق کو سبھی نیٹ ورک ٹریفک کو روکنے کی اجازت دے رہے ہیں۔ <b>قبول نہ کریں تاوقتیکہ کہ آپ کو اطلاق پر اعتبار نہ ہو۔</b>" بصورت دیگر، آپ کو اس بات کا خطرہ ہوگا کہ ایک مشتبہ سافٹ ویئر کے ذریعہ آپ کے ڈیٹا سے سمجھوتہ ہوجائے۔ "</string>
+    <string name="accept">مجھے اس اطلاق پر اعتبار ہے۔</string>
+    <string name="legacy_title">VPN مربوط ہے</string>
+    <string name="configure">ترتیب دیں</string>
+    <string name="disconnect">رابطہ ختم کریں</string>
+    <string name="session">سیشن:</string>
+    <string name="duration">دورانیہ:</string>
+    <string name="data_transmitted">مرسلہ:</string>
+    <string name="data_received">موصولہ:</string>
+    <string name="data_value_format">%1$s بائٹس / %2$s پیکٹس</string>
+</resources>

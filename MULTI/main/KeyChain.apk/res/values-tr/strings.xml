@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tuş Zinciri</string>
+    <string name="title_no_certs">Sertifika bulunamadı</string>
+    <string name="title_select_cert">Sertifika seçin</string>
+    <string name="requesting_application">%s uygulaması sertifika isteğinde bulundu. Sertifika seçildiğinde, uygulama kimliğini şu anda ve ileride sunucularla kullanma özelliği kazanır.</string>
+    <string name="requesting_server">Uygulama, istekte bulunan sunucuyu %s olarak tanımladı ancak yalnızca uygulamaya güveniyorsanız sertifikaya uygulama erişimi vermelisiniz.</string>
+    <string name="install_new_cert_message">Harici depolamada bulunan bir %1$s veya bir %2$s ile bir PKCS#12 dosyasından sertifikaları yükleyebilirsiniz.</string>
+    <string name="install_new_cert_button_label">Yükle</string>
+    <string name="allow_button">İzin ver</string>
+    <string name="deny_button">Reddet</string>
+</resources>

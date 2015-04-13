@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kit de herramientas SIM</string>
+    <string name="activity_not_found">La aplicación no está instalada en el teléfono.</string>
+    <string name="simlock_toolkit">Kit de herramientas SIM</string>
+    <string name="no_sim_card_inserted">Inserte la tarjeta SIM para ejecutar el kit de herramientas de SIM.</string>
+    <string name="airplane_mode_on">No es posible ejecutar el kit de herramientas de SIM cuando el modo de avión está activado.</string>
+    <string name="lable_sim_not_ready">Toolkit de SIM no está listo o no es compatible</string>
+</resources>

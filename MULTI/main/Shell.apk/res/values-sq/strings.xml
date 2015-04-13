@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pasuesi</string>
+    <string name="bugreport_finished_title">Raporti i gabimeve u mor</string>
+    <string name="bugreport_finished_text">Prekni për të bashkëndarë raportin tuaj të gabimeve</string>
+    <string name="bugreport_confirm">Raportet e gabimeve përmbajnë të dhëna nga skedarët e regjistrave të ndryshëm të sistemit, duke përfshirë informacione private dhe personale. Bashkëndani raportet e gabimeve vetëm me aplikacionet dhe njerëzit që besoni.</string>
+    <string name="bugreport_confirm_repeat">Afishoje këtë mesazh herën tjetër</string>
+</resources>

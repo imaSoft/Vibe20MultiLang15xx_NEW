@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Niðurhalsstjórnun</string>
+    <string name="permlab_downloadManager">Opna stjórnun niðurhals.</string>
+    <string name="permdesc_downloadManager">Leyfir forritum að opna niðurhalsstjórnun og nota hana til að hlaða niður skrám. Spilliforrit geta notað þennan eiginleika til að trufla niðurhal og opna einkagögn.</string>
+    <string name="permlab_downloadManagerAdvanced">Ítarlegri aðgerðir niðurhalsstjórnunar.</string>
+    <string name="permdesc_downloadManagerAdvanced">Leyfir forritum að opna ítarlegri aðgerðir niðurhalsstjórnunar. Spilliforrit geta notað þennan eiginleika til að trufla niðurhal og opna einkagögn.</string>
+    <string name="permlab_downloadCompletedIntent">Senda niðurhalstilkynningar.</string>
+    <string name="permdesc_downloadCompletedIntent">Gerir forritinu kleift að senda tilkynningar um ólokið niðurhal. Spilliforrit geta notað þetta til að rugla önnur forrit sem sækja skrár.</string>
+    <string name="permlab_seeAllExternal">Sjá allt niðurhal á SD-kort</string>
+    <string name="permdesc_seeAllExternal">Leyfir forritinu að sjá niðurhal á SD-kortinu, óháð því hvaða forrit sótti það.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Taka frá pláss fyrir niðurhalsbiðminni</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Gerir forritinu kleift að sækja skrár í skyndiminnið fyrir niðurhal sem ekki er hægt að eyða sjálfkrafa þegar niðurhalsstjóri þarf meira pláss.</string>
+    <string name="permlab_downloadWithoutNotification">hlaða niður skrám án tilkynninga</string>
+    <string name="permdesc_downloadWithoutNotification">Gerir forriti kleift að sækja skrár í gegnum niðurhalsstjórnun án þess að tilkynning birtist notanda.</string>
+    <string name="permlab_accessAllDownloads">Opna allt kerfisniðurhal</string>
+    <string name="permdesc_accessAllDownloads">Leyfir forritinu að skoða og breyta öllu niðurhali sem að forrit í kerfinu setur af stað.</string>
+    <string name="download_unknown_title">&lt;Án titils></string>
+    <string name="notification_download_complete">Niðurhali lokið.</string>
+    <string name="notification_download_failed">Niðurhal mistókst.</string>
+    <string name="notification_need_wifi_for_size">Stærð niðurhals þarf Wi-Fi.</string>
+    <string name="notification_paused_in_background">Í bið í bakgrunni.</string>
+    <string name="wifi_required_title">Niðurhal er of stórt fyrir símkerfið</string>
+    <string name="wifi_required_body" formatted="false">Þú þarft að nota Wi-Fi til að ljúka þessu %s niðurhali. Snertu %s til að byrja á þessu niðurhali næst þegar þú ert tengd(ur) Wi-Fi-neti.</string>
+    <string name="wifi_recommended_title">Setja í biðröð til niðurhals síðar?</string>
+    <string name="wifi_recommended_body" formatted="false">Ef þú byrjar á þessu %s niðurhali núna gæti ending rafhlöðunnar minnkað og/eða það gæti leitt til óhóflegrar notkunar á gagnatengingu sem gæti síðan leitt til rukkunar af hálfu símafyrirtækisins, allt eftir áskriftinni þinni. Snertu %s til að byrja niðurhalið næst þegar þú ert tengd(ur) Wi-Fi-neti.</string>
+    <string name="button_queue_for_wifi">Í bið</string>
+    <string name="button_cancel_download">Hætta við</string>
+    <string name="button_start_now">Uppfæra núna</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s eftir</string>
+    <string name="download_no_application_title">Get ekki opnað skrá</string>
+    <string name="root_downloads">Niðurhal</string>
+    <string name="download_queued">Í bið</string>
+    <string name="download_running">Í vinnslu</string>
+    <string name="download_error">Niðurhali ekki lokið</string>
+    <string name="download_running_percent">Í vinnslu, %d%%</string>
+</resources>

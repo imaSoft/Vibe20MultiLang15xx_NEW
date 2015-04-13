@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Gdzie jesteś?</item>
+        <item>Co ty robisz?</item>
+        <item>Oddzwoń! Proszę!</item>
+        <item>Niestety, mam spotkanie teraz.</item>
+        <item>Zadzwoń wkrótce.</item>
+        <item>Nie martw się! Czuję się dobrze.</item>
+        <item>W drodze do domu.</item>
+        <item>Będę wkrótce.</item>
+        <item>Zadzwonie za chwile!</item>
+    </string-array>
+    <string-array name="pref_away_mode_remminding_type">
+        <item>@string/pref_away_mode_reminding_none</item>
+        <item>@string/pref_away_mode_reminding_ringtone</item>
+    </string-array>
+    <string-array name="pref_away_mode_remminding_type_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_choices">
+        <item>100K</item>
+        <item>200K</item>
+        <item>300K</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_values">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_values">
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_values">
+        <item>GSM alphabet</item>
+        <item>Unicode</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_values">
+        <item>Phone</item>
+        <item>Sim</item>
+    </string-array>
+    <string-array name="pref_message_view_mode_choices">
+        <item>@string/conversation_view</item>
+        <item>@string/folderview_title</item>
+    </string-array>
+    <string-array name="pref_message_view_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>Default</item>
+        <item>Piano</item>
+    </string-array>
+    <string-array name="photo_display_settings_styles">
+        <item>First letter</item>
+        <item>Last letter</item>
+    </string-array>
+    <string-array name="group_chat_notiy_type">
+        <item>Accept and notice</item>
+        <item>Accept but no notice</item>
+        <item>Reject</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>By date</item>
+        <item>By contact</item>
+    </string-array>
+    <string-array name="dial_start_action_value">
+        <item>Klawiatura wyb.</item>
+        <item>Rejestr połączeń</item>
+    </string-array>
+    <string-array name="lunar_month_array">
+        <item>"Sty "</item>
+        <item>"Lut "</item>
+        <item>"Mar "</item>
+        <item>"Kwi "</item>
+        <item>"Maj "</item>
+        <item>"Cze "</item>
+        <item>"Lip "</item>
+        <item>"Sie "</item>
+        <item>"Wrz "</item>
+        <item>"Paź "</item>
+        <item>"Lis "</item>
+        <item>"Gru "</item>
+    </string-array>
+    <string-array name="lunar_day_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other…</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>All Languages</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Italian</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Dutch</item>
+        <item>Swedish</item>
+        <item>Danish</item>
+        <item>Portuguese</item>
+        <item>Finnish</item>
+        <item>Norwegian</item>
+        <item>Greek</item>
+        <item>Turkish</item>
+        <item>Hungarian</item>
+        <item>Polish</item>
+        <item>Others</item>
+        <item>Czech</item>
+        <item>Hebrew</item>
+        <item>Arabic</item>
+        <item>Russian</item>
+        <item>IceLandic</item>
+    </string-array>
+    <string-array name="language_list_id">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+    </string-array>
+    <string-array name="callog_click_action_value">
+        <item>Zadzwoń do tego kontaktu</item>
+        <item>Widok rejestru połączeń</item>
+    </string-array>
+    <string-array name="number_match_style_value">
+        <item>By 11</item>
+        <item>By 7</item>
+    </string-array>
+    <item type="array" name="blade_full_sections">false</item>
+    <item type="array" name="blade_indicator_tops">false</item>
+    <item type="array" name="blade_replaced_sections">false</item>
+    <item type="array" name="blade_section_baselines">false</item>
+    <string-array name="otherLabels">
+        <item>Organizacja</item>
+        <item>Notatka</item>
+    </string-array>
+</resources>

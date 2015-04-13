@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Mediya</string>
+    <string name="app_label">Media Yaddaşı</string>
+    <string name="artist_label">Artist</string>
+    <string name="ringtone_default">Defolt zəng melodiyası</string>
+    <string name="notification_sound_default">Susmaya görə bildiriş səsi</string>
+    <string name="root_images">Təsvirlər</string>
+    <string name="root_videos">Video</string>
+    <string name="root_audio">Audio</string>
+</resources>

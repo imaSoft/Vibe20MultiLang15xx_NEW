@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Visualizador</string>
+    <string name="wallpaper_vis2">Forma de onda</string>
+    <string name="wallpaper_vis3">Espectro</string>
+    <string name="wallpaper_vis4">Medidor VU</string>
+    <string name="wallpaper_vis5">Varios</string>
+    <string name="wallpapers">Fondos de visualización de música</string>
+    <string name="vis2_desc">Debuxa a onda de son de calquera canción que se estea a reproducir.</string>
+    <string name="vis3_desc">Amosa o espectro de frecuencia de calquera pista que se estea a reproducir.</string>
+    <string name="vis4_desc">Simula un medidor de audio analóxico.</string>
+    <string name="vis5_desc">Todas as visualizacións musicais xuntas, xirando lentamente en 3D.</string>
+</resources>

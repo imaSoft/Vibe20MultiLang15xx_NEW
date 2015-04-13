@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_title">Mga download</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="ok">Ok</string>
+    <string name="download_file_already_exist">Umiiral na ang file, patungan o hindi?</string>
+    <string name="notification_download_complete_op01">Sinave ang file sa:</string>
+    <string name="app_label">Tagapamahala ng Pag-download</string>
+    <string name="permlab_downloadManager">I-access ang download manager</string>
+    <string name="permdesc_downloadManager">Pinapayagan ang app na i-access ang download manager at gamitin ito upang mag-download ng mga file. Maaari itong gamitin ng mga nakakahamak na app upang antalahin ang mga download at mag-access ng pribadong impormasyon.</string>
+    <string name="permlab_downloadManagerAdvanced">Advanced na mga download manager function.</string>
+    <string name="permdesc_downloadManagerAdvanced">Pinapayagan ang app na i-access ang mga advanced na paggana ng download manager. Maaari itong gamitin ng mga nakakahamak na app upang antalahin ang mga download at mag-access ng pribadong impormasyon.</string>
+    <string name="permlab_downloadCompletedIntent">Ipadala ang mga abiso sa pag-download</string>
+    <string name="permdesc_downloadCompletedIntent">Pinapayagan ang app na magpadala ng mga notification tungkol sa mga nakumpletong download. Maaari itong gamitin ng mga nakakahamak na app upang lituhin ang iba pang mga app na nagda-download ng mga file.</string>
+    <string name="permlab_seeAllExternal">Tingnan ang lahat ng mga pag-download sa SD card</string>
+    <string name="permdesc_seeAllExternal">Pinapayagan ang app na makita ang lahat ng download sa SD card, kahit na anong app ang nag-download sa mga ito.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Maglaan ng puwang sa download cache</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Pinapayagan ang app na mag-download ng file sa cache ng download, na hindi awtomatikong matatanggal kapag kailangan ng download manager ng higit na espasyo.</string>
+    <string name="permlab_downloadWithoutNotification">mag-download ng mga file nang walang abiso</string>
+    <string name="permdesc_downloadWithoutNotification">Pinapayagan ang app na mag-download ng mga file sa pamamagitan ng download manager nang walang anumang notification na ipinapakita sa user.</string>
+    <string name="permlab_accessAllDownloads">I-access ang lahat ng pag-download ng system</string>
+    <string name="permdesc_accessAllDownloads">Pinapayagan ang app na tingnan at baguhin ang lahat ng download na sinimulan ng anumang app sa system.</string>
+    <string name="download_unknown_title">&lt;Untitled></string>
+    <string name="notification_download_complete">Kumpleto na ang pag-download.</string>
+    <string name="notification_download_failed">Hindi matagumpay ang pag-download.</string>
+    <string name="notification_need_wifi_for_size">Kailangan sa Wi-Fi i-download.</string>
+    <string name="notification_paused_in_background">Na-pause sa background.</string>
+    <string name="wifi_required_title">Masyadong malaki ang pag-download sa operator network</string>
+    <string name="wifi_required_body" formatted="false">"Dapat kang gumamit ng Wi-Fi upang kumpletuhin ang %s na download na ito. 
+
+Pindutin ang %s upang simulan ang download na ito sa susunod na oras na nakakonekta ka sa Wi-Fi network."</string>
+    <string name="wifi_recommended_title">I-queue i-download ibang pagkakataon?</string>
+    <string name="wifi_recommended_body" formatted="false">"Ang pagsisimula sa %s na download na ito ngayon ay maaaring magpaikli sa buhay ng iyong baterya at/o magresulta sa labis na paggamit ng iyong koneksyon ng data sa mobile, na maaaring humantong sa mga pagsingil ng iyong mobile operator depende sa iyong plano ng data.
+
+Pindutin ang %s upang simulan ang download na ito sa susunod na oras na nakakonekta ka sa isang Wi-Fi network."</string>
+    <string name="button_queue_for_wifi">Queue</string>
+    <string name="button_cancel_download">Kanselahin</string>
+    <string name="button_start_now">Simulan ngayon</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s ang natitira</string>
+    <string name="download_no_application_title">Hindi mabuksan ang file</string>
+    <string name="root_downloads">Mga Download</string>
+    <string name="download_queued">Naka-queue</string>
+    <string name="download_running">Kasalukuyang nagaganap</string>
+    <string name="download_error">Di nakumpleto download</string>
+    <string name="download_running_percent">Kasalukuyang nagaganap, %d%%</string>
+</resources>

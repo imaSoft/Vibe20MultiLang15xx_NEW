@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">키 체인</string>
+    <string name="title_no_certs">인증서 없음</string>
+    <string name="title_select_cert">인증서 선택</string>
+    <string name="requesting_application">응용프로그램 %s이(가) 인증서를 요청했습니다. 인증서를 선택하는 것은 현재 및 미래에 응용프로그램이 서버에서 해당 ID를 사용하도록 허용하는 것입니다.</string>
+    <string name="requesting_server">이 응용프로그램이 요청 서버를 %s(으)로 확인했으나 응용프로그램을 신뢰하는 경우에만 응용프로그램의 인증서 접속을 허용해야 합니다.</string>
+    <string name="install_new_cert_message">외부 저장소에 있는 %1$s 또는 %2$s 확장 프로그램으로 PKCS#12 파일의 인증서를 설치할 수 있습니다.</string>
+    <string name="install_new_cert_button_label">설치</string>
+    <string name="allow_button">허용</string>
+    <string name="deny_button">거부</string>
+</resources>

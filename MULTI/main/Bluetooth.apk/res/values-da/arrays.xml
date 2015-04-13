@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>En side pr. side</item>
+        <item>To sider pr. side</item>
+        <item>Fire sider pr. side</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Stående</item>
+        <item>Liggende</item>
+        <item>Spejlvend liggende</item>
+        <item>Spejlvend stående</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>stående</item>
+        <item>liggende</item>
+        <item>spejlvend liggende</item>
+        <item>spejlvend stående</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Ensidet</item>
+        <item>Tosidet, lang kant</item>
+        <item>Tosidet, kort kant</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>ensidet</item>
+        <item>tosidet, lang kant</item>
+        <item>tosidet, kort kant</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Del kontakter i gruppe</item>
+        <item>Hent kontakt</item>
+        <item>Udveksl kontakter</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Alle vises</item>
+        <item>Kontakter med telefonnummer</item>
+        <item>Stjernemarkeret i Android</item>
+    </string-array>
+</resources>

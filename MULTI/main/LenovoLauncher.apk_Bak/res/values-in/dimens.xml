@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="uninstall_apps_button_width">150.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUMMY_01d0">false</item>
+</resources>

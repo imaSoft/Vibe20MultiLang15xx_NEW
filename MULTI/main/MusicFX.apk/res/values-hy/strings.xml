@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Էֆեկտները մատչելի չեն:</string>
+    <string name="main_toggle_effects_title">Ձայնային էֆեկտներ</string>
+    <string name="eq_dialog_title">Հավասարիչ</string>
+    <string name="headset_plug">Միացրեք ականջակալը՝ այս էֆեկտները զգալու համար:</string>
+    <string name="bass_boost_strength">Բամբ ուժգնացում</string>
+    <string name="virtualizer_strength">Շրջապատող ձայն</string>
+    <string name="pr_title">Արձագանք.</string>
+    <string name="pr_summary">Լրացուցիչ սենյակի արձագանքման էֆեկտներ</string>
+    <string name="pr_dialog_title">Արձագանքի նախակայում</string>
+    <string name="setup">Տեղակայում</string>
+    <string name="ci_extreme">FX արագարար</string>
+    <string name="user">Օգտագործող</string>
+    <string name="picker_title">Երաժշտական էֆեկտների կառավարման վահանակ</string>
+</resources>

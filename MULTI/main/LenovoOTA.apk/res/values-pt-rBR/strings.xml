@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atualização do sistema</string>
+    <string name="exit">Sair</string>
+    <string name="update_failed">Desculpe. Falha ao instalar o novo firmware.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="notification_content_title">Atualização de firmware</string>
+    <string name="notification_content_text_completed">Êxito no download</string>
+    <string name="error_not_specify_network_title">Baixe via rede WLAN</string>
+    <string name="error_not_specify_network_content">É altamente recomendável baixar via rede WLAN. O download pela rede celular poderá causar custos elevados</string>
+    <string name="btn_setting_network">Definir imediatamente</string>
+    <string name="btn_keep_download">Continuar para o download</string>
+    <string name="retry">Repetir</string>
+    <string name="redo_backup">Fazer backup novamente</string>
+    <string name="contact">Contatos</string>
+    <string name="sms">Mensagem</string>
+    <string name="calllog">Log de chamadas</string>
+    <string name="btn_backup">Backup</string>
+    <string name="has_not_backup">Sem backup</string>
+    <string name="countSms">mensagem(ns)</string>
+    <string name="countContact">contato(s)</string>
+    <string name="countCalllog">logs de chamadas</string>
+    <string name="nodata">Sem dados</string>
+    <string name="backup_data_ing">Fazendo backup de contatos, etc.</string>
+    <string name="backup_data_finish">Backup dos dados concluído com êxito!</string>
+    <string name="data_usage_warning_title">Aviso</string>
+    <string name="data_usage_warning">Prezado usuário, a utilização deste aplicativo necessita de acesso à Internet. Continuar?</string>
+    <string name="data_usage_confirm">Não perguntar na próxima vez</string>
+    <string name="ndf_install_finish_p">Imediatamente</string>
+    <string name="ndf_install_finish_n">Mais tarde</string>
+    <string name="ndf_lowpower_title">Bateria fraca</string>
+    <string name="toast_install_fail">Falha ao instalar, o caminho especificado %s não existe.</string>
+    <string name="network_error">Falha na conexão de rede</string>
+    <string name="notification_new_rom_come">Seu sistema pode ser atualizado para a versão mais recente</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Após %d segundos, o sistema deverá instalar a nova versão!</string>
+    <string name="backup_data">Fazer Backup dos Dados</string>
+    <string name="restore_data">Restaurar Dados</string>
+    <string name="battery_tip">Bateria fraca, conecte o carregador para continuar a atualização</string>
+</resources>

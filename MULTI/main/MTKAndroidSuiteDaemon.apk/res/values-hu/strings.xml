@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android programcsomag</string>
+    <string name="noti_main_service_started">Az android programcsomag elindul.</string>
+    <string name="noti_main_service_running">Az android programcsomag fut.</string>
+    <string name="noti_main_service_stopped">Az android programcsomag leállt.</string>
+</resources>

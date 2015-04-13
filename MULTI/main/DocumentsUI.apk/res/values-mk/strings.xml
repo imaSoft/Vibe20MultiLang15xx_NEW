@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Документи</string>
+    <string name="title_open">Отвори од</string>
+    <string name="title_save">Зачувај во</string>
+    <string name="menu_create_dir">Креирај папка</string>
+    <string name="menu_grid">Приказ на мрежа</string>
+    <string name="menu_list">Приказ на листа</string>
+    <string name="menu_sort">Сортирај според</string>
+    <string name="menu_search">Пребарај</string>
+    <string name="menu_settings">Поставки</string>
+    <string name="menu_open">Отвори</string>
+    <string name="menu_save">Зачувај</string>
+    <string name="menu_share">Сподели</string>
+    <string name="menu_delete">Избриши</string>
+    <string name="mode_selected_count">%1$d одбрани</string>
+    <string name="sort_name">Според име</string>
+    <string name="sort_date">Според датум на промена</string>
+    <string name="sort_size">Според големина</string>
+    <string name="drawer_open">Покажи корени</string>
+    <string name="drawer_close">Скриј корени</string>
+    <string name="save_error">Документот не може да се зачува</string>
+    <string name="create_error">Папката не може да се креира</string>
+    <string name="query_error">Не може да се пребаруваат документи</string>
+    <string name="root_recent">Неодамнешни</string>
+    <string name="root_available_bytes">%1$s слободно</string>
+    <string name="root_type_service">Услуги за складирање</string>
+    <string name="root_type_shortcut">Кратенки</string>
+    <string name="root_type_device">Уреди</string>
+    <string name="root_type_apps">Повеќе апликации</string>
+    <string name="pref_advanced_devices">Прикажи напредни уреди</string>
+    <string name="pref_file_size">Големина на датотека</string>
+    <string name="pref_device_size">Прикажи големина на уред</string>
+    <string name="empty">Нема објекти</string>
+    <string name="toast_no_application">Не може да се отвори датотеката</string>
+    <string name="toast_failed_delete">Некои документи не може да се избришат</string>
+    <string name="share_via">Сподели преку</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Alapértelmezett</item>
+        <item>Forgatás</item>
+        <item>Buldózer</item>
+        <item>Szélmalom</item>
+        <item>Kocka</item>
+        <item>Szinusz hullám</item>
+        <item>Henger</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Egyik sem</item>
+        <item>Nyitott asztali menü</item>
+        <item>Jelenleg használt alk megmutatása</item>
+        <item>Értesítési sáv megnyitása</item>
+        <item>Ikon keresés</item>
+        <item>Zárolási képernyő</item>
+    </string-array>
+</resources>

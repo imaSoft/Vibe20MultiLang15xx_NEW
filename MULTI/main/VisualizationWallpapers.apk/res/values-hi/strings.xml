@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">विज़ुअलाइज़र</string>
+    <string name="wallpaper_vis2">तरंगरूप</string>
+    <string name="wallpaper_vis3">तरंग</string>
+    <string name="wallpaper_vis4">VU मीटर</string>
+    <string name="wallpaper_vis5">कई</string>
+    <string name="wallpapers">म्यूज़िक विज़ुअलाइज़ेशन वॉलपेपर</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">वर्तमान में चल रहे किसी भी म्यूज़िक ट्रैक का ध्वनि तरंग आरेखित करता है।</string>
+    <string name="vis3_desc">वर्तमान में चल रहे किसी भी म्यूज़िक ट्रैक का आवृत्ति तरंग दिखाता है।</string>
+    <string name="vis4_desc">किसी एनालॉग ध्वनि मीटर को अनुरूपित करता है।</string>
+    <string name="vis5_desc">3D में धीरे-धीरे घुमते हुए, सभी म्यूज़िक विज़ुअलाइज़ेशन एक साथ।</string>
+</resources>

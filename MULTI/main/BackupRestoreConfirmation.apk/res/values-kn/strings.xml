@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">ಪೂರ್ಣ ಬ್ಯಾಕಪ್</string>
+    <string name="restore_confirm_title">ಪೂರ್ಣ ಪುನಸ್ಥಾಪನೆ</string>
+    <string name="backup_confirm_text">"ಸಂಪರ್ಕಗೊಂಡಿರುವ ಒಂದು ಡೆಸ್ಕ್‌ಟಾಪ್ ಕಂಪ್ಯೂಟರ್‌ಗೆ ಎಲ್ಲ ಡೇಟಾದ ಪೂರ್ಣ ಬ್ಯಾಕಪ್ ಮಾಡುವಂತೆ ವಿನಂತಿಸಲಾಗಿದೆ. ಇದು ಆಗುವಂತೆ ಅನುಮತಿ ನೀಡಲು ನೀವು ಬಯಸುವಿರಾ\\?
+
+ನೀವಾಗಿಯೇ ನೀವು ಬ್ಯಾಕಪ್‌ಗೆ ಮನವಿ ಮಾಡಿಲ್ಲವಾದರೆ, ಕಾರ್ಯಾಚರಣೆ ಮುಂದುವರಿಸಲು ಅವಕಾಶ ನೀಡಬೇಡಿ."</string>
+    <string name="allow_backup_button_label">ನನ್ನ ಡೇಟಾ ಬ್ಯಾಕಪ್ ಮಾಡು</string>
+    <string name="deny_backup_button_label">ಬ್ಯಾಕಪ್ ಮಾಡುವುದು ಬೇಡ</string>
+    <string name="restore_confirm_text">"ಸಂಪರ್ಕಿತವಾಗಿರುವ ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಿಂದ ಎಲ್ಲ ಡೇಟಾದ ಪೂರ್ಣ ಪುನಸ್ಥಾಪನೆಗೆ ಮನವಿ ಮಾಡಲಾಗಿದೆ. ಈ ರೀತಿಯಾಗಲು ಅನುಮತಿಸಲು ನೀವು ಬಯಸುವಿರಾ\\?
+
+ನೀವಾಗಿಯೇ ಪುನಸ್ಥಾಪನೆಗಾಗಿ ಮನವಿ ಸಲ್ಲಿಸದಿದ್ದರೆ, ಕಾರ್ಯಾಚರಣೆಯು ಮುಂದುವರಿಸಲು ಅನುಮತಿಸಬೇಡಿ. ಇದು ಸಾಧನದಲ್ಲಿ ಪ್ರಸ್ತುತವಿರುವ ಯಾವುದೇ ಡೇಟಾವನ್ನು ಬದಲಿಸುತ್ತದೆ!"</string>
+    <string name="allow_restore_button_label">ನನ್ನ ಡೇಟಾ ಪುನಸ್ಥಾಪಿಸಿ</string>
+    <string name="deny_restore_button_label">ಪುನಸ್ಥಾಪಿಸುವುದು ಬೇಡ</string>
+    <string name="current_password_text">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಬ್ಯಾಕಪ್ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಕೆಳಗೆ ನಮೂದಿಸಿ:</string>
+    <string name="device_encryption_restore_text">ದಯವಿಟ್ಟು ಕೆಳಗೆ ನಿಮ್ಮ ಸಾಧನ ಗೌಪ್ಯಗೊಳಿಸುವಿಕೆಯ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ.</string>
+    <string name="device_encryption_backup_text">ದಯವಿಟ್ಟು ಕೆಳಗೆ ನಿಮ್ಮ ಸಾಧನ ಗೌಪ್ಯಗೊಳಿಸುವಿಕೆಯ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ. ಬ್ಯಾಕಪ್ ಆರ್ಕೀವ್ ಅನ್ನು ಗೌಪ್ಯಗೊಳಿಸುವುದಕ್ಕೆ ಕೂಡ ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.</string>
+    <string name="backup_enc_password_text">ಪೂರ್ತಿ ಬ್ಯಾಕಪ್ ಡೇಟಾವನ್ನು ಗೌಪ್ಯಗೊಳಿಸಲು ಬಳಸುವುದಕ್ಕಾಗಿ ದಯವಿಟ್ಟು ಒಂದು ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನಮೂದಿಸಿ. ಇದನ್ನು ಖಾಲಿ ಬಿಟ್ಟರೆ, ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಬ್ಯಾಕಪ್ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ:</string>
+    <string name="backup_enc_password_optional">ನೀವು ಪೂರ್ತಿ ಬ್ಯಾಕಪ್ ಡೇಟಾವನ್ನು ಗೌಪ್ಯಗೊಳಿಸಲು ಇಚ್ಛಿಸಿದರೆ, ಕೆಳಗೆ ಒಂದು ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ:</string>
+    <string name="restore_enc_password_text">ಪುನಸ್ಥಾಪನೆ ಡೇಟಾವನ್ನು ಗೌಪ್ಯಗೊಳಿಸಲಾಗಿದ್ದರೆ, ದಯವಿಟ್ಟು ಕೆಳಗೆ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ:</string>
+    <string name="toast_backup_started">ಬ್ಯಾಕಪ್ ಆರಂಭವಾಗುತ್ತಿದೆ...</string>
+    <string name="toast_backup_ended">ಬ್ಯಾಕಪ್ ಪೂರ್ಣವಾಗಿದೆ</string>
+    <string name="toast_restore_started">ಪುನಸ್ಥಾಪನೆ ಆರಂಭವಾಗುತ್ತಿದೆ...</string>
+    <string name="toast_restore_ended">ಪುನಸ್ಥಾಪನೆ ಕೊನೆಗೊಂಡಿದೆ</string>
+    <string name="toast_timeout">ಕಾರ್ಯಾಚರಣೆ ಸಮಯ ಮುಕ್ತಾಯವಾಗಿದೆ</string>
+</resources>

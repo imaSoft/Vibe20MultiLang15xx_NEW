@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਪੈਕੇਜ ਸਥਾਪਕ</string>
+    <string name="next">ਅੱਗੇ</string>
+    <string name="install">ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="done">ਪੂਰਨ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="unknown">ਅਗਿਆਤ</string>
+    <string name="installing">ਸਥਾਪਿਤ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="install_done">ਅਨੁਪ੍ਰਯੋਗ ਸਥਾਪਿਤ ਹੋਈ</string>
+    <string name="install_confirm_question">ਕੀ ਤੁਸੀਂ ਅਨੁਪ੍ਰਯੋਗ ਸਥਾਪਿਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="install_confirm_question_update">ਇਸ ਮੌਜੂਦਾ ਅਨੁਪ੍ਰਯੋਗ ਲਈ ਇੱਕ ਅਪਡੇਟ ਸਥਾਪਿਤ ਕਰੋ? ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਡੈਟਾ ਗਵਾਚ ਜਾਵੇਗਾ। ਅਪਡੇਟ ਕੀਤੇ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਇਸ ਤੇ ਐਕਸੈੱਸ ਹੋਵੇਗੀ:</string>
+    <string name="launch">ਖੋਲ੍ਹੋ</string>
+    <string name="unknown_apps_dlg_title">ਸਥਾਪਿਤ ਕਰਨਾ ਬਲੌਕ ਕੀਤਾ</string>
+    <string name="unknown_apps_dlg_text">ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਲਈ, ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਵਰਤਮਾਨ ਵਿੱਚ ਪਲੇ ਸਟੋਰ ਤੋਂ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਣ ਵਾਲੇ ਅਨੁਪ੍ਰਯੋਗਾਂ ਦੀ ਸਥਾਪਨਾ ਬਲੌਕ ਕਰਨ ਤੇ ਸੈੱਟ ਹੈ। ਇਸਨੂੰ ਬਦਲਣ ਲਈ, ਸੈੱਟਿੰਗਸ > ਸੁਰੱਖਿਆ > ਅਗਿਆਤ ਸਰੋਤ ਤੇ ਜਾਉ।</string>
+    <string name="ok">ਓਕੇ</string>
+    <string name="settings">ਸੈੱਟਿੰਗਸ</string>
+    <string name="allow_source_dlg_text">%1$s ਹੋਰ ਅਨੁਪ੍ਰਯੋਗਾਂ ਸਥਾਪਤ ਕਰਨੀਆਂ ਚਾਹੁੰਦਾ ਹੈ। ਇਸਨੂੰ ਹੁਣ ਅਤੇ ਭਵਿੱਖ ਵਿੱਚ ਇਜਾਜ਼ਤ ਦੇਈਏ?</string>
+    <string name="out_of_space_dlg_title">ਜਗਾ ਦੀ ਕਮੀ</string>
+    <string name="dlg_ok">ਓਕੇ</string>
+    <string name="uninstall_application_title">ਐਪ ਅਨਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="uninstall_application_text">ਕੀ ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਦੀ ਸਥਾਪਨਾ ਰੱਦ ਕਰਨੀ ਹੈ?</string>
+    <string name="uninstall_update_text">ਫੈਕਟਰੀ ਸੰਸਕਰਣ ਦੇ ਨਾਲ ਅਨੁਪ੍ਰਯੋਗ ਬਦਲ ਜਾਵੇਗਾ।</string>
+    <string name="uninstalling">ਅਣ-ਸਥਾਪਿਤ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="uninstall_done">ਅਣ-ਸਥਾਪਿਤ ਕਰਨਾ ਸਮਾਪਤ!</string>
+    <string name="manage_device_administrators">ਡਿਵਾਈਸ ਪ੍ਰਬੰਧਕਾਂ ਨੂੰ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
+    <string name="Parse_error_dlg_title">ਤਰੁੱਟੀ ਪਾਰਸ ਕਰੋ</string>
+    <string name="newPerms">ਨਵਾਂ</string>
+    <string name="allPerms">ਸਾਰੇ</string>
+    <string name="privacyPerms">ਗੋਪਨਿਯਤਾ</string>
+    <string name="devicePerms">ਡਿਵਾਈਸ ਐਕਸੈੱਸ</string>
+    <string name="no_new_perms">ਇਸ ਅਪਡੇਟ ਲਈ ਕੋਈ ਖਾਸ ਐਕਸੈਸ ਮੰਜੂਰੀਆਂ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।</string>
+</resources>

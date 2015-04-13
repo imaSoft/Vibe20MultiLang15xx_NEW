@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">Голосовий контроль Камери</string>
+    <string name="voice_ui_phone_command_title">Голосовий контроль Телефона</string>
+    <string name="voice_ui_alarm_command_title">Голосовий контроль Сигналізації</string>
+    <string name="app_name">Голосова команда</string>
+    <string name="voice_ui_title">Голосовий контроль</string>
+    <string name="voice_ui_app_category">Для застосунків</string>
+    <string name="voice_ui_setting_category">Налаштування</string>
+    <string name="voice_ui_language_title">Мова голосового контролю</string>
+    <string name="incoming_call_app_name">Телефон</string>
+    <string name="alarm_app_name">Сигналізація</string>
+    <string name="camera_app_name">Камера</string>
+    <string name="music_app_name">Музика</string>
+    <string name="incomming_command_summary_format">Можна сказати %1$s або %2$s, щоб прийняти або відхилити вхідні виклики.</string>
+    <string name="alarm_command_summary_format">Можна сказати %1$s або %2$s, щоб контролювати сигналізацію.</string>
+    <string name="camera_command_summary_format">Можна сказати %1$s або %2$s, щоб зняти.</string>
+    <string name="music_command_summary_format">Можна сказати %1$s і %2$s, щоб контролювати відтворення музики.</string>
+    <string name="playback_failed">Програвач не підтримує цей тип аудіофайлу.</string>
+    <string name="voice_ui_commands">КОМАНДИ</string>
+</resources>

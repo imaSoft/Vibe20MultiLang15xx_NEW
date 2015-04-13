@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Yükləmə meneceri</string>
+    <string name="permlab_downloadManager">Yükləmə menecerinə müraciət.</string>
+    <string name="permdesc_downloadManager">Proqrama fayllar yükləmək üçün yükləmə menecerinə daxil olmağa imkan verir. İcazə verilərsə, zərərli proqramlar yükləmələrə mane ola və şəxsi məlumatlara daxl ola bilərlər</string>
+    <string name="permlab_downloadManagerAdvanced">Təkmil yükləmə menecerinin funksiyaları</string>
+    <string name="permdesc_downloadManagerAdvanced">Proqrama Yükləmə menecerinin təkmil funksiyalarına daxil olmağa imkan verir. İcazə verilərsə, zərərli proqramlar yükləmələrə mane ola və şəxsi məlumatlara daxl ola bilərlər</string>
+    <string name="permlab_downloadCompletedIntent">Yükləmə bildirişlərini göndərin</string>
+    <string name="permdesc_downloadCompletedIntent">Proqrama tamamlanmış yükləmələrə dair bildirişlər göndərməyə imkan verir. İcazə verilərsə, zərərli proqramlar fayl yükləyən digər proqramlara mane ola bilər</string>
+    <string name="permlab_seeAllExternal">SD karta olan bütün yükləmələrə bax</string>
+    <string name="permdesc_seeAllExternal">Hansı proqramın yükləməsindən asılı olmayaraq, proqramın SD karta olan bütün yükləmələri görməsinə imkan verir</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reserve space in the download cache</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Allows the application to download files to the download cache which cannot be automatically deleted when the download manager needs more space</string>
+    <string name="permlab_downloadWithoutNotification">Faylları bildirişsiz yüklə</string>
+    <string name="permdesc_downloadWithoutNotification">Proqrama yükləmə menecerinə daxil olaraq istifadəçiyə heç bir bildiriş göstərmədən fayl yükləməyə icazə verir</string>
+    <string name="permlab_accessAllDownloads">Access all system downloads</string>
+    <string name="permdesc_accessAllDownloads">Allows the application to view and modify all initiated by any application on the system</string>
+    <string name="download_unknown_title">&lt;Başlıqsız></string>
+    <string name="notification_download_complete">Yükləmə tamamlandı.</string>
+    <string name="notification_download_failed">Yükləmə uğursuz oldu.</string>
+    <string name="notification_need_wifi_for_size">Yükləmə ölçüsü çox böyükdür. Wi-Fi tələb edilir.</string>
+    <string name="notification_paused_in_background">Fonda fasilə edildi</string>
+    <string name="wifi_required_title">Yükləmə ölçüsü operatorun şəbəkəsi üçün böyükdür</string>
+    <string name="wifi_recommended_title">Sora yükləmək üçün növbə gözlənsin?</string>
+    <string name="button_queue_for_wifi">Növbə</string>
+    <string name="button_cancel_download">Ləğv et</string>
+    <string name="button_start_now">İndi başlayın</string>
+    <string name="download_remaining">%s qalıb</string>
+    <string name="download_no_application_title">Faylı açmaq mümkün deyil.</string>
+    <string name="root_downloads">Yükləmələr</string>
+</resources>

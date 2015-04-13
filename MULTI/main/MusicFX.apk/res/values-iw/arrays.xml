@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>ללא</item>
+        <item>חדר קטן</item>
+        <item>חדר בינוני</item>
+        <item>חדר גדול</item>
+        <item>אולם בינוני</item>
+        <item>אולם גדול</item>
+        <item>תהודת לוח</item>
+    </string-array>
+</resources>

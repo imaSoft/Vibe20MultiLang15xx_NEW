@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">డాక్యుమెంట్లు</string>
+    <string name="title_open">నుండి తెరువు</string>
+    <string name="title_save">దీనికి సేవ్ చెయ్యి</string>
+    <string name="menu_create_dir">ఫోల్డర్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను సృష్టించు</string>
+    <string name="menu_grid">గ్రిడ్ వీక్షణ</string>
+    <string name="menu_list">జాబితా వీక్షణ</string>
+    <string name="menu_sort">దీనిచే వేరు చేయి</string>
+    <string name="menu_search">శోధన</string>
+    <string name="menu_settings">సెట్టింగులు</string>
+    <string name="menu_open">తెరువు</string>
+    <string name="menu_save">సేవ్ చెయ్యి</string>
+    <string name="menu_share">పంచు</string>
+    <string name="menu_delete">తొలగించు</string>
+    <string name="mode_selected_count">%1$d ఎంపిక చెయ్యబడ్డాయి</string>
+    <string name="sort_name">పేరుతో</string>
+    <string name="sort_date">సవరించిన తేదితో</string>
+    <string name="sort_size">సైజుతో</string>
+    <string name="drawer_open">రూట్స్ చూపు</string>
+    <string name="drawer_close">రూట్స్ దాచు</string>
+    <string name="save_error">డాక్యుమెంట్ సేవ్ కాలేదు</string>
+    <string name="create_error">ఫోల్డర్ సృష్టించబడలేదు</string>
+    <string name="query_error">డాక్యుమెంట్లను శోధించలేక పోయింది</string>
+    <string name="root_recent">ఇటీవలి</string>
+    <string name="root_available_bytes">%1$s ఖాళీ</string>
+    <string name="root_type_service">నిల్వ సర్వీసులు</string>
+    <string name="root_type_shortcut">షార్ట్‌కట్లు</string>
+    <string name="root_type_device">పరికరాలు</string>
+    <string name="root_type_apps">మరిన్ని అప్లికేషన్లు</string>
+    <string name="pref_advanced_devices">అధునాతన పరికరాలను ప్రదర్శించు</string>
+    <string name="pref_file_size">ఫైల్ సైజును ప్రదర్శించు</string>
+    <string name="pref_device_size">పరికర సైజును ప్రదర్శించు</string>
+    <string name="empty">ఐటమ్లు లేవు</string>
+    <string name="toast_no_application">ఫైల్ తెరవలేము</string>
+    <string name="toast_failed_delete">కొన్ని డాక్యుమెంట్లను తొలగించలేము</string>
+    <string name="share_via">ద్వారా పంచుకో</string>
+</resources>

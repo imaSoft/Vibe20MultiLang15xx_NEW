@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Kalendar xotirasi</string>
+    <string name="upgrade_msg">Kalendar yangilanmoqda…</string>
+    <string name="calendar_default_name">Birlamchi</string>
+    <string name="calendar_info">Kalendar ma’lumoti</string>
+    <string name="calendar_info_error">Xato</string>
+    <string name="calendar_info_no_calendars">Kalendarlar yo‘q</string>
+    <string name="calendar_info_events">Hodisalar: %d</string>
+    <string name="calendar_info_events_dirty">Hodisalar: %1$d, Sinxronlanmagan: %2$d</string>
+    <string name="provider_label">Kalendar</string>
+    <string name="debug_tool_delete_button">Faylni yo‘q qilish</string>
+    <string name="debug_tool_start_button">Boshlash</string>
+    <string name="debug_tool_message">Siz kalendaringiz nusxasini istalgan ilova tomonidan o‘qish mumkin bo‘lgan SD-karta/USB-ichki xotiraga saqlash va undan so‘ng elektron pochta orqali yuborish arafasidasiz. Uni qurilmadan tashqariga saqlashingiz yoki e-pochta qabul qilinishi bilanoq, uni yo‘q qilishni unutmang.</string>
+    <string name="debug_tool_email_sender_picker">Faylingizni yuborish uchun dastur tanlang</string>
+    <string name="debug_tool_email_subject">Kalendar MB fayli biriktirildi</string>
+    <string name="debug_tool_email_body">Biriktirilgan mening kalendarim mening barcha uchrashuv va shaxsiy ma’lumotlarimga ega. Iltimos, ehtiyotkorlik bilan ushlang.</string>
+</resources>

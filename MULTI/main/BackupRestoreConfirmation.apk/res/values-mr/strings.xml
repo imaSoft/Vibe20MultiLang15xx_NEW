@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">पूर्ण बॅक अप</string>
+    <string name="restore_confirm_title">संपूर्ण पुनर्स्थापना</string>
+    <string name="backup_confirm_text">"जोडलेल्या डेस्कटॉप संगणकावर सर्व डेटाचा पूर्ण बॅकअप घेण्याची विनंती करण्यात आली आहे. आपण असे होऊ देऊ इच्छिता का\\?
+
+आपण स्वतः ही विनंती केली नसेल, तर प्रचालन पुढे जाऊ देऊ नका."</string>
+    <string name="allow_backup_button_label">माझ्या डेटाचा बॅकअप करा</string>
+    <string name="deny_backup_button_label">बॅक अप घेऊ नका</string>
+    <string name="restore_confirm_text">"एका जोडलेल्या डेस्कटॉप संगणाकडून सर्व माहितीच्या पूर्ण पुनर्स्थापनेची विनंती करण्यात आली आहे.असे घडण्यास परवानगी देण्याची तुमची इच्छा आहे का\\?
+
+ तुम्ही स्वत: पुनर्स्थापनेची विनंती केलेली नसेल तर, हे कार्य पुढे जावू देवू नका. यामुळे उपकरणामध्ये असलेल्या कोणत्याही वर्तमान माहितीची जागा दुसरी माहिती घेईल!"</string>
+    <string name="allow_restore_button_label">माझा डेटा पुनर्स्थापित करा</string>
+    <string name="deny_restore_button_label">पुनर्स्थापित करू नका</string>
+    <string name="current_password_text">कृपया आपला सध्याचा बॅकअप पासवर्ड खाली प्रविष्ट करा:</string>
+    <string name="device_encryption_restore_text">कृपया आपला डिव्हाइस कूटलिपीकरण पासवर्ड खाली प्रविष्ट करा:</string>
+    <string name="device_encryption_backup_text">"कृपया आपला कूटलिपीकरण पासवर्ड खाली प्रविष्ट करा.  हा बॅक अप अर्काइव्ह कूटलिपित करण्यासाठीही वापरला जाईल."</string>
+    <string name="backup_enc_password_text">संपूर्ण बॅकअप डेटा कूटलिपित करण्यास वापरण्यासाठी कृपया पासवर्ड प्रविष्ट करा. ती जागा रिकामी ठेवली, तर आपला सध्याचा बॅकअप पासवर्ड वापरला जाईल:</string>
+    <string name="backup_enc_password_optional">आपण संपूर्ण बॅकअप डेटा कूटलिपित करू इच्छित असाल, तर खाली पासवर्ड प्रविष्ट करा:</string>
+    <string name="restore_enc_password_text">पुनर्स्थापना डेटा कूटलिपित असेल, तर कृपया खाली पासवर्ड प्रविष्ट करा:</string>
+    <string name="toast_backup_started">बॅकअप सुरू होत आहे...</string>
+    <string name="toast_backup_ended">बॅकअप समाप्त झाला</string>
+    <string name="toast_restore_started">पुनर्स्थापना सुरू करीत आहे...</string>
+    <string name="toast_restore_ended">पुनर्स्थापना समाप्त झाली</string>
+    <string name="toast_timeout">प्रचालनाची मुदतसमाप्ती झाली</string>
+</resources>

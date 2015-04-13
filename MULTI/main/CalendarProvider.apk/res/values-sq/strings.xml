@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Arkivimi i kalendarit</string>
+    <string name="upgrade_msg">Duke përmirësuar bazën e të dhënave të Kalendarit.</string>
+    <string name="calendar_default_name">I paracaktuari</string>
+    <string name="calendar_info">Informacioni i kalendarit</string>
+    <string name="calendar_info_error">Gabim</string>
+    <string name="calendar_info_no_calendars">Nuk ka kalendarë</string>
+    <string name="calendar_info_events">Ngjarje: %1$d</string>
+    <string name="calendar_info_events_dirty">Ngjarje: %1$d, Të paruajtura: %2$d</string>
+    <string name="provider_label">Kalendari</string>
+    <string name="debug_tool_delete_button">Të fshihet tani</string>
+    <string name="debug_tool_start_button">Nis</string>
+    <string name="debug_tool_message">Jeni gati 1) të bëni një kopje të bazës së të dhënave të kalendarit tuaj te karta sd/arkivi usb, që është e lexueshme nga çdo aplikacion dhe 2) ta dërgoni me postë elektronike. Mos harroni ta fshini sapo ta kopjoni me sukses jashtë pajisjes ose sapo të merrni postën elektronike.</string>
+    <string name="debug_tool_email_sender_picker">Përzgjidhni një program për të dërguar skedarin</string>
+    <string name="debug_tool_email_subject">Kalendari Db bashkëngjitur</string>
+    <string name="debug_tool_email_body">Bashkëngjitur është baza e të dhënave e kalendarit tim, me të gjitha informacionet personale dhe takimet e mia. Trajtojeni me kujdes.</string>
+</resources>

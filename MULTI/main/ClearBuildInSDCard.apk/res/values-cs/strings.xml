@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mazání karty SD</string>
+    <string name="loading_please_wait">Nahrává se, čekejte...</string>
+    <string name="white_list_not_found">Mazání karty sd se nezdařilo, seznam nenalezen</string>
+    <string name="sdcard_not_available">Mazání karty sd se nezdařilo, karta SD je zakázána</string>
+    <string name="clearSDcardFailed">Mazání karty sd se nezdařilo</string>
+    <string name="deleteFileFailed">Chyba odstranění souboru</string>
+    <string name="fileNotFoud">Výjimka: soubor nenalezen</string>
+    <string name="clear_start">Začněte mazat kartu sd</string>
+    <string name="clear_success">mazání karty sd úspěšné，restartovat přístroj</string>
+    <string name="clearing">Mazání karty sd</string>
+    <string name="checking">Kontrola</string>
+    <string name="check_file">Kontrola res</string>
+    <string name="check_sucess">Kontrola úspěšná</string>
+    <string name="check_fail">Kontrola se nezdařila,dokončit？</string>
+</resources>

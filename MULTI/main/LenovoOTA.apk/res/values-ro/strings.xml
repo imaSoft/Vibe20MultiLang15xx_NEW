@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Upgradare sistem</string>
+    <string name="exit">Ieşire</string>
+    <string name="update_failed">Ne pare rău. Instalarea noului firmware nu a reuşit</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Anulare</string>
+    <string name="notification_content_title">Upgrade firmware</string>
+    <string name="notification_content_text_completed">Descărcare finalizată cu succes</string>
+    <string name="error_not_specify_network_title">Descărcaţi prin reţeaua WLAN</string>
+    <string name="error_not_specify_network_content">Vă recomandăm cu insistenţă să descărcaţi printr-o reţea WLAN. Descărcarea prin reţeaua GPRS va consuma mai multe date</string>
+    <string name="btn_setting_network">Setare imediată</string>
+    <string name="btn_keep_download">Continuare descărcare</string>
+    <string name="retry">Reîncercare</string>
+    <string name="redo_backup">Recreare copie de siguranţă</string>
+    <string name="contact">Contacte</string>
+    <string name="sms">Mesaj</string>
+    <string name="calllog">Jurnal apeluri</string>
+    <string name="btn_backup">Creare copie de siguranţă</string>
+    <string name="has_not_backup">Fără copie de siguranţă</string>
+    <string name="countSms">mesaje</string>
+    <string name="countContact">contacte</string>
+    <string name="countCalllog">jurnale apeluri</string>
+    <string name="nodata">Fără date</string>
+    <string name="backup_data_ing">Se creează copii de siguranţă contactelor...</string>
+    <string name="backup_data_finish">Copie de siguranţă a datelor reuşită!</string>
+    <string name="data_usage_warning_title">Avertisment</string>
+    <string name="data_usage_warning">Stimaţi utilizatori, folosirea acestei aplicaţii necesită accesarea internetului. Continuaţi?</string>
+    <string name="data_usage_confirm">Nu doresc să mi se solicite data viitoare</string>
+    <string name="ndf_install_finish_p">Imediat</string>
+    <string name="ndf_install_finish_n">Ulterior</string>
+    <string name="ndf_lowpower_title">Baterie descărcată</string>
+    <string name="toast_install_fail">Imposibil de instalat. Calea specificată: %s, nu există.</string>
+    <string name="network_error">Conectarea la reţea nu a reuşit</string>
+    <string name="notification_new_rom_come">Sistemul se poate actualiza la cea mai recentă versiune</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">După %d de secunde, sistemul trebuie să instaleze noua versiune!</string>
+    <string name="backup_data">Copiere de rezervă a datelor</string>
+    <string name="restore_data">Restabilire date</string>
+    <string name="battery_tip">Baterie descărcată, conectaţi încărcătorul pentru a continua upgrade-ul</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مجموعة أدوات بطاقة USIM</string>
+    <string name="activity_not_found">USIM غير جاهزة أو أن هذه الخاصية لا تدعمها.</string>
+    <string name="simlock_toolkit">مجموعة أدوات بطاقة USIM</string>
+    <string name="no_sim_card_inserted">يرجى إدخال بطاقة USIM لتشغيل مجموعة أدوات USIM.</string>
+    <string name="airplane_mode_on">تعذر تشغيل مجموعة أدوات USIM لتفعيل وضع الطيران.</string>
+    <string name="lable_sim_not_ready">مجموعة أدوات USIM غير جاهزة أو غير مدعومة</string>
+</resources>

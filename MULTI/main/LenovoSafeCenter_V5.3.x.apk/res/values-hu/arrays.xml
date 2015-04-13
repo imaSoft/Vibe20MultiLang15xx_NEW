@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Melyik volt az általános iskolája?</item>
+        <item>Mi a kedvenc gyümölcse?</item>
+        <item>Mikor van az édesapja születésnapja?</item>
+        <item>Mi a kedvenc dalom?</item>
+        <item>Mi a háziállatom neve?</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Beállítások</item>
+        <item>Frissít</item>
+        <item>Visszajelzés</item>
+        <item>Segítség</item>
+        <item>Programról</item>
+        <item>Javaslat</item>
+    </string-array>
+    <string-array name="menu_items_cmcc">
+        <item>Beállítások</item>
+        <item>Frissítés</item>
+        <item>Visszajelzés</item>
+        <item>Segítség</item>
+    </string-array>
+    <string-array name="traffic_notification_display_mode">
+        <item>A kapcsolódó SIM megjelenítése</item>
+        <item>SIM1 kártya megjelenítése</item>
+        <item>SIM2 kártya megjelenítése</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Mindennap</item>
+        <item>Minden 3. napon</item>
+        <item>Minden héten</item>
+        <item>Zárva</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Importál hívásnaplóból</item>
+        <item>Importál üzenetekből</item>
+        <item>Importál névjegyekből</item>
+        <item>Kézi hozzáadás</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Intelligens blokkolás</item>
+        <item>Csak feketelista blokkolás</item>
+        <item>Csak a névjegyeket engedi</item>
+        <item>Csak a fehérlistát engedi</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Visszatérés foglalt</item>
+        <item>Visszatérés kikapcsol</item>
+        <item>Visszatérés leállítás</item>
+        <item>Visszatérés nulla</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Csak névjegyek válasz</item>
+        <item>Csak fehérlista válasz</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Importál hívásnaplóból</item>
+        <item>Importál üzenetekből</item>
+        <item>Importál névjegyekből</item>
+        <item>Kézi hozzáadás</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Válasz</item>
+        <item>Elutasít</item>
+        <item>Hívás elutasítás SMS-sel</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Lezár, amikor képernyő alszik</item>
+        <item>Lezár, amikor kilép ez az alkalmazás</item>
+        <item>5 perc képernyő alvás után lezár</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Importál hívásnaplóból</item>
+        <item>Importál üzenetekből</item>
+        <item>Importál névjegyekből</item>
+        <item>Kézi hozzáadás</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Nincs riasztás</item>
+        <item>Értesítési sáv riasztás</item>
+        <item>Értesítés + riasztási hang</item>
+        <item>Értesítés + rezgés</item>
+    </string-array>
+</resources>

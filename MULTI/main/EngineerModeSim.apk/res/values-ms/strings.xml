@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">Kunci EM SIM ME</string>
+    <string name="simmelock_name">Kunci SIM ME</string>
+    <string name="strInputPassword">Sila masukkan kata laluan :</string>
+    <string name="strConfirm">Selesai</string>
+    <string name="strCancel">Batal</string>
+    <string name="strInputChancesleft">Baki percubaan :</string>
+    <string name="strMCCMNC">MCC+MNC :</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR :</string>
+    <string name="strGID1">GID1 :</string>
+    <string name="strGID2">GID2 :</string>
+    <string name="strInputPasswordAgain">Sila masukkan kata laluan sekali lagi :</string>
+    <string name="strIMSI">IMSI :</string>
+    <string name="strAttention">Perhatian</string>
+    <string name="strConfirmRemove">Benar-benar alih keluar?</string>
+    <string name="srtConfirmPermanUnlock">Benar-benar buka kunci secara kekal?</string>
+    <string name="strYes">Ya</string>
+    <string name="strLockFail">Gagal Mengunci!</string>
+    <string name="strLockSucceed">Berjaya Mengunci!</string>
+    <string name="strUnlockFail">Buka Kunci Gagal!</string>
+    <string name="strUnlockSucceed">Berjaya Menbuka Kunci!</string>
+    <string name="strUserInput">Input Pengguna</string>
+    <string name="strInputMode">Input oleh pengguna?</string>
+    <string name="strLockNameNetwork">Pemeribadian Rangkaian</string>
+    <string name="strLockNameNetworkSub">Pemeribadian Subset Rangkaian</string>
+    <string name="strLockNameService">Pemeribadian Pembekal Perkhidmatan</string>
+    <string name="strLockNameCorporate">Pemeribadian Korporat</string>
+    <string name="strLockNameSIM">Pemeribadian SIM</string>
+    <string name="strActionNameLock">Kunci</string>
+    <string name="strActionNameUnlock">Buka kunci</string>
+    <string name="strActionNameAddLock">Tambah</string>
+    <string name="strActionNameRemoveLock">Alih keluar</string>
+    <string name="strActionNamePermanentUnlock">Buka kunci secara kekal</string>
+    <string name="strPasswordLengthIncorrect">4-8 nombor!</string>
+    <string name="strQueryFailed">Pertanyaan gagal!</string>
+    <string name="strAddLockFail">Gagal menambah!</string>
+    <string name="strAddLockSucceed">Berjaya menambah!</string>
+    <string name="strMCCMNCLengthIncorrect">MCC+MNC tidak sah!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">MCC+MNC+HLR tidak sah!</string>
+    <string name="strIMSILengthIncorrect">IMSI tidak sah!</string>
+    <string name="strGID1WRONG">GID1 tidak sah!</string>
+    <string name="strGID2WRONG">GID2 tidak sah!</string>
+    <string name="str_simme_passwords_dont_match">Kata laluan tidak sepadan</string>
+</resources>

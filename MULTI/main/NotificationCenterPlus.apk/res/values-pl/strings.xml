@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_notification_manager_title">Włącz powiadomienia aplikacji</string>
+    <string name="app_notification_optimized_title">Ustaw priorytet powiadomień aplikacji</string>
+    <string name="lenovo_app_closed_notifications_manager_title">Wyłączono powiadomienia aplikacji</string>
+    <string name="lenovo_app_opened_notifications_manager_title">Włączono powiadomienia aplikacji</string>
+    <string name="lenovo_progress_dialog_message">Ładowanie...</string>
+    <string name="app_disable_notifications_dlg_title">Wyłączyć powiadomienia?</string>
+    <string name="app_disable_notifications_dlg_text">Jeśli wyłączysz powiadomienia, możesz przeoczyć ważne alerty i zdarzenia.</string>
+    <string name="app_add_optimized_notifications_title">Powiadomienie aplikacji bez priorytetu</string>
+    <string name="app_del_optimized_notifications_title">Powiadomienie priorytetowej aplikacji</string>
+    <string name="app_vip_notifications_title">Aplikacja VIP</string>
+    <string name="app_close_optimized_notifications_title">Powiadomienie zamkniętej aplikacji</string>
+    <string name="app_close_optimized_notifications_summary">Aplikacji można nadać status preferowanej tylko po włączeniu powiadomień w sekcji zarządzania powiadomieniami aplikacji</string>
+    <string name="lenovo_app_add_optimized_notification_toast_text">Powiadomienia priorytetowej aplikacji „%1$s”</string>
+    <string name="lenovo_app_add_notification_toast_text">Włączono powiadomienia dla „%1$s”</string>
+    <string name="lenovo_no_app_nofitication">Brak aplikacji</string>
+    <string name="app_del_optimized_notifications_dlg_title">Anulować preferencję?</string>
+    <string name="app_del_optimized_notifications_dlg_text">Jeśli zmienisz ten status powiadomień, możesz ignorować ważne alerty lub zdarzenia.</string>
+</resources>

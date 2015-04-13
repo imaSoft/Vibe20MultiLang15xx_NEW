@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Давател на услуги за пребарување апликации</string>
+    <string name="search_label">Апликации</string>
+    <string name="application_desc">Апликација</string>
+    <string name="settings_description">Називи на инсталираните апликации</string>
+</resources>

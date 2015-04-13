@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ترقية النظام</string>
+    <string name="exit">خروج</string>
+    <string name="update_failed">عذرًا. فشل تثبيت البرامج الثابتة الجديدة</string>
+    <string name="btn_ok">موافق</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="notification_content_title">ترقية البرامج الثابتة</string>
+    <string name="notification_content_text_completed">تم التنزيل بنجاح</string>
+    <string name="error_not_specify_network_title">يرجى التنزيل باستخدام الشبكة المحلية اللاسلكية</string>
+    <string name="error_not_specify_network_content">يفضل التنزيل باستخدام الشبكة المحلية اللاسلكية، إذ يحتاج التنزيل من شبكة GPRS إلى بيانات أكثر</string>
+    <string name="btn_setting_network">الضبط على الفور</string>
+    <string name="btn_keep_download">الاستمرار في التنزيل</string>
+    <string name="retry">إعادة</string>
+    <string name="redo_backup">النسخ الاحتياطي مرة أخرى</string>
+    <string name="contact">جهات الاتصال</string>
+    <string name="sms">الرسالة</string>
+    <string name="calllog">سجل المكالمات</string>
+    <string name="btn_backup">نسخ احتياطي</string>
+    <string name="has_not_backup">لم يتم إجراء نسخ احتياطي له</string>
+    <string name="countSms">رسالة (رسائل)</string>
+    <string name="countContact">جهة (جهات) الاتصال</string>
+    <string name="countCalllog">سجل (سجلات) المكالمات</string>
+    <string name="nodata">لا توجد بيانات</string>
+    <string name="backup_data_ing">جارٍ إجراء نسخ احتياطي لجهات الاتصال وغير ذلك...</string>
+    <string name="backup_data_finish">نجحت عملية النسخ الاحتياطي للبيانات!</string>
+    <string name="data_usage_warning_title">تحذير</string>
+    <string name="data_usage_warning">أعزائي المستخدمين، يتطلب هذا التطبيق الوصول إلى الإنترنت، متابعة؟</string>
+    <string name="data_usage_confirm">عدم المطالبة في المرة القادمة</string>
+    <string name="ndf_install_finish_p">فورًا</string>
+    <string name="ndf_install_finish_n">لاحقًا</string>
+    <string name="ndf_lowpower_title">طاقة البطارية منخفضة</string>
+    <string name="toast_install_fail">فشل التثبيت، المسار المحدد: %s غير موجود.</string>
+    <string name="network_error">فشل الاتصال بالشبكة</string>
+    <string name="notification_new_rom_come">بإمكان النظام التحديث إلى أحدث إصدار</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">بعد مرور %d ثانية، يتعيّن على النظام تثبيت الإصدار الجديد!</string>
+    <string name="backup_data">بيانات النسخ الاحتياطي</string>
+    <string name="restore_data">استعادة البيانات</string>
+    <string name="battery_tip">مستوى طاقة البطارية منخفض, يرجى توصيل الشاحن للاستمرار في عملية الترقية</string>
+</resources>

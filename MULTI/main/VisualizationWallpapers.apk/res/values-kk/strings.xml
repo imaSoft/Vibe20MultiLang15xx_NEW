@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Визуализатор</string>
+    <string name="wallpaper_vis2">Толқын</string>
+    <string name="wallpaper_vis3">Спектр</string>
+    <string name="wallpaper_vis4">VU өлшегіші</string>
+    <string name="wallpaper_vis5">Бірнеше</string>
+    <string name="wallpapers">Music Visualization фон суреттері</string>
+    <string name="vis2_desc">Кез келген ағымда ойнатылып жатқан музыкалық тректің дыбыс толқынын сызады.</string>
+    <string name="vis3_desc">Ағымда ойнатылып жатқан музыкалық тректің жиілік спектрін көрсетеді.</string>
+    <string name="vis4_desc">Аналогтық дыбыс өлшегішін көрсетеді.</string>
+    <string name="vis5_desc">Барлық муз-лық визуализациялар бірге, үш өлшемдік кеңістікте ақырын айналады.</string>
+</resources>

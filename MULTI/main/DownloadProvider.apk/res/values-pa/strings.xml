@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ਡਾਉਨਲੋਡ ਪ੍ਰਬੰਧਕ</string>
+    <string name="permlab_downloadManager">ਡਾਉਨਲੋਡ ਪ੍ਰਬੰਧਕ ਨੂੰ ਐਕਸੈੱਸ ਕਰੋ।</string>
+    <string name="permdesc_downloadManager">ਫਾਈਲਾਂ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ ਅਨੁਪ੍ਰਯੋਗ ਡਾਉਨਲੋਡ ਪ੍ਰਬੰਧਕ ਨੂੰ ਐਕਸੈੱਸ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ। ਜੇਕਰ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਜਾਵੇ, ਦੋਸ਼ਪੂਰਨ ਅਨੁਪ੍ਰਯੋਗ ਡਾਉਨਲੋਡਸ ਨੂੰ ਭੰਗ ਕਰਨ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਐਕਸੈੱਸ ਕਰਨ ਲਈ ਇਸਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੀਆਂ ਹਨ।</string>
+    <string name="permlab_downloadManagerAdvanced">ਉੱਨਤ ਡਾਉਨਲੋਡ ਪ੍ਰਬੰਧਕ ਫੰਕਸ਼ਨ</string>
+    <string name="permdesc_downloadManagerAdvanced">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਡਾਉਨਲੋਡ ਪ੍ਰਬੰਧਕ ਦੇ ਉੱਨਤ ਕੰਮਾਂ ਨੂੰ ਐਕਸੈੱਸ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ। ਜੇਕਰ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਜਾਵੇ, ਤਾਂ ਦੋਸ਼ਪੂਰਨ ਅਨੁਪ੍ਰਯੋਗ ਡਾਉਨਲੋਡਸ ਨੂੰ ਭੰਗ ਕਰਨ ਅਤੇ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਐਕਸੈੱਸ ਕਰਨ ਲਈ ਇਸਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੀਆਂ ਹਨ।</string>
+    <string name="permlab_downloadCompletedIntent">ਡਾਉਨਲੋਡ ਸੂਚਨਾਵਾਂ ਭੇਜੋ</string>
+    <string name="permdesc_downloadCompletedIntent">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਪੂਰੇ ਹੋਏ ਡਾਉਨਲੋਡਸ ਦੀਆਂ ਸੂਚਨਾਵਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ। ਜੇਕਰ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਜਾਵੇ, ਦੋਸ਼ਪੂਰਨ ਅਨੁਪ੍ਰਯੋਗ ਇਸਦੀ ਵਰਤੋਂ ਹੋਰ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਅਸਤ-ਵਿਅਸਤ ਕਰਨ ਲਈ ਕਰ ਸਕਦੀਆਂ ਜੋ ਫਾਈਲਾਂ ਡਾਉਨਲੋਡ ਕਰਦੀਆਂ ਹਨ।</string>
+    <string name="permlab_seeAllExternal">ਸਾਰੇ ਡਾਉਨਲੋਡਸ SD ਕਾਰਡ ਵਿੱਚ ਦੇਖੋ</string>
+    <string name="permdesc_seeAllExternal">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ SD ਕਾਰਡ ਵਿੱਚ ਸਾਰੇ ਡਾਉਨਲੋਡਸ ਦੇਖਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ, ਚਾਹੇ ਓਹ ਕਿਸੇ ਵੀ ਅਨੁਪ੍ਰਯੋਗ ਦੁਆਰਾ ਡਾਉਨਲੋਡ ਕੀਤੇ ਗਏ ਹੋਣ</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reserve space in the download cache</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Allows the application to download files to the download cache which cannot be automatically deleted when the download manager needs more space</string>
+    <string name="permlab_downloadWithoutNotification">ਸੂਚਨਾ ਤੋਂ ਬਿਨ੍ਹਾਂ ਫਾਈਲਾਂ ਡਾਉਨਲੋਡ ਕਰੋ</string>
+    <string name="permdesc_downloadWithoutNotification">ਉਪਭੋਗਤਾ ਨੂੰ ਕੋਈ ਵੀ ਸੂਚਨਾ ਦਿਖਾਉਣ ਤੋਂ ਬਿਨ੍ਹਾਂ ਹੀ ਕਿਸੇ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਡਾਉਨਲੋਡ ਫਾਈਲ ਵਿੱਚ ਡਾਉਨਲੋਡ ਮੈਨੇਜਰ ਐਕਸੈਸ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ</string>
+    <string name="permlab_accessAllDownloads">Access all system downloads</string>
+    <string name="permdesc_accessAllDownloads">Allows the application to view and modify all initiated by any application on the system</string>
+    <string name="download_unknown_title">&lt;ਸਿਰਲੇਖ ਰਹਿਤ></string>
+    <string name="notification_download_complete">ਡਾਉਨਲੋਡ ਪੂਰਨ।</string>
+    <string name="notification_download_failed">ਡਾਉਨਲੋਡ ਕਰਨਾ ਅਸਫਲ।</string>
+    <string name="notification_need_wifi_for_size">ਡਾਉਨਲੋਡ ਆਕਾਰ ਕਾਫੀ ਵੱਡਾ। Wi-Fi ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="notification_paused_in_background">ਬੈਕਗ੍ਰਾਉਂਡ ਵਿੱਚ ਵਿਰਾਮ ਹੋਇਆ</string>
+    <string name="wifi_required_title">ਡਾਉਨਲੋਡ ਦਾ ਆਕਾਰ ਨੈੱਟਵਰਕ ਅਪ੍ਰੇਟਰ ਦੇ ਲਈ ਬਹੁਤ ਵੱਡਾ ਹੈ</string>
+    <string name="wifi_recommended_title">ਬਾਅਦ ਵਿੱਚ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ ਕਤਾਰ ਵਿੱਚ ਲਗਾਈਏ?</string>
+    <string name="button_queue_for_wifi">ਲਾਈਨ</string>
+    <string name="button_cancel_download">ਰੱਦ</string>
+    <string name="button_start_now">ਹੁਣ ਅਰੰਭ ਕਰੋ</string>
+    <string name="download_remaining">%s ਬਚਿਆ</string>
+    <string name="download_no_application_title">ਫਾਈਲ ਨਹੀਂ ਖੋਲ੍ਹ ਸਕਦਾ</string>
+    <string name="root_downloads">ਡਾਉਨਲੋਡਸ</string>
+</resources>

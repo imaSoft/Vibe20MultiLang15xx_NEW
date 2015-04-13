@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Yksi sivu sivulla</item>
+        <item>Kaksi sivua sivulla</item>
+        <item>Neljä sivua sivulla</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Pysty</item>
+        <item>Vaaka</item>
+        <item>Käänteinen vaaka</item>
+        <item>Käänteinen pysty</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>pysty</item>
+        <item>vaaka</item>
+        <item>käänteinen vaaka</item>
+        <item>käänteinen pysty</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Yksipuolinen</item>
+        <item>Kaksipuolinen, pitkä reuna</item>
+        <item>Kaksipuolinen, lyhyt reuna</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>yksipuolinen</item>
+        <item>kaksipuolinen, pitkä reuna</item>
+        <item>kaksipuolinen, lyhyt reuna</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Jaa ryhmän yhteystiedot</item>
+        <item>Hae yhteystieto</item>
+        <item>Vaihda yhteystietoja muiden kanssa</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Kaikki näytetyt</item>
+        <item>Yhteyshenkilöt, joilla on puhelinnumero</item>
+        <item>Starred in Android</item>
+    </string-array>
+</resources>

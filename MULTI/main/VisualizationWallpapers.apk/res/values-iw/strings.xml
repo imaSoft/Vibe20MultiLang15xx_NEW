@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Visualizer</string>
+    <string name="wallpaper_vis2">צורת גל</string>
+    <string name="wallpaper_vis3">ספקטרום</string>
+    <string name="wallpaper_vis4">מד VU</string>
+    <string name="wallpaper_vis5">רבים</string>
+    <string name="wallpapers">תמונות רקע של ויזואליזציה מוסיקלית</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">שרטוט גל הקול של רצועת המוסיקה המושמעת כעת.</string>
+    <string name="vis3_desc">הצגת טווח התדרים של רצועת המוסיקה המושמעת כעת.</string>
+    <string name="vis4_desc">מדמה מד צליל אנלוגי.</string>
+    <string name="vis5_desc">כל התצוגות החזותיות של המוסיקה יחד, סיבוב איטי בתלת-ממד.</string>
+</resources>

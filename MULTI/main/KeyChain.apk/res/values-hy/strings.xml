@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Բանալիների շղթա</string>
+    <string name="title_no_certs">Վկայագրեր չեն գտնվել</string>
+    <string name="title_select_cert">Ընտրեք վկայագիրը</string>
+    <string name="requesting_application">%s գործադիրը պահանջում է վկայագիր: Վկայագրի ընտրումը գործադիրին կտա այս ինքնությունը հիմա և հետագայում սպասարկիչների հետ օգտագործելու հնարավորություն:</string>
+    <string name="requesting_server">Գործադիրը նույնացրել է հայցվող սպասարկիչը որպես %s, սակայն դուք միայն պետք է թույլ տաք գործադիրին մատչել վկայագրին, եթե գործադիրը վստահելի է:</string>
+    <string name="install_new_cert_message">Վկայագրերը կարող եք տեղադրել PKCS#12 նիշքից %1$s կամ %2$s ընդլայնումով, որոնք տեղադրված են արտաքին հիշասարքում:</string>
+    <string name="install_new_cert_button_label">Տեղադրել</string>
+    <string name="allow_button">Թույլատրել</string>
+    <string name="deny_button">Մերժել</string>
+</resources>

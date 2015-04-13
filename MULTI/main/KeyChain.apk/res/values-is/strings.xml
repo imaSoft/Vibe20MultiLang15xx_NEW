@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lyklakippa</string>
+    <string name="title_no_certs">Engin vottorð fundust</string>
+    <string name="title_select_cert">Val á vottorði</string>
+    <string name="requesting_application">Forritið %s bað um vottorð. Ef vottorð er valið getur forritið notað þetta kenni á netþjónum núna og héðan í frá.</string>
+    <string name="requesting_server">Forritið bar kennsl á þjóninn sem sendi beiðnina sem %s en þú skalt aðeins veita forritinu aðgang að vottorðinu ef þú treystir forritinu.</string>
+    <string name="install_new_cert_message">Þú getur sett upp vottorð úr PKCS#12-skrá með endinguna %1$s eða %2$s í ytri geymslu.</string>
+    <string name="install_new_cert_button_label">Setja upp</string>
+    <string name="allow_button">Leyfa</string>
+    <string name="deny_button">Hafna</string>
+</resources>

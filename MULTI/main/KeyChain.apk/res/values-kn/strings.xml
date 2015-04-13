@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಕೀ ಚೈನ್</string>
+    <string name="title_no_certs">ಯಾವುದೇ ಪ್ರಮಾಣಪತ್ರಗಳು ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="title_select_cert">ಪ್ರಮಾಣಪತ್ರ ಆರಿಸಿ</string>
+    <string name="requesting_application">ಈ ಅಪ್ಲಿಕೇಶನ್ %s ಒಂದು ಪ್ರಮಾಣಪತ್ರಕ್ಕೆ ಮನವಿಮಾಡಿದೆ. ಪ್ರಮಾಣಪತ್ರ ಒಂದನ್ನು ಆರಿಸುವುದು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಈಗ ಮತ್ತು ಭವಿಷ್ಯದಲ್ಲಿ ಈ ಗುರುತಿಸುವಿಕೆಯನ್ನು ಬಳಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಅಂಗೀಕರಿಸುತ್ತದೆ.</string>
+    <string name="requesting_server">ಮನವಿ ಮಾಡಿದ ಸರ್ವರ್‌ಅನ್ನು ಅಪ್ಲಿಕೇಶನ್ %s ಎಂಬುದಾಗಿ ಗುರುತಿಸಿದೆ ಆದರೆ ಆದರೆ ನೀವು ಅಪ್ಲಿಕೇಶನ್ಅನ್ನು ನಂಬುವುದಾದರೆ ಮಾತ್ರ ನೀವು ಪ್ರಮಾಣಪತ್ರಕ್ಕೆ ಅಪ್ಲಿಕೇಶನ್‌ ಪ್ರವೇಶ ಅಂಗೀಕರಿಸಬೇಕು.</string>
+    <string name="install_new_cert_message">ಬಾಹ್ಯ ಸಂಗ್ರಹದಲ್ಲಿ ಇರುವ %1$s ಅಥವಾ ಒಂದು %2$s ವಿಸ್ತರಣೆಯೊಂದಿಗಿನ PKCS#12 ಫೈಲ್ ಒಂದರಿಂದ ನೀವು ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಸ್ಥಾಪಿಸಬಹುದು.</string>
+    <string name="install_new_cert_button_label">ಸ್ಥಾಪಿಸು</string>
+    <string name="allow_button">ಅನುಮತಿಸು</string>
+    <string name="deny_button">ನಿರಾಕರಿಸು</string>
+</resources>

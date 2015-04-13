@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">இறக்க மேலாளர்</string>
+    <string name="permlab_downloadManager">இறக்க மேலாளரை அணுகவும்.</string>
+    <string name="permdesc_downloadManager">இறக்க மேலாளரை அணுகுவதற்கும், கோப்புகளைப் இறக்க இதைப் பயன்படுத்துவதற்கும் பயன்பாட்டை அனுமதிக்கும். தீங்குதரும் பயன்பாடுகள் இறக்கங்களைக் குழப்ப மற்றும் தனிப்பட்ட தகவலை அணுக இதைப் பயன்படுத்தலாம்.</string>
+    <string name="permlab_downloadManagerAdvanced">மேம்பட்ட இறக்க மேலாளர் செயல்பாடுகள்.</string>
+    <string name="permdesc_downloadManagerAdvanced">இறக்க மேலாளரின் மேம்பட்ட செயல்பாடுகளை அணுகுவதற்கு பயன்பாட்டை அனுமதிக்கும். தீங்குதரும் பயன்பாடுகள் இறக்கங்களைக் குழப்ப மற்றும் தனிப்பட்ட தகவலை அணுக இதைப் பயன்படுத்தலாம்.</string>
+    <string name="permlab_downloadCompletedIntent">இறக்க அறிவித்தல்களை அனுப்பவும்.</string>
+    <string name="permdesc_downloadCompletedIntent">"முடிவடைந்த இறக்கங்கள் பற்றிய அறிவித்தல்களை அனுப்ப பயன்பாட்டை அனுமதிக்கும். தீங்குதரும் பயன்பாடுகள் கோப்புகளைப் இறக்கும் பிற பயன்பாடுகளைக் குழப்ப இதைப் பயன்படுத்தலாம்.
+"</string>
+    <string name="permlab_seeAllExternal">SD அட்டைக்கு அனைத்து இறக்கங்களையும் பார்க்கவும்</string>
+    <string name="permdesc_seeAllExternal">அவற்றை எந்தப் பயன்பாடு இறக்கியது என்பதைப் பொருட்படுத்தாமல், SD அட்டைக்கான அனைத்துப் இறக்கங்களையும் பார்க்க பயன்பாட்டை அனுமதிக்கும்.</string>
+    <string name="permlab_downloadCacheNonPurgeable">இறக்க தேக்ககத்தில் இடத்தை ஒதுக்கவும்</string>
+    <string name="permdesc_downloadCacheNonPurgeable">இறக்க மேலாளருக்கு அதிக இடம் தேவைப்படும்போது, தானாக நீக்கப்படமுடியாத இறக்க தேக்ககத்துக்கு கோப்புகளைப் இறக்க பயன்பாட்டை அனுமதிக்கும்.</string>
+    <string name="permlab_downloadWithoutNotification">அறிவித்தல்கள் இல்லாமல் கோப்புகளைப் இறக்கவும்</string>
+    <string name="permdesc_downloadWithoutNotification">பயனருக்கு எவ்வித அறிவித்தலையும் காண்பித்துக் கொள்ளாமல் இறக்க மேலாளர் ஊடாக கோப்புகளைப் இறக்க பயன்பாட்டை அனுமதிக்கும்.</string>
+    <string name="permlab_accessAllDownloads">அனைத்து முறைமைப் இறக்கங்களையும் அணுகவும்</string>
+    <string name="permdesc_accessAllDownloads">முறைமையிலுள்ள ஏதேனும் பயன்பாடு மூலம் தொடங்கப்பட்ட அனைத்துப் இறக்கங்களையும் காண மற்றும் திருத்த பயன்பாட்டை அனுமதிக்கும்.</string>
+    <string name="download_unknown_title">&lt;தலைப்பிடப்படாதது></string>
+    <string name="notification_download_complete">இறக்கம் முடிந்தது.</string>
+    <string name="notification_download_failed">இறக்கம் வெற்றியடையவில்லை.</string>
+    <string name="notification_need_wifi_for_size">இறக்க அளவுக்கு Wi-Fi தேவை.</string>
+    <string name="notification_paused_in_background">பின்னணியில் இடைநிறுத்தப்பட்டது.</string>
+    <string name="wifi_required_title">இயக்குபவர் பிணையத்துக்கு இறக்கம் மிகப் பெரியது</string>
+    <string name="wifi_required_body" formatted="false">"நீங்கள் இந்த %s இறக்கத்தை முடிக்க Wi-Fi ஐப் பயன்படுத்த வேண்டும். நீங்கள் அடுத்த தடவை 
+
+ஒரு Wi-Fi பிணையத்துக்கு இணைக்கப்படும்போது இந்த இறக்கத்தைத் தொடங்க %s ஐத் தொடவும்."</string>
+    <string name="wifi_recommended_title">பிறகு இறக்குவதற்கு வரிசை?</string>
+    <string name="wifi_recommended_body" formatted="false">"இப்போது இந்த %s இறக்கத்தைத் தொடங்குவது உங்கள் பேட்டரி ஆயுளைக் குறைக்கக்கூடும் மற்றும்/அல்லது உங்கள் மொபைல் தரவு இணைப்பின் அளவுக்கதிக பயன்பாட்டை விளைவிக்கலாம். இது உங்கள் தரவுத் திட்டத்தைப் பொறுத்து உங்கள் மொபைல் இயக்குபவரால் கட்டண வசூலிப்புக்கு வழிவகுக்கலாம்.நீங்கள் அடுத்த தடவை 
+
+ஒரு Wi-Fi பிணையத்துக்கு இணைக்கப்படும்போது இந்த இறக்கத்தைத் தொடங்க %s ஐத் தொடவும்."</string>
+    <string name="button_queue_for_wifi">வரிசைப்படுத்து</string>
+    <string name="button_cancel_download">ரத்து</string>
+    <string name="button_start_now">இப்பொழுது தொடங்கு</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s இடது</string>
+    <string name="download_no_application_title">கோப்பை திறக்க இயலவில்லை</string>
+    <string name="root_downloads">இறக்கங்கள்</string>
+    <string name="download_queued">வரிசைப்படுத்தப்பட்டன</string>
+    <string name="download_running">செயல்பாட்டில் உள்ளது</string>
+    <string name="download_error">இறக்கம் நிறைவடையவில்லை</string>
+    <string name="download_running_percent">செயல்பாட்டில் உள்ளது, %d%%</string>
+</resources>

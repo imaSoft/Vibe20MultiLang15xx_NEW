@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Satu halaman setiap bahagian</item>
+        <item>Dua halaman setiap sisi</item>
+        <item>Empat halaman setiap sisi</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Potret</item>
+        <item>Lanskap</item>
+        <item>Lanskap Songsang</item>
+        <item>Potret Songsang</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>potret</item>
+        <item>lanskap</item>
+        <item>lanskap songsang</item>
+        <item>potret songsang</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Satu Sisi</item>
+        <item>Dua halaman Tepi Panjang</item>
+        <item>Dua halaman Tepi Pendek</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>satu sisi</item>
+        <item>dua-halaman-tepi-panjang</item>
+        <item>dua-halaman-tepi-pendek</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Kongsi kenalan dalam kumpulan</item>
+        <item>Dapatkan kenalan</item>
+        <item>Bertukar-tukar kenalan</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Semua dipaparkan</item>
+        <item>Kenalan dengan nombor telefon</item>
+        <item>Dibintangi dalam Android</item>
+    </string-array>
+</resources>

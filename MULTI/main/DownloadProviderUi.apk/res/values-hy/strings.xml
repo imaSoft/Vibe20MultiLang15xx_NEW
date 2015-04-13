@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Չեղարկել</string>
+    <string name="ok">OK</string>
+    <string name="app_label">Ներբեռնումներ</string>
+    <string name="download_title_sorted_by_date">Ներբեռնումներ՝ ըստ ամսաթվի</string>
+    <string name="download_title_sorted_by_size">Ներբեռնումներ՝ ըստ չափի</string>
+    <string name="no_downloads">Ներբեռնումներ չկան:</string>
+    <string name="missing_title">&lt;Անհայտ></string>
+    <string name="button_sort_by_size">Տեսակավորել ըստ չափի</string>
+    <string name="button_sort_by_date">Տեսակավորել ըստ ամսաթվի</string>
+    <string name="download_queued">Հերթագրված</string>
+    <string name="download_running">Ընթացքում</string>
+    <string name="download_success">Ավարտված</string>
+    <string name="download_error">Ձախողում</string>
+    <string name="dialog_title_not_available">Անհնար էր ներբեռնել</string>
+    <string name="dialog_failed_body">Ցանկանո՞ւմ եք նորից փորձել նիշքի ներբեռնումը ավելի ուշ, թե ջնջել այն հերթագրումից:</string>
+    <string name="dialog_title_queued_body">Ֆայլը հերթի մեջ է</string>
+    <string name="dialog_queued_body">Այս ֆայլը հերթի մեջ է դրվել հետագայում ներբեռնելու համար և դեռ հասանելի չէ:</string>
+    <string name="dialog_file_missing_body">Անհնար է գտնել ներբեռնված ֆայլը:</string>
+    <string name="dialog_insufficient_space_on_external">Անհնար է ավարտել ներբեռնումը: Արտաքին հիշողության վրա բավականաչափ ազատ տարածք չկա:</string>
+    <string name="dialog_insufficient_space_on_cache">Հնարավոր չէ ավարտել ներբեռնումը: Ներբեռնման ներքին հիշասարքի վրա բավարար տարածք չկա:</string>
+    <string name="dialog_cannot_resume">Ներբեռնումը ընդհատվեց և չի կարող վերսկսվել:</string>
+    <string name="dialog_file_already_exists">Անհնար է ներբեռնել: Նշանակման ֆայլը արդեն գոյություն ունի:</string>
+    <string name="dialog_media_not_found">Անհնար է ներբեռնել: Արտաքին կրիչները հասանելի չեն:</string>
+    <string name="download_no_application_title">Անհնար է բացել ֆայլը</string>
+    <string name="remove_download">Հեռացնել</string>
+    <string name="delete_download">Ջնջել</string>
+    <string name="keep_queued_download">Պահպանել</string>
+    <string name="cancel_running_download">Չեղարկել</string>
+    <string name="retry_download">Նորից փորձել</string>
+    <string name="deselect_all">Ապաընտրել բոլորը</string>
+    <string name="select_all">Ընտրել բոլորը</string>
+    <string name="selected_count">Ընտրված է %1$d %2$d-ից</string>
+    <string name="download_share_dialog">Համօգտագործել հետևյալի միջոցով՝</string>
+</resources>

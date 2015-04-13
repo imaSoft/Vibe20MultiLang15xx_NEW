@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataUsageLcokScreenClient</string>
+    <string name="hello_world">สวัสดี!</string>
+    <string name="menu_settings">การตั้งค่า</string>
+    <string name="title_activity_main">กิจกรรมหลัก</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">కీ చెయిన్</string>
+    <string name="title_no_certs">ఏ ధ్రువపత్రాలు గుర్తించబడలేదు</string>
+    <string name="title_select_cert">ధ్రువపత్రాన్ని ఎంపిక చేయండి</string>
+    <string name="requesting_application">%s అనువర్తనం ఒక ధ్రువపత్రం కోసం విజ్ఞప్తి చేసింది. ధ్రువపత్రాన్ని ఎంపిక చేయడంతో, ఈ గుర్తింపును ఇప్పుడు మరియు భవిష్యత్‌లో సర్వర్‌లలో ఉపయోగించే సామర్థ్యం అనువర్తనానికి ఇవ్వబడుతుంది.</string>
+    <string name="requesting_server">విజ్ఞప్తి చేస్తున్న సర్వర్‌ను అనువర్తనం %sగా గుర్తించింది, కానీ మీరు అనువర్తనాన్ని విశ్వసిస్తున్నట్లయితేనే, ధ్రువపత్రానికి అనువర్తన అనుమతిని మంజూరు చేయాలి.</string>
+    <string name="install_new_cert_message">మీరు బాహ్య నిల్వలో %1$s లేదా %2$s విస్తరణతో ఉన్న PKCS#12 నుంచి ధ్రువపత్రాలను వ్యవస్థాపించవచ్చు.</string>
+    <string name="install_new_cert_button_label">వ్యవస్థాపించు</string>
+    <string name="allow_button">అనుమతించు</string>
+    <string name="deny_button">తిరస్కరించు</string>
+</resources>

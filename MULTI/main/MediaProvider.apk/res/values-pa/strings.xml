@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">ਮੀਡੀਆ</string>
+    <string name="app_label">ਮੀਡੀਆ ਸਟੋਰੇਜ</string>
+    <string name="artist_label">ਕਲਾਕਾਰ</string>
+    <string name="ringtone_default">ਡਿਫਾੱਲਟ ਰਿੰਗਟੋਨ</string>
+    <string name="notification_sound_default">ਡਿਫਾੱਲਟ ਸੂਚਨਾ ਧੁਨੀ</string>
+    <string name="root_images">ਚਿੱਤਰ</string>
+    <string name="root_videos">ਵੀਡਿਓਜ਼</string>
+    <string name="root_audio">ਆਡੀਓ</string>
+</resources>

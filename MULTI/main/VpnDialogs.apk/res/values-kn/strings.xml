@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">VPN ಸಂಪರ್ಕ ರಚಿಸಲು %s ಪ್ರಯತ್ನಗಳು.</string>
+    <string name="warning">ಮುಂದುವರಿಯುವ ಮೂಲಕ, ಎಲ್ಲ ನೆಟ್‌ವರ್ಕ್ ಟ್ರಾಫಿಕ್ ಅನ್ನು ಕದ್ದಾಲಿಸಲು ನೀವು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಅನುಮತಿ ನೀಡುತ್ತಿದ್ದೀರಿ. <b>ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ನೀವು ನಂಬುವವರೆಗೂ ಅನುಮತಿಸಬೇಡಿ.</b> ಇಲ್ಲವಾದರೆ, ನೀವು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ದುರುದ್ದೇಶಪೂರಿತ ಸಾಫ್ಟ್‌ವೇರ್‌ಗೆ ತುತ್ತಾಗುವಂತೆ ಮಾಡುವ ಅಪಾಯವಿದೆ.</string>
+    <string name="accept">ಈ ಅಪ್ಲಿಕೇಶನ್ ಮೇಲೆ ನನಗೆ ವಿಶ್ವಾಸವಿದೆ.</string>
+    <string name="legacy_title">VPN ಸಂಪರ್ಕವಾಗಿದೆ</string>
+    <string name="configure">ವಿನ್ಯಾಸಗೊಳಿಸಿ</string>
+    <string name="disconnect">ಸಂಪರ್ಕ ತೆಗೆಯಿರಿ</string>
+    <string name="session">ಅವಧಿ:</string>
+    <string name="duration">ಅವಧಿ:</string>
+    <string name="data_transmitted">ಕಳುಹಿಸಿದವು:</string>
+    <string name="data_received">ಸ್ವೀಕೃತ:</string>
+    <string name="data_value_format">%1$s bytes / %2$s ಪ್ಯಾಕೆಟ್‌ಗಳು</string>
+</resources>

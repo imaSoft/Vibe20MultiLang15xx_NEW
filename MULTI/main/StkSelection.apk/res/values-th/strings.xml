@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ชุดเครื่องมือ USIM</string>
+    <string name="activity_not_found">USIM การ์ดไม่พร้อม หรือไม่สนับสนุนคุณสมบัตินี้</string>
+    <string name="simlock_toolkit">ชุดเครื่องมือ USIM</string>
+    <string name="no_sim_card_inserted">โปรดใส่ USIM เพื่อเปิดชุดเครื่องมือ USIM</string>
+    <string name="airplane_mode_on">ไม่สามารถเปิดชุดเครื่องมือ USIM เนื่องจากโหมดการบินเปิดอยู่</string>
+    <string name="lable_sim_not_ready">USIM Toolkit ไม่พร้อมใช้งาน หรือไม่รองรับ</string>
+</resources>

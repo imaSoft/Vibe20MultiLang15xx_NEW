@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Selector de fons de pantalla animat</string>
+    <string name="live_wallpaper_picker_title">Selecció del fons de pantalla animat</string>
+    <string name="live_wallpaper_picker_label">Fons de pantalla animats</string>
+    <string name="live_wallpaper_preview_title">Previsualització del fons de pantalla actiu</string>
+    <string name="configure_wallpaper">Paràmetres</string>
+    <string name="wallpaper_instructions">Defineix fons de pantalla</string>
+    <string name="live_wallpaper_empty">No hi ha fons de pantalla actius.</string>
+    <string name="set_live_wallpaper">Defineix fons de pantalla</string>
+    <string name="wallpaper_title_and_author">%1$s de %2$s</string>
+    <string name="live_wallpaper_loading">"S'està carregant un fons de pantalla actiu..."</string>
+    <string name="wallpaper_cancel">Cancel·la</string>
+</resources>

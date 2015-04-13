@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bugreport_confirm">"Bug reports contain data from the system's various log files, including personal and private information. Only share bug reports with apps and people you trust."</string>
+</resources>

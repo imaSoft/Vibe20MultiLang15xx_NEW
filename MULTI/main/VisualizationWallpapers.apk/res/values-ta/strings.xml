@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis3">ஸ்பெக்ட்ரம்</string>
+    <string name="wallpapers">இசை காட்சியாக்க வால்பேப்பர்கள்</string>
+    <string name="vis2_desc">தற்போது இயங்குகின்ற ஏதேனும் இசை ட்ராக்கின் ஒலி அலையை வரையும்.</string>
+    <string name="vis3_desc">தற்போது இயங்குகின்ற ஏதேனும் இசை ட்ராக்கின் அலைவரிசை ஸ்பெக்ட்ரத்தைக் காண்பிக்கும்.</string>
+    <string name="vis4_desc">அனலாக் ஒலி மீட்டரைப் போல மாற்றுருக் கொள்ளும்.</string>
+    <string name="vis5_desc">அனைத்து இசை காட்சியாக்கங்களும் ஒன்றாக, 3D இல் மெதுவாக சுழல்கின்றன.</string>
+</resources>

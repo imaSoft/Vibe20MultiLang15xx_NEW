@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nadogradnja sustava</string>
+    <string name="exit">Izlaz</string>
+    <string name="update_failed">Žao nam je. Instalacija novog firmvera nije uspjela.</string>
+    <string name="btn_ok">U redu</string>
+    <string name="btn_cancel">Odustani</string>
+    <string name="notification_content_title">Nadogradnja programske opreme</string>
+    <string name="notification_content_text_completed">Preuzimanje uspješno</string>
+    <string name="error_not_specify_network_title">Preuzmite putem WLAN mreže</string>
+    <string name="error_not_specify_network_content">Strogo preporučujemo preuzimanje putem WLAN mreže, preuzimanje putem mobilne mreže može uzrokovati značajne troškove</string>
+    <string name="btn_setting_network">Odmah postavi</string>
+    <string name="btn_keep_download">Nastavi na preuzimanje</string>
+    <string name="retry">Ponovno pokušaj</string>
+    <string name="redo_backup">Ponovno sigurnosno kopiraj</string>
+    <string name="contact">Kontakti</string>
+    <string name="sms">Poruka</string>
+    <string name="calllog">Zapisnik poziva</string>
+    <string name="btn_backup">Sigurnosno kopiraj</string>
+    <string name="has_not_backup">Nije sigurnosno kopirano</string>
+    <string name="countSms">poruka</string>
+    <string name="countContact">kontakata</string>
+    <string name="countCalllog">zapisnika poziva</string>
+    <string name="nodata">Nema podataka</string>
+    <string name="backup_data_ing">Sigurnosno kopiranje kontakata i dr...</string>
+    <string name="backup_data_finish">Podaci su uspješno sigurnosno kopirani!</string>
+    <string name="data_usage_warning_title">Upozorenje</string>
+    <string name="data_usage_warning">Dragi korisnici, ova aplikacija mora pristupiti internetu, želite li nastaviti?</string>
+    <string name="data_usage_confirm">Ne pitaj me sljedeći put</string>
+    <string name="ndf_install_finish_p">Odmah</string>
+    <string name="ndf_install_finish_n">Kasnije</string>
+    <string name="ndf_lowpower_title">Slaba baterija</string>
+    <string name="toast_install_fail">Instalacija nije uspjela. Navedeni put %s ne postoji.</string>
+    <string name="network_error">Spajanje s mrežom neuspješno</string>
+    <string name="notification_new_rom_come">Sustav se može ažurirati na najnoviju verziju</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Sustav nakon %d s mora instalirani novu verziju!</string>
+    <string name="backup_data">Izradi sigurnosnu kopiju podataka</string>
+    <string name="restore_data">Vraćanje podataka</string>
+    <string name="battery_tip">Baterija slaba, priključite punjač da biste nastavili s nadogradnjom</string>
+</resources>

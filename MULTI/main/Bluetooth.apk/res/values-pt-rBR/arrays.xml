@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Uma página por lado</item>
+        <item>Duas páginas por lado</item>
+        <item>Quatro páginas por lado</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Retrato</item>
+        <item>Paisagem</item>
+        <item>Paisagem Invertida</item>
+        <item>Retrato Invertido</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>retrato</item>
+        <item>paisagem</item>
+        <item>paisagem-invertida</item>
+        <item>retrato-invertido</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Um lado</item>
+        <item>Dois lados Margem grande</item>
+        <item>Dois lados Margem pequena</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>um-lado</item>
+        <item>dois-lados-margem-pequena</item>
+        <item>dois-lados-margem-pequena</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Compartilhar contatos agrupados</item>
+        <item>Obter contato</item>
+        <item>Trocar contatos</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Todos os exibidos</item>
+        <item>Contatos com números de telefone</item>
+        <item>Com estrela no Android</item>
+    </string-array>
+</resources>

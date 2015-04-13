@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kit alat USIM</string>
+    <string name="activity_not_found">Kad USIM tidak bersedia atau tidak menyokong ciri ini.</string>
+    <string name="simlock_toolkit">Kit USIM</string>
+    <string name="no_sim_card_inserted">Sila masukkan USIM untuk melancarkan Kit alat USIM.</string>
+    <string name="airplane_mode_on">Tidak dapat melancarkan Kit alat USIM kerana mod pesawat dihidupkan.</string>
+    <string name="lable_sim_not_ready">Kit alat USIM belum sedia atau tidak disokong</string>
+</resources>

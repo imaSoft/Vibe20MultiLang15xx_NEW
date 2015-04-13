@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="debug_tool_message">You are about to 1) make a copy of your calendar database to the SD card/USB storage which is readable by any app and 2) email it. Remember to delete it as soon as you have successfully copied it off the device or the email is received.</string>
+    <string name="debug_tool_email_sender_picker">Select a program to send your file</string>
+    <string name="debug_tool_email_body">Attached is my calendar database with all my appointments and personal information. Please handle with care.</string>
+</resources>

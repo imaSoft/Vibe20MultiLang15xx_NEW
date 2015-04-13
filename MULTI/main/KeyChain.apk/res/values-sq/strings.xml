@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vargu i çelësave</string>
+    <string name="title_no_certs">Nuk u gjetën certifikata</string>
+    <string name="title_select_cert">Përzgjidh certifikatën</string>
+    <string name="requesting_application">"Aplikacioni %s ka kërkuar certifikatë. Përzgjedhja e një certifikate do t'i japë aplikacionit aftësinë ta përdorë këtë identitet me serverët tani dhe në të ardhmen."</string>
+    <string name="requesting_server">"Aplikacioni ka identifikuar serverin kërkues si %s, por duhet t'i jepni aplikacionit mundësi qasjeje te certifikata vetëm nëse e besoni aplikacionin."</string>
+    <string name="install_new_cert_message">Mund të instaloni çertifikatat nga një skedar PKCS#12 me një aplikacion shtesë %1$s ose %2$s, të vendosur në arkivin e jashtëm.</string>
+    <string name="install_new_cert_button_label">Instalo</string>
+    <string name="allow_button">Lejo</string>
+    <string name="deny_button">Refuzo</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s VPN қосылымын орнатуға әрекет жасап жатыр.</string>
+    <string name="warning">Жалғастыру арқылы сіз бағдарламаға бүкіл желі трафигін ұстап алуға рұқсат бересіз. <b>Бағдарламаға сенетін болмасаңыз, ҚАБЫЛДАМАҢЫЗ.</b> Әйтпесе, деректерге зиянды бағдарлама қауіп тудыруы мүмкін.</string>
+    <string name="accept">Мен бұл бағдарламаға сенемін.</string>
+    <string name="legacy_title">VPN қосылған</string>
+    <string name="configure">Конфигурациялау</string>
+    <string name="disconnect">Ажырату</string>
+    <string name="session">Сеанс:</string>
+    <string name="duration">Ұзақтығы:</string>
+    <string name="data_transmitted">Жіберілді:</string>
+    <string name="data_received">Алынды:</string>
+    <string name="data_value_format">%1$s bytes / %2$s пакет</string>
+</resources>

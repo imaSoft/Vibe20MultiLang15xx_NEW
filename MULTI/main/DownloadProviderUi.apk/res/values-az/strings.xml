@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Ləğv et</string>
+    <string name="ok">Oldu</string>
+    <string name="app_label">Yükləmələr</string>
+    <string name="download_title_sorted_by_date">Yükləmələr - tarixə görə çeşidlənib</string>
+    <string name="download_title_sorted_by_size">Yükləmələr - ölçüyə görə çeşidlənib</string>
+    <string name="no_downloads">Yüklmə yoxdur</string>
+    <string name="missing_title">&lt;Naməlum></string>
+    <string name="button_sort_by_size">Ölçüyə görə nizamlayın</string>
+    <string name="button_sort_by_date">Tarixə görə nizamla</string>
+    <string name="download_queued">Növbələndi</string>
+    <string name="download_running">Davam edir</string>
+    <string name="download_success">tam</string>
+    <string name="download_error">Alınmadı</string>
+    <string name="dialog_title_not_available">Yükləmə mümkün olmadı.</string>
+    <string name="dialog_failed_body">Faylın yüklənməsinə yenidən başlansın yoxsa o, növbədən silinsin?</string>
+    <string name="dialog_title_queued_body">Fayl hələ mümkün deyil</string>
+    <string name="dialog_queued_body">Fayl gələcək yükləmələr üçün növbədədir.</string>
+    <string name="dialog_file_missing_body">Yüklənmiş fayl tapılmadı.</string>
+    <string name="dialog_insufficient_space_on_external">Yükləməni tamamlamaq mümkün deyil. SD kartda kifayət qədər yer yoxdur.</string>
+    <string name="dialog_insufficient_space_on_cache">Yükləməni tamamlamaq mümkün deyil. USB yaddaşı kifayət qədər deyil.</string>
+    <string name="dialog_cannot_resume">Yükləmə kəsilmişdir. Bərpa oluna bilməz.</string>
+    <string name="dialog_file_already_exists">Yükləmək mümkün deyil. Fayl artıq mövcuddur.</string>
+    <string name="dialog_media_not_found">Yükləmək mümkün deyil. SD kart mümkün deyil.</string>
+    <string name="download_no_application_title">Faylı açmaq mümkün deyil.</string>
+    <string name="remove_download">Sil</string>
+    <string name="delete_download">Sil</string>
+    <string name="keep_queued_download">Saxla</string>
+    <string name="cancel_running_download">Ləğv et</string>
+    <string name="retry_download">Yenidən cəhd et</string>
+    <string name="deselect_all">Hamısının seçmni ləğv et</string>
+    <string name="select_all">Hamısını seç</string>
+    <string name="selected_count">%1$d / %2$d seçilib.</string>
+    <string name="download_share_dialog">Paylaş</string>
+</resources>

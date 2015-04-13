@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Dokumentuak</string>
+    <string name="title_open">Ireki hemendik</string>
+    <string name="title_save">Gorde hemen</string>
+    <string name="menu_create_dir">Sortu karpeta</string>
+    <string name="menu_grid">Sareta ikuspegia</string>
+    <string name="menu_list">Zerrenda ikuspegia</string>
+    <string name="menu_sort">Ordenatzeko irizpidea</string>
+    <string name="menu_search">Bilatu</string>
+    <string name="menu_settings">Ezarpenak</string>
+    <string name="menu_open">Ireki</string>
+    <string name="menu_save">Gorde</string>
+    <string name="menu_share">Partekatu</string>
+    <string name="menu_delete">Ezabatu</string>
+    <string name="mode_selected_count">%1$d hautatu dira</string>
+    <string name="sort_name">Izenaren arabera</string>
+    <string name="sort_date">Aldaketa dataren arabera</string>
+    <string name="sort_size">Tamainaren arabera</string>
+    <string name="drawer_open">Erakutsi erroak</string>
+    <string name="drawer_close">Ezkutatu erroak</string>
+    <string name="save_error">Ezin izan da dokumentua gorde</string>
+    <string name="create_error">Ezin izan da karpeta sortu</string>
+    <string name="query_error">Ezin izan dira dokumentuak bilatu</string>
+    <string name="root_recent">Azkenak</string>
+    <string name="root_available_bytes">%1$s libre</string>
+    <string name="root_type_service">Biltegiratze zerbitzuak</string>
+    <string name="root_type_shortcut">Lasterbideak</string>
+    <string name="root_type_device">Gailuak</string>
+    <string name="root_type_apps">Aplikazio gehiago</string>
+    <string name="pref_advanced_devices">Bistaratu gailu aurreratuak</string>
+    <string name="pref_file_size">Bistaratu fitxategiaren tamaina</string>
+    <string name="pref_device_size">Bistaratu gailuaren tamaina</string>
+    <string name="empty">Ez dago elementurik</string>
+    <string name="toast_no_application">Ezin da fitxategia ireki</string>
+    <string name="toast_failed_delete">Ezin dira elementu batzuk ezabatu</string>
+    <string name="share_via">Partekatu honen bidez</string>
+</resources>

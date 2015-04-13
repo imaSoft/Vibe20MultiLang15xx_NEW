@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Full afritun</string>
+    <string name="restore_confirm_title">Full endurheimt</string>
+    <string name="backup_confirm_text">"Beðið hefur verið um afritun allra gagna á tengda borðtölvu. Viltu leyfa þetta?
+
+Hafir þú ekki beðið um afritunina skaltu ekki leyfa aðgerðinni að halda áfram."</string>
+    <string name="allow_backup_button_label">Taka öryggisafrit af gögnum</string>
+    <string name="deny_backup_button_label">Afrita ekki</string>
+    <string name="restore_confirm_text">"Beðið hefur verið um endurheimt allra gagna af tengdri borðtölvu. Viltu leyfa þetta?
+
+Hafir þú ekki beðið um endurheimtina skaltu ekki leyfa aðgerðinni að halda áfram. Þetta skiptir út öllum gögnum sem eru á tækinu."</string>
+    <string name="allow_restore_button_label">Endurheimta gögn</string>
+    <string name="deny_restore_button_label">Endurheimta ekki</string>
+    <string name="current_password_text">Sláðu inn núverandi lykilorð fyrir afritun að neðan:</string>
+    <string name="device_encryption_restore_text">Sláðu inn núverandi lykilorð fyrir dulkóðun tækis að neðan.</string>
+    <string name="device_encryption_backup_text">Sláðu inn núverandi lykilorð fyrir dulkóðun tækis að neðan. Það verður einnig notað til að dulkóða safn öryggisafrita.</string>
+    <string name="backup_enc_password_text">Færðu inn lykilorð til að nota við dulkóðun afrituðu gagnanna. Ef þetta er haft autt verður núgildandi lykilorð þitt fyrir afritun notað:</string>
+    <string name="backup_enc_password_optional">Ef þú vilt dulkóða afrituðu gögnin skaltu færa inn lykilorð hér að neðan:</string>
+    <string name="restore_enc_password_text">Ef gögn sem endurheimta á eru dulkóðuð skaltu slá inn lykilorðið fyrir neðan:</string>
+    <string name="toast_backup_started">Öryggisafritun hefst...</string>
+    <string name="toast_backup_ended">Öryggisafritun lokið</string>
+    <string name="toast_restore_started">Endurheimt að hefjast...</string>
+    <string name="toast_restore_ended">Endurheimtum lokið</string>
+    <string name="toast_timeout">Aðgerð er útrunnin</string>
+</resources>

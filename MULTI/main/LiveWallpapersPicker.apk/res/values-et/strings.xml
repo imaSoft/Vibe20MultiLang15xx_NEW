@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Dünaamilise taustpildi valija</string>
+    <string name="live_wallpaper_picker_title">Dünaamilise taustpildi valimine</string>
+    <string name="live_wallpaper_picker_label">Dünaamilised taustpildid</string>
+    <string name="live_wallpaper_preview_title">Dünaamilise taustpildi eelvaade</string>
+    <string name="configure_wallpaper">Seaded</string>
+    <string name="wallpaper_instructions">Määra taustpilt</string>
+    <string name="live_wallpaper_empty">Dünaamilisi taustpilte pole</string>
+    <string name="set_live_wallpaper">Määra taustpilt</string>
+    <string name="wallpaper_title_and_author">%1$s (looja %2$s)</string>
+    <string name="live_wallpaper_loading">Dünaamilise taustpildi laadimine</string>
+    <string name="wallpaper_cancel">Tühista</string>
+</resources>

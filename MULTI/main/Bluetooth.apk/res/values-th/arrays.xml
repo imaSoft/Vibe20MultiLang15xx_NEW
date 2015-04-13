@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>หนึ่งหน้าต่อด้าน</item>
+        <item>สองหน้าต่อด้าน</item>
+        <item>สี่หน้าต่อด้าน</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>แนวตั้ง</item>
+        <item>ทิวทัศน์</item>
+        <item>ทิวทัศน์แบบกลับด้าน</item>
+        <item>แนวตั้งแบบกลับด้าน</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>แนวตั้ง</item>
+        <item>ทิวทัศน์</item>
+        <item>ทิวทัศน์แบบกลับด้าน</item>
+        <item>แนวตั้งแบบกลับด้าน</item>
+    </string-array>
+    <string-array name="sides">
+        <item>หนึ่งด้าน</item>
+        <item>ขอบยาวสองด้าน</item>
+        <item>ขอบสั้นสองด้าน</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>หนึ่งด้าน</item>
+        <item>ขอบยาวสองด้าน</item>
+        <item>ขอบสั้นสองด้าน</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>แบ่งปันรายชื่อในกลุ่ม</item>
+        <item>รับรายชื่อ</item>
+        <item>แลกเปลี่ยนรายชื่อ</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>ที่แสดงอยู่ทั้งหมด</item>
+        <item>รายชื่อที่มีหมายเลขโทรศัพท์</item>
+        <item>ที่ติดดาวไว้ใน Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Liaison WLAN vers l'emplacement"</string>
+    <string name="setting_activity">"Liaison WLAN de l'emplacement"</string>
+    <string name="dialog_title">Activer WLAN ?</string>
+    <string name="dialog_text">Cet emplacement a une ap connectée, activer WLAN ?</string>
+    <string name="disable_dialog_title">Désactiver WLAN ?</string>
+    <string name="disable_dialog_text">"Cet emplacement est loin de l'emplacement de l'ap connectée, désactiver WLAN ?"</string>
+    <string name="show_dialog">Ne plus me rappeler</string>
+    <string name="disable_show_dialog">Ne plus me rappeler</string>
+    <string name="wifi_enable_text">"Entrer l'emplacement, afficher invite"</string>
+    <string name="wifi_enable_summary">"Lorsque vous entrez l'emplacement d'une ap connecté et que les données GPRS est activé, activer WLAN"</string>
+    <string name="wifi_disable_text">Emplacement éloigné, afficher invite</string>
+    <string name="wifi_disable_summary">"Lorsque l'emplacement éloigné de l'ap connectée, désactiver WLAN"</string>
+    <string name="wifi_setting_summary">"Lorsque vous entrez l'emplacement d'une ap connecté et que les données GPRS est activé, activer WLAN"</string>
+    <string name="wifi_popup_tip">"Afficher l'invite"</string>
+    <string name="wifi_auto_enable">Activer automatiquement</string>
+    <string name="wifi_auto_disable">Désactiver automatiquement</string>
+    <string name="wifi_popup_0">"La liaison de l'ap connectée. Lorsque vous entrez cet emplacement, afficher l'invite"</string>
+    <string name="wifi_popup_1">"La liaison de l'ap connectée. Lorsque vous entrez cet emplacement, activer automatiquement"</string>
+    <string name="wifi_popup_2">Ne plus me rappeler</string>
+    <string name="confirm_yes">Oui</string>
+    <string name="confirm_no">Non</string>
+    <string name="enable_wifi_hint">WLAN Recording se connecte au réseau local sans fil pour enregistrer votre flux de données</string>
+    <string name="disable_wifi_hint">"WLAN Recording désactive le réseau local sans fil pour économiser de l'énergie"</string>
+</resources>

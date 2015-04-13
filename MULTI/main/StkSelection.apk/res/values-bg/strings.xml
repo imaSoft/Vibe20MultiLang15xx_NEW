@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Набор с инструменти за USIM</string>
+    <string name="activity_not_found">USIM картата не е готова или не поддържа тази функция.</string>
+    <string name="simlock_toolkit">Набор с инструменти за USIM карта</string>
+    <string name="no_sim_card_inserted">Вкарайте USIM карта, за да стартирате набора с инструменти за USIM карти.</string>
+    <string name="airplane_mode_on">Наборът с инструменти за USIM карта не може да се стартира, тъй като е включен самолетният режим.</string>
+    <string name="lable_sim_not_ready">Наборът с инструменти за USIM карта не е готов или не се поддържа</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Visualizer</string>
+    <string name="wallpaper_vis2">Waveform</string>
+    <string name="wallpaper_vis3">Spectrum</string>
+    <string name="wallpaper_vis4">Sukatan ng VU</string>
+    <string name="wallpaper_vis5">Marami</string>
+    <string name="wallpapers">Mga Wallpaper ng Visualization ng Musika</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Hinihila ang wave ng tunog ng anumang kasalukuyang nagpe-play na track ng musika.</string>
+    <string name="vis3_desc">Ipinapakita ang spectrum ng frequency ng anumang kasalukuyang nagpe-play na track ng musika.</string>
+    <string name="vis4_desc">Ginagaya ang isang analog na tagasukat ng tunog.</string>
+    <string name="vis5_desc">Lahat ng mga visualization ng musika nang magkakasama, dahan-dahang umiikot sa 3D.</string>
+</resources>

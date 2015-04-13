@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Visualizer</string>
+    <string name="wallpaper_vis2">Waveform</string>
+    <string name="wallpaper_vis3">Spectrum</string>
+    <string name="wallpaper_vis4">VU meter</string>
+    <string name="wallpaper_vis5">Many</string>
+    <string name="wallpapers">Muusika visualiseerimise taustpildid</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Joonistatakse suvalise praegu esitatava muusikapala helilained.</string>
+    <string name="vis3_desc">Kuvatakse suvalise praegu esitatava muusikapala sagedusspekter.</string>
+    <string name="vis4_desc">Jäljendab analoogheli müramõõturit.</string>
+    <string name="vis5_desc">Kõik aeglaselt ruumilises vaates pöörlevad muusika visualiseeringud.</string>
+</resources>

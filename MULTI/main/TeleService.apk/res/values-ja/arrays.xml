@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>ネットワークの標準設定</item>
+        <item>番号を非表示</item>
+        <item>番号を表示</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>本語</item>
+        <item>韓国語</item>
+        <item>中国語</item>
+        <item>ヘブライ語</item>
+        <item>\#1ファイルリピート</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item></item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>\#ホームのみ</item>
+        <item>自動</item>
+        <item>\#ホームのみ</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>ホームのみ</item>
+        <item>自動A</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>ファイルリピート</item>
+        <item>\#TTY OFF</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>TYフル</item>
+        <item>TTY HCO</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TY VCO</item>
+        <item>\#標準</item>
+        <item>長い</item>
+        <item>\#0</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item></item>
+        <item>\#Roaming Auto Dial Help</item>
+    </string-array>
+</resources>

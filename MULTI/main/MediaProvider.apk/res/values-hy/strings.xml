@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Մեդիա</string>
+    <string name="app_label">Մեդիա հիշասարք</string>
+    <string name="upgrade_msg">Նորացնում է Մեդիա տվյալների շտեմարանը:</string>
+    <string name="artist_label">Կատարող</string>
+    <string name="ringtone_default">Կանխադրված զանգի ազդանշան</string>
+    <string name="notification_sound_default">Ծանուցման կանխադրված ձայն</string>
+    <string name="alarm_sound_default">Զարթուցիչի կանխադրված ազդանշան</string>
+    <string name="root_images">Պատկերներ</string>
+    <string name="root_videos">Տեսանյութեր</string>
+    <string name="root_audio">Ձայն</string>
+</resources>

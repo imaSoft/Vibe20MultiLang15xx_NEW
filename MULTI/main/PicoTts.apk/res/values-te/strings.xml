@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="installed">ఇన్‌స్టాల్ చేయబడింది</string>
+    <string name="not_installed">ఇన్‌స్టాల్ చేయబడలేదు</string>
+</resources>

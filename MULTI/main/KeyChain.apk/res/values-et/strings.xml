@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Võtmehoidja</string>
+    <string name="title_no_certs">Serte ei leitud</string>
+    <string name="title_select_cert">Serdi valimine</string>
+    <string name="requesting_application">Rakendus %s on taotlenud serti. Serdi valimine annab rakendusele loa kasutada seda identiteeti serverite jaoks praegu ja tulevikus.</string>
+    <string name="requesting_server">Rakendus on taotleva serverina tuvastanud %s, kuid rakendusele peaksite juurdepääsu serdile lubama ainult siis, kui usaldate rakendust.</string>
+    <string name="install_new_cert_message">Saate installida välises mälus asuva faili PKCS#12 laiendiga %1$s või %2$s serte.</string>
+    <string name="install_new_cert_button_label">Installi</string>
+    <string name="allow_button">Luba</string>
+    <string name="deny_button">Keeldu</string>
+</resources>

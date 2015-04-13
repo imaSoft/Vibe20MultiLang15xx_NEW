@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_sn_title">الرقم التسلسلي</string>
+    <string name="factory_wipe_data">مسح بيانات المستخدم عبر وضع المصنع</string>
+    <string name="factory_wipe_data_warning">بالضغط على زر موافق يتم مسح كل بيانات المستخدم، إلا أنه يحفظ التطبيقات المثبتة، ومن المستحسن ألا يستخدمه المستخدمون العاديون لتجنب فقد البيانات المحفوظة في الهاتف</string>
+    <string name="factory_wipe_data_cancel">إلغاء</string>
+    <string name="sdcard_not_found">تعذر مسح بيانات المصنع</string>
+    <string name="sdcard_not_found_tip">"يتطلب تشغيل هذه الخاصية دعم بطاقة SD،
+        تأكد من إدخال بطاقة SD المتوفرة"</string>
+    <string name="sdcard_out_of_space">عدم وجود مساحة كافية في بطاقة SD</string>
+    <string name="sdcard_out_of_space_tip">"متبقي فقط %1$sM من المساحة المتوفرة في بطاقة SD، ولكن هذه 
+الوظائف تتطلب بطاقة SD بمساحة متوفرة قدرها %2$sM "</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">غير صالح</string>
+</resources>

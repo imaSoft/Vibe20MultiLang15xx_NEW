@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Live Wallpaper Picker</string>
+    <string name="live_wallpaper_picker_title">Selecionar padrão de fundo dinâmico</string>
+    <string name="live_wallpaper_picker_label">Padrões de fundo dinâmicos</string>
+    <string name="live_wallpaper_preview_title">Pré-visualização do padrão de fundo ativo</string>
+    <string name="configure_wallpaper">Definições</string>
+    <string name="wallpaper_instructions">Definir padrão de fundo</string>
+    <string name="live_wallpaper_empty">Não há padrões de fundo animados.</string>
+    <string name="set_live_wallpaper">Definir padrão de fundo</string>
+    <string name="wallpaper_title_and_author">%1$s by %2$s</string>
+    <string name="live_wallpaper_loading">A carregar o padrão de fundo ativo…</string>
+    <string name="wallpaper_cancel">Cancelar</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Statikus háttérképek</string>
+    <string name="wallpaper_instructions">Beállítás háttérképként</string>
+    <string name="pick_wallpaper">Statikus háttérképek</string>
+</resources>

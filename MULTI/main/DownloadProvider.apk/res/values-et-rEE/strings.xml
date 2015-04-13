@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Download Manager</string>
+    <string name="permlab_downloadManager">Juurdepääs rakendusele Download Manager</string>
+    <string name="permdesc_downloadManager">Rakendusel on lubatud juurdepääs allalaadimishaldurile ja kasutada seda failide allalaadimiseks. Pahatahtlikud rakendused saavad selle abil allalaadimisi takistada ja privaatsete andmete juurde pääseda.</string>
+    <string name="permlab_downloadManagerAdvanced">Rakenduse Download Manager täpsemad funktsioonid.</string>
+    <string name="permdesc_downloadManagerAdvanced">Rakendusel on lubatud juurdepääs allalaadimishalduri täpsematele funktsioonidele. Pahatahtlikud rakendused võivad selle abil allalaadimisi takistada ja privaatsete andmete juurde pääseda.</string>
+    <string name="permlab_downloadCompletedIntent">Saata allalaadimisteatisi.</string>
+    <string name="permdesc_downloadCompletedIntent">Rakendusel on lubatud saata märguandeid lõpulejõudnud allalaadimiste kohta. Pahatahtlikud rakendused võivad selle abil häirida teisi rakendusi, mis faile alla laadivad.</string>
+    <string name="permlab_seeAllExternal">Kõigi SD-kaardile alla laaditud failide vaatamine</string>
+    <string name="permdesc_seeAllExternal">Rakendusel on lubatud näha kõiki SD-kaardile salvestatud allalaadimisi sõltumata rakendusest, mis need alla laadis.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reserveeri ruum allalaadimise vahemälus</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Rakendusel on lubatud laadida faile allalaadimise vahemällu, mida allalaadimishaldur ei saa ruumi vabastamiseks automaatselt kustutada.</string>
+    <string name="permlab_downloadWithoutNotification">laadida failid alla sellest teavitamata</string>
+    <string name="permdesc_downloadWithoutNotification">Rakendusel on lubatud allalaadimishalduri kaudu faile alla laadida kasutajale märguannet kuvamata.</string>
+    <string name="permlab_accessAllDownloads">Juurdepääs kõikidele süsteemis olevatele allaaditud failidele</string>
+    <string name="permdesc_accessAllDownloads">Rakendusel on lubatud vaadata ja muuta kõiki allalaadimisi, mille algatas süsteemis olev mis tahes rakendus.</string>
+    <string name="download_unknown_title">&lt;nimetu></string>
+    <string name="notification_download_complete">Allalaadimine on lõppenud.</string>
+    <string name="notification_download_failed">Allalaadimine nurjus.</string>
+    <string name="notification_need_wifi_for_size">Allalaad-ks on vaja WiF-it.</string>
+    <string name="notification_paused_in_background">Peatatud taustal.</string>
+    <string name="wifi_required_title">Allalaaditavad failid on operaatori võrgu jaoks liiga suured</string>
+    <string name="wifi_required_body" formatted="false">Selle %s faili allalaadimise lõpuleviimiseks tuleb kasutada WiFi-ühendust. Puudutage nupp %s , et faili allalaadimine algaks järgmine kord, kui seade on ühendatud WiFi-võrku.</string>
+    <string name="wifi_recommended_title">Panna hilis. allalaadim. järjekorda?</string>
+    <string name="wifi_recommended_body" formatted="false">"%s faili allalaadimine võib lühendada seadme aku tööaega ja/või põhjustada väga suurt mobiilandmeside kasutust, mille eest võib teie mobiilsideoperaator nõuda teilt andmesidetasu vastavalt teie andmesidepaketile.
+
+Puudutage nuppu %s, et faili allalaadimine algaks järgmine kord, kui seade on ühendatud WiFi-võrku."</string>
+    <string name="button_queue_for_wifi">Pane ootejärjekorda</string>
+    <string name="button_cancel_download">Tühista</string>
+    <string name="button_start_now">Alusta kohe</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Jäänud: %s</string>
+    <string name="download_no_application_title">Faili ei saa avada</string>
+    <string name="root_downloads">Allalaaditavad failid</string>
+    <string name="download_queued">Järjekorras</string>
+    <string name="download_running">Pooleli</string>
+    <string name="download_error">Allalaadimist ei viidud lõpule</string>
+    <string name="download_running_percent">Pooleli, %d%%</string>
+</resources>

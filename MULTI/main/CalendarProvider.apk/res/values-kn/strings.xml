@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">ಕ್ಯಾಲೆಂಡರ್ ಸಂಗ್ರಹಣೆ</string>
+    <string name="upgrade_msg">ಕ್ಯಾಲೆಂಡರ್ ಡೇಟಾಬೇಸ್ ಅನ್ನು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ.</string>
+    <string name="calendar_default_name">ಪೂರ್ವನಿಯೋಜಿತ</string>
+    <string name="calendar_info">ಕ್ಯಾಲೆಂಡರ್ ಮಾಹಿತಿ</string>
+    <string name="calendar_info_error">ದೋಷ</string>
+    <string name="calendar_info_no_calendars">ಕ್ಯಾಲೆಂಡರ್‌ಗಳು ಇಲ್ಲ</string>
+    <string name="calendar_info_events">ಈವೆಂಟ್‌ಗಳು: %1$d</string>
+    <string name="calendar_info_events_dirty">ಈವೆಂಟ್‌ಗಳು: %1$d, ಉಳಿಸದೆ ಇರುವವು: %2$d</string>
+    <string name="provider_label">ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="debug_tool_delete_button">ಈಗ ಅಳಿಸಿ</string>
+    <string name="debug_tool_start_button">ಆರಂಭಿಸಿ</string>
+    <string name="debug_tool_message">ನೀವು 1) ನೀವು ನಿಮ್ಮ ಕ್ಯಾಲೆಂಡರ್ ಡೇಟಾಬೇಸ್ ಅನ್ನು, SD ಕಾರ್ಡ್/USB ಸಂಗ್ರಹಣೆಗೆ ಯಾವುದೇ ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ಓದಬಹುದಾದ ಒಂದು ನಕಲನ್ನು ಮಾಡುವುದರಲ್ಲಿದ್ದೀರಿ, 2) ಅದನ್ನು ಇಮೇಲ್ ಮಾಡುವುದರಲ್ಲಿದ್ದೀರಿ. ನೀವು ಅದನ್ನು ಸಾಧನದಿಂದ ಯಶಸ್ವಿಯಾಗಿ ನಕಲು ಮಾಡಿಕೊಂಡ ಅಥವಾ ಇಮೇಲ್ ಸ್ವೀಕರಿಸಿದ ತಕ್ಷಣ ನಕಲನ್ನು ಅಳಿಸಲು ಮರೆಯಬೇಡಿ.</string>
+    <string name="debug_tool_email_sender_picker">ನಿಮ್ಮ ಫೈಲ್ ಕಳುಹಿಸಲು ಒಂದು ಪ್ರೋಗ್ರಾಂ ಆರಿಸಿ</string>
+    <string name="debug_tool_email_subject">ಕ್ಯಾಲೆಂಡರ್ Db ಜೋಡಿಸಿದೆ</string>
+    <string name="debug_tool_email_body">ನನ್ನ ಎಲ್ಲ ಭೇಟಿಗಳು ಮತ್ತು ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯೊಂದಿಗೆ ನನ್ನ ಕ್ಯಾಲೆಂಡರ್ ಡೇಟಾಬೇಸ್ ಅನ್ನು ಜೋಡಿಸಲಾಗಿದೆ. ಎಚ್ಚರಿಕೆಯಿಂದ ನಿರ್ವಹಿಸಿ.</string>
+</resources>

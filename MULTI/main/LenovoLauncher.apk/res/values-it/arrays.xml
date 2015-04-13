@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Predefinito</item>
+        <item>Ruota</item>
+        <item>BullDoze</item>
+        <item>Mulino a vento</item>
+        <item>Cubo</item>
+        <item>Sinusoide</item>
+        <item>Cilindro</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Nessuno</item>
+        <item>Mostra menu Launcher</item>
+        <item>Mostra applicazioni usate di recente</item>
+        <item>Mostra barra delle notifiche</item>
+    </string-array>
+</resources>

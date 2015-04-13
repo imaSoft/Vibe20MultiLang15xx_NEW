@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_cacrts">
+        <item quantity="other">%d CA-Zertifikate</item>
+        <item quantity="zero">%d CA-Zertifikate</item>
+        <item quantity="one">%d CA-Zertifikat</item>
+        <item quantity="two">%d CA-Zertifikate</item>
+        <item quantity="few">%d CA-Zertifikate</item>
+        <item quantity="many">%d CA-Zertifikate</item>
+    </plurals>
+</resources>

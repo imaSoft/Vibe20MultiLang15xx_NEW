@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Systeemupgrade</string>
+    <string name="exit">Afsluiten</string>
+    <string name="update_failed">Helaas. Het installeren van de nieuwe firmware is mislukt</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Annuleren</string>
+    <string name="notification_content_title">Firmware-upgrade</string>
+    <string name="notification_content_text_completed">Het downloaden is gelukt</string>
+    <string name="error_not_specify_network_title">Download via WLAN-netwerk</string>
+    <string name="error_not_specify_network_content">Het is ten zeerste aanbevolen om via een WLAN-netwerk te downloaden. Downloaden via een mobiel netwerk is erg belastend.</string>
+    <string name="btn_setting_network">Onmiddellijk instellen</string>
+    <string name="btn_keep_download">Verdergaan met downloaden</string>
+    <string name="retry">Opnieuw proberen</string>
+    <string name="redo_backup">Opnieuw een back-up maken</string>
+    <string name="contact">Contactpersonen</string>
+    <string name="sms">Bericht</string>
+    <string name="calllog">Oproepenlogboek</string>
+    <string name="btn_backup">Back-up</string>
+    <string name="has_not_backup">Geen back-up gemaakt</string>
+    <string name="countSms">bericht(en)</string>
+    <string name="countContact">contactperso(o)n(en)</string>
+    <string name="countCalllog">Oproepenlogboek(en)</string>
+    <string name="nodata">Geen gegevens</string>
+    <string name="backup_data_ing">Een back-up van de contactpersonen maken...</string>
+    <string name="backup_data_finish">Gegevensback-up is gelukt!</string>
+    <string name="data_usage_warning_title">Waarschuwing</string>
+    <string name="data_usage_warning">Beste gebruikers, deze applicatie heeft toegang tot internet nodig. Wilt u doorgaan?</string>
+    <string name="data_usage_confirm">Volgende keer niet meer vragen</string>
+    <string name="ndf_install_finish_p">Meteen</string>
+    <string name="ndf_install_finish_n">Later</string>
+    <string name="ndf_lowpower_title">Batterij bijna leeg</string>
+    <string name="toast_install_fail">Installatie mislukt. Het opgegeven pad %s bestaat niet.</string>
+    <string name="network_error">Verbinding met netwerk mislukt</string>
+    <string name="notification_new_rom_come">Het systeem kan worden bijgewerkt naar de nieuwste versie</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Over %d seconden moet het systeem de nieuwe versie installeren!</string>
+    <string name="backup_data">Back-upgegevens</string>
+    <string name="restore_data">Gegevens terugzetten</string>
+    <string name="battery_tip">Batterij bijna leeg, sluit lader aan om door te gaan met bijwerken</string>
+</resources>

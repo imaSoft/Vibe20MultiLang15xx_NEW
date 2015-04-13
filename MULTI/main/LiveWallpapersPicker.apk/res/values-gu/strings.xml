@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">જીવંત વૉલપેપર પિકર</string>
+    <string name="live_wallpaper_picker_title">જીવંત વૉલપેપર્સ</string>
+    <string name="live_wallpaper_preview_title">જીવંત વૉલપેપર પૂર્વદર્શન</string>
+    <string name="configure_wallpaper">સેટિંગ્સ</string>
+    <string name="wallpaper_instructions">વૉલપેપર ગોઠવો</string>
+    <string name="live_wallpaper_empty">કોઈ જીવંત વૉલપેપર નથી</string>
+    <string name="live_wallpaper_loading">જીવંત વૉલપેપર્સ લોડ કરે છે…</string>
+</resources>

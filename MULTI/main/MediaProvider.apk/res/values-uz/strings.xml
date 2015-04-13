@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Media</string>
+    <string name="app_label">Media ombori</string>
+    <string name="artist_label">Ijrochi</string>
+    <string name="ringtone_default">"Birlamchi o'rnatilgan rington"</string>
+    <string name="notification_sound_default">Bildir. birlamchi ohangi</string>
+    <string name="root_images">Tasvirlar</string>
+    <string name="root_videos">Videolar</string>
+    <string name="root_audio">Audio</string>
+</resources>

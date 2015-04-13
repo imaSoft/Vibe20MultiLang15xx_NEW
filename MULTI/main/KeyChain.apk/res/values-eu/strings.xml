@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Key Chain</string>
+    <string name="title_no_certs">Ez da ziurtagiririk aurkitu</string>
+    <string name="title_select_cert">Hautatu ziurtagiria</string>
+    <string name="requesting_application">%s aplikazioak ziurtagiri bat eskatu du. Ziurtagiri bat hautatuz gero, aplikazioak identitate hori erabili ahal izango du zerbitzariekin orain eta etorkizunean.</string>
+    <string name="requesting_server">Aplikazioak eskaera egiten duen zerbitzaria %s gisa identifikatu du, baina ziurtagirirako sarbidea aplikazioa fidagarria bada soilik eman behar zenioke.</string>
+    <string name="install_new_cert_message">PKCS#12 fitxategiko ziurtagiriak instala ditzakezu kanpo memorian kokatutako %1$s edo %2$s luzapen batekin.</string>
+    <string name="install_new_cert_button_label">Instalatu</string>
+    <string name="allow_button">Baimendu</string>
+    <string name="deny_button">Ukatu</string>
+</resources>

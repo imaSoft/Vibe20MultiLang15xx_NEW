@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aktualizácia systému</string>
+    <string name="exit">Ukončiť</string>
+    <string name="update_failed">Ľutujeme. Nový firmvér sa nepodarilo nainštalovať.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Zrušiť</string>
+    <string name="notification_content_title">Aktualizácia firmvéru</string>
+    <string name="notification_content_text_completed">Preberanie úspešné</string>
+    <string name="error_not_specify_network_title">Prevezmite prostredníctvom siete WLAN</string>
+    <string name="error_not_specify_network_content">Dôrazne odporúčame prevziať cez sieť WLAN, preberanie cez mobilnú sieť môže mať za následok veľké poplatky</string>
+    <string name="btn_setting_network">Nastaviť hneď</string>
+    <string name="btn_keep_download">Pokračovať v preberaní</string>
+    <string name="retry">Znova</string>
+    <string name="redo_backup">Znova zálohovať</string>
+    <string name="contact">Kontakty</string>
+    <string name="sms">Správa</string>
+    <string name="calllog">Denník hovorov</string>
+    <string name="btn_backup">Zálohovať</string>
+    <string name="has_not_backup">Nezálohované</string>
+    <string name="countSms">správ(-a/-y)</string>
+    <string name="countContact">kontakt(-y/-ov)</string>
+    <string name="countCalllog">denník(-y/-ov) hovorov</string>
+    <string name="nodata">Žiadne údaje</string>
+    <string name="backup_data_ing">Zálohujú sa kontakty atď...</string>
+    <string name="backup_data_finish">Zálohovanie údajov bolo úspešné.</string>
+    <string name="data_usage_warning_title">Varovanie</string>
+    <string name="data_usage_warning">Vážený používateľ, táto aplikácia potrebuje prístup na internet. Chcete pokračovať?</string>
+    <string name="data_usage_confirm">Nabudúce nezobrazovať výzvu</string>
+    <string name="ndf_install_finish_p">Okamžite</string>
+    <string name="ndf_install_finish_n">Neskôr</string>
+    <string name="ndf_lowpower_title">Slabá batéria</string>
+    <string name="toast_install_fail">Nepodarilo sa nainštalovať, uvedená cesta (%s) neexistuje.</string>
+    <string name="network_error">Pripojenie k sieti zlyhalo</string>
+    <string name="notification_new_rom_come">Systém možno aktualizovať na najnovšiu verziu</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Po %d sekundách musí systém nainštalovať novú verziu!</string>
+    <string name="backup_data">Zálohovať dáta</string>
+    <string name="restore_data">Obnova dát</string>
+    <string name="battery_tip">Batéria je takmer vybitá, pred pokračovaním pripojte nabíjačku</string>
+</resources>

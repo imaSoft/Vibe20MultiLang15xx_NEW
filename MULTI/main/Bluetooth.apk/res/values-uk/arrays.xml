@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Одна сторінка на сторону</item>
+        <item>Дві сторінки на сторону</item>
+        <item>Чотири сторінки на сторону</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Портретна</item>
+        <item>Альбомна</item>
+        <item>Перевернути альбомну орієнтацію</item>
+        <item>Перевернути портретну орієнтацію</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>портретна</item>
+        <item>альбомна</item>
+        <item>перевернути альбомну орієнтацію</item>
+        <item>перевернути портретну орієнтацію</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Односторонній</item>
+        <item>Двосторонній за довгим краєм</item>
+        <item>Двосторонній за коротким краєм</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>односторонній</item>
+        <item>двосторонній за довгим краєм</item>
+        <item>двосторонній за коротким краєм</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Показати контакти у групі</item>
+        <item>Отримати контакт</item>
+        <item>Обмінятися контактами</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Відображено всі</item>
+        <item>Контакти з номерами телефону</item>
+        <item>Позначені зіркою в Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>یک صفحه در هر سمت</item>
+        <item>دو صفحه در هر سمت</item>
+        <item>چهار صفحه در هر سمت</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>افقی</item>
+        <item>عمودی</item>
+        <item>عمودی معکوس</item>
+        <item>افقی معکوس</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>افقی</item>
+        <item>عمودی</item>
+        <item>عمودی-معکوس</item>
+        <item>افقی-معکوس</item>
+    </string-array>
+    <string-array name="sides">
+        <item>یک طرفه</item>
+        <item>دو طرفه با حاشیه طولانی</item>
+        <item>دو طرفه با حاشیه کوتاه</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>یک-طرفه</item>
+        <item>دو-طرفه-حاشیه-طولانی</item>
+        <item>دو-طرفه-حاشیه-کوتاه</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>اشتراگ گذاری مخاطبین به صورت گروهی</item>
+        <item>دریافت مخاطب</item>
+        <item>تبادل مخاطبین</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>همه موارد نمایش داده شده</item>
+        <item>مخاطبین دارای شماره تلفن</item>
+        <item>ستاره دار در Android</item>
+    </string-array>
+</resources>

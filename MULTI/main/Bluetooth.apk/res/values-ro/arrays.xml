@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>O pagină pe faţă</item>
+        <item>Două pagini pe faţă</item>
+        <item>Patru pagini pe faţă</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Tip portret</item>
+        <item>Tip vedere</item>
+        <item>Tip vedere inversat</item>
+        <item>Tip portret inversat</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>portret</item>
+        <item>vedere</item>
+        <item>tip vedere inversat</item>
+        <item>tip portret inversat</item>
+    </string-array>
+    <string-array name="sides">
+        <item>"O singură "</item>
+        <item>Ambele feţe, latura lungă</item>
+        <item>Ambele feţe, latura scurtă</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>o singură faţă</item>
+        <item>ambele feţe, latura lungă</item>
+        <item>ambele feţe, latura scurtă</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Partajaţi contacte în grup</item>
+        <item>Obţinere contact</item>
+        <item>Faceţi schimb de contacte</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Toate afişate</item>
+        <item>Contacte cu numere de telefon</item>
+        <item>Cu stea în Android</item>
+    </string-array>
+</resources>

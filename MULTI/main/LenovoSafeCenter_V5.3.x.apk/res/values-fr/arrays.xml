@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Le nom de ma mère ?</item>
+        <item>Mon fruit préféré ?</item>
+        <item>Le nom de mon père ?</item>
+        <item>Ma chanson préférée ?</item>
+        <item>Mon animal de compagnie ?</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>"Importer de l'historique des appels"</item>
+        <item>"Importer de l'historique des SMS"</item>
+        <item>Importer des Contacts</item>
+        <item>Ajouter manuellement</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Bloquer uniquement la Liste noire</item>
+        <item>"N'autoriser que les Contacts"</item>
+        <item>"N'autoriser que la Liste blanche"</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Ligne occupée</item>
+        <item>Téléphone éteint</item>
+        <item>Téléphone débranché</item>
+        <item>Numéro invalide</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Uniquement les contacts</item>
+        <item>Uniquement la Liste blanche</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>"Importer de l'historique des appels"</item>
+        <item>"Importer de l'historique des SMS"</item>
+        <item>Importer des Contacts</item>
+        <item>Ajouter manuellement</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Répondre</item>
+        <item>Rejeter</item>
+        <item>"Rejeter l'appel avec un SMS"</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>"Importer de l'historique des appels"</item>
+        <item>"Importer de l'historique des SMS"</item>
+        <item>Importer des Contacts</item>
+        <item>Ajouter manuellement</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Aucune alerte</item>
+        <item>Alerte de la barre de notification</item>
+        <item>Alerte barre notification + tonalité</item>
+        <item>Alerte de la barre de notification + vibreur</item>
+    </string-array>
+</resources>

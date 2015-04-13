@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">Controllo vocale per videocamera</string>
+    <string name="voice_ui_phone_command_title">Controllo vocale per telefono</string>
+    <string name="voice_ui_alarm_command_title">Contorllo vocale per allarme</string>
+    <string name="voice_ui_title">Controllo vocale</string>
+    <string name="voice_ui_app_category">le applicazioni</string>
+    <string name="voice_ui_setting_category">Impostazioni</string>
+    <string name="voice_ui_language_title">Lingua per il controllo vocale</string>
+    <string name="incoming_call_app_name">Chiamata in arrivo</string>
+    <string name="alarm_app_name">Allarmi</string>
+    <string name="camera_app_name">Fotocamera</string>
+    <string name="music_app_name">Musica</string>
+    <string name="incomming_command_summary_format">Si può dire %1$s o %2$s per rispondere o rifiutare le chiamate in arrivo.</string>
+    <string name="alarm_command_summary_format">"Si può dire %1$s o %2$s per posporre o interrompere l'allarme."</string>
+    <string name="camera_command_summary_format">Si può dire %1$s o %2$s per acquisire.</string>
+    <string name="music_command_summary_format">Si può dire %1$s e %2$s per controllare la riproduzione di musica.</string>
+    <string name="playback_failed">Spiacenti, impossibile aprire il file.</string>
+    <string name="voice_ui_commands">comandi</string>
+</resources>

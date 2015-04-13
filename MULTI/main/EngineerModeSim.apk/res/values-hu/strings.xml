@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">EM SIM ME hálózati zárolása</string>
+    <string name="simmelock_name">SIM ME hálózati zárolása</string>
+    <string name="strInputPassword">Írja be a jelszót:</string>
+    <string name="strConfirm">Befejezés</string>
+    <string name="strCancel">Mégse</string>
+    <string name="strInputChancesleft">Kivezetés balra</string>
+    <string name="strMCCMNC">MCC+MNC :</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR :</string>
+    <string name="strGID1">GID1 :</string>
+    <string name="strGID2">GID2 :</string>
+    <string name="strInputPasswordAgain">Írja be a jelszót újra:</string>
+    <string name="strIMSI">IMSI :</string>
+    <string name="strAttention">Figyelem</string>
+    <string name="strConfirmRemove">Tényleg eltávolítja?</string>
+    <string name="srtConfirmPermanUnlock">Tényleg feloldja tartósan?</string>
+    <string name="strYes">Igen</string>
+    <string name="strLockFail">Sikertelen zárolás!</string>
+    <string name="strLockSucceed">Sikeres zárolás!</string>
+    <string name="strUnlockFail">Sikertelen feloldás!</string>
+    <string name="strUnlockSucceed">Sikeres feloldás!</string>
+    <string name="strUserInput">Felhasználói bevitel</string>
+    <string name="strInputMode">Felhasználói bevitel?</string>
+    <string name="strLockNameNetwork">Hálózati testreszabás</string>
+    <string name="strLockNameNetworkSub">Hálózati alrendszeri testreszabás</string>
+    <string name="strLockNameService">Szolgáltatói testreszabás</string>
+    <string name="strLockNameCorporate">Vállalati testreszabás</string>
+    <string name="strLockNameSIM">SIM testreszabása</string>
+    <string name="strActionNameLock">Zárolás</string>
+    <string name="strActionNameUnlock">Feloldás</string>
+    <string name="strActionNameAddLock">Hozzáadás</string>
+    <string name="strActionNameRemoveLock">Eltávolítás</string>
+    <string name="strActionNamePermanentUnlock">Tartós feloldás</string>
+    <string name="strPasswordLengthIncorrect">4-8 számot!</string>
+    <string name="strQueryFailed">Sikertelen lekérdezés!</string>
+    <string name="strAddLockFail">A hozzáadás nem sikerült!</string>
+    <string name="strAddLockSucceed">A hozzáadás sikerült!</string>
+    <string name="strMCCMNCLengthIncorrect">Érvénytelen MCC+MNC!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">Érvénytelen MCC+MNC+HLR!</string>
+    <string name="strIMSILengthIncorrect">Érvénytelen IMSI!</string>
+    <string name="strGID1WRONG">Érvénytelen GID1!</string>
+    <string name="strGID2WRONG">Érvénytelen GID2!</string>
+    <string name="str_simme_passwords_dont_match">Nem egyezik a jelszó</string>
+</resources>

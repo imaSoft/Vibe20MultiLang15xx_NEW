@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Πρόγραμμα εκκαθάρισης κάρτας SD</string>
+    <string name="loading_please_wait">Γίνεται φόρτωση, περιμένετε...</string>
+    <string name="white_list_not_found">Απέτυχε η εκκαθάριση της κάρτας SD. Η λίστα δεν βρέθηκε</string>
+    <string name="sdcard_not_available">Απέτυχε η εκκαθάριση της κάρτας SD. Η κάρτα SD είναι απενεργοποιημένη</string>
+    <string name="clearSDcardFailed">Απέτυχε η εκκαθάριση της κάρτας SD</string>
+    <string name="deleteFileFailed">Σφάλμα διαγραφής αρχείου</string>
+    <string name="fileNotFoud">Εξαίρεση: το αρχείο δεν βρέθηκε</string>
+    <string name="clear_start">Έναρξη εκκαθάρισης της κάρτας SD</string>
+    <string name="clear_success">Η εκκαθάριση της κάρτας SD ήταν επιτυχής. Επανεκκίνηση συσκευής</string>
+    <string name="clearing">Γίνεται εκκαθάριση της κάρτας SD</string>
+    <string name="checking">Έλεγχος...</string>
+    <string name="check_file">Έλεγχος πόρου</string>
+    <string name="check_sucess">Επιτυχής έλεγχος</string>
+    <string name="check_fail">Αποτυχ. έλεγχ., τέλος;</string>
+</resources>

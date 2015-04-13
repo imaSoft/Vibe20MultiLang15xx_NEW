@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Deskarga kudeatzailea</string>
+    <string name="permlab_downloadManager">Atzitu deskargen kudeatzailea</string>
+    <string name="permdesc_downloadManager">Aplikazioari deskarga kudeatzailea atzitzea eta hura fitxategiak deskargatzeko erabiltzea baimentzen dio. Aplikazio gaiztoek baimen hau erabil dezakete deskargak eteteko eta informazio pribatua atzitzeko.</string>
+    <string name="permlab_downloadManagerAdvanced">Deskarga-kudeatzailearen funtzio aurreratuak.</string>
+    <string name="permdesc_downloadManagerAdvanced">Aplikazioari deskarga kudeatzailearen funtzio aurreratuak atzitzea baimentzen dio. Aplikazio gaiztoek erabil dezakete deskargak eteteko eta informazio pribatua atzitzeko.</string>
+    <string name="permlab_downloadCompletedIntent">Bidali deskargen jakinarazpenak</string>
+    <string name="permdesc_downloadCompletedIntent">Aplikazioari osatutako deskargei buruzko jakinarazpenak bidaltzea baimentzen dio. Aplikazio gaiztoek baimen hau erabil dezakete fitxategiak deskargatzen dituzten beste aplikazioak nahasteko.</string>
+    <string name="permlab_seeAllExternal">Ikusi SD txarteleko deskarga guztiak</string>
+    <string name="permdesc_seeAllExternal">Aplikazioari SD txartelera egindako deskarga guztiak ikustea baimentzen dio, deskargak edozein aplikaziok egin dituela ere.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Erreserbatu lekua deskargen cachean</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Aplikazioari deskarga kudeatzaileak leku gehiago behar duenean automatikoki ezabatu ezin diren fitxategiak deskargen cachera deskargatzea baimentzen dio.</string>
+    <string name="permlab_downloadWithoutNotification">deskargatu fitxategiak jakinarazi gabe</string>
+    <string name="permdesc_downloadWithoutNotification">Aplikazioari erabiltzaileari jakinarazpenik erakutsi gabe deskarga kudeatzailetik fitxategiak deskargatzea baimentzen dio.</string>
+    <string name="permlab_accessAllDownloads">Atzitu sistemaren deskarga guztiak</string>
+    <string name="permdesc_accessAllDownloads">Aplikazioak sisteman hasieratutako deskarga guztiak ikustea eta aldatzea baimentzen dio aplikazioari.</string>
+    <string name="download_unknown_title">&lt;Izenik gabe></string>
+    <string name="notification_download_complete">Deskarga osatu da.</string>
+    <string name="notification_download_failed">Deskargak huts egin du.</string>
+    <string name="notification_need_wifi_for_size">Deskargaren tamainagatik Wi-Fi behar da.</string>
+    <string name="notification_paused_in_background">Atzeko planoan etena.</string>
+    <string name="wifi_required_title">Deskarga handiegia da operadorearen sarerako</string>
+    <string name="wifi_required_body" formatted="false">Wi-Fi konexioa erabili behar duzu %s -ko deskarga hau osatzeko. Wi-Fi sare batera konektatzen zaren hurrengoan deskargatzen hasteko, ukitu %s .</string>
+    <string name="wifi_recommended_title">Ilaran utzi geroago deskargatzeko?</string>
+    <string name="wifi_recommended_body" formatted="false">%s -ko deskarga hau hasten baduzu bateriaren iraupena murritz daiteke, datu erabileraren muga gaindi dezakezu, eta horrek operadorearen kostu gehigarriak eragin ditzake, zure datu planaren arabera. Wi-Fi sare batera konektatzen zaren hurrengoan deskargatzen hasteko, ukitu %s</string>
+    <string name="button_queue_for_wifi">Ilara</string>
+    <string name="button_cancel_download">Utzi</string>
+    <string name="button_start_now">Hasi</string>
+    <string name="download_percent">%% %d</string>
+    <string name="download_remaining">%s gelditzen dira</string>
+    <string name="download_no_application_title">Ezin da fitxategia ireki</string>
+    <string name="root_downloads">Deskargak</string>
+    <string name="download_queued">Ilaran</string>
+    <string name="download_running">Abian</string>
+    <string name="download_error">Ez da deskarga osatu</string>
+    <string name="download_running_percent">Abian: %% %d</string>
+</resources>

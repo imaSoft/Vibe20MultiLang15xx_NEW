@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Sąveikiojo fono parinkiklis</string>
+    <string name="live_wallpaper_picker_title">Pasirinkite sąveikųjį foną</string>
+    <string name="live_wallpaper_picker_label">Sąveikieji fonai</string>
+    <string name="live_wallpaper_preview_title">Aktyvaus paveikslėlio peržiūra</string>
+    <string name="configure_wallpaper">Nustatymai</string>
+    <string name="wallpaper_instructions">Nustatyti fono paveikslėlį</string>
+    <string name="live_wallpaper_empty">Nėra aktyvių fono paveikslėlių</string>
+    <string name="set_live_wallpaper">Nustatyti fono paveikslėlį</string>
+    <string name="wallpaper_title_and_author">%1$s autorius: %2$s</string>
+    <string name="live_wallpaper_loading">Įkeliamas aktyvus fono paveikslėlis...</string>
+    <string name="wallpaper_cancel">Atšaukti</string>
+</resources>

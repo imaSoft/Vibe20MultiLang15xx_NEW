@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Komentoliittymä</string>
+    <string name="bugreport_finished_title">Virheraportti luotu</string>
+    <string name="bugreport_finished_text">Jaa virheraportti koskettamalla</string>
+    <string name="bugreport_confirm">Virheraportit sisältävät tietoja järjestelmän eri lokitiedostoista henkilökohtaiset ja yksityiset tiedot mukaan lukien. Jaa virheraportteja vain luottamillesi sovelluksille ja henkilöille.</string>
+    <string name="bugreport_confirm_repeat">Näytä tämä viesti seuraavan kerran</string>
+</resources>

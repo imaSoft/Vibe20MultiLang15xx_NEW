@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Mga Android Live Wallpaper</string>
+    <string name="wallpaper_walkaround">Tagusan</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">"Makakita sa pamamagitan ng iyong telepono at maglakad-lakad nang walang peligro sa mga aksidente. "</string>
+    <string name="wallpaper_grass">Damo</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">Dahan-dahang nagsasayaw ang mga damo sa harap ng kalangitan sa araw o gabi.</string>
+    <string name="wallpaper_galaxy">Galaxy</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">Isang galaxy na gawa sa mababagal na umiikot na bituin.</string>
+    <string name="wallpaper_fall">Tubig</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">Bumabagsak dahon sa taglagas&lt;br> Sa lumalagaslas na sapa sa ibaba:&lt;br> Liquid background Zen</string>
+    <string name="wallpaper_clock">Polar na orasan</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Ipinapakita petsa at oras bilang mga arc na clockwise: buwan, araw, oras, minuto, at segundo.</string>
+    <string name="wallpaper_nexus">Nexus</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">Isang pagsilip sa loob ng neural network.</string>
+    <string name="clock_settings">Mga setting ng polar na orasan</string>
+    <string name="show_seconds">Ipakita ang mga segundo</string>
+    <string name="variable_line_width">Iba-ibang mga lapad ng bilog</string>
+    <string name="palette">Palette ng kulay</string>
+    <string name="palette_gray">Iron</string>
+    <string name="palette_violet">Midnight</string>
+    <string name="palette_matrix">Berdeng Screen</string>
+    <string name="palette_white_c">Polar Bear (dynamic)</string>
+    <string name="palette_black_c">Black Hole (dynamic)</string>
+    <string name="palette_halloween">Pumpkin Pie</string>
+    <string name="palette_zenburn">Alien Fruit Salad</string>
+    <string name="palette_oceanic">Asul na Laser</string>
+</resources>

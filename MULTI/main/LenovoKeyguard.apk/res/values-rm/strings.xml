@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_lockscreen_sim_error_message_short">123</string>
+    <string name="lenovo_keyguard_sim_not_ready">123</string>
+    <string name="lenovo_keyguard_sim_airplane_mode">123</string>
+    <string name="lenovo_keyguard_sim_inactive">123</string>
+    <string name="keyguard_label_text">Smatgai per debloccar sin la tasta Menu e lura sin 0.</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+</resources>

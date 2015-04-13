@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Sfondet e drejtpërdrejta të Android</string>
+    <string name="wallpaper_walkaround">Shiko përmes</string>
+    <string name="wallpaper_walkaround_desc">"Shikoni përtej pajisjes tuaj dhe ecni pa pësuar aksidente. "</string>
+    <string name="wallpaper_grass">Bar</string>
+    <string name="wallpaper_grass_desc">Fijet e barit valëviten lehtë para një qielli ditën ose natën.</string>
+    <string name="wallpaper_galaxy">Galaktika</string>
+    <string name="wallpaper_galaxy_desc">Galaktikë e formuar nga yje që rrotullohen ngadalë.</string>
+    <string name="wallpaper_fall">Ujë</string>
+    <string name="wallpaper_fall_desc">Gjethet që bien në vjeshtë&lt;br> Në pellgun e valëzuar më poshtë:&lt;br> Zen në mjedis të lëngëzuar</string>
+    <string name="wallpaper_clock">Ora polare</string>
+    <string name="wallpaper_clock_desc">Paraqet datën dhe orën si harqe në sensin orar: muajin, ditën, orën, minutën dhe sekondën.</string>
+    <string name="wallpaper_nexus">Nexus</string>
+    <string name="wallpaper_nexus_desc">Një vështrim brenda rrjetit nervor.</string>
+    <string name="clock_settings">Cilësimet e orës polare</string>
+    <string name="show_seconds">Shfaq sekondat</string>
+    <string name="variable_line_width">Bëji të larmishme gjerësitë e unazave</string>
+    <string name="palette">Paleta e ngjyrave</string>
+    <string name="palette_gray">Hekur</string>
+    <string name="palette_violet">Mesnatë</string>
+    <string name="palette_matrix">Ekran jeshil</string>
+    <string name="palette_white_c">Ari polar (dinamike)</string>
+    <string name="palette_black_c">Vrima e zezë (dinamike)</string>
+    <string name="palette_halloween">Tortë kungulli</string>
+    <string name="palette_zenburn">Sallatë frutash të huaja</string>
+    <string name="palette_oceanic">Lazer blu</string>
+</resources>

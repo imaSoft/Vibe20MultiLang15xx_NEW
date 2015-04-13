@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Numele mamei mele?</item>
+        <item>Fructul meu preferat?</item>
+        <item>Ziua de naştere a tatălui meu?</item>
+        <item>Melodia mea preferată?</item>
+        <item>Numele animalului meu de companie?</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Import din Istoric apeluri</item>
+        <item>Import din Istoric SMS</item>
+        <item>Import din Contacte</item>
+        <item>Adăugare manuală</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Blocare numai Listă neagră</item>
+        <item>Permitere numai Contacte</item>
+        <item>Permitere numai Listă albă</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Răspuns ton ocupat</item>
+        <item>Răspuns telefon descărcat</item>
+        <item>Răspuns telefon oprit</item>
+        <item>Răspuns număr vacant</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Numai contacte</item>
+        <item>Numai Listă albă</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Import din Istoric apeluri</item>
+        <item>Import din Istoric SMS</item>
+        <item>Import din Contacte</item>
+        <item>Adăugare manuală</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Răspuns</item>
+        <item>Respingere</item>
+        <item>Respingere apel cu SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Import din Istoric apeluri</item>
+        <item>Import din Istoric SMS</item>
+        <item>Import din Contacte</item>
+        <item>Adăugare manuală</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Nicio alertă</item>
+        <item>Alertă bară de notificare</item>
+        <item>Alertă bară de notificare + ton de alertă</item>
+        <item>Alertă bară de notificare + vibraţii</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Ikustailea</string>
+    <string name="wallpaper_vis2">Uhina</string>
+    <string name="wallpaper_vis3">Espektroa</string>
+    <string name="wallpaper_vis4">VU neurgailua</string>
+    <string name="wallpaper_vis5">Asko</string>
+    <string name="wallpapers">Musika bistaratzeko horma-paperak</string>
+    <string name="vis2_desc">Erreproduzitzen ari den musika-pistaren soinu-uhinak marrazten ditu.</string>
+    <string name="vis3_desc">Erakutsi unean erreproduzitzen ari den edozein musika-pistaren maiztasun-espektroa.</string>
+    <string name="vis4_desc">Soinu analogikoaren neurgailua itxuratzen du</string>
+    <string name="vis5_desc">Musika-bistaratze guztiak batera, astiro aldatuz hiru dimentsiotan.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>افتراضي</item>
+        <item>تدوير</item>
+        <item>إعلامات</item>
+        <item>طاحونة</item>
+        <item>مكعب</item>
+        <item>موجة الدوال المثلثية</item>
+        <item>أسطوانة</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>لا يوجد</item>
+        <item>عرض قائمة المشغل</item>
+        <item>عرض التطبيقات المستخدمة مؤخرًا</item>
+        <item>عرض شريط الإخطارات</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android Live-veggfóður</string>
+    <string name="wallpaper_walkaround">Gegnsætt</string>
+    <string name="wallpaper_walkaround_desc">"Horfðu í gegnum tækið og gakktu áhyggjulaus um. "</string>
+    <string name="wallpaper_grass">Gras</string>
+    <string name="wallpaper_grass_desc">"Gras sem bærist hægt undir dag- eða næturhimni. "</string>
+    <string name="wallpaper_galaxy">Sólkerfi</string>
+    <string name="wallpaper_galaxy_desc">"Vetrarbraut með stjörnum sem hringsnúast hægt. "</string>
+    <string name="wallpaper_fall">Vatn</string>
+    <string name="wallpaper_fall_desc">"Haustlauf falla&lt;br> í gáraða tjörn:&lt;br> Liquid Zen bakgrunnur "</string>
+    <string name="wallpaper_clock">Polar-klukka</string>
+    <string name="wallpaper_clock_desc">"Birtir dagsetningu og tíma réttsælis í boga: mánuðir, dagar, klst. mínútur og sekúndur. "</string>
+    <string name="wallpaper_nexus">Taugakerfi</string>
+    <string name="wallpaper_nexus_desc">"Skyggnst inn í innviðina. "</string>
+    <string name="clock_settings">Stillingar Polar-klukku</string>
+    <string name="show_seconds">Sýna sekúndur</string>
+    <string name="variable_line_width">Breytilegt ummál hrings</string>
+    <string name="palette">Litaspjald</string>
+    <string name="palette_gray">Járn</string>
+    <string name="palette_violet">Miðnætti</string>
+    <string name="palette_matrix">Grænskjár</string>
+    <string name="palette_white_c">Ísbjörn (hreyfist)</string>
+    <string name="palette_black_c">Svarthol (hreyfist)</string>
+    <string name="palette_halloween">Graskersbaka</string>
+    <string name="palette_zenburn">Framandi ávaxtasalat</string>
+    <string name="palette_oceanic">Blár leysigeisli</string>
+</resources>

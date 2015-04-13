@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">दिनदर्शिका संग्रह</string>
+    <string name="upgrade_msg">दिनदर्शिका डेटाबेसचा श्रेणिसुधार करीत आहे</string>
+    <string name="calendar_default_name">डिफॉल्ट</string>
+    <string name="calendar_info">दिनदर्शिका माहिती</string>
+    <string name="calendar_info_error">चूक</string>
+    <string name="calendar_info_no_calendars">कोणत्याही दिनदर्शिका नाहीत</string>
+    <string name="calendar_info_events">इव्हेन्ट्स: %1$d</string>
+    <string name="calendar_info_events_dirty">इव्हेन्ट्स: %1$d, Unsaved: %2$d</string>
+    <string name="provider_label">दिनदर्शिका</string>
+    <string name="debug_tool_delete_button">आत्ता हटवा</string>
+    <string name="debug_tool_start_button">प्रारंभ करा</string>
+    <string name="debug_tool_message">आपण आता हे करणार आहात 1) SD कार्ड / USB संग्रहामध्ये आपल्या दिनदर्शिका डेटाबेसची कॉपी करणे, जी कोणत्याही अनुप्र. कडून वाचता येईल, आणि 2) ती ईमेल करणे. आपण ही प्रत त्या डिव्हाइसवरून किंवा प्राप्त ईमेलमधून यशस्वीपणे कॉपी केल्यावर लगेच ती हटवण्याचे लक्षात असू द्या.</string>
+    <string name="debug_tool_email_sender_picker">आपली फाइल पाठवण्यासाठी एक प्रोग्रॅम निवडा</string>
+    <string name="debug_tool_email_subject">दिनदर्शिका Db जोडला</string>
+    <string name="debug_tool_email_body">"सोबत माझ्या सर्व ठरलेल्या भेटी आणि वैयक्तिक  माहिती यांच्यासह माझा दिनदर्शिका डेटाबेस जोडला आहे. काळजीपूर्वक हाताळा."</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System-Upgrade</string>
+    <string name="exit">Beenden</string>
+    <string name="update_failed">Tut uns leid. Die neue Firmware konnte nicht installiert werden.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="notification_content_title">Firmware-Upgrade</string>
+    <string name="notification_content_text_completed">Download erfolgreich</string>
+    <string name="error_not_specify_network_title">Bitte über WLAN-Netzwerk herunterladen</string>
+    <string name="error_not_specify_network_content">Es wird ausdrücklich empfohlen, den Download über WLAN durchzuführen. Der Download über das mobile Netzwerk kann hohe Gebühren verursachen</string>
+    <string name="btn_setting_network">Sofort festlegen</string>
+    <string name="btn_keep_download">Mit Download fortfahren</string>
+    <string name="retry">Wiederholen</string>
+    <string name="redo_backup">Sicherung erneut ausführen</string>
+    <string name="contact">Kontakte</string>
+    <string name="sms">Nachricht</string>
+    <string name="calllog">Anrufprotokoll</string>
+    <string name="btn_backup">Sicherung</string>
+    <string name="has_not_backup">Nicht gesichert</string>
+    <string name="countSms">Nachricht(en)</string>
+    <string name="countContact">Kontakt(e)</string>
+    <string name="countCalllog">Anrufprotokoll(e)</string>
+    <string name="nodata">Keine Daten</string>
+    <string name="backup_data_ing">Kontakte usw. sichern...</string>
+    <string name="backup_data_finish">Sicherung der Daten erfolgreich abgeschlossen.</string>
+    <string name="data_usage_warning_title">Warnung</string>
+    <string name="data_usage_warning">Sehr geehrter Benutzer, diese Anwendung muss eine Verbindung zum Internet herstellen. Fortfahren？</string>
+    <string name="data_usage_confirm">Diese Nachricht nächstes Mal nicht mehr anzeigen</string>
+    <string name="ndf_install_finish_p">Sofort</string>
+    <string name="ndf_install_finish_n">Später</string>
+    <string name="ndf_lowpower_title">Batterie schwach</string>
+    <string name="toast_install_fail">Installation fehlgeschlagen. Der angegebene Pfad %s ist nicht vorhanden.</string>
+    <string name="network_error">Netzwerkverbindung fehlgeschlagen</string>
+    <string name="notification_new_rom_come">Ihr System kann auf die neueste Version aktualisiert werden.</string>
+    <string name="install_mode_fragment_content_countdownnoncancel">Nach %d Sekunden muss das System die neue Version installieren.</string>
+    <string name="backup_data">Datensicherung</string>
+    <string name="restore_data">Datenwiederherstellung</string>
+    <string name="battery_tip">Geringer Akkustand, zum Fortsetzen der Aktualisierung bitte Ladegerät anschließen</string>
+</resources>

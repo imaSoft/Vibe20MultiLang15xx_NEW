@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Còpia de seguretat completa</string>
+    <string name="restore_confirm_title">Restauració completa</string>
+    <string name="backup_confirm_text">"S'ha sol·licitat una còpia de seguretat completa de totes les dades a un ordinador de taula connectat. Voleu permetre-ho?
+
+Si no heu sol·licitat la còpia de seguretat, no permeteu que continuï l'operació."</string>
+    <string name="allow_backup_button_label">Fes una còpia de seguretat de les dades</string>
+    <string name="deny_backup_button_label">No en facis una còpia de seguretat</string>
+    <string name="restore_confirm_text">"S'ha sol·licitat una restauració completa de totes les dades d'un ordinador de taula connectat. Voleu permetre-ho?
+
+Si no heu sol·licitat la restauració, no permeteu que continuï l'operació. Això reemplaçarà les dades que hi hagi actualment al dispositiu."</string>
+    <string name="allow_restore_button_label">Restaura les meves dades</string>
+    <string name="deny_restore_button_label">No ho restauris</string>
+    <string name="current_password_text">Introduïu la vostra contrasenya actual de còpia de seguretat a continuació:</string>
+    <string name="device_encryption_restore_text">"Introduïu la contrasenya d'encriptació del dispositiu a continuació."</string>
+    <string name="device_encryption_backup_text">"Introduïu la contrasenya d'encriptació del dispositiu a continuació. També es farà servir per encriptar l'arxiu de seguretat."</string>
+    <string name="backup_enc_password_text">"Introduïu una contrasenya que s'utilitzarà per a l'encriptació de les dades de còpia de la seguretat completa. Si es deixa en blanc, s'utilitzarà la vostra contrasenya de còpia de seguretat actual:"</string>
+    <string name="backup_enc_password_optional">Si voleu encriptar les dades de la còpia de seguretat completa, introduïu una contrasenya a continuació:</string>
+    <string name="restore_enc_password_text">Si la recuperació de dades està encriptada, introduïu la contrasenya a continuació:</string>
+    <string name="toast_backup_started">"S'està iniciant la còpia de seguretat..."</string>
+    <string name="toast_backup_ended">Ha finalitzat la còpia de seguretat</string>
+    <string name="toast_restore_started">"S'està iniciant la restauració..."</string>
+    <string name="toast_restore_ended">La restauració ha finalitzat</string>
+    <string name="toast_timeout">"S'ha esgotat el temps d'espera de l'operació."</string>
+</resources>

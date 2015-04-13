@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="factory_wipe_data">Odstranit uživatelská data podle výrobního režimu</string>
+    <string name="factory_wipe_data_warning">Kliknutím na tlačítko „OK“ se vymažou všechna uživatelská data, ponechají se ale předvolené aplikace. Nedoporučuje se provádět běžným uživatelům, aby nedošlo ke ztrátě dat v telefonu</string>
+    <string name="factory_wipe_data_cancel">zrušit</string>
+    <string name="sdcard_not_found">výrobní odstranění dat se nezdařilo</string>
+    <string name="sdcard_not_found_tip">Tato funkce vyžaduje podporu karty SD, přesvědčte se, že je karta SD vložena</string>
+    <string name="sdcard_out_of_space">Na kartě SD není dost místa</string>
+    <string name="sdcard_out_of_space_tip">Na SD zůstává pouze %1$sM volného místa, ale tato funkce vyžaduje, aby na kartě SD bylo %2$sM volného místa</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Neplatné</string>
+</resources>

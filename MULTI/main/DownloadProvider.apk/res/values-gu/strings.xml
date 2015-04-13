@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ડાઉનલોડ મેનેજર</string>
+    <string name="permlab_downloadManager">ડાઉનલોડ સંપાદક પ્રવેશ.</string>
+    <string name="permdesc_downloadManager">અનુપ્રયોગને ફાઇલ્સ ડાઉનલોડ કરવા માટે ડાઉનલોડ સંપાદક પ્રવેશ કરવાની છૂટ આપે છે. મંજૂર કરવા પર, દ્વેષપૂર્ણ અનુપ્રયોગો ડાઉનલોડ્સને રોકી શકે છે અને ખાનગી માહિતી પ્રવેશ કરી શકે છે.</string>
+    <string name="permlab_downloadManagerAdvanced">પ્રગત ડાઉનલોડ સંપાદક ફંક્શન</string>
+    <string name="permdesc_downloadManagerAdvanced">અનુપ્રયોગને ડાઉનલોડ સંપાદકનાં પ્રગત કર્યો પ્રવેશ કરવાની છૂટ આપે છે. મંજૂર કરવા પર, દ્વેષપૂર્ણ અનુપ્રયોગો ડાઉનલોડ્સને રોકી શકે છે અને ખાનગી માહિતીને પ્રવેશ કરી શકે છે.</string>
+    <string name="permlab_downloadCompletedIntent">ડાઉનલોડ સૂચનાઓ મોકલો</string>
+    <string name="permdesc_downloadCompletedIntent">અનુપ્રયોગને પૂર્ણ થયેલા ડાઉનલૉડ્સ વિષે સૂચનાઓ મોકલવાની છૂટ આપે છે. મંજૂર કરવા પર, દ્વેષપૂર્ણ અનુપ્રયોગો અન્ય અનુપ્રયોગો માટે ગૂંચવણ પેદા કરી શકે છે, જે ફાઇલ્સ ડાઉનલોડ કરે છે.</string>
+    <string name="permlab_seeAllExternal">SD કાર્ડ પર બધા ડાઉનલોડ્સ જુઓ</string>
+    <string name="permdesc_seeAllExternal">આરજીને SD કાર્ડના બધા ડાઉનલોડ્સ જોવાની છૂટ આપો, તેમને કઈ અનુપ્રયોગ ડાઉનલોડ કરેલ છે એ ધ્યાનમાં લીધાં વગર</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reserve space in the download cache</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Allows the application to download files to the download cache which cannot be automatically deleted when the download manager needs more space</string>
+    <string name="permlab_downloadWithoutNotification">સૂચના વગર ફાઇલ્સ ડાઉનલોડ કરો</string>
+    <string name="permdesc_downloadWithoutNotification">અનુપ્રયોગને ઉપયોગકર્તાને કોઈ પણ સૂચના બતાવ્યા વિના ફાઈલ્સ ડાઉનલોડ કરવા માટે ડાઉનલોડ પ્રબંધકને ઍક્સેસ કરવાની અનુમતિ આપો</string>
+    <string name="permlab_accessAllDownloads">Access all system downloads</string>
+    <string name="permdesc_accessAllDownloads">Allows the application to view and modify all initiated by any application on the system</string>
+    <string name="download_unknown_title">&lt;અશીર્ષકીય></string>
+    <string name="notification_download_complete">ડાઉનલોડ પૂર્ણ.</string>
+    <string name="notification_download_failed">ડાઉનલોડ નિષ્ફળ.</string>
+    <string name="notification_need_wifi_for_size">ડાઉનલોડ કદ ખૂબ મોટું છે. Wi-Fi આવશ્યક.</string>
+    <string name="notification_paused_in_background">પૃષ્ઠભુમિમાં પૉઝ છે</string>
+    <string name="wifi_required_title">ઑપરેટર નેટવર્ક માટે ડાઉનલોડ કદ ખૂબ મોટું છે</string>
+    <string name="wifi_recommended_title">પછી ડાઉનલોડ કરવા માટે કતાર?</string>
+    <string name="button_queue_for_wifi">કતાર</string>
+    <string name="button_cancel_download">રદ</string>
+    <string name="button_start_now">હવે પ્રારંભ કરો</string>
+    <string name="download_remaining">%s બાકી</string>
+    <string name="download_no_application_title">ફાઇલ ખોલી શકતું નથી</string>
+    <string name="root_downloads">ડાઉનલોડ્સ</string>
+</resources>

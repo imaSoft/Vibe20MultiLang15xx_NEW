@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Hálózati hely</string>
+    <string name="location_warning_title">Helyszín jóváhagyása</string>
+    <string name="agree">Elfogad</string>
+    <string name="disagree">Elutasít</string>
+</resources>

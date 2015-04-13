@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>Nama ibu saya?</item>
+        <item>Buah kegemaran saya?</item>
+        <item>Hari lahir bapa saya?</item>
+        <item>Lagu kegemaran saya?</item>
+        <item>Nama haiwan peliharaan saya?</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Import daripada Sejarah Panggilan</item>
+        <item>Import daripada Sejarah SMS</item>
+        <item>Import daripada Kenalan</item>
+        <item>Tambah secara manual</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Sekat Senarai Hitam sahaja</item>
+        <item>Benarkan Kenalan sahaja</item>
+        <item>Benarkan Senarai Putih sahaja</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Kembalikan nada sibuk</item>
+        <item>Kembalikan Matikan Kuasa</item>
+        <item>Kembalikan Tutup</item>
+        <item>Kembalikan Nombor Kosong</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Kenalan sahaja</item>
+        <item>Senarai Putih sahaja</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Import daripada Sejarah Panggilan</item>
+        <item>Import daripada Sejarah SMS</item>
+        <item>Import daripada Kenalan</item>
+        <item>Tambah secara manual</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Jawapan</item>
+        <item>Tolak</item>
+        <item>Tolak panggilan dengan SMS</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Import daripada Sejarah Panggilan</item>
+        <item>Import daripada Sejarah SMS</item>
+        <item>Import daripada Kenalan</item>
+        <item>Tambah secara manual</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Tiada isyarat</item>
+        <item>Bar pemberitahuan isyarat</item>
+        <item>Bar pemberitahuan isyarat + nada isyarat</item>
+        <item>Bar pemberitahuan isyarat + getaran</item>
+    </string-array>
+</resources>

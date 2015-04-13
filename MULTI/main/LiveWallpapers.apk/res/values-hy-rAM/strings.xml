@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android Live պաստառներ</string>
+    <string name="wallpaper_walkaround">Նախատեսք</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">"Հետևեք ճանապարհներին ձեր սարքի միջոցով և խուսափեք պատահարներից: "</string>
+    <string name="wallpaper_grass">Խոտ</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">"Մեղմորեն ծածանվող խոտ կեսօրվա կամ գիշերային երկնքի առջև: "</string>
+    <string name="wallpaper_galaxy">Համաստեղություն</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">"Դանդաղ պտտվող աստղերի համաստեղություն: "</string>
+    <string name="wallpaper_fall">Ջուր</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">"Տերևաթափ&lt;br> Ալեծփվող ջրավազանի մեջ.&lt;br> Հեղուկանման խորք Zen "</string>
+    <string name="wallpaper_clock">Բևեռային ժամացույց</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">"Ցույց է տալիս ամսաթ ու ժամ որպ ժամաց սլաքի ուղղ աղեղն՝ ամիս, օր, ժ, րոպ, վրկ: "</string>
+    <string name="wallpaper_nexus">Կապ</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">"Թռուցիկ հայացք դեպի նեյրոնային ցանց: "</string>
+    <string name="clock_settings">Հակադիր ժամացույցի կարգավորումներ</string>
+    <string name="show_seconds">Ցուցադրել վայրկյանները</string>
+    <string name="variable_line_width">Տատանվող օղակի լայնություններ</string>
+    <string name="palette">Ներկապնակ</string>
+    <string name="palette_gray">Երկաթ</string>
+    <string name="palette_violet">Կեսգիշեր</string>
+    <string name="palette_matrix">Կանաչ էկրան</string>
+    <string name="palette_white_c">Բևեռային արջ (դինամիկ)</string>
+    <string name="palette_black_c">Սև փոս (դինամիկ)</string>
+    <string name="palette_halloween">Դդումով պիրոգ</string>
+    <string name="palette_zenburn">Անսովոր մրգային աղցան</string>
+    <string name="palette_oceanic">Կապույտ լազեր</string>
+</resources>
