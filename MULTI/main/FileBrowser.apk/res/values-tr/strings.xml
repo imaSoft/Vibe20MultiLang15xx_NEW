@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="File_CleanTitle">Temizle</string>
     <string name="File_CleanCrash">Atıkları temizle</string>
@@ -333,4 +333,5 @@ Daha az sayıda dosya aktarmayı seçebilir veya kartta daha fazla alanı boşal
     <string name="File_AdvancedFunc">Gelişmiş işlevler</string>
     <string name="File_History_setTip">Gizli</string>
     <string name="File_History_setContent">Dosya işlemi kayıtlarını gösterme</string>
+    <string name="lenovo_about_cmcc_prompt">İpucu</string>
 </resources>

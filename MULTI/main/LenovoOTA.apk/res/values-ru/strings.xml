@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Обновление</string>
     <string name="btn_download_cancel">Отмена обновления</string>
@@ -300,4 +300,8 @@
     <string name="SUS_NEW_VERSION">Последняя версия</string>
     <string name="SUS_FIND_NEW_VERSION">В новой версии</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Установка приложений</string>
+    <string name="update_right_now">Обновить сейчас</string>
+    <string name="root_tip">Предупреждение</string>
+    <string name="root_tip_content">"На Вашем устройстве обнаружены права суперпользователя. Это может привести к невозможности загрузки устройства после обновления или другим проблемам. Вы действительно хотите продолжить?”."</string>
+    <string name="server_error_content">Server connection failed</string>
 </resources>
